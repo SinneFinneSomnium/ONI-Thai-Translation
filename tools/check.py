@@ -1,7 +1,7 @@
 import json,sys,re,glob
 u=json.load(open('src/uniq.json'))
 def toks(s):
-    return sorted(re.findall(r'\{[^}]*\}|<[^>]*>|%[sd]|\\n',s.replace('\n','\\n')))
+    return sorted(re.findall(r'\{[^}]*\}|<[^>]*>|%[sd]|\\n|\([A-Za-z]+/[A-Za-z]+\)',s.replace('\n','\\n')))
 tr={}
 bad=0
 for f in sorted(glob.glob('tr/*.tsv')):
