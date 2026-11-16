@@ -22503,6 +22503,11 @@ msgstr ""
 "\n"
 "ต้อง​ให้ยา​โดย​ดู​พลิ​แคนต์​ที่​มี​ทักษะ<link=\"MEDICINE3\">การแพทย์​ขั้นสูง</link>"
 
+#. STRINGS.CODEX.ADVANCEDCURE.TITLE
+msgctxt "STRINGS.CODEX.ADVANCEDCURE.TITLE"
+msgid "Serum Vial"
+msgstr "ขวด​เซรุ่ม"
+
 #. STRINGS.CODEX.ANTIHISTAMINE.TITLE
 msgctxt "STRINGS.CODEX.ANTIHISTAMINE.TITLE"
 msgid "Allergy Medication"
@@ -22635,6 +22640,11 @@ msgctxt "STRINGS.CODEX.DUPLICANT.CODEXCATEGORYNAME"
 msgid "Duplicants"
 msgstr "ดู​พลิ​แคนต์"
 
+#. STRINGS.CODEX.EGG_SHELL.TITLE
+msgctxt "STRINGS.CODEX.EGG_SHELL.TITLE"
+msgid "Egg Shell"
+msgstr "เปลือกไข่"
+
 #. STRINGS.CODEX.ELECTROBANK.TITLE
 msgctxt "STRINGS.CODEX.ELECTROBANK.TITLE"
 msgid "Power Banks"
@@ -22732,6 +22742,11 @@ msgstr ""
 "\n"
 "ต้อง​ให้ยา​โดย​ดู​พลิ​แคนต์​ที่​มี​ทักษะ<link=\"MEDICINE2\">ดูแล​ข้าง​เตียง</link>"
 
+#. STRINGS.CODEX.INTERMEDIATECURE.TITLE
+msgctxt "STRINGS.CODEX.INTERMEDIATECURE.TITLE"
+msgid "Medical Pack"
+msgstr "ชุด​ยา​รักษา"
+
 #. STRINGS.CODEX.INTERMEDIATERADPILL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.INTERMEDIATERADPILL.BODY.CONTAINER1"
 msgid ""
@@ -22788,6 +22803,16 @@ msgctxt "STRINGS.CODEX.OXYFERN.SUBTITLE"
 msgid "Plant"
 msgstr "พืช"
 
+#. STRINGS.CODEX.PACU.SUBTITLE
+msgctxt "STRINGS.CODEX.PACU.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.PARROTFISH.SUBTITLE
+msgctxt "STRINGS.CODEX.PARROTFISH.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
 #. STRINGS.CODEX.POLLINATORS.TITLE
 msgctxt "STRINGS.CODEX.POLLINATORS.TITLE"
 msgid "Pollination"
@@ -22798,10 +22823,20 @@ msgctxt "STRINGS.CODEX.POWER.HEADER_5"
 msgid "Video: Power Circuits"
 msgstr "วิดีโอ: วงจรไฟฟ้า"
 
+#. STRINGS.CODEX.PREHISTORICPACU.SUBTITLE
+msgctxt "STRINGS.CODEX.PREHISTORICPACU.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
 #. STRINGS.CODEX.PRIORITY.HEADER_4
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_4"
 msgid "Tutorial: Errand Priorities"
 msgstr "บท​สอน: ความสำคัญ​ของ​งาน"
+
+#. STRINGS.CODEX.PUFFERFISH.SUBTITLE
+msgctxt "STRINGS.CODEX.PUFFERFISH.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE"
@@ -22843,10 +22878,35 @@ msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_1"
 msgid "Research"
 msgstr "วิจัย"
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.TITLE"
+msgid "Dining Tables"
+msgstr "โต๊ะอาหาร"
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE"
 msgid "Toilets"
 msgstr "ห้องน้ำ"
+
+#. STRINGS.CODEX.SEAFAIRY.SUBTITLE
+msgctxt "STRINGS.CODEX.SEAFAIRY.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.SEAHORSE.SUBTITLE
+msgctxt "STRINGS.CODEX.SEAHORSE.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.SEATURTLE.SUBTITLE
+msgctxt "STRINGS.CODEX.SEATURTLE.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.SQUID.SUBTITLE
+msgctxt "STRINGS.CODEX.SQUID.SUBTITLE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
 
 #. STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON"
@@ -22928,6 +22988,11 @@ msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_
 msgid "Disconnect"
 msgstr "ตัด​การ​เชื่อมต่อ"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_NAME"
+msgid "Blocked"
+msgstr "ถูก​บัง"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_NAME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_NAME"
 msgid "Disconnected"
@@ -22937,6 +23002,11 @@ msgstr "ไม่​ได้​เชื่อมต่อ"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_NAME"
 msgid "Overpressure"
 msgstr "แรงดัน​เกิน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_NAME"
+msgid "Blocked"
+msgstr "ถูก​บัง"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR"
@@ -58962,6 +59032,27 @@ msgctxt "STRINGS.MISC.STATUSITEMS.ORDERATTACK.NAME"
 msgid "Pending Attack"
 msgstr "รอ​โจมตี"
 
+#. STRINGS.MISC.STATUSITEMS.ORDERATTACK.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ORDERATTACK.TOOLTIP"
+msgid "Waiting for a Duplicant to murderize this defenseless <style=\"KKeyword\">Critter</style>"
+msgstr "รอ​ดู​พลิ​แคนต์​มา​จัดการ<style=\"KKeyword\">สัตว์</style>ไร้​ทาง​สู้​ตัว​นี้ (ใจร้าย​จัง)"
+
+#. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.NAME"
+msgid "Pending Wrangle"
+msgstr "รอ​จับ​สัตว์"
+
+#. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP"
+msgid ""
+"Waiting for a Duplicant to capture this <style=\"KKeyword\">Critter</style>\n"
+"\n"
+"Only Duplicants with the <link=\"RANCHING1\">Critter Ranching I</link> skill can catch critters without traps"
+msgstr ""
+"รอ​ดู​พลิ​แคนต์​มา​จับ<style=\"KKeyword\">สัตว์</style>ตัว​นี้\n"
+"\n"
+"เฉพาะ​ดู​พลิ​แคนต์​ที่​มี​ทักษะ<link=\"RANCHING1\">เลี้ยงสัตว์ I</link>เท่านั้น​ที่จับ​สัตว์​ได้​โดย​ไม่ต้อง​ใช้​กับดัก"
+
 #. STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP"
 msgid "The selected object has a mass of <b>{Mass}</b>"
@@ -58971,6 +59062,42 @@ msgstr "วัตถุ​ที่​เลือก​มี​มวล <b>{M
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
 msgid "The selected object is currently <b>{Temp}</b>"
 msgstr "วัตถุ​ที่​เลือก​ตอนนี้​อยู่​ที่ <b>{Temp}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCARVE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCARVE.NAME"
+msgid "Carve Errand"
+msgstr "งาน​แกะสลัก"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCARVE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCARVE.TOOLTIP"
+msgid "Rock will be carved once a Duplicant is available"
+msgstr "หิน​จะ​ถูก​แกะสลัก​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
+msgid "Sweep Errand"
+msgstr "งาน​กวาด"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
+msgid "Debris will be swept once a Duplicant is available"
+msgstr "เศษ​วัสดุ​จะ​ถูก​กวาด​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCLEARNOSTORAGE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEARNOSTORAGE.NAME"
+msgid "Storage Unavailable"
+msgstr "ไม่​มี​ที่เก็บ"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCLEARNOSTORAGE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEARNOSTORAGE.TOOLTIP"
+msgid ""
+"No available <link=\"STORAGELOCKER\">Storage Bin</link> can accept this item\n"
+"\n"
+"Make sure the filter on your storage is correctly set and there is sufficient space remaining"
+msgstr ""
+"ไม่​มี<link=\"STORAGELOCKER\">ถัง​เก็บ​ของ</link>ไหน​รับ​ไอ​เท็ม​นี้​ได้\n"
+"\n"
+"ตรวจดู​ว่า​ตั้งตัว​กรอง​ของ​ที่เก็บ​ถูกต้อง​และ​ยังมี​ที่ว่าง​เหลือ​พอ"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
@@ -58997,6 +59124,57 @@ msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
 msgid "Unreachable"
 msgstr "ไป​ไม่​ถึง"
 
+#. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP"
+msgid "Duplicants cannot reach this object"
+msgstr "ดู​พลิ​แคนต์​เข้าไป​ถึง​วัตถุ​นี้​ไม่​ได้"
+
+#. STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME"
+msgid "High Priority"
+msgstr "ความสำคัญ​สูง"
+
+#. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
+msgid "This <style=\"KKeyword\">Errand</style> has been marked as important and will be preferred over other pending <style=\"KKeyword\">Errands</style>"
+msgstr "<style=\"KKeyword\">งาน</style>นี้​ถูก​ทำเครื่องหมาย​ว่า​สำคัญ และ​จะ​ถูก​เลือก​ทำ​ก่อน<style=\"KKeyword\">งาน</style>อื่น​ที่​รอ​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
+msgid "Blocked"
+msgstr "ถูก​บัง"
+
+#. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
+msgid "Undug material is blocking off an essential tile"
+msgstr "วัสดุ​ที่​ยัง​ไม่​ได้​ขุด​กำลัง​บัง​ช่อง​สำคัญ​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME"
+msgid "Rehydrated Food"
+msgstr "อาหาร​คืน​น้ำ"
+
+#. STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.TOOLTIP"
+msgid ""
+"This food has been carefully re-moistened for consumption\n"
+"\n"
+"<style=\"KKeyword\"><link=\"MORALE\">Morale</link></style>: -1"
+msgstr ""
+"อาหาร​นี้​ถูก​เติม​ความชื้น​กลับ​อย่าง​พิถีพิถัน​พร้อม​กิน\n"
+"\n"
+"<style=\"KKeyword\"><link=\"MORALE\">ขวัญ​กำลังใจ</link></style>: -1"
+
+#. STRINGS.MISC.STATUSITEMS.SPACE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.NAME"
+msgid "Space exposure"
+msgstr "สัมผัส​อวกาศ"
+
+#. STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP"
+msgid "This region is exposed to the vacuum of space and will result in the loss of <style=\"KKeyword\">Gas</style> and <style=\"KKeyword\">Liquid</style> resources"
+msgstr "บริเวณ​นี้​เปิด​สู่​สุญญากาศ​ของ​อวกาศ และ​จะ​ทำให้​สูญเสีย​ทรัพยากร<style=\"KKeyword\">ก๊าซ</style>และ<style=\"KKeyword\">ของเหลว</style>"
+
 #. STRINGS.MISC.STATUSITEMS.SPICEDFOOD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPICEDFOOD.NAME"
 msgid "Seasoned"
@@ -59006,6 +59184,82 @@ msgstr "ปรุงรส"
 msgctxt "STRINGS.MISC.STATUSITEMS.SPICEDFOOD.TOOLTIP"
 msgid "This food has been improved with spice from the <link=\"SPICEGRINDER\">Spice Grinder</link>"
 msgstr "อาหาร​นี้​ปรุงรส​ด้วย​เครื่องเทศ​จาก<link=\"SPICEGRINDER\">เครื่อง​บด​เครื่องเทศ</link>แล้ว"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME"
+msgid "Dormant"
+msgstr "สงบนิ่ง"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.TOOLTIP"
+msgid ""
+"This geyser's geoactivity has halted\n"
+"\n"
+"It won't erupt again for some time"
+msgstr ""
+"กิจกรรม​ทาง​ธรณี​ของ​น้ำพุ​นี้​หยุด​ลง​แล้ว\n"
+"\n"
+"จะ​ไม่​ปะทุ​อีก​ไป​สักพัก"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
+msgid "Venting {StudiedDetails}"
+msgstr "กำลัง​พ่น {StudiedDetails}"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.STUDIED
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.STUDIED"
+msgid "(idle in <b>{Time}</b>)"
+msgstr "(พัก​ใน​อีก <b>{Time}</b>)"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
+msgid "This geyser is erupting"
+msgstr "น้ำพุ​นี้​กำลัง​ปะทุ"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTIDLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTIDLE.NAME"
+msgid "Idle {StudiedDetails}"
+msgstr "พัก {StudiedDetails}"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTIDLE.STUDIED
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTIDLE.STUDIED"
+msgid "(erupts in <b>{Time}</b>)"
+msgstr "(ปะทุ​ใน​อีก <b>{Time}</b>)"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTIDLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTIDLE.TOOLTIP"
+msgid "This geyser is not currently erupting"
+msgstr "น้ำพุ​นี้​ไม่​ได้​ปะทุ​อยู่​ตอนนี้"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME"
+msgid "Overpressure {StudiedDetails}"
+msgstr "แรงดัน​เกิน {StudiedDetails}"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.STUDIED
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.STUDIED"
+msgid "(idle in <b>{Time}</b>)"
+msgstr "(พัก​ใน​อีก <b>{Time}</b>)"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
+msgid "Spout cannot vent due to high environmental pressure"
+msgstr "ปล่อง​พ่น​ไม่​ได้​เพราะ​แรงดัน​รอบ ๆ สูง​เกินไป"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
+msgid "Rising pressure {StudiedDetails}"
+msgstr "แรงดัน​กำลัง​เพิ่ม {StudiedDetails}"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.STUDIED
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.STUDIED"
+msgid "(erupts in <b>{Time}</b>)"
+msgstr "(ปะทุ​ใน​อีก <b>{Time}</b>)"
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP"
+msgid "This geyser's internal pressure is steadily building"
+msgstr "แรงดัน​ภายใน​น้ำพุ​นี้​กำลัง​สะสม​ขึ้น​เรื่อย ๆ"
 
 #. STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.NAME"
@@ -59023,6 +59277,26 @@ msgstr ""
 "\n"
 "ซ่อม​ไอ​เท็ม​นี้​ได้ที่​สถานี​ผลิต​ที่​เหมาะสม"
 
+#. STRINGS.MISC.STATUSITEMS.STUDIED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
+msgid "Analysis Complete"
+msgstr "วิเคราะห์​เสร็จสิ้น"
+
+#. STRINGS.MISC.STATUSITEMS.STUDIED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.TOOLTIP"
+msgid "Information on this Natural Feature has been compiled below."
+msgstr "ข้อมูล​ของ​ภูมิประเทศ​ธรรมชาติ​นี้​ถูก​รวบรวม​ไว้​ด้านล่าง​แล้ว"
+
+#. STRINGS.MISC.STATUSITEMS.SUBLIMATIONBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONBLOCKED.NAME"
+msgid "{SubElement} emission blocked"
+msgstr "การ​ปล่อย {SubElement} ถูก​บัง"
+
+#. STRINGS.MISC.STATUSITEMS.SUBLIMATIONBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONBLOCKED.TOOLTIP"
+msgid "This {Element} deposit is not exposed to air and cannot emit {SubElement}"
+msgstr "แหล่ง {Element} นี้​ไม่​ได้​สัมผัส​อากาศ จึง​ปล่อย {SubElement} ไม่​ได้"
+
 #. STRINGS.MISC.STATUSITEMS.SUBLIMATIONEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONEMITTING.NAME"
 msgid "Emitting {Element}: {FlowRate}"
@@ -59038,25 +59312,172 @@ msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONOVERPRESSURE.NAME"
 msgid "Inert"
 msgstr "เฉื่อย"
 
+#. STRINGS.MISC.STATUSITEMS.SUBLIMATIONOVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONOVERPRESSURE.TOOLTIP"
+msgid "Environmental <style=\"KKeyword\">Gas Pressure</style> is too high for this {Element} deposit to emit {SubElement}"
+msgstr "<style=\"KKeyword\">แรงดัน​ก๊าซ</style>รอบ ๆ สูง​เกินไป​จน​แหล่ง {Element} นี้​ปล่อย {SubElement} ไม่​ได้"
+
+#. STRINGS.MISC.STATUSITEMS.TEARCLOSED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.TEARCLOSED.NAME"
+msgid "Temporal Tear closed"
+msgstr "รอยแยก​กาล​เวลาปิด​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.TEARCLOSED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.TEARCLOSED.TOOLTIP"
+msgid "Perhaps some technology could open the passage"
+msgstr "บางที​เทคโนโลยี​บางอย่าง​อาจ​เปิด​ทางผ่าน​นี้​ได้"
+
+#. STRINGS.MISC.STATUSITEMS.TEAROPEN.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.TEAROPEN.NAME"
+msgid "Temporal Tear open"
+msgstr "รอยแยก​กาล​เวลาเปิด​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.TEAROPEN.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.TEAROPEN.TOOLTIP"
+msgid "An open passage through spacetime"
+msgstr "ทางผ่าน​ที่​เปิด​ทะลุ​กาลอวกาศ"
+
 #. STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.NAME"
 msgid "Unassigned"
 msgstr "ยัง​ไม่​มอบหมาย"
+
+#. STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.TOOLTIP"
+msgid "This booster has not yet been assigned to a Bionic Duplicant"
+msgstr "บูสเตอร์​นี้​ยัง​ไม่​ได้​กำหนดให้​ดู​พลิ​แคนต์​ไบโอ​นิ​กค​น​ไหน"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBEINGDRILLED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBEINGDRILLED.NAME"
+msgid "Drilling in progress"
+msgstr "กำลัง​ขุดเจาะ"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBEINGDRILLED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBEINGDRILLED.TOOLTIP"
+msgid "This geyser is being unblocked by a <style=\"KKeyword\">Marine Drill</style>"
+msgstr "น้ำพุ​นี้​กำลัง​ถูก<style=\"KKeyword\">สว่าน​ทะเล</style>เจาะ​เปิด"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBLOCKED.NAME"
+msgid "Blocked"
+msgstr "ถูก​บัง"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBLOCKED.TOOLTIP"
+msgid ""
+"This geyser is blocked by <style=\"KKeyword\">Sulfur</style> build-up\n"
+"\n"
+"It will resume function when unblocked by a <style=\"KKeyword\">Marine Drill</style>"
+msgstr ""
+"น้ำพุ​นี้​ถูก<style=\"KKeyword\">กำมะถัน</style>สะสม​อุด​อยู่\n"
+"\n"
+"จะ​กลับมา​ทำงาน​เมื่อ<style=\"KKeyword\">สว่าน​ทะเล</style>เจาะ​เปิด"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBUILDUPPROGRESS.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBUILDUPPROGRESS.NAME"
+msgid "Sulfur build-up: {PERCENTAGE}"
+msgstr "กำมะถัน​สะสม: {PERCENTAGE}"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBUILDUPPROGRESS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTBUILDUPPROGRESS.TOOLTIP"
+msgid ""
+"This geyser will become blocked when <style=\"KKeyword\">Sulfur</style> build-up reaches 100%\n"
+"\n"
+"It can be unblocked by building a <style=\"KKeyword\">Marine Drill</style> on top of the vent"
+msgstr ""
+"น้ำพุ​นี้​จะ​ถูก​อุด​เมื่อ<style=\"KKeyword\">กำมะถัน</style>สะสม​ถึง 100%\n"
+"\n"
+"เจาะ​เปิด​ได้​โดย​สร้าง<style=\"KKeyword\">สว่าน​ทะเล</style>ไว้​บน​ช่อง​พ่น"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTEMITING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTEMITING.NAME"
+msgid "Emitting {ELEMENT_NAME}: {RATE} at {TEMP}"
+msgstr "กำลัง​ปล่อย {ELEMENT_NAME}: {RATE} ที่ {TEMP}"
+
+#. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTEMITING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTEMITING.TOOLTIP"
+msgid "This geyser is releasing stored <style=\"KKeyword\">Gas</style>"
+msgstr "น้ำพุ​นี้​กำลัง​ปล่อย<style=\"KKeyword\">ก๊าซ</style>ที่​สะสม​ไว้"
+
+#. STRINGS.MISC.STATUSITEMS.USING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
+msgid "Using {Target}"
+msgstr "กำลัง​ใช้ {Target}"
+
+#. STRINGS.MISC.STATUSITEMS.USING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
+msgid "{Target} is currently in use"
+msgstr "{Target} กำลัง​ถูก​ใช้งาน​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
+msgid "Dig Errand"
+msgstr "งาน​ขุด"
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
+msgid "Tile will be dug out once a Duplicant is available"
+msgstr "ช่อง​จะ​ถูก​ขุด​ออก​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
+msgid "Mop Errand"
+msgstr "งาน​ถู​พื้น"
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
+msgid "Spill will be mopped once a Duplicant is available"
+msgstr "ของ​ที่หก​จะ​ถูก​ถู​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.TAGS.ADVANCEDDOCTORSTATIONMEDICALSUPPLIES
+msgctxt "STRINGS.MISC.TAGS.ADVANCEDDOCTORSTATIONMEDICALSUPPLIES"
+msgid "Serum Vial"
+msgstr "ขวด​เซรุ่ม"
 
 #. STRINGS.MISC.TAGS.AGRICULTURE
 msgctxt "STRINGS.MISC.TAGS.AGRICULTURE"
 msgid "<link=\"AGRICULTURE\">Agriculture</link>"
 msgstr "<link=\"AGRICULTURE\">เกษตรกรรม</link>"
 
+#. STRINGS.MISC.TAGS.ALLOY
+msgctxt "STRINGS.MISC.TAGS.ALLOY"
+msgid "<link=\"ALLOY\">Alloy</link>"
+msgstr "<link=\"ALLOY\">โลหะผสม</link>"
+
+#. STRINGS.MISC.TAGS.ANTISEPTIC
+msgctxt "STRINGS.MISC.TAGS.ANTISEPTIC"
+msgid "Antiseptic"
+msgstr "ฆ่าเชื้อ"
+
 #. STRINGS.MISC.TAGS.ANY
 msgctxt "STRINGS.MISC.TAGS.ANY"
 msgid "Any"
 msgstr "อะไร​ก็ได้"
 
+#. STRINGS.MISC.TAGS.ANYWATER
+msgctxt "STRINGS.MISC.TAGS.ANYWATER"
+msgid "Water Based"
+msgstr "มี​น้ำ​เป็น​ส่วนประกอบ"
+
+#. STRINGS.MISC.TAGS.ART
+msgctxt "STRINGS.MISC.TAGS.ART"
+msgid "Art Build-Delivery"
+msgstr "ส่ง​ของ​งาน​ศิลป์"
+
 #. STRINGS.MISC.TAGS.ARTIFACT
 msgctxt "STRINGS.MISC.TAGS.ARTIFACT"
 msgid "Artifact"
 msgstr "โบราณวัตถุ"
+
+#. STRINGS.MISC.TAGS.BACKWALLSEED
+msgctxt "STRINGS.MISC.TAGS.BACKWALLSEED"
+msgid "Backwall Seed"
+msgstr "เมล็ด​ผนัง​หลัง"
+
+#. STRINGS.MISC.TAGS.BAGABLECREATURE
+msgctxt "STRINGS.MISC.TAGS.BAGABLECREATURE"
+msgid "<link=\"CREATURES\">Critter</link>"
+msgstr "<link=\"CREATURES\">สัตว์</link>"
 
 #. STRINGS.MISC.TAGS.BED
 msgctxt "STRINGS.MISC.TAGS.BED"
@@ -59068,25 +59489,364 @@ msgctxt "STRINGS.MISC.TAGS.BIONICUPGRADE"
 msgid "Boosters"
 msgstr "บูสเตอร์"
 
+#. STRINGS.MISC.TAGS.BLEACHSTONE
+msgctxt "STRINGS.MISC.TAGS.BLEACHSTONE"
+msgid "Bleach Stone"
+msgstr "หิน​ฟอกขาว"
+
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
 msgstr "แก๊ส​ที่​หายใจ​ได้"
+
+#. STRINGS.MISC.TAGS.BUILDABLEANY
+msgctxt "STRINGS.MISC.TAGS.BUILDABLEANY"
+msgid "<link=\"BUILDABLEANY\">General Buildable</link>"
+msgstr "<link=\"BUILDABLEANY\">วัสดุก่อสร้าง​ทั่วไป</link>"
+
+#. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
+msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
+msgid "<link=\"BUILDABLEPROCESSED\">Refined Mineral</link>"
+msgstr "<link=\"BUILDABLEPROCESSED\">แร่​แปรรูป</link>"
+
+#. STRINGS.MISC.TAGS.BUILDABLERAW
+msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
+msgid "<link=\"BUILDABLERAW\">Raw Mineral</link>"
+msgstr "<link=\"BUILDABLERAW\">แร่​ดิบ</link>"
+
+#. STRINGS.MISC.TAGS.BUILDABLERAW_DESC
+msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW_DESC"
+msgid "Raw minerals are the unrefined forms of organic solids. Almost all raw minerals can be processed in the <link=\"ROCKCRUSHER\">Rock Crusher</link>, although a handful require the use of the <link=\"SUPERMATERIALREFINERY\">Molecular Forge</link>."
+msgstr "แร่​ดิบ​คือ​ของแข็ง​อินทรีย์​ที่​ยัง​ไม่​ได้​แปรรูป แร่​ดิบ​เกือบ​ทั้งหมด​แปรรูป​ได้​ใน<link=\"ROCKCRUSHER\">เครื่อง​บด​หิน</link> มี​เพียง​ไม่​กี่​ชนิด​ที่​ต้อง​ใช้<link=\"SUPERMATERIALREFINERY\">โรง​ตี​โมเลกุล</link>"
+
+#. STRINGS.MISC.TAGS.BUILDING
+msgctxt "STRINGS.MISC.TAGS.BUILDING"
+msgid "Build Dig-Delivery"
+msgstr "ส่ง​ของ​ขุด​สร้าง"
+
+#. STRINGS.MISC.TAGS.BUILDINGFIBER
+msgctxt "STRINGS.MISC.TAGS.BUILDINGFIBER"
+msgid "<link=\"BUILDINGFIBER\">Fibers</link>"
+msgstr "<link=\"BUILDINGFIBER\">เส้นใย</link>"
+
+#. STRINGS.MISC.TAGS.BUILDINGFIBER_DESC
+msgctxt "STRINGS.MISC.TAGS.BUILDINGFIBER_DESC"
+msgid "Fibers are organically sourced polymers which are both sturdy and sensorially pleasant, making them suitable in the construction of <link=\"MORALE\">Morale</link>-boosting buildings."
+msgstr "เส้นใย​คือ​พอลิเมอร์​จาก​ธรรมชาติ​ที่​ทั้ง​ทนทาน​และ​สัมผัส​สบาย เหมาะสำหรับ​สร้าง​สิ่งก่อสร้าง​ที่​เพิ่ม<link=\"MORALE\">ขวัญ​กำลังใจ</link>"
+
+#. STRINGS.MISC.TAGS.BUILDINGGASKET
+msgctxt "STRINGS.MISC.TAGS.BUILDINGGASKET"
+msgid "Gasket"
+msgstr "ปะ​เก็น"
+
+#. STRINGS.MISC.TAGS.BUILDINGGASKET_DESC
+msgctxt "STRINGS.MISC.TAGS.BUILDINGGASKET_DESC"
+msgid ""
+"Gaskets are mechanical seals made from <link=\"RUBBER\">Rubber</link> or <link=\"PLASTIC\">Plastic</link> at the <link=\"CRAFTINGTABLE\">Crafting Station</link>.\n"
+"\n"
+"They are essential components for certain buildings and objects that require a strong <link=\"ELEMENTSLIQUID\">Liquid</link> seal."
+msgstr ""
+"ปะ​เก็น​คือ​ซีล​กลไก​ที่​ทำ​จาก<link=\"RUBBER\">ยาง</link>หรือ<link=\"PLASTIC\">พลาสติก</link>ที่<link=\"CRAFTINGTABLE\">สถานี​ประดิษฐ์</link>\n"
+"\n"
+"เป็น​ชิ้น​ส่วนสำคัญ​ของ​สิ่งก่อสร้าง​และ​วัตถุ​บางอย่าง​ที่​ต้องกัน<link=\"ELEMENTSLIQUID\">ของเหลว</link>รั่ว​อย่าง​แน่นหนา"
+
+#. STRINGS.MISC.TAGS.BUILDINGWOOD
+msgctxt "STRINGS.MISC.TAGS.BUILDINGWOOD"
+msgid "<link=\"BUILDINGWOOD\">Wood</link>"
+msgstr "<link=\"BUILDINGWOOD\">ไม้</link>"
+
+#. STRINGS.MISC.TAGS.BUILDINGWOOD_DESC
+msgctxt "STRINGS.MISC.TAGS.BUILDINGWOOD_DESC"
+msgid "Wood is a renewable building material which can also be used as a valuable source of fuel and electricity when refined at the <link=\"WOODGASGENERATOR\">Wood Burner</link> or the <link=\"ETHANOLDISTILLERY\">Ethanol Distiller</link>."
+msgstr "ไม้​คือ​วัสดุก่อสร้าง​ที่​ปลูก​ทดแทน​ได้ และ​ยัง​เป็น​แหล่ง​เชื้อเพลิง​และ​ไฟฟ้า​ชั้นดี​เมื่อ​นำ​ไป​แปรรูป​ที่<link=\"WOODGASGENERATOR\">เตาเผา​ไม้</link>หรือ<link=\"ETHANOLDISTILLERY\">เครื่อง​กลั่น​เอทานอล</link>"
+
+#. STRINGS.MISC.TAGS.BURNS
+msgctxt "STRINGS.MISC.TAGS.BURNS"
+msgid "Flammable"
+msgstr "ติดไฟ​ได้"
 
 #. STRINGS.MISC.TAGS.CERAMIC
 msgctxt "STRINGS.MISC.TAGS.CERAMIC"
 msgid "<link=\"CERAMIC\">Ceramic</link>"
 msgstr "<link=\"CERAMIC\">เซรามิก</link>"
 
+#. STRINGS.MISC.TAGS.CHARGEDPORTABLEBATTERY
+msgctxt "STRINGS.MISC.TAGS.CHARGEDPORTABLEBATTERY"
+msgid "<link=\"ELECTROBANK\">Power Banks</link>"
+msgstr "<link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>"
+
+#. STRINGS.MISC.TAGS.CHARMEDARTIFACT
+msgctxt "STRINGS.MISC.TAGS.CHARMEDARTIFACT"
+msgid "Artifact of Interest"
+msgstr "โบราณวัตถุ​น่าสนใจ"
+
+#. STRINGS.MISC.TAGS.CLINIC
+msgctxt "STRINGS.MISC.TAGS.CLINIC"
+msgid "Clinic"
+msgstr "คลินิก"
+
+#. STRINGS.MISC.TAGS.CLOTHES
+msgctxt "STRINGS.MISC.TAGS.CLOTHES"
+msgid "<link=\"EQUIPMENT\">Clothing</link>"
+msgstr "<link=\"EQUIPMENT\">เสื้อผ้า</link>"
+
+#. STRINGS.MISC.TAGS.COAL
+msgctxt "STRINGS.MISC.TAGS.COAL"
+msgid "Coal"
+msgstr "ถ่านหิน"
+
+#. STRINGS.MISC.TAGS.COMBUSTIBLEGAS
+msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLEGAS"
+msgid "<link=\"COMBUSTIBLEGAS\">Combustible Gas</link>"
+msgstr "<link=\"COMBUSTIBLEGAS\">ก๊าซ​ติดไฟ</link>"
+
+#. STRINGS.MISC.TAGS.COMBUSTIBLEGAS_DESC
+msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLEGAS_DESC"
+msgid "Combustible Gases can be burned as fuel to be used in the production of <link=\"POWER\">Power</link> and <link=\"FOOD\">Food</link>."
+msgstr "ก๊าซ​ติดไฟ​เผา​เป็น​เชื้อเพลิง​เพื่อ​ผลิต<link=\"POWER\">พลังงาน</link>และ<link=\"FOOD\">อาหาร</link>ได้"
+
+#. STRINGS.MISC.TAGS.COMBUSTIBLELIQUID
+msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID"
+msgid "<link=\"COMBUSTIBLELIQUID\">Combustible Liquid</link>"
+msgstr "<link=\"COMBUSTIBLELIQUID\">ของเหลว​ติดไฟ</link>"
+
+#. STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC
+msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC"
+msgid ""
+"Combustible Liquids can be burned as fuels to be used in energy production, such as in a <link=\"PETROLEUMGENERATOR\">Petroleum Generator</link> or a <link=\"KEROSENEENGINECLUSTER\">Petroleum Engine</link>.\n"
+"\n"
+"Though these liquids have other uses, such as fertilizer for growing a <link=\"BEANPLANTSEED\">Nosh Bean</link>, their primary usefulness lies in their ability to be burned for <link=\"POWER\">Power</link>."
+msgstr ""
+"ของเหลว​ติดไฟ​เผา​เป็น​เชื้อเพลิง​เพื่อ​ผลิต​พลังงาน​ได้ เช่น ใน<link=\"PETROLEUMGENERATOR\">เครื่องปั่นไฟ​ปิโตรเลียม</link>หรือ<link=\"KEROSENEENGINECLUSTER\">เครื่องยนต์​ปิโตรเลียม</link>\n"
+"\n"
+"ถึง​ของเหลว​เหล่านี้​จะ​มีประโยชน์​อย่าง​อื่น​ด้วย เช่น เป็น​ปุ๋ย​ปลูก<link=\"BEANPLANTSEED\">ถั่ว​กิน​เล่น</link> แต่​ประโยชน์​หลัก​คือ​เอา​ไป​เผา​ผลิต<link=\"POWER\">พลังงาน</link>"
+
+#. STRINGS.MISC.TAGS.COMBUSTIBLESOLID
+msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLESOLID"
+msgid "<link=\"COMBUSTIBLESOLID\">Combustible Solid</link>"
+msgstr "<link=\"COMBUSTIBLESOLID\">ของแข็ง​ติดไฟ</link>"
+
+#. STRINGS.MISC.TAGS.COMBUSTIBLESOLID_DESC
+msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLESOLID_DESC"
+msgid "Combustible Solids can be burned as fuel to be used in <link=\"POWER\">Power</link> production."
+msgstr "ของแข็ง​ติดไฟ​เผา​เป็น​เชื้อเพลิง​เพื่อ​ผลิต<link=\"POWER\">พลังงาน</link>ได้"
+
+#. STRINGS.MISC.TAGS.COMMAND_MODULE
+msgctxt "STRINGS.MISC.TAGS.COMMAND_MODULE"
+msgid "Command Module"
+msgstr "โมดูล​บังคับการ"
+
+#. STRINGS.MISC.TAGS.COMPOSTABLE
+msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE"
+msgid "<link=\"COMPOSTABLE\">Compostable</link>"
+msgstr "<link=\"COMPOSTABLE\">หมัก​ปุ๋ย​ได้</link>"
+
+#. STRINGS.MISC.TAGS.COMPOSTABLE_DESC
+msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE_DESC"
+msgid ""
+"Compostables are biological materials which can be put into a <link=\"COMPOST\">Compost</link> to generate clean <link=\"DIRT\">Dirt</link>.\n"
+"\n"
+"Composting also generates a small amount of <link=\"HEAT\">Heat</link>.\n"
+"\n"
+"Once it starts to rot, consumable food should be composted to prevent <link=\"FOODPOISONING\">Food Poisoning</link>."
+msgstr ""
+"ของ​หมัก​ปุ๋ย​ได้​คือ​วัสดุ​ชีวภาพ​ที่​ใส่​ใน<link=\"COMPOST\">ถัง​หมัก​ปุ๋ย</link>เพื่อ​ผลิต<link=\"DIRT\">ดิน</link>สะอาด​ได้\n"
+"\n"
+"การ​หมัก​ปุ๋ย​ยัง​สร้าง<link=\"HEAT\">ความร้อน</link>เล็กน้อย​ด้วย\n"
+"\n"
+"เมื่อ​อาหาร​เริ่ม​เน่า ควร​เอา​ไป​หมัก​ปุ๋ย​เพื่อ​กัน<link=\"FOODPOISONING\">อาหาร​เป็นพิษ</link>"
+
+#. STRINGS.MISC.TAGS.COMPOSTABLE_SUBHEADER
+msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE_SUBHEADER"
+msgid "Recyclable Organics"
+msgstr "อินทรียวัตถุ​รีไซเคิล​ได้"
+
+#. STRINGS.MISC.TAGS.COMPOSTBASICPLANTFOOD
+msgctxt "STRINGS.MISC.TAGS.COMPOSTBASICPLANTFOOD"
+msgid "Compost Muckroot"
+msgstr "หมัก​ปุ๋ย​ราก​โคลน"
+
+#. STRINGS.MISC.TAGS.COMPOSTMEAT
+msgctxt "STRINGS.MISC.TAGS.COMPOSTMEAT"
+msgid "Compost Meat"
+msgstr "หมัก​ปุ๋ย​เนื้อ"
+
 #. STRINGS.MISC.TAGS.CONSUMABLEORE
 msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
 msgid "Consumable Ore"
 msgstr "แร่​ที่​ใช้ได้"
 
+#. STRINGS.MISC.TAGS.CONVEYOR
+msgctxt "STRINGS.MISC.TAGS.CONVEYOR"
+msgid "Shipping Build"
+msgstr "ก่อสร้าง​ระบบ​ขนส่ง"
+
+#. STRINGS.MISC.TAGS.COOKING
+msgctxt "STRINGS.MISC.TAGS.COOKING"
+msgid "Cook Delivery"
+msgstr "ส่ง​ของ​ทำอาหาร"
+
+#. STRINGS.MISC.TAGS.COOKINGINGREDIENT
+msgctxt "STRINGS.MISC.TAGS.COOKINGINGREDIENT"
+msgid "Cooking Ingredient"
+msgstr "วัตถุดิบ​ทำอาหาร"
+
+#. STRINGS.MISC.TAGS.CRITTERDRINKABLE
+msgctxt "STRINGS.MISC.TAGS.CRITTERDRINKABLE"
+msgid "<link=\"CRITTERDRINKABLE\">Critter Drinkable</link>"
+msgstr "<link=\"CRITTERDRINKABLE\">สัตว์​ดื่มได้</link>"
+
+#. STRINGS.MISC.TAGS.CRITTERDRINKABLE_DESC
+msgctxt "STRINGS.MISC.TAGS.CRITTERDRINKABLE_DESC"
+msgid "These <link=\"ELEMENTSLIQUID\">liquids</link> can be safely consumed by <link=\"CREATURES\">Critters</link> at the <link=\"MILKFEEDER\">Critter Fountain</link>. Giving critters access to proper hydration improves their mood and helps them better tolerate crowded living conditions."
+msgstr "<link=\"ELEMENTSLIQUID\">ของเหลว</link>เหล่านี้<link=\"CREATURES\">สัตว์</link>ดื่มได้​อย่าง​ปลอดภัย​ที่<link=\"MILKFEEDER\">น้ำพุ​สัตว์</link> การ​ให้​สัตว์​ได้​ดื่ม​น้ำ​อย่าง​เหมาะสม​ช่วย​ให้​อารมณ์​ดีขึ้น​และ​ทน​สภาพ​ที่อยู่​แออัด​ได้​ดีขึ้น"
+
+#. STRINGS.MISC.TAGS.CROPSEED
+msgctxt "STRINGS.MISC.TAGS.CROPSEED"
+msgid "Crop Seed"
+msgstr "เมล็ด​พืชผล"
+
+#. STRINGS.MISC.TAGS.CROPSEEDS
+msgctxt "STRINGS.MISC.TAGS.CROPSEEDS"
+msgid "Crop Seeds"
+msgstr "เมล็ด​พืชผล"
+
+#. STRINGS.MISC.TAGS.CRUSHABLE
+msgctxt "STRINGS.MISC.TAGS.CRUSHABLE"
+msgid "Crushable"
+msgstr "บด​ได้"
+
+#. STRINGS.MISC.TAGS.DECORATION
+msgctxt "STRINGS.MISC.TAGS.DECORATION"
+msgid "Decoration"
+msgstr "ของ​ตกแต่ง"
+
+#. STRINGS.MISC.TAGS.DECORSEED
+msgctxt "STRINGS.MISC.TAGS.DECORSEED"
+msgid "Decor Seed"
+msgstr "เมล็ด​ไม้ประดับ"
+
+#. STRINGS.MISC.TAGS.DEHYDRATED
+msgctxt "STRINGS.MISC.TAGS.DEHYDRATED"
+msgid "Dehydrated"
+msgstr "อบ​แห้ง"
+
 #. STRINGS.MISC.TAGS.DIAMOND
 msgctxt "STRINGS.MISC.TAGS.DIAMOND"
 msgid "<link=\"DIAMOND\">Diamond</link>"
 msgstr "<link=\"DIAMOND\">เพชร</link>"
+
+#. STRINGS.MISC.TAGS.DOCTORING
+msgctxt "STRINGS.MISC.TAGS.DOCTORING"
+msgid "Treatment Delivery"
+msgstr "ส่ง​ของ​รักษา"
+
+#. STRINGS.MISC.TAGS.DOCTORSTATIONMEDICALSUPPLIES
+msgctxt "STRINGS.MISC.TAGS.DOCTORSTATIONMEDICALSUPPLIES"
+msgid "Medical Pack"
+msgstr "ชุด​ยา​รักษา"
+
+#. STRINGS.MISC.TAGS.EDIBLE
+msgctxt "STRINGS.MISC.TAGS.EDIBLE"
+msgid "Edible"
+msgstr "กิน​ได้"
+
+#. STRINGS.MISC.TAGS.EGG
+msgctxt "STRINGS.MISC.TAGS.EGG"
+msgid "Critter Egg"
+msgstr "ไข่​สัตว์"
+
+#. STRINGS.MISC.TAGS.EGGSHELL
+msgctxt "STRINGS.MISC.TAGS.EGGSHELL"
+msgid "Egg Shell"
+msgstr "เปลือกไข่"
+
+#. STRINGS.MISC.TAGS.EMITSLIGHT
+msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
+msgid "<link=\"LIGHT\">Light Emitter</link>"
+msgstr "<link=\"LIGHT\">ตัว​ปล่อยแสง</link>"
+
+#. STRINGS.MISC.TAGS.EMPTYPORTABLEBATTERY
+msgctxt "STRINGS.MISC.TAGS.EMPTYPORTABLEBATTERY"
+msgid "<link=\"ELECTROBANKEMPTY\">Empty Eco Power Banks</link>"
+msgstr "<link=\"ELECTROBANKEMPTY\">พาวเวอร์​แบงก์​อี​โค​ที่​หมด​แล้ว</link>"
+
+#. STRINGS.MISC.TAGS.EXTRUDABLE
+msgctxt "STRINGS.MISC.TAGS.EXTRUDABLE"
+msgid "Extrudable"
+msgstr "รีด​ขึ้น​รูป​ได้"
+
+#. STRINGS.MISC.TAGS.FABRICATING
+msgctxt "STRINGS.MISC.TAGS.FABRICATING"
+msgid "Fabricate Delivery"
+msgstr "ส่ง​ของ​ผลิต"
+
+#. STRINGS.MISC.TAGS.FARMABLE
+msgctxt "STRINGS.MISC.TAGS.FARMABLE"
+msgid "<link=\"FARMABLE\">Cultivable Soil</link>"
+msgstr "<link=\"FARMABLE\">ดิน​เพาะปลูก</link>"
+
+#. STRINGS.MISC.TAGS.FARMABLE_DESC
+msgctxt "STRINGS.MISC.TAGS.FARMABLE_DESC"
+msgid "Cultivable soil is a fundamental building block of basic agricultural systems and can also be useful in the production of clean <link=\"OXYGEN\">Oxygen</link>."
+msgstr "ดิน​เพาะปลูก​คือ​พื้นฐาน​ของ​ระบบ​เกษตร​เบื้องต้น และ​ยัง​มีประโยชน์​ใน​การผลิต<link=\"OXYGEN\">ออกซิเจน</link>สะอาด​ด้วย"
+
+#. STRINGS.MISC.TAGS.FARMING
+msgctxt "STRINGS.MISC.TAGS.FARMING"
+msgid "Farm Build-Delivery"
+msgstr "ส่ง​ของ​ก่อสร้าง​ฟาร์ม"
+
+#. STRINGS.MISC.TAGS.FARMINGMATERIAL
+msgctxt "STRINGS.MISC.TAGS.FARMINGMATERIAL"
+msgid "Fertilizer"
+msgstr "ปุ๋ย"
+
+#. STRINGS.MISC.TAGS.FARMSTATION
+msgctxt "STRINGS.MISC.TAGS.FARMSTATION"
+msgid "Farm Station"
+msgstr "สถานี​ฟาร์ม"
+
+#. STRINGS.MISC.TAGS.FILTER
+msgctxt "STRINGS.MISC.TAGS.FILTER"
+msgid "<link=\"FILTER\">Filtration Medium</link>"
+msgstr "<link=\"FILTER\">วัสดุ​กรอง</link>"
+
+#. STRINGS.MISC.TAGS.FILTER_DESC
+msgctxt "STRINGS.MISC.TAGS.FILTER_DESC"
+msgid ""
+"Filtration mediums are materials used to separate purified <link=\"ELEMENTSGAS\">gases</link> or <link=\"ELEMENTSLIQUID\">liquids</link> from their polluted forms.\n"
+"\n"
+"They are consumables that will be transformed by the filtering process. For example, <link=\"SAND\">Sand</link> that has been used to filter <link=\"DIRTYWATER\">Polluted Water</link> will become <link=\"TOXICSAND\">Polluted Dirt</link>."
+msgstr ""
+"วัสดุ​กรอง​คือ​วัสดุ​ที่​ใช้​แยก<link=\"ELEMENTSGAS\">ก๊าซ</link>หรือ<link=\"ELEMENTSLIQUID\">ของเหลว</link>บริสุทธิ์​ออกจาก​แบบ​ปนเปื้อน\n"
+"\n"
+"เป็น​ของ​สิ้นเปลือง​ที่จะ​เปลี่ยนสภาพ​ระหว่าง​กรอง เช่น <link=\"SAND\">ทราย</link>ที่​ใช้​กรอง<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>จะ​กลายเป็น<link=\"TOXICSAND\">ดิน​ปนเปื้อน</link>"
+
+#. STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE
+msgctxt "STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE"
+msgid "Bait"
+msgstr "เหยื่อ​ล่อ"
+
+#. STRINGS.MISC.TAGS.FOSSIL
+msgctxt "STRINGS.MISC.TAGS.FOSSIL"
+msgid "Fossil"
+msgstr "ฟอสซิล"
+
+#. STRINGS.MISC.TAGS.FOSSILS
+msgctxt "STRINGS.MISC.TAGS.FOSSILS"
+msgid "<link=\"FOSSILS\">Fossil</link>"
+msgstr "<link=\"FOSSILS\">ฟอสซิล</link>"
+
+#. STRINGS.MISC.TAGS.FOSSILS_DESC
+msgctxt "STRINGS.MISC.TAGS.FOSSILS_DESC"
+msgid ""
+"Fossil is a category of composite rocks and minerals that contain traces of petrified lifeforms.\n"
+"\n"
+"They have varied uses as basic building materials, sculpting blocks, or raw ingredients in the production of higher-grade materials."
+msgstr ""
+"ฟอสซิล (ซากดึกดำบรรพ์) คือ​หมวด​หิน​และ​แร่​ผสม​ที่​มี​ร่องรอย​สิ่งมีชีวิต​กลายเป็น​หิน\n"
+"\n"
+"ใช้ได้​หลาย​แบบ ทั้งเป็น​วัสดุก่อสร้าง​พื้นฐาน ก้อนหิน​แกะสลัก หรือ​วัตถุดิบ​ผลิต​วัสดุ​เกรด​สูง​กว่า"
 
 #. STRINGS.MISC.TAGS.GAS
 msgctxt "STRINGS.MISC.TAGS.GAS"
@@ -59098,30 +59858,232 @@ msgctxt "STRINGS.MISC.TAGS.GENE_SHUFFLER"
 msgid "Neural Vacillator"
 msgstr "เครื่อง​แว​ซิ​ลเลเตอร์​ประสาท"
 
+#. STRINGS.MISC.TAGS.GLASS
+msgctxt "STRINGS.MISC.TAGS.GLASS"
+msgid "Glass"
+msgstr "แก้ว"
+
+#. STRINGS.MISC.TAGS.GLASSES
+msgctxt "STRINGS.MISC.TAGS.GLASSES"
+msgid "<link=\"GLASSES\">Glassy</link>"
+msgstr "<link=\"GLASSES\">วัสดุ​แก้ว</link>"
+
+#. STRINGS.MISC.TAGS.GLASSES_DESC
+msgctxt "STRINGS.MISC.TAGS.GLASSES_DESC"
+msgid ""
+"Glassy materials are smooth and transparent, allowing <link=\"LIGHT\">Light</link> to pass through them.\n"
+"\n"
+"They are useful in the construction of buildings that require internal illumination, as well as those that display their currently stored resources."
+msgstr ""
+"วัสดุ​แก้ว​เรียบ​ลื่น​และ​โปร่งใส ให้<link=\"LIGHT\">แสง</link>ผ่าน​ได้\n"
+"\n"
+"เหมาะสำหรับ​สร้าง​สิ่งก่อสร้าง​ที่​ต้อง​มี​แสง​ภายใน และ​สิ่งก่อสร้าง​ที่​โชว์​ทรัพยากร​ที่เก็บ​อยู่"
+
+#. STRINGS.MISC.TAGS.HABITAT_MODULE
+msgctxt "STRINGS.MISC.TAGS.HABITAT_MODULE"
+msgid "Habitat Module"
+msgstr "โมดูล​ที่พักอาศัย"
+
+#. STRINGS.MISC.TAGS.ICE
+msgctxt "STRINGS.MISC.TAGS.ICE"
+msgid "Ice"
+msgstr "น้ำแข็ง"
+
+#. STRINGS.MISC.TAGS.ICEORE
+msgctxt "STRINGS.MISC.TAGS.ICEORE"
+msgid "<link=\"ICEORE\">Ice</link>"
+msgstr "<link=\"ICEORE\">น้ำแข็ง</link>"
+
+#. STRINGS.MISC.TAGS.ICEORE_DESC
+msgctxt "STRINGS.MISC.TAGS.ICEORE_DESC"
+msgid ""
+"Ice is a class of materials made up mostly (if not completely) of <link=\"WATER\">Water</link> in a frozen or partially frozen form.\n"
+"\n"
+"As a material in a frigid solid or semi-solid state, these elements are very useful as a low-cost way to cool the environment around them.\n"
+"\n"
+"When heated, ice will melt into its original liquified form (ie.<link=\"BRINEICE\">Brine Ice</link> will liquify into <link=\"BRINE\">Brine</link>). Each ice element has a different freezing and melting point based upon its composition and state."
+msgstr ""
+"น้ำแข็ง​คือ​กลุ่ม​วัสดุ​ที่​ประกอบด้วย<link=\"WATER\">น้ำ</link>เป็นส่วนใหญ่ (หรือ​ทั้งหมด) ใน​รูป​ที่​แข็งตัว​หรือ​แข็งตัว​บางส่วน\n"
+"\n"
+"ใน​ฐานะ​วัสดุ​แข็ง​หรือ​กึ่ง​แข็ง​ที่​เย็นเฉียบ ธาตุ​เหล่านี้​มีประโยชน์​มาก​ใน​การ​ทำให้​สภาพแวดล้อม​รอบ ๆ เย็น​ลง​แบบ​ต้นทุน​ต่ำ\n"
+"\n"
+"เมื่อ​โดน​ความร้อน น้ำแข็ง​จะ​ละลาย​กลับเป็น​รูป​ของเหลว​เดิม (เช่น <link=\"BRINEICE\">น้ำแข็ง​เกลือ​เข้มข้น</link>จะ​ละลาย​เป็น<link=\"BRINE\">น้ำเกลือ​เข้มข้น</link>) น้ำแข็ง​แต่ละ​ชนิด​มี​จุดเยือกแข็ง​และ​จุดหลอมเหลว​ต่างกัน​ตาม​องค์ประกอบ​และ​สถานะ"
+
+#. STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT
+msgctxt "STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT"
+msgid "<link=\"INDUSTRIALINGREDIENT\">Industrial Ingredient</link>"
+msgstr "<link=\"INDUSTRIALINGREDIENT\">วัตถุดิบ​อุตสาหกรรม</link>"
+
+#. STRINGS.MISC.TAGS.INDUSTRIALPRODUCT
+msgctxt "STRINGS.MISC.TAGS.INDUSTRIALPRODUCT"
+msgid "Industrial Product"
+msgstr "ผลิตภัณฑ์​อุตสาหกรรม"
+
+#. STRINGS.MISC.TAGS.INSULATOR
+msgctxt "STRINGS.MISC.TAGS.INSULATOR"
+msgid "<link=\"INSULATOR\">Insulator</link>"
+msgstr "<link=\"INSULATOR\">ฉนวน</link>"
+
+#. STRINGS.MISC.TAGS.INSULATOR_DESC
+msgctxt "STRINGS.MISC.TAGS.INSULATOR_DESC"
+msgid "Insulators have low thermal conductivity, and effectively reduce the speed at which <link=\"HEAT\">Heat</link> is transferred through them."
+msgstr "ฉนวน​นำ​ความร้อน​ได้​ต่ำ และ​ช่วย​ลด​ความเร็ว​ที่<link=\"HEAT\">ความร้อน</link>ถ่ายเท​ผ่าน​ได้​อย่าง​มีประสิทธิภาพ"
+
+#. STRINGS.MISC.TAGS.LARGESEED
+msgctxt "STRINGS.MISC.TAGS.LARGESEED"
+msgid "Seed"
+msgstr "เมล็ด"
+
 #. STRINGS.MISC.TAGS.LEAD
 msgctxt "STRINGS.MISC.TAGS.LEAD"
 msgid "<link=\"LEAD\">Lead</link>"
 msgstr "<link=\"LEAD\">ตะกั่ว</link>"
+
+#. STRINGS.MISC.TAGS.LIFE
+msgctxt "STRINGS.MISC.TAGS.LIFE"
+msgid "Life"
+msgstr "สิ่งมีชีวิต"
+
+#. STRINGS.MISC.TAGS.LIQUID
+msgctxt "STRINGS.MISC.TAGS.LIQUID"
+msgid "<link=\"ELEMENTSLIQUID\">Liquid</link>"
+msgstr "<link=\"ELEMENTSLIQUID\">ของเหลว</link>"
 
 #. STRINGS.MISC.TAGS.LIQUIFIABLE
 msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
 msgid "Liquefiable"
 msgstr "กลายเป็น​ของเหลว​ได้"
 
+#. STRINGS.MISC.TAGS.LONGRANGEMISSILE
+msgctxt "STRINGS.MISC.TAGS.LONGRANGEMISSILE"
+msgid "Long Range Missile"
+msgstr "ขีปนาวุธ​พิสัย​ไกล"
+
+#. STRINGS.MISC.TAGS.LUBRICATINGOIL
+msgctxt "STRINGS.MISC.TAGS.LUBRICATINGOIL"
+msgid "<link=\"LUBRICATINGOIL\">Gear Oil</link>"
+msgstr "<link=\"LUBRICATINGOIL\">น้ำมัน​เกียร์</link>"
+
+#. STRINGS.MISC.TAGS.LUBRICATINGOIL_DESC
+msgctxt "STRINGS.MISC.TAGS.LUBRICATINGOIL_DESC"
+msgid "Gear oils are lubricating fluids useful in the maintenance of complex machinery, protecting gear systems from damage and minimizing friction between moving parts to support optimal performance."
+msgstr "น้ำมัน​เกียร์​คือ​ของเหลว​หล่อลื่น​สำหรับ​ดูแล​เครื่องจักร​ซับซ้อน ปกป้อง​ระบบ​เฟือง​จาก​ความเสียหาย และ​ลด​แรงเสียดทาน​ระหว่าง​ชิ้นส่วน​ที่​เคลื่อนที่​เพื่อให้​ทำงาน​ได้ดี​ที่สุด"
+
+#. STRINGS.MISC.TAGS.MACHINE_SHOP
+msgctxt "STRINGS.MISC.TAGS.MACHINE_SHOP"
+msgid "Machine Shop"
+msgstr "โรง​ซ่อม​เครื่อง"
+
+#. STRINGS.MISC.TAGS.MANUFACTUREDMATERIAL
+msgctxt "STRINGS.MISC.TAGS.MANUFACTUREDMATERIAL"
+msgid "Manufactured Material"
+msgstr "วัสดุสังเคราะห์"
+
+#. STRINGS.MISC.TAGS.MARKEDFORCOMPOST
+msgctxt "STRINGS.MISC.TAGS.MARKEDFORCOMPOST"
+msgid "Marked For Compost"
+msgstr "ทำเครื่องหมาย​หมัก​ปุ๋ย"
+
+#. STRINGS.MISC.TAGS.MARKEDFORCOMPOSTINSTORAGE
+msgctxt "STRINGS.MISC.TAGS.MARKEDFORCOMPOSTINSTORAGE"
+msgid "In Compost Storage"
+msgstr "อยู่​ใน​ที่เก็บ​ปุ๋ยหมัก"
+
+#. STRINGS.MISC.TAGS.MASSAGE_TABLE
+msgctxt "STRINGS.MISC.TAGS.MASSAGE_TABLE"
+msgid "Massage Tables"
+msgstr "เตียง​นวด"
+
+#. STRINGS.MISC.TAGS.MEDICALSUPPLIES
+msgctxt "STRINGS.MISC.TAGS.MEDICALSUPPLIES"
+msgid "Medical Supplies"
+msgstr "เวชภัณฑ์"
+
 #. STRINGS.MISC.TAGS.MEDICINE
 msgctxt "STRINGS.MISC.TAGS.MEDICINE"
 msgid "Medicine"
 msgstr "การแพทย์"
+
+#. STRINGS.MISC.TAGS.MESSSTATION
+msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
+msgid "Dining Tables"
+msgstr "โต๊ะอาหาร"
+
+#. STRINGS.MISC.TAGS.METAL
+msgctxt "STRINGS.MISC.TAGS.METAL"
+msgid "<link=\"METAL\">Metal Ore</link>"
+msgstr "<link=\"METAL\">แร่​โลหะ</link>"
+
+#. STRINGS.MISC.TAGS.METAL_DESC
+msgctxt "STRINGS.MISC.TAGS.METAL_DESC"
+msgid ""
+"Metal ore is the raw form of metal, and has a wide variety of practical applications in electronics and general construction.\n"
+"\n"
+"Metal ore is typically processed into <link=\"REFINEDMETAL\">Refined Metal</link> using the <link=\"ROCKCRUSHER\">Rock Crusher</link> or the <link=\"METALREFINERY\">Metal Refinery</link>.\n"
+"\n"
+"Some rare metal ores can also be refined in the <link=\"SUPERMATERIALREFINERY\">Molecular Forge</link>."
+msgstr ""
+"แร่​โลหะ​คือ​โลหะ​ใน​รูป​ดิบ ใช้งาน​ได้​หลากหลาย​ทั้ง​ใน​งาน​อิเล็กทรอนิกส์​และ​การ​ก่อสร้าง​ทั่วไป\n"
+"\n"
+"แร่​โลหะ​มัก​ถูก​แปรรูป​เป็น<link=\"REFINEDMETAL\">โลหะ​ถลุง</link>ด้วย<link=\"ROCKCRUSHER\">เครื่อง​บด​หิน</link>หรือ<link=\"METALREFINERY\">โรง​ถลุง​โลหะ</link>\n"
+"\n"
+"แร่​โลหะ​หา​ยาก​บาง​ชนิด​ยัง​ถลุง​ได้​ใน<link=\"SUPERMATERIALREFINERY\">โรง​ตี​โมเลกุล</link>"
+
+#. STRINGS.MISC.TAGS.MIXTURE
+msgctxt "STRINGS.MISC.TAGS.MIXTURE"
+msgid "Mixture"
+msgstr "ของผสม"
+
+#. STRINGS.MISC.TAGS.MULTITOOL
+msgctxt "STRINGS.MISC.TAGS.MULTITOOL"
+msgid "Multitool"
+msgstr "เครื่องมือ​อเนกประสงค์"
+
+#. STRINGS.MISC.TAGS.NONCRUSHABLE
+msgctxt "STRINGS.MISC.TAGS.NONCRUSHABLE"
+msgid "Uncrushable"
+msgstr "บด​ไม่​ได้"
 
 #. STRINGS.MISC.TAGS.OBSIDIAN
 msgctxt "STRINGS.MISC.TAGS.OBSIDIAN"
 msgid "<link=\"OBSIDIAN\">Obsidian</link>"
 msgstr "<link=\"OBSIDIAN\">ออ​บ​ซิ​เดียน</link>"
 
+#. STRINGS.MISC.TAGS.OIL
+msgctxt "STRINGS.MISC.TAGS.OIL"
+msgid "Hydrocarbon"
+msgstr "ไฮโดรคาร์บอน"
+
+#. STRINGS.MISC.TAGS.ORE
+msgctxt "STRINGS.MISC.TAGS.ORE"
+msgid "Ore"
+msgstr "แร่"
+
 #. STRINGS.MISC.TAGS.ORGANICS
 msgctxt "STRINGS.MISC.TAGS.ORGANICS"
 msgid "Organic"
 msgstr "อินทรีย์"
+
+#. STRINGS.MISC.TAGS.ORGANICS_DESC
+msgctxt "STRINGS.MISC.TAGS.ORGANICS_DESC"
+msgid ""
+"Organic materials are useful ingredients gathered from the environment, harvested from <link=\"PLANTS\">plants</link> or derived from <link=\"CREATURES\">critters</link>.\n"
+"\n"
+"Some, not all, require additional processing before they can be used."
+msgstr ""
+"วัสดุ​อินทรีย์​คือ​วัตถุดิบ​ที่​มีประโยชน์​ซึ่ง​เก็บ​จาก​สิ่งแวดล้อม เก็บเกี่ยว​จาก<link=\"PLANTS\">พืช</link> หรือ​ได้​จาก<link=\"CREATURES\">สัตว์</link>\n"
+"\n"
+"บางอย่าง (ไม่​ใช่​ทั้งหมด) ต้อง​แปรรูป​เพิ่ม​ก่อน​จึง​จะ​ใช้ได้"
+
+#. STRINGS.MISC.TAGS.ORNAMENT
+msgctxt "STRINGS.MISC.TAGS.ORNAMENT"
+msgid "<link=\"ORNAMENT\">Ornament</link>"
+msgstr "<link=\"ORNAMENT\">ของ​ประดับ</link>"
+
+#. STRINGS.MISC.TAGS.ORNAMENTDISPLAYED
+msgctxt "STRINGS.MISC.TAGS.ORNAMENTDISPLAYED"
+msgid "Ornament"
+msgstr "ของ​ประดับ"
 
 #. STRINGS.MISC.TAGS.OTHER
 msgctxt "STRINGS.MISC.TAGS.OTHER"
@@ -59133,10 +60095,183 @@ msgctxt "STRINGS.MISC.TAGS.OXIDIZER"
 msgid "Oxidizer"
 msgstr "สาร​ออก​ซิ​ได​ซ์"
 
+#. STRINGS.MISC.TAGS.OXYGENCANISTER
+msgctxt "STRINGS.MISC.TAGS.OXYGENCANISTER"
+msgid "Oxygen Canister"
+msgstr "ถัง​ออกซิเจน"
+
+#. STRINGS.MISC.TAGS.PEDESTALDISPLAYABLE
+msgctxt "STRINGS.MISC.TAGS.PEDESTALDISPLAYABLE"
+msgid "Other Pedestal Displayable"
+msgstr "ของ​จัดแสดง​บน​แท่น​อื่น ๆ"
+
+#. STRINGS.MISC.TAGS.PHOSPHORUS
+msgctxt "STRINGS.MISC.TAGS.PHOSPHORUS"
+msgid "<link=\"PHOSPHORUS\">Phosphorus</link>"
+msgstr "<link=\"PHOSPHORUS\">ฟอสฟอรัส</link>"
+
+#. STRINGS.MISC.TAGS.PICKLED
+msgctxt "STRINGS.MISC.TAGS.PICKLED"
+msgid "Pickled"
+msgstr "ดอง"
+
+#. STRINGS.MISC.TAGS.PLASTIC
+msgctxt "STRINGS.MISC.TAGS.PLASTIC"
+msgid "<link=\"PLASTIC\">Plastics</link>"
+msgstr "<link=\"PLASTIC\">พลาสติก</link>"
+
+#. STRINGS.MISC.TAGS.PLASTIC_DESC
+msgctxt "STRINGS.MISC.TAGS.PLASTIC_DESC"
+msgid "Plastics are synthetic <link=\"ELEMENTSSOLID\">Solids</link> that are pliable and minimize the transfer of <link=\"HEAT\">Heat</link>. They typically have a low melting point, although more advanced plastics have been developed to circumvent this issue."
+msgstr "พลาสติก​คือ<link=\"ELEMENTSSOLID\">ของแข็ง</link>สังเคราะห์​ที่​ดัด​งอ​ได้​และ​ลด​การ​ถ่ายเท<link=\"HEAT\">ความร้อน</link> มัก​มี​จุดหลอมเหลว​ต่ำ แต่​ก็​มี​พลาสติก​ขั้นสูง​ที่​พัฒนา​มา​แก้ปัญหา​นี้​แล้ว"
+
+#. STRINGS.MISC.TAGS.PLASTIFIABLELIQUID
+msgctxt "STRINGS.MISC.TAGS.PLASTIFIABLELIQUID"
+msgid "<link=\"PLASTIFIABLELIQUID\">Plastic Monomer</link>"
+msgstr "<link=\"PLASTIFIABLELIQUID\">พลาสติก​โมโนเมอร์</link>"
+
+#. STRINGS.MISC.TAGS.PLASTIFIABLELIQUID_DESC
+msgctxt "STRINGS.MISC.TAGS.PLASTIFIABLELIQUID_DESC"
+msgid ""
+"Plastic monomers are organic compounds that can be processed into <link=\"PLASTIC\">Plastics</link> that have valuable applications as advanced building materials.\n"
+"\n"
+"Plastics derived from these monomers can also be used as packaging materials for <link=\"FOOD\">Food</link> preservation."
+msgstr ""
+"พลาสติก​โมโนเมอร์​คือ​สารประกอบ​อินทรีย์​ที่​แปรรูป​เป็น<link=\"PLASTIC\">พลาสติก</link>ได้ ซึ่ง​มีประโยชน์​มาก​ใน​ฐานะ​วัสดุก่อสร้าง​ขั้นสูง\n"
+"\n"
+"พลาสติก​ที่​ได้​จาก​โมโนเมอร์​เหล่านี้​ยัง​ใช้​เป็น​บรรจุภัณฑ์​ถนอม<link=\"FOOD\">อาหาร</link>ได้​ด้วย"
+
+#. STRINGS.MISC.TAGS.PLUMBABLE
+msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
+msgid "<link=\"PLUMBABLE\">Plumbable</link>"
+msgstr "<link=\"PLUMBABLE\">ใช้​ทำ​ท่อ​ได้</link>"
+
 #. STRINGS.MISC.TAGS.POLYPROPYLENE
 msgctxt "STRINGS.MISC.TAGS.POLYPROPYLENE"
 msgid "<link=\"POLYPROPYLENE\">Plastic</link>"
 msgstr "<link=\"POLYPROPYLENE\">พลาสติก</link>"
+
+#. STRINGS.MISC.TAGS.POWER
+msgctxt "STRINGS.MISC.TAGS.POWER"
+msgid "Generator Delivery"
+msgstr "ส่ง​ของ​เครื่อง​กำเนิด​ไฟ"
+
+#. STRINGS.MISC.TAGS.POWERSTATION
+msgctxt "STRINGS.MISC.TAGS.POWERSTATION"
+msgid "Power Station"
+msgstr "สถานี​พลังงาน"
+
+#. STRINGS.MISC.TAGS.PRECIOUSMETAL
+msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
+msgid "<link=\"PRECIOUSMETAL\">Precious Metal</link>"
+msgstr "<link=\"PRECIOUSMETAL\">โลหะ​มีค่า</link>"
+
+#. STRINGS.MISC.TAGS.PRECIOUSROCK
+msgctxt "STRINGS.MISC.TAGS.PRECIOUSROCK"
+msgid "<link=\"PRECIOUSROCK\">Precious Rock</link>"
+msgstr "<link=\"PRECIOUSROCK\">หิน​มีค่า</link>"
+
+#. STRINGS.MISC.TAGS.PRECIOUSROCK_DESC
+msgctxt "STRINGS.MISC.TAGS.PRECIOUSROCK_DESC"
+msgid ""
+"Precious rocks are raw minerals. Their extreme hardness produces durable <link=\"DECOR\">Decor</link>.\n"
+"\n"
+"Some precious rocks are inherently attractive even in their natural, unfinished form."
+msgstr ""
+"หิน​มีค่า​คือ​แร่​ดิบ ความแข็ง​สุดขีด​ของ​มัน​ให้<link=\"DECOR\">ความสวยงาม</link>ที่​ทนทาน\n"
+"\n"
+"หิน​มีค่า​บาง​ชนิด​สวย​ใน​ตัว​ตั้งแต่​ยัง​เป็น​ก้อน​ดิบ​ไม่​ได้​เจียระไน"
+
+#. STRINGS.MISC.TAGS.RAILGUNPAYLOADEMPTYABLE
+msgctxt "STRINGS.MISC.TAGS.RAILGUNPAYLOADEMPTYABLE"
+msgid "Payload"
+msgstr "พัสดุ​ข้าม​ดาว"
+
+#. STRINGS.MISC.TAGS.RAREMATERIALS
+msgctxt "STRINGS.MISC.TAGS.RAREMATERIALS"
+msgid "Rare Resource"
+msgstr "ทรัพยากร​หา​ยาก"
+
+#. STRINGS.MISC.TAGS.RAW
+msgctxt "STRINGS.MISC.TAGS.RAW"
+msgid "Raw Animal Product"
+msgstr "ผลิตภัณฑ์​สัตว์​ดิบ"
+
+#. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
+msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
+msgid "Precious Metal Ore"
+msgstr "แร่​โลหะ​มีค่า"
+
+#. STRINGS.MISC.TAGS.REFINEDMETAL
+msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
+msgid "<link=\"REFINEDMETAL\">Refined Metal</link>"
+msgstr "<link=\"REFINEDMETAL\">โลหะ​ถลุง</link>"
+
+#. STRINGS.MISC.TAGS.REFINEDMETAL_DESC
+msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL_DESC"
+msgid ""
+"Refined metals are purified forms of metal often used in higher-tier electronics due to their tendency to be able to withstand higher temperatures when they are made into wires. Other benefits include the increased decor value for some metals which can greatly improve the well-being of a colony.\n"
+"\n"
+"Metal ore can be refined in either the <link=\"ROCKCRUSHER\">Rock Crusher</link> or the <link=\"METALREFINERY\">Metal Refinery</link>."
+msgstr ""
+"โลหะ​ถลุง​คือ​โลหะ​ที่​ทำให้​บริสุทธิ์​แล้ว มัก​ใช้​ใน​อิเล็กทรอนิกส์​ระดับสูง​เพราะ​ทน​อุณหภูมิ​สูง​ได้ดี​เมื่อ​ทำเป็น​สายไฟ ข้อดี​อื่น​คือ​โลหะ​บาง​ชนิด​เพิ่มค่า​ความสวยงาม​ได้ ซึ่ง​ช่วย​ให้​อาณานิคม​อยู่​ดีขึ้น​มาก\n"
+"\n"
+"ถลุง​แร่​โลหะ​ได้​ใน<link=\"ROCKCRUSHER\">เครื่อง​บด​หิน</link>หรือ<link=\"METALREFINERY\">โรง​ถลุง​โลหะ</link>"
+
+#. STRINGS.MISC.TAGS.RELAXATION_POINT
+msgctxt "STRINGS.MISC.TAGS.RELAXATION_POINT"
+msgid "Leisure Area"
+msgstr "พื้น​ที่พักผ่อน"
+
+#. STRINGS.MISC.TAGS.REMOTEOPERABLE
+msgctxt "STRINGS.MISC.TAGS.REMOTEOPERABLE"
+msgid "<link=\"REMOTEOPERABLE\">Remote Workable</link>"
+msgstr "<link=\"REMOTEOPERABLE\">สั่งงาน​ระยะไกล​ได้</link>"
+
+#. STRINGS.MISC.TAGS.REMOTEOPERABLE_DESC
+msgctxt "STRINGS.MISC.TAGS.REMOTEOPERABLE_DESC"
+msgid "These buildings can be operated from a distance by a <link=\"REMOTEWORKTERMINAL\">Remote Controller</link> so long as they are built within range of a <link=\"REMOTEWORKERDOCK\">Remote Worker Dock</link>."
+msgstr "สิ่งก่อสร้าง​เหล่านี้​ใช้งาน​จาก​ระยะไกล​ได้​ด้วย<link=\"REMOTEWORKTERMINAL\">รีโมตคอนโทรล</link> ตราบใดที่​สร้าง​ไว้​ใน​ระยะ​ของ<link=\"REMOTEWORKERDOCK\">ท่า​จอด​คนงาน​ระยะไกล</link>"
+
+#. STRINGS.MISC.TAGS.RESEARCH
+msgctxt "STRINGS.MISC.TAGS.RESEARCH"
+msgid "Research Delivery"
+msgstr "ส่ง​ของ​วิจัย"
+
+#. STRINGS.MISC.TAGS.RUBBER
+msgctxt "STRINGS.MISC.TAGS.RUBBER"
+msgid "Rubber"
+msgstr "ยาง"
+
+#. STRINGS.MISC.TAGS.SEED
+msgctxt "STRINGS.MISC.TAGS.SEED"
+msgid "Seed"
+msgstr "เมล็ด"
+
+#. STRINGS.MISC.TAGS.SHOES
+msgctxt "STRINGS.MISC.TAGS.SHOES"
+msgid "<link=\"EQUIPMENT\">Footwear</link>"
+msgstr "<link=\"EQUIPMENT\">รองเท้า</link>"
+
+#. STRINGS.MISC.TAGS.SLIPPERY
+msgctxt "STRINGS.MISC.TAGS.SLIPPERY"
+msgid "<link=\"SLIPPERY\">Slippery</link>"
+msgstr "<link=\"SLIPPERY\">ลื่น</link>"
+
+#. STRINGS.MISC.TAGS.SLIPPERY_DESC
+msgctxt "STRINGS.MISC.TAGS.SLIPPERY_DESC"
+msgid "Some <link=\"ELEMENTSLIQUID\">liquids</link> and <link=\"ELEMENTSSOLID\">solids</link> have a remarkably low coefficient of friction. These present a safety hazard if left on the ground, as Duplicants may slip and fall when traveling across them."
+msgstr "<link=\"ELEMENTSLIQUID\">ของเหลว</link>และ<link=\"ELEMENTSSOLID\">ของแข็ง</link>บาง​ชนิด​มี​แรงเสียดทาน​ต่ำ​มาก ถ้า​ทิ้ง​ไว้​บน​พื้น​จะ​อันตราย เพราะ​ดู​พลิ​แคนต์​อาจ​ลื่นล้ม​ตอน​เดินผ่าน (ปู้ด!)"
+
+#. STRINGS.MISC.TAGS.SNOW
+msgctxt "STRINGS.MISC.TAGS.SNOW"
+msgid "<link=\"STABLESNOW\">Snow</link>"
+msgstr "<link=\"STABLESNOW\">หิมะ</link>"
+
+#. STRINGS.MISC.TAGS.SOLID
+msgctxt "STRINGS.MISC.TAGS.SOLID"
+msgid "<link=\"ELEMENTSSOLID\">Solid</link>"
+msgstr "<link=\"ELEMENTSSOLID\">ของแข็ง</link>"
 
 #. STRINGS.MISC.TAGS.SOLIDMATERIAL
 msgctxt "STRINGS.MISC.TAGS.SOLIDMATERIAL"
@@ -59148,25 +60283,106 @@ msgctxt "STRINGS.MISC.TAGS.SPECIAL"
 msgid "Special"
 msgstr "พิเศษ"
 
+#. STRINGS.MISC.TAGS.STEEL
+msgctxt "STRINGS.MISC.TAGS.STEEL"
+msgid "Steel"
+msgstr "เหล็กกล้า"
+
 #. STRINGS.MISC.TAGS.STORYTRAITRESOURCE
 msgctxt "STRINGS.MISC.TAGS.STORYTRAITRESOURCE"
 msgid "Story Trait"
 msgstr "ลักษณะ​เรื่องราว"
+
+#. STRINGS.MISC.TAGS.SUBLIMATING
+msgctxt "STRINGS.MISC.TAGS.SUBLIMATING"
+msgid "<link=\"SUBLIMATES\">Sublimator</link>"
+msgstr "<link=\"SUBLIMATES\">ธาตุ​ระเหิด</link>"
+
+#. STRINGS.MISC.TAGS.SUBLIMATING_DESC
+msgctxt "STRINGS.MISC.TAGS.SUBLIMATING_DESC"
+msgid ""
+"Sublimators are a class of <link=\"ELEMENTSSOLID\">Solid</link> elements that passively convert to a <link=\"ELEMENTSGAS\">Gaseous</link> state. When off-gassing is complete, no trace of the original solid remains.\n"
+"\n"
+"This passive conversion persists when the element is left in storage."
+msgstr ""
+"ธาตุ​ระเหิด​คือ​กลุ่ม​ธาตุ<link=\"ELEMENTSSOLID\">ของแข็ง</link>ที่​เปลี่ยนเป็น​สถานะ<link=\"ELEMENTSGAS\">ก๊าซ</link>เอง​โดย​ไม่ต้อง​ทำ​อะไร เมื่อ​ปล่อย​ก๊าซ​หมด​แล้ว จะ​ไม่​เหลือ​ร่องรอย​ของแข็ง​เดิม​เลย\n"
+"\n"
+"การ​เปลี่ยน​สถานะ​นี้​ยัง​เกิด​ต่อ​แม้​ธาตุ​ถูก​เก็บ​ไว้​ใน​ที่เก็บ"
+
+#. STRINGS.MISC.TAGS.SUBLIMATING_SUBHEADER
+msgctxt "STRINGS.MISC.TAGS.SUBLIMATING_SUBHEADER"
+msgid "Off-Gassing Elements"
+msgstr "ธาตุ​ปล่อย​ก๊าซ"
 
 #. STRINGS.MISC.TAGS.SUIT
 msgctxt "STRINGS.MISC.TAGS.SUIT"
 msgid "Suits"
 msgstr "ชุด"
 
+#. STRINGS.MISC.TAGS.SWIMMINGCREATURE
+msgctxt "STRINGS.MISC.TAGS.SWIMMINGCREATURE"
+msgid "Aquatic Critter"
+msgstr "สัตว์น้ำ"
+
+#. STRINGS.MISC.TAGS.TECHCOMPONENTS
+msgctxt "STRINGS.MISC.TAGS.TECHCOMPONENTS"
+msgid "<link=\"TECHCOMPONENTS\">Tech Component</link>"
+msgstr "<link=\"TECHCOMPONENTS\">ส่วนประกอบ​เทคโนโลยี</link>"
+
 #. STRINGS.MISC.TAGS.TOILET
 msgctxt "STRINGS.MISC.TAGS.TOILET"
 msgid "Toilets"
 msgstr "ห้องน้ำ"
 
+#. STRINGS.MISC.TAGS.TOXIC
+msgctxt "STRINGS.MISC.TAGS.TOXIC"
+msgid "Toxic"
+msgstr "มีพิษ"
+
+#. STRINGS.MISC.TAGS.TOY
+msgctxt "STRINGS.MISC.TAGS.TOY"
+msgid "Toy"
+msgstr "ของเล่น"
+
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable Gas"
 msgstr "แก๊ส​ที่​หายใจ​ไม่​ได้"
+
+#. STRINGS.MISC.TAGS.UNIDENTIFIEDSEED
+msgctxt "STRINGS.MISC.TAGS.UNIDENTIFIEDSEED"
+msgid "Seed (Unidentified Mutation)"
+msgstr "เมล็ด (การกลายพันธุ์​ที่​ยัง​ไม่​ระบุ)"
+
+#. STRINGS.MISC.TAGS.UNREFINEDOIL
+msgctxt "STRINGS.MISC.TAGS.UNREFINEDOIL"
+msgid "<link=\"UNREFINEDOIL\">Unrefined Oil</link>"
+msgstr "<link=\"UNREFINEDOIL\">น้ำมัน​ยัง​ไม่​กลั่น</link>"
+
+#. STRINGS.MISC.TAGS.UNREFINEDOIL_DESC
+msgctxt "STRINGS.MISC.TAGS.UNREFINEDOIL_DESC"
+msgid "Oils in their raw, minimally processed forms. They can be used as industrial lubricants or refined for other applications at designated buildings."
+msgstr "น้ำมัน​ใน​รูป​ดิบ​ที่​แปรรูป​น้อยที่สุด ใช้​เป็น​น้ำมันหล่อลื่น​อุตสาหกรรม หรือ​นำ​ไป​กลั่น​ที่​สิ่งก่อสร้าง​เฉพาะ​เพื่อ​ใช้งาน​อื่น​ได้"
+
+#. STRINGS.MISC.TAGS.UNSTABLE
+msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
+msgid "Unstable"
+msgstr "ไม่​เสถียร"
+
+#. STRINGS.MISC.TAGS.WARP_PORTAL
+msgctxt "STRINGS.MISC.TAGS.WARP_PORTAL"
+msgid "Teleportal"
+msgstr "ประตู​เท​เล​พอร์ต"
+
+#. STRINGS.MISC.TAGS.WATERSEED
+msgctxt "STRINGS.MISC.TAGS.WATERSEED"
+msgid "Aquatic Seed"
+msgstr "เมล็ด​พืชน้ำ"
+
+#. STRINGS.MISC.TAGS.WIRING
+msgctxt "STRINGS.MISC.TAGS.WIRING"
+msgid "Wire Build-Delivery"
+msgstr "ส่ง​ของ​ก่อสร้าง​สายไฟ"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING"
@@ -61125,6 +62341,11 @@ msgctxt "STRINGS.ROOMS.TYPES.LATRINE.NAME"
 msgid "Latrine"
 msgstr "ห้องส้วม"
 
+#. STRINGS.ROOMS.TYPES.MACHINE_SHOP.NAME
+msgctxt "STRINGS.ROOMS.TYPES.MACHINE_SHOP.NAME"
+msgid "Machine Shop"
+msgstr "โรง​ซ่อม​เครื่อง"
+
 #. STRINGS.ROOMS.TYPES.MESSHALL.NAME
 msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.NAME"
 msgid "Mess Hall"
@@ -61154,6 +62375,11 @@ msgstr "ห้องนอน​ส่วนตัว"
 msgctxt "STRINGS.SEARCH_TERMS.BATTERY"
 msgid "Battery"
 msgstr "แบตเตอรี่"
+
+#. STRINGS.SEARCH_TERMS.GLASS
+msgctxt "STRINGS.SEARCH_TERMS.GLASS"
+msgid "Glass"
+msgstr "แก้ว"
 
 #. STRINGS.SEARCH_TERMS.METAL
 msgctxt "STRINGS.SEARCH_TERMS.METAL"
