@@ -38243,60 +38243,455 @@ msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER3"
 msgid "<indent=5%>I waited at the fountain for four hours. Where were you? This story is going to be huge. Call me.</indent>"
 msgstr "<indent=5%>ผม​รอ​อยู่​ที่​น้ำพุ​ตั้ง​สี่​ชั่วโมง คุณ​ไป​ไหน​มา? ข่าว​นี้​จะ​เป็น​ข่าวใหญ่​แน่ โทร​หา​ผม​ด้วย</indent>"
 
+#. STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER4"
+msgid ""
+"<indent=5%>Dr. Olowe,\n"
+"\n"
+"I'm sorry - I know ambushing you at your home last night was a bad idea. But something is happening at Gravitas, and people need to know. Please call me.</indent>"
+msgstr ""
+"<indent=5%>ดร.โอ​โล​เว\n"
+"\n"
+"ขอโทษ​ครับ ผม​รู้​ว่าการ​ไป​ดักรอ​คุณ​ที่​บ้าน​เมื่อคืน​เป็น​ความคิด​ที่​แย่ แต่​มี​บางอย่าง​กำลัง​เกิดขึ้น​ที่​ก​รา​วิ​ทัส และ​ผู้คน​จำเป็นต้อง​รู้ โทร​หา​ผม​ด้วย​นะ​ครับ</indent>"
+
+#. STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Dr. Olowe</b><size=10><alpha=#AA> <aolowe@gravitas.nova></size></color>\n"
+"From: <b>Quinn Kelly</b><alpha=#AA><size=10> <editor@stemscoop.news></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.โอ​โล​เว</b><size=10><alpha=#AA> <aolowe@gravitas.nova></size></color>\n"
+"จาก: <b>ควินน์ เค​ล​ลี</b><alpha=#AA><size=10> <editor@stemscoop.news></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER2
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER2"
+msgid ""
+"<smallcaps>To: <b>[BCC: all]</b><alpha=#AA><size=10> </size></color>\n"
+"From: <b>Quinn Kelly</b><alpha=#AA><size=10> <editor@stemscoop.news></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[BCC: ทุกคน]</b><alpha=#AA><size=10> </size></color>\n"
+"จาก: <b>ควินน์ เค​ล​ลี</b><alpha=#AA><size=10> <editor@stemscoop.news></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"All the best,\n"
+"Quinn Kelly\n"
+"------------------\n"
+msgstr ""
+"\n"
+"ด้วย​ความปรารถนาดี\n"
+"ควินน์ เค​ล​ลี\n"
+"------------------\n"
+
 #. STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.JOURNALISTREQUEST.TITLE
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.TITLE"
+msgid "Re: Call me"
+msgstr "Re: โทร​หา​ผม​ด้วย"
+
+#. STRINGS.CODEX.JOURNALISTREQUEST.TITLE2
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.TITLE2"
+msgid "Call me"
+msgstr "โทร​หา​ผม​ด้วย"
+
+#. STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1"
+msgid ""
+"The Jumping Joya is a decorative plant that brings a feeling of calmness and wellbeing to individuals in its vicinity.\n"
+"\n"
+"Their rounded appendages and eccentrically shaped polyps are a favorite of interior designers looking to offset the rigid straight walls of an institutional setting.\n"
+"\n"
+"The Jumping Joya's capacity to thrive in many environments and the ease in which they propagate make them the go-to house plant for the lazy gardener."
+msgstr ""
+"โจ​ยา​กระโดด​เป็น​พืช​ประดับ​ที่​ทำให้​คน​รอบ ๆ รู้สึก​สงบ​และ​สบายใจ\n"
+"\n"
+"รยางค์​กลม​มน​และ​ติ่ง​รูปร่าง​ประหลาด​ของ​มัน​เป็น​ขวัญใจ​นักออกแบบ​ภายใน​ที่​อยาก​ลด​ความ​แข็งทื่อ​ของ​ผนัง​ตรง​เป๊ะ​ใน​สถานที่ราชการ\n"
+"\n"
+"ความสามารถ​ใน​การ​เติบโต​ได้​ใน​หลาย​สภาพแวดล้อม​และ​ขยายพันธุ์​ง่าย​สุด ๆ ทำให้​โจ​ยา​กระโดด​เป็น​ไม้ประดับ​บ้าน​อันดับ​หนึ่ง​ของ​คนสวน​ขี้เกียจ"
 
 #. STRINGS.CODEX.JUMPINGJOYA.SUBTITLE
 msgctxt "STRINGS.CODEX.JUMPINGJOYA.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "ไม้ประดับ"
 
+#. STRINGS.CODEX.JUMPINGJOYA.TITLE
+msgctxt "STRINGS.CODEX.JUMPINGJOYA.TITLE"
+msgid "Jumping Joya"
+msgstr "โจ​ยา​กระโดด"
+
+#. STRINGS.CODEX.KEEPSAKE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.KEEPSAKE.BODY.CONTAINER1"
+msgid ""
+"In the aftermath of a successful mission--be it the completion of a story trait or the survival of some epic event--my Duplicants sometimes form sentimental attachments to an item associated with that chapter of their lives.\n"
+"\n"
+msgstr ""
+"หลัง​ภารกิจ​สำเร็จ ไม่​ว่า​จะ​เป็นการ​ทำ​เนื้อเรื่อง​พิเศษ​จน​จบ หรือ​การ​รอดชีวิต​จาก​เหตุการณ์​มหากาพย์ ดู​พลิ​แคนต์​ของ​ฉัน​บางครั้ง​ก็​ผูกพัน​กับ​สิ่งของ​ที่​เกี่ยวข้อง​กับ​บท​นั้น​ใน​ชีวิต​พวกเขา\n"
+"\n"
+
+#. STRINGS.CODEX.KEEPSAKE.TITLE
+msgctxt "STRINGS.CODEX.KEEPSAKE.TITLE"
+msgid "Keepsakes"
+msgstr "ของที่ระลึก"
+
+#. STRINGS.CODEX.KELP.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.KELP.BODY.CONTAINER1"
+msgid ""
+"The leaf of a <link=\"KELPPLANT\">Seakomb</link>.\n"
+"\n"
+"It can be processed into <link=\"PHYTOOIL\">Phyto Oil</link> or used as an ingredient in <link=\"ANTIHISTAMINE \">Allergy Medication</link>."
+msgstr ""
+"ใบ​ของ<link=\"KELPPLANT\">ซี​คอมบ์</link>\n"
+"\n"
+"นำ​ไป​แปรรูป​เป็น<link=\"PHYTOOIL\">ไฟ​โต​ออยล์</link> (น้ำมันพืช) หรือ​ใช้​เป็น​ส่วนผสม​ใน<link=\"ANTIHISTAMINE \">ยา​แก้​แพ้</link>ได้"
+
 #. STRINGS.CODEX.KELP.SUBTITLE
 msgctxt "STRINGS.CODEX.KELP.SUBTITLE"
 msgid "Plant Byproduct"
 msgstr "ผลพลอยได้​จาก​พืช"
+
+#. STRINGS.CODEX.KELP.TITLE
+msgctxt "STRINGS.CODEX.KELP.TITLE"
+msgid "Seakomb Leaf"
+msgstr "ใบ​ซี​คอมบ์"
+
+#. STRINGS.CODEX.KELPPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.KELPPLANT.BODY.CONTAINER1"
+msgid ""
+"Seakombs are hyperefficient photosynthesizers. While most plants grow towards the light, this aquatic fern's needs are so low that it can prioritize other survival needs.\n"
+"\n"
+"It sprouts on the ceiling of liquid-filled caves, its tendrils reaching down to brush passing critters. This contact encourages critters to consume the plant and excrete the fertilizer that supports its continued growth."
+msgstr ""
+"ซี​คอมบ์​สังเคราะห์แสง​ได้​มีประสิทธิภาพ​สุดขีด ขณะที่​พืช​ส่วน​ใหญ่โต​เข้าหา​แสง เฟิร์น​ใต้​น้ำ​นี้​ต้องการ​แสง​น้อย​มาก​จน​เอา​ไป​ให้ความสำคัญ​กับ​ความต้องการ​เอาชีวิต​รอด​ด้าน​อื่น​ได้\n"
+"\n"
+"มัน​งอก​จาก​เพดาน​ถ้ำ​ที่​เต็มไปด้วย​ของเหลว ปล่อย​หนวด​ห้อย​ลง​ไป​เขี่ย​สัตว์​ที่​ว่าย​ผ่าน การสัมผัส​นี้​ชวน​ให้​สัตว์​กิน​มัน​แล้ว​ขับ​ปุ๋ย​ออกมา​ช่วย​ให้​มัน​โต​ต่อไป​ได้"
+
+#. STRINGS.CODEX.KELPPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.KELPPLANT.SUBTITLE"
+msgid "Aquatic Plant"
+msgstr "พืช​ใต้​น้ำ"
+
+#. STRINGS.CODEX.KELPPLANT.TITLE
+msgctxt "STRINGS.CODEX.KELPPLANT.TITLE"
+msgid "Seakomb"
+msgstr "ซี​คอมบ์"
 
 #. STRINGS.CODEX.LIGHT.HEADER_1
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
 msgid "Light"
 msgstr "แสง"
 
+#. STRINGS.CODEX.LIGHT.HEADER_2
+msgctxt "STRINGS.CODEX.LIGHT.HEADER_2"
+msgid "Light Sources"
+msgstr "แหล่งกำเนิด​แสง"
+
+#. STRINGS.CODEX.LIGHT.HEADER_3
+msgctxt "STRINGS.CODEX.LIGHT.HEADER_3"
+msgid "Measuring Light"
+msgstr "การ​วัด​แสง"
+
 #. STRINGS.CODEX.LIGHT.HEADER_4
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_4"
 msgid "Video: Power Circuits"
 msgstr "วิดีโอ: วงจรไฟฟ้า"
+
+#. STRINGS.CODEX.LIGHT.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_1"
+msgid ""
+"Most of the asteroid is dark. Light sources such as the <link=\"CEILINGLIGHT\">Ceiling Light</link> or <link=\"LIGHTBUG\">Shine Bug</link> improves Decor and gives Duplicants a boost to their productivity. Many plants are also sensitive to the amount of light they receive.\n"
+"\n"
+msgstr ""
+"ดาวเคราะห์​น้อย​ส่วนใหญ่​มืดสนิท แหล่งกำเนิด​แสง​อย่าง<link=\"CEILINGLIGHT\">โคมไฟ​เพดาน</link>หรือ<link=\"LIGHTBUG\">แมลง​เรืองแสง</link>ช่วย​เพิ่ม​ความสวยงาม​และ​เพิ่มประสิทธิภาพ​การทำงาน​ของ​ดู​พลิ​แคนต์ พืช​หลายชนิด​ก็​ไว​ต่อ​ปริมาณ​แสง​ที่​ได้รับ​ด้วย\n"
+"\n"
+
+#. STRINGS.CODEX.LIGHT.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_2"
+msgid ""
+"The <link=\"FLOORLAMP\">Lamp</link> and <link=\"CEILINGLIGHT\">Ceiling Light</link> produce a decent amount of light when powered. The <link=\"LIGHTBUG\">Shine Bug</link> naturally emits a halo of light. Strong solar light is available on the surface during daytime.\n"
+"\n"
+msgstr ""
+"<link=\"FLOORLAMP\">โคมไฟ</link>และ<link=\"CEILINGLIGHT\">โคมไฟ​เพดาน</link>ให้​แสง​พอสมควร​เมื่อ​มี​ไฟ​เลี้ยง <link=\"LIGHTBUG\">แมลง​เรืองแสง</link>เปล่งรัศมี​แสง​ออกมา​เอง​ตาม​ธรรมชาติ ส่วน​แสงอาทิตย์​แรง​จัด​มี​ให้​บน​พื้นผิว​ใน​เวลากลางวัน\n"
+"\n"
+
+#. STRINGS.CODEX.LIGHT.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_3"
+msgid ""
+"The amount of light on a cell is measured in Lux. Lux has a dramatic range - A simple <link=\"CEILINGLIGHT\">Ceiling Light</link> produces 1800 Lux, while the sun can produce values as high as 80000 Lux. The <link=\"SOLARPANEL\">Solar Panel</link> generates power proportional to how many Lux it is exposed to.\n"
+"\n"
+msgstr ""
+"ปริมาณ​แสง​บน​ช่อง​วัด​เป็น​ลักซ์ ค่า​ลักซ์​มี​ช่วง​กว้าง​มาก<link=\"CEILINGLIGHT\">โคมไฟ​เพดาน</link>ธรรมดา​ให้​แสง 1800 ลักซ์ ส่วน​ดวงอาทิตย์​ให้ได้​สูง​ถึง 80000 ลักซ์ <link=\"SOLARPANEL\">แผง​โซลาร์</link> (แผง​พลังงานแสงอาทิตย์) ผลิต​ไฟ​ตาม​สัดส่วน​ลักซ์​ที่​ได้รับ\n"
+"\n"
+
+#. STRINGS.CODEX.LIGHT.PARAGRAPH_4
+msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_4"
+msgid ""
+"To learn more about how to keep a colony well-lit, watch the <link=\"VIDEOS16\">Power Circuits</link> video tutorial.\n"
+"\n"
+msgstr ""
+"อยากรู้​เพิ่มเติม​ว่า​จะ​ทำให้​อาณานิคม​สว่างไสว​ได้​ยังไง ดู​วิดีโอ​บท​สอน<link=\"VIDEOS16\">วงจรไฟฟ้า</link>\n"
+"\n"
+
+#. STRINGS.CODEX.LIGHT.TITLE
+msgctxt "STRINGS.CODEX.LIGHT.TITLE"
+msgid "<link=\"LIGHT\">Light</link>"
+msgstr "<link=\"LIGHT\">แสง</link>"
+
+#. STRINGS.CODEX.LILYPAD.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.LILYPAD.BODY.CONTAINER1"
+msgid ""
+"Cura Lotuses are adaptable aquatic plants that have inspired artists since their blossoms were first spotted bobbing on the surface of a quiet pond.\n"
+"\n"
+"These ethereal beauties are a panacea for both the mind and the body - their delicate spores are highly sought-after for their natural antihistamine properties."
+msgstr ""
+"บัว​คิว​รา​เป็น​พืชน้ำ​ที่​ปรับตัว​เก่ง และ​เป็น​แรงบันดาลใจ​ให้​ศิลปิน​มา​ตั้งแต่​มี​คน​เห็น​ดอก​ของ​มัน​ลอย​โยก​อยู่​บน​ผิว​สระ​น้ำนิ่ง​ครั้งแรก\n"
+"\n"
+"ความงาม​ดุจ​ภาพ​ฝัน​นี้​เป็น​ยาวิเศษ​ทั้งกายและใจ สปอร์​บอบบาง​ของ​มัน​เป็นที่ต้องการ​มาก​เพราะ​มีฤทธิ์​ต้าน​ฮิสตามีน​ตาม​ธรรมชาติ"
 
 #. STRINGS.CODEX.LILYPAD.SUBTITLE
 msgctxt "STRINGS.CODEX.LILYPAD.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "ไม้ประดับ"
 
+#. STRINGS.CODEX.LILYPAD.TITLE
+msgctxt "STRINGS.CODEX.LILYPAD.TITLE"
+msgid "Cura Lotus"
+msgstr "บัว​คิว​รา"
+
 #. STRINGS.CODEX.LOCKS.NEURALVACILLATOR
 msgctxt "STRINGS.CODEX.LOCKS.NEURALVACILLATOR"
 msgid "Neural Vacillator"
 msgstr "เครื่อง​แว​ซิ​ลเลเตอร์​ประสาท"
+
+#. STRINGS.CODEX.LUMBER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.LUMBER.BODY.CONTAINER1"
+msgid ""
+"Thick logs of <link=\"WOOD\">Wood</link> harvested from trees, <link=\"CRABWOOD\">Oakshells</link>, and other natural sources.\n"
+"\n"
+"Wood is also used in the production of <link=\"HEAT\">Heat</link> and <link=\"POWER\">Power</link>. They are also a useful building material."
+msgstr ""
+"ท่อน<link=\"WOOD\">ไม้</link>หนา ๆ ที่​เก็บเกี่ยว​จาก​ต้นไม้<link=\"CRABWOOD\">โอ๊ก​เชลล์</link> และ​แหล่ง​ธรรมชาติ​อื่น ๆ\n"
+"\n"
+"ไม้​ยัง​ใช้​ผลิต<link=\"HEAT\">ความร้อน</link>และ<link=\"POWER\">พลังงาน</link>ได้​ด้วย แถม​เป็น​วัสดุก่อสร้าง​ที่​มีประโยชน์"
 
 #. STRINGS.CODEX.LUMBER.SUBTITLE
 msgctxt "STRINGS.CODEX.LUMBER.SUBTITLE"
 msgid "Renewable Resource"
 msgstr "ทรัพยากร​หมุนเวียน"
 
+#. STRINGS.CODEX.LUMBER.TITLE
+msgctxt "STRINGS.CODEX.LUMBER.TITLE"
+msgid "Wood"
+msgstr "ไม้"
+
+#. STRINGS.CODEX.MEALWOOD.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MEALWOOD.BODY.CONTAINER1"
+msgid ""
+"Mealwood is an bramble-like plant that has a parasitic symbiotic relationship with the nutrient-rich Meal Lice that inhabit it.\n"
+"\n"
+"Mealwood experience a rapid growth rate in its first stages, but once the Meal Lice become active they consume all the new fruiting spurs on the plant before they can fully mature.\n"
+"\n"
+"Theoretically the flowers of this plant are a beautiful color of fuchsia, however no Mealwood has ever reached the point of flowering without being overrun by the parasitic Meal Lice."
+msgstr ""
+"ต้น​เหา​ข้าว​เป็น​พืช​คล้าย​พุ่ม​หนาม​ที่​มี​ความสัมพันธ์​แบบ​ปรสิต​กับ​เหา​ข้าว​สุด​อุดม​คุณค่า​ทาง​อาหาร​ที่​อาศัย​อยู่​บน​มัน\n"
+"\n"
+"ต้น​เหา​ข้าว​โต​เร็ว​มาก​ใน​ช่วงแรก แต่​พอ​เหา​ข้าว​เริ่ม​คึก พวก​มัน​จะ​กิน​กิ่ง​ออกผล​ใหม่​ทั้งหมด​ก่อนที่จะ​โต​เต็มที่\n"
+"\n"
+"ตาม​ทฤษฎี​แล้ว ดอก​ของ​พืช​ชนิด​นี้​มี​สีชมพู​บานเย็น​สวยงาม แต่​ยัง​ไม่​เคย​มี​ต้น​เหา​ข้าว​ต้น​ไหน​ได้​ออกดอก​เลย​โดย​ไม่​โดน​เหา​ข้าว​จอม​ปรสิต​รุม​ก่อน"
+
 #. STRINGS.CODEX.MEALWOOD.SUBTITLE
 msgctxt "STRINGS.CODEX.MEALWOOD.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.MEALWOOD.TITLE
+msgctxt "STRINGS.CODEX.MEALWOOD.TITLE"
+msgid "Mealwood"
+msgstr "ต้น​เหา​ข้าว"
+
+#. STRINGS.CODEX.MELLOWMALLOW.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MELLOWMALLOW.BODY.CONTAINER1"
+msgid ""
+"The Mellow Mallow is a type of fungus that is known for its ease of propagation when cut.\n"
+"\n"
+"It is deadly when consumed, however creatures that mistakenly eat it are said to experience a state of extreme calm before death."
+msgstr ""
+"มา​ล​โลว์​ละมุน​เป็น​เห็ด​ราช​นิดหนึ่ง​ที่​ขึ้น​ชื่อเรื่อง​ขยายพันธุ์​ง่าย​เมื่อ​ถูก​ตัด\n"
+"\n"
+"ถ้า​กิน​เข้าไป​ถึงตาย แต่ว่า​กัน​ว่า​สัตว์​ที่​เผลอ​กิน​เข้าไป​จะ​รู้สึก​สงบ​สุดขีด​ก่อน​ตาย"
 
 #. STRINGS.CODEX.MELLOWMALLOW.SUBTITLE
 msgctxt "STRINGS.CODEX.MELLOWMALLOW.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "ไม้ประดับ"
 
+#. STRINGS.CODEX.MELLOWMALLOW.TITLE
+msgctxt "STRINGS.CODEX.MELLOWMALLOW.TITLE"
+msgid "Mellow Mallow"
+msgstr "มา​ล​โลว์​ละมุน"
+
+#. STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1"
+msgid ""
+"The Mirth Leaf is a broad-leafed house plant used for decorating living spaces.\n"
+"\n"
+"The joyous bobbing of the wide green leaves provides hours of amusement for those desperate for entertainment.\n"
+"\n"
+"Although the Mirth Leaf can inspire laughter and joy, it is not cut out for a career in stand-up comedy."
+msgstr ""
+"ใบ​เบิกบาน​เป็น​ไม้ประดับ​ใน​บ้าน​ใบ​กว้าง​สำหรับ​ตกแต่ง​ที่อยู่อาศัย\n"
+"\n"
+"ใบ​เขียว​กว้าง​ที่​โยก​ไหว​อย่าง​ร่าเริง​ให้​ความบันเทิง​ได้​เป็น​ชั่วโมง ๆ สำหรับ​คน​ที่​หมดหนทาง​หา​อะไร​ดู\n"
+"\n"
+"แม้​ใบ​เบิกบาน​จะ​ชวน​ให้​หัวเราะ​และ​มีความสุข แต่​ก็​ไม่​เหมาะ​ไป​เป็น​นัก​เล่นตลก​เดี่ยว​ไมโครโฟน​หรอก​นะ"
+
 #. STRINGS.CODEX.MIRTHLEAF.SUBTITLE
 msgctxt "STRINGS.CODEX.MIRTHLEAF.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.MIRTHLEAF.TITLE
+msgctxt "STRINGS.CODEX.MIRTHLEAF.TITLE"
+msgid "Mirth Leaf"
+msgstr "ใบ​เบิกบาน"
+
+#. STRINGS.CODEX.MISC.TIP_ICON.FARMING3_SKILL.TOOLTIP
+msgctxt "STRINGS.CODEX.MISC.TIP_ICON.FARMING3_SKILL.TOOLTIP"
+msgid ""
+"Skill Required\n"
+"\n"
+"Duplicants must possess the <link=\"FARMING3\">Improved Farming II</link> skill to salvage <link=\"PLANTFIBER\">Plant Husk</link> during harvest"
+msgstr ""
+"ต้อง​มี​ทักษะ\n"
+"\n"
+"ดู​พลิ​แคนต์​ต้อง​มี​ทักษะ<link=\"FARMING3\">ทำ​ฟาร์ม​ขั้นสูง II</link> ถึง​จะ​เก็บ<link=\"PLANTFIBER\">เปลือก​พืช</link>ได้​ระหว่าง​เก็บเกี่ยว"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER1"
+msgid ""
+"<indent=5%>Hello Dr. Jones,\n"
+"\n"
+"Hope you are well. Sorry to bother you- I believe that someone may have inappropriately accessed my computer.\n"
+"\n"
+"When I was logging in this morning, the \"last log-in\" pop-up indicated that my computer had been accessed at 2 a.m. My last actual log-in was 6 p.m. And some of my files have gone missing.\n"
+"\n"
+"The privacy of my work is paramount. Would it be possible to have someone take a look, please?</indent>"
+msgstr ""
+"<indent=5%>สวัสดี​ค่ะ ดร.โจนส์\n"
+"\n"
+"หวัง​ว่า​สบายดี​นะคะ ขอโทษ​ที่​รบกวน ดิฉัน​คิด​ว่า​มี​คน​เข้า​คอมพิวเตอร์​ของ​ดิฉัน​โดย​ไม่​สมควร\n"
+"\n"
+"เช้านี้​ตอน​ล็อกอิน ป๊อป​อัป \"ล็อกอิน​ล่าสุด\" แสดงว่า​มี​การ​เข้า​คอมพิวเตอร์​ตอน​ตีสอง แต่​ดิฉัน​ล็อกอิน​จริง​ครั้ง​ล่าสุด​ตอน​หก​โมง​เย็น แล้ว​ไฟล์​บางส่วน​ของ​ดิฉัน​ก็​หาย​ไป​ด้วย\n"
+"\n"
+"ความเป็นส่วนตัว​ของ​งาน​ดิฉัน​สำคัญ​ที่สุด รบกวน​ให้​ใคร​มา​ช่วย​ดู​หน่อย​ได้​ไหม​คะ?</indent>"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>OMG Amari, you're so dramatic!! It's probably just a glitch from the system network upgrade. Nobody can even get into your office without going through the new hand scanners.\n"
+"\n"
+"PS: Everybody's work is super private, not just yours ;)</indent>"
+msgstr ""
+"<indent=5%>ตาย​แล้ว อา​มา​รี เธอ​นี่​ดราม่า​จัง!! น่าจะ​แค่​ระบบ​รวน​จาก​การ​อัปเกรด​เครือข่าย​น่ะ ไม่​มี​ใคร​เข้า​ห้อง​เธอ​ได้​หรอก​ถ้า​ไม่​ผ่าน​เครื่อง​สแกน​มือ​ตัวใหม่\n"
+"\n"
+"ป.ล. งาน​ของ​ทุกคน​ก็​ลับ​สุด ๆ ทั้ง​นั้นแหละ ไม่​ใช่​แค่​ของ​เธอ ;)</indent>"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER3"
+msgid ""
+"<indent=5%>Dear Dr. Jones,\n"
+"I'm so sorry to bother you again...it's just that I'm absolutely certain that someone has been interfering with my files.\n"
+"\n"
+"I've noticed several discrepancies since last week's \"glitch.\" For example, responses to my recent employee survey on workplace satisfaction and safety were decrypted, and significant portions of my data and research notes have been erased. I'm even missing a few e-mails.\n"
+"\n"
+"It's all quite alarming. Could you or Dr. Summers please investigate this when you have a moment?\n"
+"\n"
+"Thank you so much,\n"
+"\n"
+"</indent>"
+msgstr ""
+"<indent=5%>เรียน ดร.โจนส์\n"
+"ขอโทษ​จริง ๆ ที่​รบกวน​อีกแล้ว​ค่ะ...แต่​ดิฉัน​มั่นใจ​เต็ม​ร้อย​ว่า​มี​คน​ยุ่ง​กับ​ไฟล์​ของ​ดิฉัน\n"
+"\n"
+"ดิฉัน​พบ​ความผิดปกติ​หลายอย่าง​ตั้งแต่ \"ระบบ​รวน\" เมื่อ​สัปดาห์​ก่อน เช่น คำตอบ​แบบ​สำรวจ​พนักงาน​เรื่อง​ความพึงพอใจ​และ​ความปลอดภัย​ใน​ที่ทำงาน​ล่าสุด​ของ​ดิฉัน​ถูก​ถอดรหัส ข้อมูล​และ​บันทึก​วิจัย​ส่วนใหญ่​ถู​กลบ แถม​อีเมล​บาง​ฉบับ​ก็​หาย​ไป​ด้วย\n"
+"\n"
+"น่า​ตกใจ​มาก​เลย​ค่ะ ถ้า​คุณ​หรือ ดร.ซัมเมอร์​ส ว่าง​เมื่อไหร่ ช่วย​ตรวจสอบ​เรื่อง​นี้​ได้​ไหม​คะ?\n"
+"\n"
+"ขอบคุณ​มาก​ค่ะ\n"
+"\n"
+"</indent>"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER4"
+msgid ""
+"<indent=5%>The files in question were a security risk, and were disposed of accordingly.\n"
+"\n"
+"As for your emails: the NDA you signed was very clear about how to handle requests from members of the media.\n"
+"\n"
+"See me in my office.</indent>"
+msgstr ""
+"<indent=5%>ไฟล์​ที่ว่า​เป็น​ความเสี่ยง​ด้าน​ความปลอดภัย และ​ถูก​กำจัด​ไป​ตามระเบียบ​แล้ว\n"
+"\n"
+"ส่วน​เรื่อง​อีเมล​ของ​เธอ: NDA ที่​เธอ​เซ็น​ระบุ​ไว้​ชัดเจน​มา​กว่า​ต้อง​จัดการ​คำขอ​จาก​สื่อมวลชน​อย่างไร\n"
+"\n"
+"มา​พบ​ฉัน​ที่​ห้อง</indent>"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color>\n"
+"From: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.โจนส์</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color>\n"
+"จาก: <b>ดร.โอ​โล​เว</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER2
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER2"
+msgid ""
+"<smallcaps>To: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color>\n"
+"From: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.โอ​โล​เว</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color>\n"
+"จาก: <b>ดร.โจนส์</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER3
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER3"
+msgid ""
+"<smallcaps>To: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color>\n"
+"From: <b>Director Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.โอ​โล​เว</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color>\n"
+"จาก: <b>ผู้​อำนวย​กา​รส​เติร์น</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"-Dr. Olowe\n"
+"<size=11>Industrial-Organizational Psychologist\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ดร.โอ​โล​เว\n"
+"<size=11>นักจิตวิทยา​อุตสาหกรรม​และ​องค์การ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2"
@@ -38315,20 +38710,81 @@ msgstr ""
 "ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
 "------------------\n"
 
+#. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE3
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE3"
+msgid ""
+"\n"
+"-Director Stern\n"
+"<size=11>\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ผู้​อำนวย​กา​รส​เติร์น\n"
+"<size=11>\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
 #. STRINGS.CODEX.MISSINGNOTES.SUBTITLE
 msgctxt "STRINGS.CODEX.MISSINGNOTES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.MISSINGNOTES.TITLE
+msgctxt "STRINGS.CODEX.MISSINGNOTES.TITLE"
+msgid "Re: Missing notes"
+msgstr "Re: บันทึก​หาย​ไป"
+
+#. STRINGS.CODEX.MISSINGNOTES.TITLE2
+msgctxt "STRINGS.CODEX.MISSINGNOTES.TITLE2"
+msgid "SUBJECT: Missing notes"
+msgstr "เรื่อง: บันทึก​หาย​ไป"
+
+#. STRINGS.CODEX.MOLE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MOLE.BODY.CONTAINER1"
+msgid "The Shove Vole is a unique creature that possesses two fully developed sets of lungs, allowing it to hold its breath during the long periods it spends underground."
+msgstr "ชอฟ​โว​ล​เป็น​สัตว์​พิเศษ​ที่​มี​ปอด​พัฒนา​เต็ม​ที่สอง​ชุด ทำให้​กลั้นหายใจ​ได้​นาน​ตลอด​ช่วง​ที่อยู่​ใต้ดิน"
+
+#. STRINGS.CODEX.MOLE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.MOLE.BODY.CONTAINER2"
+msgid "Drill-shaped keratin structures circling the Vole's body aids its ability to drill at high speeds through most natural materials."
+msgstr "โครงสร้าง​เคราติน​รูป​สว่าน​ที่​วน​รอบตัว​โว​ล​ช่วย​ให้​มัน​เจาะ​ทะลุ​วัสดุ​ธรรมชาติ​ส่วนใหญ่​ได้​ด้วย​ความเร็ว​สูง"
 
 #. STRINGS.CODEX.MOLE.SUBTITLE
 msgctxt "STRINGS.CODEX.MOLE.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.MOLE.TITLE
+msgctxt "STRINGS.CODEX.MOLE.TITLE"
+msgid "Shove Vole"
+msgstr "ชอฟ​โว​ล"
+
+#. STRINGS.CODEX.MOLTEN.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MOLTEN.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Molten\" Slickster variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: ส​ลิ​กสเตอร์​สายพันธุ์​ย่อย \"หลอมเหลว\"</smallcaps>"
+
+#. STRINGS.CODEX.MOLTEN.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.MOLTEN.BODY.CONTAINER2"
+msgid ""
+"Slicksters are amicable creatures famous amongst breeders for their good personalities and smiley faces.\n"
+"\n"
+"Slicksters rarely if ever nip at human handlers, and are considered non-ideal house pets only for the oily mess they involuntarily leave behind wherever they go."
+msgstr ""
+"ส​ลิ​กสเตอร์​เป็น​สัตว์​เป็นมิตร ขึ้นชื่อ​ใน​หมู่​นัก​เพาะพันธุ์​เรื่อง​นิสัย​ดี​และ​หน้า​ยิ้มแป้น\n"
+"\n"
+"ส​ลิ​กสเตอร์​แทบ​ไม่​เคย​งับ​คนเลี้ยง​เลย และ​ที่​ถูก​มองว่า​ไม่​เหมาะ​เป็น​สัตว์เลี้ยง​ใน​บ้าน​ก็​เพราะ​คราบ​น้ำมัน​เลอะเทอะ​ที่​มัน​ทิ้ง​ไว้​โดยไม่ตั้งใจ​ทุกที่​ที่​ไป​เท่านั้นเอง"
+
 #. STRINGS.CODEX.MOLTEN.SUBTITLE
 msgctxt "STRINGS.CODEX.MOLTEN.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.MOLTEN.TITLE
+msgctxt "STRINGS.CODEX.MOLTEN.TITLE"
+msgid "Molten Slickster"
+msgstr "ส​ลิ​กสเตอร์​หลอมเหลว"
 
 #. STRINGS.CODEX.MORALE.HEADER_1
 msgctxt "STRINGS.CODEX.MORALE.HEADER_1"
@@ -38350,6 +38806,33 @@ msgctxt "STRINGS.CODEX.MORALE.HEADER_4"
 msgid "Tutorials"
 msgstr "บท​สอน"
 
+#. STRINGS.CODEX.MORALE.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_1"
+msgid ""
+"Morale describes the relationship between a Duplicant's <link=\"ROLES\">Skills</link> and their Lifestyle. The more skills a Duplicant has, the higher their morale expectation will be. Duplicants with morale below their expectation will experience a <link=\"STRESS\">Stress</link> penalty. Comforts such as quality <link=\"FOOD\">Food</link>, nice rooms, and recreation will increase morale.\n"
+"\n"
+msgstr ""
+"ขวัญ​กำลังใจ​คือ​ความสัมพันธ์​ระหว่าง<link=\"ROLES\">ทักษะ</link>ของ​ดู​พลิ​แคนต์​กับ​ไลฟ์สไตล์ ยิ่ง​ดู​พลิ​แคนต์​มี​ทักษะ​มาก ความคาดหวัง​ด้าน​ขวัญ​กำลังใจ​ก็​ยิ่ง​สูง ดู​พลิ​แคนต์​ที่​ขวัญ​กำลังใจ​ต่ำกว่า​ที่​คาดหวัง​จะ​โดน​บทลงโทษ​เป็น<link=\"STRESS\">ความเครียด</link> ความ​สะดวกสบาย​อย่าง<link=\"FOOD\">อาหาร</link>คุณภาพดี ห้อง​สวย ๆ และ​สันทนาการ​จะ​เพิ่ม​ขวัญ​กำลังใจ\n"
+"\n"
+
+#. STRINGS.CODEX.MORALE.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_2"
+msgid ""
+"Recreation buildings such as the <link=\"WATERCOOLER\">Water Cooler</link> and <link=\"ESPRESSOMACHINE\">Espresso Machine</link> improve a Duplicant's morale when used. Duplicants need downtime time in their schedules to use these buildings.\n"
+"\n"
+msgstr ""
+"สิ่งก่อสร้าง​สันทนาการ​อย่าง<link=\"WATERCOOLER\">ตู้​กดน้ำ</link>และ<link=\"ESPRESSOMACHINE\">เครื่อง​ชง​เอสเปรสโซ</link>จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​เมื่อ​ใช้งาน ดู​พลิ​แคนต์​ต้อง​มี​เวลาว่าง​ใน​ตารางเวลา​ถึง​จะ​ไป​ใช้​สิ่งก่อสร้าง​พวก​นี้​ได้\n"
+"\n"
+
+#. STRINGS.CODEX.MORALE.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_3"
+msgid ""
+"If a Duplicant has a very high Morale value, they will spontaneously display an Overjoyed Response. Each Duplicant has a different Overjoyed Behavior - but all overjoyed responses are good. Some will positively affect Building <link=\"DECOR\">Decor</link>, others will positively affect Duplicant morale or productivity.\n"
+"\n"
+msgstr ""
+"ถ้า​ดู​พลิ​แคนต์​มี​ขวัญ​กำลัง​ใจสูง​มาก จะ​แสดงอาการ​ดีใจ​สุดขีด​ออกมา​เอง ดู​พลิ​แคนต์​แต่ละคน​มี​พฤติกรรม​ดีใจ​สุดขีด​ไม่​เหมือนกัน แต่​อาการ​ดีใจ​สุดขีด​ทุก​แบบ​ล้วน​ดี​ทั้งนั้น บาง​แบบ​ช่วย​เพิ่ม<link=\"DECOR\">ความสวยงาม</link>ของ​สิ่งก่อสร้าง บาง​แบบ​ช่วย​เพิ่ม​ขวัญ​กำลังใจ​หรือ​ประสิทธิภาพ​การทำงาน​ของ​ดู​พลิ​แคนต์\n"
+"\n"
+
 #. STRINGS.CODEX.MORALE.PARAGRAPH_4
 msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_4"
 msgid ""
@@ -38359,20 +38842,258 @@ msgstr ""
 "อยากรู้​เพิ่มเติม ดู<link=\"VIDEOS13\">วิดีโอ: ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์</link> และ<link=\"MISCELLANEOUSTIPS2\">บท​สอน: การ​จัดการ​ความเครียด</link>\n"
 "\n"
 
+#. STRINGS.CODEX.MORALE.TITLE
+msgctxt "STRINGS.CODEX.MORALE.TITLE"
+msgid "<link=\"MORALE\">Morale</link>"
+msgstr "<link=\"MORALE\">ขวัญ​กำลังใจ</link>"
+
+#. STRINGS.CODEX.MORB.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER1"
+msgid "The Morb is a versatile scavenger, capable of breaking down and consuming dead matter from most plant and animal species."
+msgstr "มอร์บ​เป็น​สัตว์​กิน​ซาก​อเนกประสงค์ ย่อยสลาย​และ​กิน​ซาก​ของ​พืช​และ​สัตว์​ได้​แทบ​ทุก​สายพันธุ์"
+
+#. STRINGS.CODEX.MORB.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER2"
+msgid ""
+"It poses a severe disease risk to humans due to the thick slime it excretes to surround its inner cartilage structures.\n"
+"\n"
+"A single teaspoon of Morb slime can contain up to a quadrillion bacteria that work to deter would-be predators and liquefy its food."
+msgstr ""
+"มัน​เสี่ยง​แพร่​โรค​ร้ายแรง​สู่​มนุษย์ เพราะ​เมือก​ข้น​ที่​มัน​ขับ​ออกมา​ห่อหุ้ม​โครงสร้าง​กระดูกอ่อน​ภายใน\n"
+"\n"
+"เมือก​มอร์บ​แค่​ช้อนชา​เดียว​อาจ​มี​แบคทีเรีย​ได้​ถึง​พัน​ล้าน​ล้าน​ตัว ซึ่ง​คอย​ไล่​ผู้ล่า​และ​ย่อย​อาหาร​ของ​มัน​ให้​เหลว"
+
+#. STRINGS.CODEX.MORB.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER3"
+msgid "Petting a Morb is not recommended."
+msgstr "ไม่​แนะนำ​ให้​ลูบ​มอร์บ​นะ"
+
+#. STRINGS.CODEX.MORB.SUBTITLE
+msgctxt "STRINGS.CODEX.MORB.SUBTITLE"
+msgid "Pest Critter"
+msgstr "สัตว์​รบกวน"
+
+#. STRINGS.CODEX.MORB.TITLE
+msgctxt "STRINGS.CODEX.MORB.TITLE"
+msgid "Morb"
+msgstr "มอร์บ"
+
+#. STRINGS.CODEX.MOSQUITO.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MOSQUITO.BODY.CONTAINER1"
+msgid ""
+"The Gnit is an insectoid critter that relies on supplementary nutrients and minerals from Duplicants and other critters to mitigate the outsized energy requirements of its reproductive system.\n"
+"\n"
+"Gnits' antennae double as maxillary palps equipped with finely tuned olfactory receptor neurons that enable them to pinpoint nutrient sources from a great distance.\n"
+"\n"
+"These same receptors activate the insectoid's flight response upon detecting certain changes in an organism's respiration, such as the sharp intake of breath that precedes a fatal counter-attack."
+msgstr ""
+"ยุง​นิ​ต​เป็น​สัตว์​คล้าย​แมลง​ที่​ต้อง​พึ่ง​สารอาหาร​และ​แร่ธาตุ​เสริม​จาก​ดู​พลิ​แคนต์​และ​สัตว์​อื่น เพื่อ​ชดเชย​ความต้องการ​พลังงาน​มหาศาล​ของ​ระบบ​สืบพันธุ์\n"
+"\n"
+"หนวด​ของ​ยุง​นิ​ต​ทำหน้าที่​เป็น​รยางค์​คลำ​ปาก​ด้วย มี​เซลล์​ประสาท​รับ​กลิ่น​ที่​ปรับ​จูน​มา​อย่าง​ละเอียด ทำให้​มัน​ระบุ​แหล่ง​อาหาร​ได้​จาก​ระยะไกล​มาก\n"
+"\n"
+"ตัวรับ​กลิ่น​เดียวกัน​นี้​ยัง​กระตุ้น​สัญชาตญาณ​หนี​ของ​มัน​เมื่อ​ตรวจ​พบ​การ​หายใจ​ที่​เปลี่ยนไป​ของ​สิ่งมีชีวิต เช่น การสูด​หายใจ​เฮือก​ก่อน​จะ​ตบ​สวน​กลับ​ปุ๊บ​ตาย​คามือ"
+
 #. STRINGS.CODEX.MOSQUITO.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.MOSQUITO.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.MOSQUITO.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.MOSQUITO.SPECIES_TITLE"
+msgid "Gnits"
+msgstr "ยุง​นิ​ต"
+
+#. STRINGS.CODEX.MOSQUITO.SUBTITLE
+msgctxt "STRINGS.CODEX.MOSQUITO.SUBTITLE"
+msgid "Pest Critter"
+msgstr "สัตว์​รบกวน"
+
+#. STRINGS.CODEX.MOSQUITO.TITLE
+msgctxt "STRINGS.CODEX.MOSQUITO.TITLE"
+msgid "Gnit"
+msgstr "ยุง​นิ​ต"
+
+#. STRINGS.CODEX.MUCKROOT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MUCKROOT.BODY.CONTAINER1"
+msgid ""
+"The Muckroot is an aggressively invasive yet exceedingly delicate root plant known for its earthy flavor and unusual texture.\n"
+"\n"
+"It is easy to store and keeps for unusually long periods of time, characteristics that once made it a staple food for explorers on long expeditions."
+msgstr ""
+"ราก​โคลน​เป็น​พืช​หัว​ที่​รุกราน​หนัก​แต่​บอบบาง​สุด ๆ ขึ้น​ชื่อเรื่อง​รสชาติ​แบบ​ดิน ๆ และ​เนื้อ​สัมผัส​แปลกประหลาด\n"
+"\n"
+"มัน​เก็บรักษา​ง่าย​และ​อยู่​ได้​นาน​ผิดปกติ คุณสมบัติ​ที่​ครั้งหนึ่ง​ทำให้​มัน​เป็น​อาหาร​หลัก​ของ​นัก​สำรวจ​ใน​การ​เดินทางไกล"
 
 #. STRINGS.CODEX.MUCKROOT.SUBTITLE
 msgctxt "STRINGS.CODEX.MUCKROOT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.MUCKROOT.TITLE
+msgctxt "STRINGS.CODEX.MUCKROOT.TITLE"
+msgid "Muckroot"
+msgstr "ราก​โคลน"
+
+#. STRINGS.CODEX.MUSSELSPROUT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MUSSELSPROUT.BODY.CONTAINER1"
+msgid ""
+"Mussel Sprouts are hardy plants that thrive in wild marine environments. A dense shell protects the edible sprout (colloquially referred to as its \"tongue\") during growth.\n"
+"\n"
+"While not sentient per se, Mussel Sprouts do possess a survival instinct: during harvesting, they may attempt to escape by dragging themselves away using their prehensile tongue. This action occurs at such a glacial pace, however, that it is effectively invisible to the naked eye."
+msgstr ""
+"หน่อ​หอย​แมลงภู่​เป็น​พืช​ทนทาน​ที่​เติบโต​ได้ดี​ใน​ทะเล​ธรรมชาติ เปลือก​หนาแน่น​ช่วย​ปกป้อง​หน่อ​ที่​กิน​ได้ (ที่​คน​เรียกกันว่า \"ลิ้น\") ระหว่าง​เติบโต\n"
+"\n"
+"แม้​จะ​ไม่​ได้​มี​ความรู้สึกนึกคิด​จริง ๆ แต่​หน่อ​หอย​แมลงภู่​ก็​มี​สัญชาตญาณ​เอาตัวรอด​นะ: ระหว่าง​เก็บเกี่ยว มัน​อาจ​พยายาม​หนี​ด้วย​การ​ใช้​ลิ้น​ที่จับ​ของ​ได้​ลาก​ตัวเอง​ออก​ไป แต่​ทำ​ช้า​เป็น​เต่า​คลาน​จน​ตาเปล่า​มองไม่เห็น​เลย"
+
 #. STRINGS.CODEX.MUSSELSPROUT.SUBTITLE
 msgctxt "STRINGS.CODEX.MUSSELSPROUT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.MUSSELSPROUT.TITLE
+msgctxt "STRINGS.CODEX.MUSSELSPROUT.TITLE"
+msgid "Mussel Sprout"
+msgstr "หน่อ​หอย​แมลงภู่"
+
+#. STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.BODY"
+msgid ""
+"As I suspected. Our \"asteroid\" and the estimated mass missing from the nearby planet are nearly identical.\n"
+"\n"
+"We aren't on the target location.\n"
+"\n"
+"We never even left home.\n"
+"\n"
+msgstr ""
+"อย่าง​ที่​ฉัน​สงสัย​ไว้ \"ดาวเคราะห์​น้อย\" ของ​เรา​กับ​มวล​ที่​คาด​ว่า​หาย​ไป​จาก​ดาวเคราะห์​ใกล้เคียง​แทบจะ​เท่ากัน​เป๊ะ\n"
+"\n"
+"เรา​ไม่​ได้​อยู่​ที่​จุดหมาย\n"
+"\n"
+"เรา​ไม่​เคย​ออกจาก​บ้าน​เลย​ด้วยซ้ำ\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.TITLE"
+msgid "Calculations Complete"
+msgstr "คำนวณ​เสร็จสิ้น"
+
+#. STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.BODY"
+msgid ""
+"My Duplicant's investigations into the surrounding space have yielded some interesting results. We are not alone!... At least on a planetary level. We seem to be in a \"Cluster of Worlds\" - a collection of other planetoids my Duplicants can now explore.\n"
+"\n"
+"Since resources on this world are finite, I must build the necessary infrastructure to facilitate exploration and transportation between worlds in order to ensure my colony's survival."
+msgstr ""
+"การสำรวจ​อวกาศ​รอบตัว​ของ​ดู​พลิ​แคนต์​ของ​ฉัน​ได้​ผลลัพธ์​ที่​น่าสนใจ เรา​ไม่​ได้​อยู่​โดดเดี่ยว!... อย่าง​น้อย​ก็​ใน​ระดับ​ดาวเคราะห์ ดูเหมือน​เรา​อยู่​ใน \"คลัสเตอร์​แห่ง​โลก\" ซึ่ง​เป็น​กลุ่ม​ดาว​ดวง​อื่น ๆ ที่​ดู​พลิ​แคนต์​ของ​ฉัน​ออก​สำรวจ​ได้​แล้ว\n"
+"\n"
+"เพราะ​ทรัพยากร​บน​โลก​นี้​มีจำกัด ฉัน​ต้อง​สร้าง​โครงสร้างพื้นฐาน​ที่​จำเป็น​เพื่อ​ช่วย​ให้​สำรวจ​และ​ขนส่ง​ระหว่าง​โลก​ได้ เพื่อให้​อาณานิคม​ของ​ฉัน​อยู่รอด"
+
+#. STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.TITLE"
+msgid "Cluster of Worlds"
+msgstr "คลัสเตอร์​แห่ง​โลก"
+
+#. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY"
+msgid ""
+"I lost my first Duplicant today. Duplicants form strong bonds with each other, and I expect I'll see a drop in morale over the next few cycles as they take time to grieve their loss.\n"
+"\n"
+"I find myself grieving too, in my way. I was tasked to protect these Duplicants, and I failed. All I can do now is move forward and resolve to better protect those remaining in my colony from here on out.\n"
+"\n"
+"Rest in peace, dear little friend.\n"
+"\n"
+msgstr ""
+"วันนี้​ฉัน​เสีย​ดู​พลิ​แคนต์คน​แรก​ไป ดู​พลิ​แคนต์​ผูกพัน​กัน​แน่นแฟ้น และ​ฉัน​คาด​ว่า​ขวัญ​กำลังใจ​จะ​ตกลง​ใน​อีก​ไม่​กี่​รอบ​ข้างหน้า ระหว่าง​ที่​พวกเขา​ใช้เวลา​ไว้อาลัย​ต่อ​การ​สูญเสีย\n"
+"\n"
+"ฉัน​เอง​ก็​รู้สึก​เศร้า​ใน​แบบ​ของ​ฉัน ฉัน​ได้​รับมอบหมาย​ให้​ปกป้อง​ดู​พลิ​แคนต์​เหล่านี้ แต่​ฉัน​ล้มเหลว ตอนนี้​ทำได้​แค่​เดินหน้า​ต่อ และ​ตั้งใจ​ว่า​จะ​ปกป้อง​คน​ที่​เหลืออยู่​ใน​อาณานิคม​ให้​ดีกว่า​นี้​นับ​จากนี้ไป\n"
+"\n"
+"หลับ​ให้​สบาย​นะ เพื่อน​ตัว​น้อย​ที่รัก\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.TITLE"
+msgid "Death In The Colony"
+msgstr "ความตาย​ใน​อาณานิคม"
+
+#. STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.BODY"
+msgid ""
+"I've officially run out of unique blueprints from which to print new Duplicants.\n"
+"\n"
+"If I desire to grow the colony further, I'll have no choice but to print doubles of existing individuals. Hopefully it won't throw anyone into an existential crisis to live side by side with their double.\n"
+"\n"
+"Perhaps I could give the new clones nicknames to reduce the confusion.\n"
+"\n"
+msgstr ""
+"ฉัน​ใช้​พิมพ์เขียว​ที่​ไม่​ซ้ำ​กัน​สำหรับ​พิมพ์​ดู​พลิ​แคนต์​ใหม่​จน​หมด​แล้ว​อย่าง​เป็นทางการ\n"
+"\n"
+"ถ้า​อยาก​ขยาย​อาณานิคม​ต่อ ฉัน​คง​ไม่​มี​ทางเลือก​นอกจาก​พิมพ์​ร่าง​ซ้ำ​ของ​คน​ที่​มี​อยู่แล้ว หวัง​ว่าการ​ได้​อยู่​เคียงข้าง​ร่าง​ซ้ำ​ของ​ตัวเอง​จะ​ไม่​ทำให้​ใคร​เกิด​วิกฤต​ตัวตน​นะ\n"
+"\n"
+"บางที​ฉัน​อาจ​ตั้ง​ชื่อเล่น​ให้​โคลน​ใหม่​เพื่อ​ลด​ความ​สับสน\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.TITLE"
+msgid "Out Of Blueprints"
+msgstr "พิมพ์เขียว​หมด​แล้ว"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG1.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG1.BODY"
+msgid ""
+"We have no life support in place yet, but we've found ourselves in a small breathable air pocket. As far as I can tell, we aren't in any immediate danger.\n"
+"\n"
+"Between the available air and our meager food stores, I'd estimate we have about 3 days to set up food and oxygen production before my Duplicants' lives are at risk.\n"
+"\n"
+msgstr ""
+"เรา​ยัง​ไม่​มีระบบ​ช่วยชีวิต​เลย แต่​เรา​อยู่​ใน​โพรง​อากาศ​เล็ก ๆ ที่​หายใจ​ได้ เท่าที่​ฉัน​บอก​ได้ เรา​ยัง​ไม่​ได้​อยู่​ใน​อันตราย​เฉพาะหน้า\n"
+"\n"
+"จาก​อากาศ​ที่​มี​และ​เสบียงอาหาร​อันน้อย​นิด ฉัน​ประเมิน​ว่า​เรา​มี​เวลา​ราว 3 วัน​ใน​การ​ตั้ง​ระบบ​ผลิต​อาหาร​และ​ออกซิเจน ก่อนที่​ชีวิต​ของ​ดู​พลิ​แคนต์​จะ​ตก​อยู่​ใน​ความเสี่ยง\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG1.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG1.TITLE"
+msgid "Cycle 1"
+msgstr "รอบ​ที่ 1"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG2.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG2.BODY"
+msgid ""
+"I've almost synthesized enough Ooze to print a new Duplicant; once the Ooze is ready, all I'll have left to do is choose a blueprint.\n"
+"\n"
+"It'd be helpful to have an extra set of hands around the colony, but having another Duplicant also means another mouth to feed.\n"
+"\n"
+"Of course, I could always print supplies to help my existing Duplicants instead. I'm sure they would appreciate it.\n"
+"\n"
+msgstr ""
+"ฉัน​สังเคราะห์​เมือก​ได้​เกือบ​พอ​จะ​พิมพ์​ดู​พลิ​แคนต์​ใหม่​แล้ว พอ​เมือก​พร้อม สิ่ง​เดียว​ที่​เหลือ​ก็​แค่​เลือก​พิมพ์เขียว\n"
+"\n"
+"มี​มือ​เพิ่ม​อีก​คู่​ใน​อาณานิคม​ก็ดี​นะ แต่​มี​ดู​พลิ​แคนต์​เพิ่ม​ก็​หมายถึง​มี​ปาก​ต้อง​เลี้ยง​เพิ่ม​ด้วย\n"
+"\n"
+"แน่นอน​ว่า​ฉัน​พิมพ์​เสบียง​มา​ช่วย​ดู​พลิ​แคนต์​ที่​มี​อยู่​แทน​ก็ได้ พวกเขา​คง​ชอบใจ​แน่\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG2.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG2.TITLE"
+msgid "Cycle 3"
+msgstr "รอบ​ที่ 3"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG3.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3.BODY"
+msgid ""
+"As far as I can tell, we are hundreds of miles beneath the surface of the planet. Digging our way out will take some time.\n"
+"\n"
+"My Duplicants will survive, but they were not meant for sustained underground living. Under what possible circumstances could my Pod have ended up here?\n"
+"\n"
+msgstr ""
+"เท่าที่​ฉัน​บอก​ได้ เรา​อยู่​ลึก​ใต้​พื้นผิว​ดาว​หลาย​ร้อย​ไมล์ การ​ขุด​ทางออก​ไป​คง​ใช้เวลา​สักพัก\n"
+"\n"
+"ดู​พลิ​แคนต์​ของ​ฉัน​จะ​รอด แต่​พวกเขา​ไม่​ได้​ถูก​สร้าง​มา​ให้​ใช้ชีวิต​ใต้ดิน​นาน ๆ พ็อด​ของ​ฉัน​มา​ลงเอย​ที่นี่​ได้​ยังไง​กัน​นะ?\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE"
+msgid "Cycle 15"
+msgstr "รอบ​ที่ 15"
 
 #. STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE"
@@ -38972,6 +39693,11 @@ msgstr "พืช​ที่​ปลูก​ได้"
 msgctxt "STRINGS.CODEX.URCHIN.SUBTITLE"
 msgid "Aquatic Organism"
 msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.URCHINPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.URCHINPLANT.SUBTITLE"
+msgid "Aquatic Plant"
+msgstr "พืช​ใต้​น้ำ"
 
 #. STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE
 msgctxt "STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE"
