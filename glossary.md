@@ -94,3 +94,27 @@
 | โรเวอร์ | ยานสำรวจ |
 | เรดโบลต์ | ลำอนุภาครังสี |
 | วัลคาไนซ์ | อบยาง |
+
+## คุณสมบัติดูพลิแคนต์ (Attributes)
+| Athletics | กีฬา |
+| Creativity | ความคิดสร้างสรรค์ |
+| Science | วิทยาศาสตร์ |
+| Machinery | เครื่องจักรกล |
+| Strength | พละกำลัง |
+| Cuisine | การทำอาหาร |
+| Excavation | การขุด |
+| Husbandry | การเลี้ยงสัตว์ |
+| Construction | ก่อสร้าง |
+| Agriculture | เกษตรกรรม |
+| Piloting | การบังคับยาน |
+| Medicine | การแพทย์ |
+| Toggle | การปรับตั้ง |
+| Germ Resistance | ความต้านทานเชื้อโรค |
+| Insulation | ฉนวน |
+| Expertise | ความเชี่ยวชาญ |
+| Morale Need | ขวัญกำลังใจที่ต้องการ |
+| Pitcher Pump | ปั๊มมือโยก |
+| Slimelung | ปอดเมือก |
+| Gunk | คราบเหนียว |
+| Flydo | ฟลายโด |
+| Desalinator | เครื่องแยกเกลือ |
