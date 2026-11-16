@@ -4912,20 +4912,376 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
 msgid "Requested Flow Rate: {QueuedMaxFlow}"
 msgstr "อัตรา​ไหล​ที่​ขอ: {QueuedMaxFlow}"
 
+#. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP"
+msgid "Waiting for a Duplicant to adjust flow rate"
+msgstr "รอ​ดู​พลิ​แคนต์​มา​ปรับ​อัตรา​ไหล"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
+msgid ""
+"Awaiting Delivery\n"
+"{ItemsRemaining}"
+msgstr ""
+"รอ​ส่ง​ของ\n"
+"{ItemsRemaining}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP"
+msgid "These materials will be delivered once a Duplicant is available"
+msgstr "วัสดุ​เหล่านี้​จะ​ถูก​ส่ง​มา​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.NAME"
+msgid "Awaiting Radbolts"
+msgstr "รอ​เร​ด​โบ​ลต์"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP"
+msgid ""
+"This building requires Radbolts to function\n"
+"\n"
+"Open the <b>Radiation Overlay</b> {Hotkey/Overlay15} to view this building's radiation port"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​ต้อง​ใช้​เร​ด​โบ​ลต์ (ลำ​อนุภาค​รังสี) จึง​จะ​ทำงาน​ได้\n"
+"\n"
+"เปิด<b>โอเวอร์​เลย์​รังสี</b> (มุมมอง​ข้อมูล) {Hotkey/Overlay15} เพื่อ​ดู​พอร์ต​รังสี​ของ​สิ่งก่อสร้าง​นี้"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME"
+msgid ""
+"Awaiting Repair Delivery\n"
+"{ItemsRemaining}\n"
+msgstr ""
+"รอ​ส่ง​วัสดุ​ซ่อม\n"
+"{ItemsRemaining}\n"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP"
+msgid "These materials must be delivered before this building can be repaired"
+msgstr "ต้อง​ส่ง​วัสดุ​เหล่านี้​มา​ก่อน​จึง​จะ​ซ่อม​สิ่งก่อสร้าง​นี้​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGTOLAND.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGTOLAND.NAME"
+msgid "Waiting to land on {Destination}"
+msgstr "รอ​ลง​จอด​ที่ {Destination}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGTOLAND.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGTOLAND.TOOLTIP"
+msgid "This rocket is waiting for an available Rcoket Platform on {Destination}"
+msgstr "จรวด​ลำ​นี้​กำลัง​รอ​ฐาน​ปล่อย​จรวด​ที่ว่าง​บน {Destination}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WARPCONDUITPARTNERDISABLED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WARPCONDUITPARTNERDISABLED.NAME"
+msgid "Teleporter Disabled ({x}/2)"
+msgstr "ปิด​เครื่อง​เท​เล​พอร์ต ({x}/2)"
+
+#. STRINGS.BUILDING.STATUSITEMS.WARPCONDUITPARTNERDISABLED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WARPCONDUITPARTNERDISABLED.TOOLTIP"
+msgid "This teleporter cannot be used until both the transmitting and receiving sides have been activated"
+msgstr "ใช้​เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) นี้​ไม่​ได้​จนกว่า​จะ​เปิด​ใช้​ทั้ง​ฝั่ง​ส่ง​และ​ฝั่ง​รับ"
+
+#. STRINGS.BUILDING.STATUSITEMS.WARPPORTALCHARGING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WARPPORTALCHARGING.NAME"
+msgid "Recharging: {charge}"
+msgstr "กำลัง​ชาร์จ: {charge}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WARPPORTALCHARGING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WARPPORTALCHARGING.TOOLTIP"
+msgid "This teleporter will be ready for use in {cycles} cycles"
+msgstr "เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) นี้​จะ​พร้อม​ใช้​ใน​อีก {cycles} รอบ​วัน"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
+msgid "Wattage: {Wattage}"
+msgstr "กำลัง​ไฟ: {Wattage}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP"
+msgid "This building is generating <style=\"produced\">{Wattage}</style> of <style=\"KKeyword\">Power</style>"
+msgstr "สิ่งก่อสร้าง​นี้​กำลังผลิต<style=\"KKeyword\">พลังงาน</style> <style=\"produced\">{Wattage}</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME"
+msgid "Next Print: {TimeRemaining}"
+msgstr "พิมพ์​ครั้ง​ถัดไป: {TimeRemaining}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
+msgid ""
+"The Printing Pod can print out new Duplicants and useful resources over time.\n"
+"The next print will be ready in <b>{TimeRemaining}</b>"
+msgstr ""
+"พ็อด​พิมพ์​ร่าง​พิมพ์​ดู​พลิ​แคนต์​ใหม่​และ​ทรัพยากร​ที่​มีประโยชน์​ได้​เป็นระยะ\n"
+"การ​พิมพ์​ครั้ง​ถัดไป​จะ​พร้อม​ใน​อีก <b>{TimeRemaining}</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE"
+msgid "UNAVAILABLE"
+msgstr "ไม่​พร้อม​ใช้งาน"
+
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME"
 msgid "Colony Lost"
 msgstr "อาณานิคม​ล่มสลาย"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP"
+msgid "All Duplicants are dead or incapacitated"
+msgstr "ดู​พลิ​แคนต์​ทุก​คนตาย​หรือ​หมดสภาพ​หมด​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.NAME"
+msgid "Overpressure"
+msgstr "แรงดัน​เกิน"
+
+#. STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.TOOLTIP"
+msgid "This well can no longer function due to excessive backpressure"
+msgstr "บ่อ​นี้​ทำงานต่อ​ไม่​ได้​แล้ว​เพราะ​แรงดัน​ย้อนกลับ​สูง​เกินไป"
+
+#. STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.NAME"
+msgid "Backpressure: {0}"
+msgstr "แรงดัน​ย้อนกลับ: {0}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP"
+msgid "Well pressure increases with each use and must be periodically relieved to prevent shutdown"
+msgstr "แรงดัน​ใน​บ่อ​จะ​เพิ่มขึ้น​ทุกครั้งที่​ใช้ และ​ต้อง​ระบาย​ออก​เป็นระยะ​เพื่อ​กัน​ไม่​ให้​เครื่อง​หยุด"
+
+#. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.NAME"
+msgid "Intake Requires Gas"
+msgstr "ช่อง​ดูด​ต้อง​มี​ก๊าซ"
+
+#. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP"
+msgid ""
+"A wind tunnel requires <style=\"KKeyword\">Gas</style> at the top and bottom intakes in order to operate\n"
+"\n"
+"The intakes for this wind tunnel don't have enough gas to operate"
+msgstr ""
+"อุโมงค์​ลม​ต้อง​มี<style=\"KKeyword\">ก๊าซ</style>ที่​ช่อง​ดูด​ด้านบน​และ​ด้านล่าง​จึง​จะ​ทำงาน​ได้\n"
+"\n"
+"ช่อง​ดูด​ของ​อุโมงค์​ลม​นี้​มี​ก๊าซ​ไม่​พอให้​ทำงาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
+msgid "Current Load: {CurrentLoadAndColor} / {MaxLoad}"
+msgstr "โหลด​ปัจจุบัน: {CurrentLoadAndColor} / {MaxLoad}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP"
+msgid ""
+"The current <style=\"KKeyword\">Power</style> load on this wire\n"
+"\n"
+"Overloading a wire will cause damage to the wire over time and cause it to break"
+msgstr ""
+"โหลด<style=\"KKeyword\">พลังงาน</style>ปัจจุบัน​บน​สายไฟ​เส้น​นี้\n"
+"\n"
+"สายไฟ​ที่​รับ​โหลด​เกิน​จะ​เสียหาย​ไป​เรื่อย ๆ จน​ขาด"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME"
+msgid "Wire Connected"
+msgstr "สายไฟ​ต่อ​อยู่"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP"
+msgid "This wire is connected to a network"
+msgstr "สายไฟ​เส้น​นี้​ต่อ​อยู่​กับ​โครงข่าย"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME"
+msgid "Wire Disconnected"
+msgstr "สายไฟ​ไม่​ได้​ต่อ"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
+msgid "This wire is not connecting a <style=\"KKeyword\">Power</style> consumer to a <style=\"KKeyword\">Power</style> generator"
+msgstr "สายไฟ​เส้น​นี้​ไม่​ได้​เชื่อม​เครื่องใช้<style=\"KKeyword\">พลังงาน</style>เข้ากับ​เครื่อง​ผลิต<style=\"KKeyword\">พลังงาน</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME"
+msgid "Potential Load: {TotalPotentialLoadAndColor} / {MaxLoad}"
+msgstr "โหลด​ที่​อาจ​เกิด: {TotalPotentialLoadAndColor} / {MaxLoad}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP"
+msgid "How much wattage this network will draw if all <style=\"KKeyword\">Power</style> consumers on the network become active at once"
+msgstr "กำลัง​ไฟ​ที่​โครงข่าย​นี้​จะ​ดึง​ถ้า​เครื่องใช้<style=\"KKeyword\">พลังงาน</style>ทั้งหมด​ใน​โครงข่าย​ทำงาน​พร้อมกัน"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
+msgid "Wire Nominal"
+msgstr "สายไฟ​ปกติ"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP"
+msgid "This wire is able to handle the wattage it is receiving"
+msgstr "สายไฟ​เส้น​นี้​รับ​กำลัง​ไฟ​ที่​ได้รับ​อยู่​ไหว"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
 msgid "Normal"
 msgstr "ปกติ"
 
+#. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
+msgid "This building is working as intended"
+msgstr "สิ่งก่อสร้าง​นี้​ทำงาน​ตามปกติ"
+
+#. STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.NAME"
+msgid "Duplicant Operation Required"
+msgstr "ต้อง​มี​ดู​พลิ​แคนต์​มา​ทำ"
+
+#. STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.TOOLTIP"
+msgid "A Duplicant must be present to complete this operation"
+msgstr "ต้อง​มี​ดู​พลิ​แคนต์​อยู่​ด้วย​จึง​จะ​ทำงาน​นี้​เสร็จ"
+
+#. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME
+msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME"
+msgid "Disable Disinfect"
+msgstr "ปิด​การ​ฆ่าเชื้อ"
+
+#. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP"
+msgid "Do not automatically disinfect this building"
+msgstr "ไม่ต้อง​ฆ่าเชื้อ​สิ่งก่อสร้าง​นี้​อัตโนมัติ"
+
+#. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME
+msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME"
+msgid "Enable Disinfect"
+msgstr "เปิด​การ​ฆ่าเชื้อ"
+
+#. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP"
+msgid "Automatically disinfect this building when it becomes contaminated"
+msgstr "ฆ่าเชื้อ​สิ่งก่อสร้าง​นี้​อัตโนมัติ​เมื่อ​มี​เชื้อ​ปนเปื้อน"
+
+#. STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP"
+msgid "This building is clean"
+msgstr "สิ่งก่อสร้าง​นี้​สะอาด​อยู่"
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.NAME
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.NAME"
+msgid "Enable Manual"
+msgstr "เปิด​โหมด​มือ"
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP"
+msgid "This building's storage may be accessed by both Duplicants and Auto-Sweeper buildings"
+msgstr "ทั้ง​ดู​พลิ​แคนต์​และ​เครื่อง​กวาด​อัตโนมัติ​เข้าถึง​ที่เก็บ​ของ​สิ่งก่อสร้าง​นี้​ได้"
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME"
+msgid "Disable Manual"
+msgstr "ปิด​โหมด​มือ"
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP"
+msgid ""
+"This building's storage may be accessed by Auto-Sweepers only\n"
+"\n"
+"Duplicants will not be permitted to add or remove materials from this building"
+msgstr ""
+"เฉพาะ​เครื่อง​กวาด​อัตโนมัติ​เท่านั้น​ที่​เข้าถึง​ที่เก็บ​ของ​สิ่งก่อสร้าง​นี้​ได้\n"
+"\n"
+"ดู​พลิ​แคนต์​จะ​ใส่​หรือ​หยิบ​วัสดุ​จาก​สิ่งก่อสร้าง​นี้​ไม่​ได้"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
+msgid "receiving an incorrect substance"
+msgstr "ได้รับ​สาร​ผิด​ชนิด"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED"
+msgid "overheating"
+msgstr "ร้อน​เกิน"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.CIRCUIT_OVERLOADED
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CIRCUIT_OVERLOADED"
+msgid "an overloaded circuit"
+msgstr "วงจร​ไฟ​โอเวอร์​โหลด"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.COMET
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.COMET"
+msgid "falling space rocks"
+msgstr "หิน​อวกาศ​ร่วง​ใส่"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED"
+msgid "pipe contents becoming too hot"
+msgstr "ของ​ใน​ท่อ​ร้อน​เกินไป"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE"
+msgid "pipe contents becoming too cold"
+msgstr "ของ​ใน​ท่อ​เย็น​เกินไป"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.CORROSIVE_ELEMENT
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CORROSIVE_ELEMENT"
+msgid "corrosive element"
+msgstr "ธาตุ​กัดกร่อน"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE"
+msgid "neighboring liquid pressure"
+msgstr "แรงดัน​ของเหลว​ข้างเคียง"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.LOGIC_CIRCUIT_OVERLOADED
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LOGIC_CIRCUIT_OVERLOADED"
+msgid "an overloaded logic circuit"
+msgstr "วงจร​ระบบ​อัตโนมัติ​โอเวอร์​โหลด"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.MICROMETEORITE
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MICROMETEORITE"
+msgid "micrometeorite"
+msgstr "อุกกาบาต​จิ๋ว"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
+msgid "an angry Duplicant. Rude!"
+msgstr "ดู​พลิ​แคนต์​ขี้โมโห เสียมารยาท!"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
+msgid "A {0} sustained damage from {1}"
+msgstr "{0} ได้รับ​ความเสียหาย​จาก{1}"
+
+#. STRINGS.BUILDINGS.DAMAGESOURCES.ROCKET
+msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.ROCKET"
+msgid "rocket engine"
+msgstr "เครื่องยนต์​จรวด"
+
+#. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME
+msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME"
+msgid "Cancel Disinfect"
+msgstr "ยกเลิก​การ​ฆ่าเชื้อ"
+
+#. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP"
+msgid "Cancel this disinfect order"
+msgstr "ยกเลิก​คำสั่ง​ฆ่าเชื้อ​นี้"
+
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME"
 msgid "Disinfect"
 msgstr "ฆ่าเชื้อ"
+
+#. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP"
+msgid "Mark this building for disinfection"
+msgstr "ทำเครื่องหมาย​ให้​ฆ่าเชื้อ​สิ่งก่อสร้าง​นี้"
+
+#. STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP"
+msgid "This building is already clean"
+msgstr "สิ่งก่อสร้าง​นี้​สะอาด​อยู่แล้ว"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.DESC"
@@ -22111,6 +22467,26 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.WOODTILE.NAME"
 msgid "<link=\"WOODTILE\">Wood Tile</link>"
 msgstr "<link=\"WOODTILE\">แผ่น​ไม้</link>"
 
+#. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME
+msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME"
+msgid "Disable Autorepair"
+msgstr "ปิด​การ​ซ่อม​อัตโนมัติ"
+
+#. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP"
+msgid "Only repair this building when ordered"
+msgstr "ซ่อม​สิ่งก่อสร้าง​นี้​เฉพาะ​เมื่อ​สั่ง"
+
+#. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME
+msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME"
+msgid "Enable Autorepair"
+msgstr "เปิด​การ​ซ่อม​อัตโนมัติ"
+
+#. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
+msgid "Automatically repair this building when damaged"
+msgstr "ซ่อม​สิ่งก่อสร้าง​นี้​อัตโนมัติ​เมื่อ​เสียหาย"
+
 #. STRINGS.CLUSTER_NAMES.CERES_BASE_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.CERES_BASE_CLUSTER.NAME"
 msgid "Ceres"
@@ -22377,6 +22753,11 @@ msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
 msgid "Light"
 msgstr "แสง"
 
+#. STRINGS.CODEX.LIGHT.HEADER_4
+msgctxt "STRINGS.CODEX.LIGHT.HEADER_4"
+msgid "Video: Power Circuits"
+msgstr "วิดีโอ: วงจรไฟฟ้า"
+
 #. STRINGS.CODEX.LOCKS.NEURALVACILLATOR
 msgctxt "STRINGS.CODEX.LOCKS.NEURALVACILLATOR"
 msgid "Neural Vacillator"
@@ -22411,6 +22792,16 @@ msgstr "พืช"
 msgctxt "STRINGS.CODEX.POLLINATORS.TITLE"
 msgid "Pollination"
 msgstr "การ​ผสม​เกสร"
+
+#. STRINGS.CODEX.POWER.HEADER_5
+msgctxt "STRINGS.CODEX.POWER.HEADER_5"
+msgid "Video: Power Circuits"
+msgstr "วิดีโอ: วงจรไฟฟ้า"
+
+#. STRINGS.CODEX.PRIORITY.HEADER_4
+msgctxt "STRINGS.CODEX.PRIORITY.HEADER_4"
+msgid "Tutorial: Errand Priorities"
+msgstr "บท​สอน: ความสำคัญ​ของ​งาน"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE"
@@ -22541,6 +22932,11 @@ msgstr "ตัด​การ​เชื่อมต่อ"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_NAME"
 msgid "Disconnected"
 msgstr "ไม่​ได้​เชื่อมต่อ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_NAME"
+msgid "Overpressure"
+msgstr "แรงดัน​เกิน"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR"
@@ -56368,35 +56764,1732 @@ msgctxt "STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.SUBHEADER"
 msgid "Mechanical Lubricant"
 msgstr "สาร​หล่อลื่น​เชิงกล"
 
+#. STRINGS.MISC.MONUMENT_COMPLETE.DESC
+msgctxt "STRINGS.MISC.MONUMENT_COMPLETE.DESC"
+msgid "A feat of artistic vision and expert engineering that will doubtless inspire Duplicants for thousands of cycles to come"
+msgstr "ผลงาน​แห่ง​วิสัยทัศน์​ทาง​ศิลปะ​และ​วิศวกรรม​ชั้น​เซียน ที่จะ​สร้าง​แรงบันดาลใจ​ให้​ดู​พลิ​แคนต์​ไป​อีก​หลาย​พัน​รอบ​วัน​แน่นอน"
+
 #. STRINGS.MISC.MONUMENT_COMPLETE.NAME
 msgctxt "STRINGS.MISC.MONUMENT_COMPLETE.NAME"
 msgid "Great Monument"
 msgstr "อนุสาวรีย์​ยิ่งใหญ่"
+
+#. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME"
+msgid "Resource allocated"
+msgstr "จัดสรร​ทรัพยากร​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP"
+msgid "These resources are reserved for a planned building:"
+msgstr "ทรัพยากร​เหล่านี้​ถูก​จอง​ไว้​สำหรับ​สิ่งก่อสร้าง​ที่​วางแผน​ไว้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME"
+msgid "Resource available"
+msgstr "มี​ทรัพยากร​พร้อม"
+
+#. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP"
+msgid "These resources have become available:"
+msgstr "ทรัพยากร​เหล่านี้​พร้อม​ใช้แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.NAME"
+msgid "Flight Path Obstructed"
+msgstr "เส้นทาง​บิน​ถูก​บัง"
+
+#. STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP"
+msgid ""
+"A rocket's flight path has been interrupted by a new astronomical discovery.\n"
+"Open the <style=\"KKeyword\">Starmap Screen</style> {Hotkey/ManageStarmap} to reassign rocket paths"
+msgstr ""
+"เส้นทาง​บิน​ของ​จรวด​ลำ​หนึ่ง​ถูก​ขัดจังหวะ​เพราะ​การ​ค้นพบ​ทาง​ดาราศาสตร์​ครั้ง​ใหม่\n"
+"เปิด<style=\"KKeyword\">หน้าจอ​แผนที่​ดวงดาว</style> {Hotkey/ManageStarmap} เพื่อ​กำหนด​เส้นทาง​จรวด​ใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
+msgid ""
+"• I can use {Hotkey/PanLeft} and {Hotkey/PanRight} to pan my view left and right, and {Hotkey/PanUp} and {Hotkey/PanDown} to pan up and down.\n"
+"\n"
+"• {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\n"
+"\n"
+"• {Hotkey/CameraHome} returns my view to the Printing Pod.\n"
+"\n"
+"• I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/SpeedUp} or {Hotkey/SlowDown}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\n"
+"\n"
+"• I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important."
+msgstr ""
+"• ฉัน​ใช้ {Hotkey/PanLeft} กับ {Hotkey/PanRight} เลื่อน​มุมมอง​ซ้าย​ขวา และ {Hotkey/PanUp} กับ {Hotkey/PanDown} เลื่อน​ขึ้น​ลง​ได้\n"
+"\n"
+"• {Hotkey/ZoomIn} ใช้​ซูม​เข้า ส่วน {Hotkey/ZoomOut} ใช้​ซูม​ออก\n"
+"\n"
+"• {Hotkey/CameraHome} พา​มุมมอง​กลับ​ไป​ที่​พ็อด​พิมพ์​ร่าง\n"
+"\n"
+"• ฉัน​เร่ง​หรือ​ชะลอ​การรับรู้​เวลา​ได้​ด้วย​ปุ่ม​มุม​ซ้าย​บน หรือ​กด {Hotkey/SpeedUp} หรือ {Hotkey/SlowDown} กด {Hotkey/TogglePause} เพื่อ​หยุด​เวลา​ไว้​ทั้งหมด\n"
+"\n"
+"• ฉัน​จะ​จด​ทุกอย่าง​ที่​ค้นพบ​ไว้​ใน​ฐานข้อมูล​ส่วนตัว {Hotkey/ManageDatabase} เผื่อ​ลืม​เรื่องสำคัญ​จะ​ได้​กลับมา​เปิด​ดู"
+
+#. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODYALT
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODYALT"
+msgid ""
+"• I can use {Hotkey/AnalogCamera} to pan my view.\n"
+"\n"
+"• {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\n"
+"\n"
+"• I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/CycleSpeed}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\n"
+"\n"
+"• I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important."
+msgstr ""
+"• ฉัน​ใช้ {Hotkey/AnalogCamera} เลื่อน​มุมมอง​ได้\n"
+"\n"
+"• {Hotkey/ZoomIn} ใช้​ซูม​เข้า ส่วน {Hotkey/ZoomOut} ใช้​ซูม​ออก\n"
+"\n"
+"• ฉัน​เร่ง​หรือ​ชะลอ​การรับรู้​เวลา​ได้​ด้วย​ปุ่ม​มุม​ซ้าย​บน หรือ​กด {Hotkey/CycleSpeed} กด {Hotkey/TogglePause} เพื่อ​หยุด​เวลา​ไว้​ทั้งหมด\n"
+"\n"
+"• ฉัน​จะ​จด​ทุกอย่าง​ที่​ค้นพบ​ไว้​ใน​ฐานข้อมูล​ส่วนตัว {Hotkey/ManageDatabase} เผื่อ​ลืม​เรื่องสำคัญ​จะ​ได้​กลับมา​เปิด​ดู"
+
+#. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
+msgid "Tutorial: Basic Controls"
+msgstr "บท​สอน: การควบคุม​พื้นฐาน"
+
+#. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
+msgid "Notes on using my HUD"
+msgstr "บันทึก​การ​ใช้ HUD ของ​ฉัน"
+
+#. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.MESSAGEBODY"
+msgid ""
+"When Duplicants come into contact with various <link=\"DISEASE\">Germs</link>, they'll need to expend points of <link=\"IMMUNE SYSTEM\">Immunity</link> to resist them and remain healthy. If repeated exposes causes their Immunity to drop to 0%, they'll be unable to resist germs and will contract the next disease they encounter.\n"
+"\n"
+"Doors with Access Permissions can be built from the BASE TAB<color=#F44A47> <b>[1]</b></color> of the <link=\"MISC\">Build menu</link> to block Duplicants from entering biohazardous areas while they recover their spent immunity points."
+msgstr ""
+"เมื่อ​ดู​พลิ​แคนต์​สัมผัส<link=\"DISEASE\">เชื้อโรค</link>ชนิด​ต่าง ๆ พวกเขา​ต้อง​ใช้​แต้ม<link=\"IMMUNE SYSTEM\">ภูมิคุ้มกัน</link>เพื่อ​ต้านทาน​และ​รักษาสุขภาพ​ไว้ ถ้า​โดน​ซ้ำ ๆ จน​ภูมิคุ้มกัน​ลดเหลือ 0% พวกเขา​จะ​ต้าน​เชื้อ​ไม่​ไหว​และ​ติดโรค​ตัว​ถัดไป​ที่​เจอ​ทันที\n"
+"\n"
+"สร้าง​ประตู​ที่ตั้ง​สิทธิ์​การ​เข้าออก​ได้​จาก​แท็บ​ฐาน<color=#F44A47> <b>[1]</b></color> ใน<link=\"MISC\">เมนู​ก่อสร้าง</link> เพื่อ​กัน​ดู​พลิ​แคนต์​ไม่​ให้​เข้า​เขต​อันต​รายทาง​ชีวภาพ​ระหว่าง​ที่​รอ​ภูมิคุ้มกัน​ฟื้น"
+
+#. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.NAME"
+msgid "Tutorial: Immune Systems"
+msgstr "บท​สอน: ระบบ​ภูมิคุ้มกัน"
+
+#. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.TOOLTIP"
+msgid "Notes on keeping Duplicants in peak health"
+msgstr "บันทึก​การ​ดูแล​ให้​ดู​พลิ​แคนต์​สุขภาพ​ดีเยี่ยม"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.MESSAGEBODY"
+msgid ""
+"Bionic Duplicants require <link=\"ELECTROBANK\">Power Banks</link> to function. Bionic Duplicants who run out of <link=\"POWER\">Power</link> will become incapacitated and require another Duplicant to reboot them.\n"
+"\n"
+"Basic power banks can be made at the <link=\"CRAFTINGTABLE\">Crafting Station</link>."
+msgstr ""
+"ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ต้อง​ใช้<link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>จึง​จะ​ทำงาน​ได้ ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ที่<link=\"POWER\">พลังงาน</link>หมด​จะ​หมดสภาพ และ​ต้อง​ให้​ดู​พลิ​แคนต์​คนอื่น​มา​รี​บูต​ให้\n"
+"\n"
+"ทำ​พาวเวอร์​แบงก์​พื้นฐาน​ได้ที่<link=\"CRAFTINGTABLE\">สถานี​ประดิษฐ์</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.NAME"
+msgid "Tutorial: Powering Bionics"
+msgstr "บท​สอน: จ่ายไฟ​ให้​ไบโอ​นิ​ก"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.TOOLTIP"
+msgid "Notes on Duplicant power bank needs"
+msgstr "บันทึก​เรื่อง​พาวเวอร์​แบงก์​ที่​ดู​พลิ​แคนต์​ต้อง​ใช้"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICLIQUIDDAMAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICLIQUIDDAMAGE.NAME"
+msgid "Liquid Damage"
+msgstr "ความเสียหาย​จาก​ของเหลว"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICLIQUIDDAMAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICLIQUIDDAMAGE.TOOLTIP"
+msgid "This Duplicant stepped in liquid and damaged their bionic systems!"
+msgstr "ดู​พลิ​แคนต์คน​นี้​เหยียบ​ของเหลว​จน​ระบบ​ไบโอ​นิ​ก​เสียหาย! (ไฟ​ช็อต​จี๊ด)"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICOIL.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICOIL.MESSAGEBODY"
+msgid ""
+"Bionic Duplicants with insufficient <link=\"LUBRICATINGOIL\">Gear Oil</link> will slow down significantly to avoid grinding their gears.\n"
+"\n"
+"I can keep them running smoothly by supplying <link=\"LUBRICATIONSTICK\">Gear Balm</link>, or by building a <link=\"OILCHANGER\">Lubrication Station</link> from the <b>Medicine Tab</b> {Hotkey/Plan8}."
+msgstr ""
+"ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ที่<link=\"LUBRICATINGOIL\">น้ำมัน​เกียร์</link>ไม่​พอ​จะ​เคลื่อนไหว​ช้า​ลง​มาก​เพื่อ​ไม่​ให้​เฟือง​บด​กันเอง\n"
+"\n"
+"ฉัน​ช่วย​ให้​พวกเขา​ลื่นไหล​ได้​ด้วย​การ​จัดหา<link=\"LUBRICATIONSTICK\">บาล์ม​เกียร์</link> หรือ​สร้าง<link=\"OILCHANGER\">สถานี​หล่อลื่น</link>จาก<b>แท็บ​การแพทย์</b> {Hotkey/Plan8}"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICOIL.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICOIL.NAME"
+msgid "Tutorial: Oiling Bionics"
+msgstr "บท​สอน: หล่อลื่น​ไบโอ​นิ​ก"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICOIL.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICOIL.TOOLTIP"
+msgid "Notes on keeping Bionics working efficiently"
+msgstr "บันทึก​การ​ดูแล​ให้​ไบโอ​นิ​ก​ทำงาน​ได้​มีประสิทธิภาพ"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.MESSAGEBODY"
+msgid ""
+"My new Bionic Duplicant has built-in programming that they've shared with the colony.\n"
+"\n"
+"New buildings have become available:\n"
+"  • {0}"
+msgstr ""
+"ดู​พลิ​แคนต์​ไบโอ​นิ​กค​น​ใหม่​ของ​ฉัน​มี​โปรแกรม​ติดตัว​มา​และ​แบ่ง​ให้​อาณานิคม​แล้ว\n"
+"\n"
+"มี​สิ่งก่อสร้าง​ใหม่​ให้​ใช้:\n"
+"  • {0}"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.NAME"
+msgid "Research Discovered"
+msgstr "ค้นพบ​งานวิจัย"
+
+#. STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.TOOLTIP"
+msgid "{0} research discovered!"
+msgstr "ค้นพบ​งานวิจัย {0}!"
+
+#. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
+msgid "Building broken"
+msgstr "สิ่งก่อสร้าง​พัง"
+
+#. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP"
+msgid "These buildings have taken significant damage and are nonfunctional:"
+msgstr "สิ่งก่อสร้าง​เหล่านี้​เสียหาย​หนัก​จน​ใช้งาน​ไม่​ได้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.BUILDING_MELTED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDING_MELTED.NAME"
+msgid "Building melted"
+msgstr "สิ่งก่อสร้าง​ละลาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.BUILDING_MELTED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDING_MELTED.TOOLTIP"
+msgid "Extreme heat has melted these buildings:"
+msgstr "ความร้อน​สุดขีด​ทำให้​สิ่งก่อสร้าง​เหล่านี้​ละลาย:"
+
+#. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME"
+msgid "Damage: Overheated"
+msgstr "ความเสียหาย: ร้อน​เกิน"
+
+#. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP"
+msgid "Extreme heat is damaging these buildings:"
+msgstr "ความร้อน​สุดขีด​กำลัง​ทำลาย​สิ่งก่อสร้าง​เหล่านี้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.NAME"
+msgid "Circuit Overloaded"
+msgstr "วงจร​ไฟ​โอเวอร์​โหลด"
+
+#. STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.TOOLTIP"
+msgid "These <link=\"WIRE\">Wire</link>s melted due to excessive current demands on their circuits"
+msgstr "<link=\"WIRE\">สายไฟ</link>เหล่านี้​ละลาย​เพราะ​วงจร​ดึง​กระแส​มากเกินไป"
+
+#. STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.MESSAGEBODY"
+msgid "I've added a new log entry to my Database"
+msgstr "ฉัน​เพิ่ม​บันทึก​ใหม่​ลง​ฐานข้อมูล​แล้ว"
 
 #. STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.NAME"
 msgid "New Log Entry"
 msgstr "บันทึก​รายการ​ใหม่"
 
+#. STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.TOOLTIP"
+msgid "I've added a new log entry to my Database"
+msgstr "ฉัน​เพิ่ม​บันทึก​ใหม่​ลง​ฐานข้อมูล​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.COLONY_ACHIEVEMENT_EARNED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONY_ACHIEVEMENT_EARNED.NAME"
+msgid "Colony Achievement earned"
+msgstr "ได้รับ​ความสำเร็จ​ของ​อาณานิคม"
+
+#. STRINGS.MISC.NOTIFICATIONS.COLONY_ACHIEVEMENT_EARNED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONY_ACHIEVEMENT_EARNED.TOOLTIP"
+msgid "The colony has earned a new achievement."
+msgstr "อาณานิคม​ได้รับ​ความสำเร็จ​ใหม่"
+
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME"
 msgid "Colony Lost"
 msgstr "อาณานิคม​ล่มสลาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP"
+msgid "All Duplicants are dead or incapacitated"
+msgstr "ดู​พลิ​แคนต์​ทุก​คนตาย​หรือ​หมดสภาพ​หมด​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME"
+msgid "Duplicants crushed"
+msgstr "ดู​พลิ​แคนต์​ถูก​ทับ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP"
+msgid "These Duplicants have been crushed:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ถูก​ทับ:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.NAME"
+msgid "Duplicants have succumbed to disease"
+msgstr "ดู​พลิ​แคนต์​เสียชีวิต​จาก​โรค"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP"
+msgid "These Duplicants died from an untreated <link=\"DISEASE\">Disease</link>:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​จาก<link=\"DISEASE\">โรค</link>ที่​ไม่​ได้​รักษา:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME"
+msgid "Duplicants have drowned"
+msgstr "ดู​พลิ​แคนต์​จมน้ำ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP"
+msgid "These Duplicants have drowned:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​จมน้ำ:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME"
+msgid "Duplicants have been entombed"
+msgstr "ดู​พลิ​แคนต์​ติด​อยู่"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP"
+msgid "These Duplicants are trapped and need assistance:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ติด​อยู่​และ​ต้องการ​ความช่วยเหลือ:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME"
+msgid "Duplicants splattered"
+msgstr "ดู​พลิ​แคนต์​ตก​กระแทก"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP"
+msgid "These Duplicants fell to their deaths:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตก​จาก​ที่สูง​จน​เสียชีวิต:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME"
+msgid "Duplicants have frozen"
+msgstr "ดู​พลิ​แคนต์​แข็ง​ตาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP"
+msgid "These Duplicants died from extremely low <style=\"KKeyword\">Temperatures</style>:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​เพราะ<style=\"KKeyword\">อุณหภูมิ</style>ต่ำ​สุดขีด:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.NAME"
+msgid "Duplicants have overheated"
+msgstr "ดู​พลิ​แคนต์​ร้อน​เกิน"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP"
+msgid "These Duplicants died from extreme <style=\"KKeyword\">Heat</style>:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​เพราะ<style=\"KKeyword\">ความร้อน</style>สุดขีด:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.NAME"
+msgid "Duplicants pressurized"
+msgstr "ดู​พลิ​แคนต์​โดน​แรงดัน​อัด"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.TOOLTIP"
+msgid "These Duplicants died in a high pressure environment:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​ใน​สภาพแวดล้อม​แรงดัน​สูง:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME"
+msgid "Duplicants poisoned"
+msgstr "ดู​พลิ​แคนต์​ถูก​วางยาพิษ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP"
+msgid "These Duplicants died as a result of poisoning:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​เพราะ​ได้รับ​พิษ:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.NAME"
+msgid "Duplicants pressurized"
+msgstr "ดู​พลิ​แคนต์​โดน​แรงดัน​อัด"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.TOOLTIP"
+msgid "These Duplicants died in a low pressure environment:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​ใน​สภาพแวดล้อม​แรงดัน​ต่ำ:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME"
+msgid "Duplicants have starved"
+msgstr "ดู​พลิ​แคนต์​อดตาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP"
+msgid "These Duplicants died from a lack of <style=\"KKeyword\">Food</style>:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​เพราะ​ขาด<style=\"KKeyword\">อาหาร</style>:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME"
+msgid "Duplicants have suffocated"
+msgstr "ดู​พลิ​แคนต์​ขาด​อากาศ​หายใจ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP"
+msgid "These Duplicants have asphyxiated in <link=\"HEAT\">Cold</link> air:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ขาด​อากาศ​หายใจ​ใน​อากาศ<link=\"HEAT\">เย็น​จัด</link>:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME"
+msgid "Duplicants have suffocated"
+msgstr "ดู​พลิ​แคนต์​ขาด​อากาศ​หายใจ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP"
+msgid "These Duplicants have asphyxiated in <style=\"KKeyword\">Hot</style> air:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ขาด​อากาศ​หายใจ​ใน​อากาศ<style=\"KKeyword\">ร้อน​จัด</style>:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME"
+msgid "Duplicants have suffocated"
+msgstr "ดู​พลิ​แคนต์​ขาด​อากาศ​หายใจ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP"
+msgid "These Duplicants were unable to reach <link=\"OXYGEN\">Oxygen</link> and died:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ไป​ไม่​ถึง<link=\"OXYGEN\">ออกซิเจน</link>และ​เสียชีวิต:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
+msgid "Duplicants suffocated"
+msgstr "ดู​พลิ​แคนต์​ขาด​อากาศ​ตาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP"
+msgid "These Duplicants died from a lack of <link=\"OXYGEN\">Oxygen</link>:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ตาย​เพราะ​ขาด<link=\"OXYGEN\">ออกซิเจน</link>:"
+
+#. STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY"
+msgid ""
+"Everything a colony needs to get going is found in the ground. Instructing Duplicants to dig out areas means we can find food, mine resources to build infrastructure, and clear space for the colony to grow. I can access the Dig Tool with {Hotkey/Dig}, which allows me to select the area where I want my Duplicants to dig.\n"
+"\n"
+"Duplicants will need to gain the Superhard Digging skill to mine Abyssalite and the Superduperhard Digging skill to mine Diamond and Obsidian. Without the proper skills, these materials will be undiggable."
+msgstr ""
+"ทุกอย่าง​ที่​อาณานิคม​ต้อง​ใช้​เพื่อ​เริ่มต้น​อยู่​ใน​พื้นดิน​ทั้งนั้น การ​สั่ง​ให้​ดู​พลิ​แคนต์​ขุด​พื้นที่​ทำให้​เรา​หาอาหาร ขุด​ทรัพยากร​มา​สร้าง​โครงสร้าง และ​เปิด​พื้นที่​ให้​อาณานิคม​เติบโต​ได้ ฉัน​เรียก​เครื่องมือ​ขุด​ได้​ด้วย {Hotkey/Dig} เพื่อ​เลือก​พื้นที่​ที่​อยาก​ให้​ดู​พลิ​แคนต์​ขุด\n"
+"\n"
+"ดู​พลิ​แคนต์​ต้อง​ได้​ทักษะ​ขุด​แข็ง​พิเศษ​จึง​จะ​ขุด​อะ​บิ​ส​ซา​ไลต์​ได้ และ​ต้อง​ได้​ทักษะ​ขุด​แข็ง​ขั้น​เทพ​จึง​จะ​ขุด​เพชร​กับ​ออ​บ​ซิ​เดียน​ได้ ถ้า​ไม่​มี​ทักษะ​ที่​เหมาะสม วัสดุ​เหล่านี้​จะ​ขุด​ไม่​ได้​เลย"
+
+#. STRINGS.MISC.NOTIFICATIONS.DIGGING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.NAME"
+msgid "Video: Digging for Resources"
+msgstr "วิดีโอ: ขุด​หา​ทรัพยากร"
+
+#. STRINGS.MISC.NOTIFICATIONS.DIGGING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.TOOLTIP"
+msgid "Notes on buried riches"
+msgstr "บันทึก​เรื่อง​ขุมทรัพย์​ใต้ดิน"
+
+#. STRINGS.MISC.NOTIFICATIONS.DISCOVERED_SPACE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DISCOVERED_SPACE.NAME"
+msgid "ALERT - Surface Breach"
+msgstr "คำเตือน - ทะลุ​ผิว​ดาว"
+
+#. STRINGS.MISC.NOTIFICATIONS.DISCOVERED_SPACE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DISCOVERED_SPACE.TOOLTIP"
+msgid ""
+"Amazing!\n"
+"\n"
+"My Duplicants have managed to breach the surface of our rocky prison.\n"
+"\n"
+"I should be careful; the region is extremely inhospitable and I could easily lose resources to the vacuum of space."
+msgstr ""
+"สุดยอด!\n"
+"\n"
+"ดู​พลิ​แคนต์​ของ​ฉัน​ขุด​ทะลุ​ผิว​ดาว​ของ​คุก​หิน​แห่ง​นี้​ได้​แล้ว\n"
+"\n"
+"ฉัน​ต้อง​ระวัง​หน่อย บริเวณ​นั้น​โหดร้าย​สุด ๆ และ​ทรัพยากร​อาจ​หลุด​หาย​ไป​ใน​สุญญากาศ​ได้​ง่าย ๆ"
+
+#. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY"
+msgid ""
+"The <link=\"FOOD\">Food</link> my Duplicants cook will only ever be as clean as the ingredients used to make it. Storing food in sterile or <link=\"REFRIGERATOR\">Refrigerated</link> environments will keep food free of <link=\"DISEASE\">Germs</link>, while carefully placed hygiene stations like <link=\"WASHBASIN\">Wash Basin</link> or <link=\"SHOWER\">Shower</link> will prevent the cooks from infecting the food by handling it.\n"
+"\n"
+"Dangerously contaminated food can be sent to compost by (ClickType/clicking) the <b>Compost</b> button on the selected item."
+msgstr ""
+"<link=\"FOOD\">อาหาร</link>ที่​ดู​พลิ​แคนต์​ทำ​จะ​สะอาด​ได้​เท่ากับ​วัตถุดิบ​ที่​ใช้​เท่านั้น การ​เก็บ​อาหาร​ใน​ที่​ปลอดเชื้อ​หรือ<link=\"REFRIGERATOR\">แช่เย็น</link>จะ​ช่วย​ให้อาหาร​ปลอด<link=\"DISEASE\">เชื้อโรค</link> ส่วน​จุด​รักษา​ความสะอาด​อย่าง<link=\"WASHBASIN\">อ่าง​ล้างมือ</link>หรือ<link=\"SHOWER\">ฝักบัว</link>ที่​วาง​ไว้​ดี ๆ จะ​กัน​ไม่​ให้​คน​ทำอาหาร​เอา​เชื้อ​ไป​ติด​อาหาร​ตอน​จับ\n"
+"\n"
+"อาหาร​ที่​ปนเปื้อน​หนัก​ส่ง​ไป​หมัก​ปุ๋ย​ได้​โดย(ClickType/clicking)ปุ่ม<b>หมัก​ปุ๋ย</b>บน​ไอ​เท็ม​ที่​เลือก"
+
+#. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME"
+msgid "Tutorial: Food Safety"
+msgstr "บท​สอน: ความปลอดภัย​ของ​อาหาร"
+
+#. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.TOOLTIP"
+msgid "Notes on managing food contamination"
+msgstr "บันทึก​การ​จัดการ​อาหาร​ปนเปื้อน"
+
+#. STRINGS.MISC.NOTIFICATIONS.DTU.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DTU.MESSAGEBODY"
+msgid ""
+"My Duplicants measure heat energy in Duplicant Thermal Units or DTU.\n"
+"\n"
+"1 DTU = 1055.06 J"
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​วัด​พลังงาน​ความร้อน​เป็น​หน่วย​ความร้อน​ดู​พลิ​แคนต์ หรือ DTU\n"
+"\n"
+"1 DTU = 1055.06 J"
+
+#. STRINGS.MISC.NOTIFICATIONS.DTU.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DTU.NAME"
+msgid "Tutorial: Duplicant Thermal Units"
+msgstr "บท​สอน: หน่วย​ความร้อน​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.DTU.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DTU.TOOLTIP"
+msgid "Notes on measuring heat energy"
+msgstr "บันทึก​การ​วัด​พลังงาน​ความร้อน"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.NAME"
+msgid "Duplicant Crash Landed!"
+msgstr "ดู​พลิ​แคนต์ลง​จอด​แบบ​ชน!"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.TOOLTIP"
+msgid "A Duplicant has successfully crashed an Escape Pod onto the surface of a nearby Planetoid."
+msgstr "ดู​พลิ​แคนต์คน​หนึ่ง​ขับ​แคปซูล​หนี​ภัย​พุ่งชน​ผิว​ดาว​ใกล้เคียง​ได้​สำเร็จ (ชน​ได้​สวย​ด้วย)"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY"
+msgid ""
+"The Printing Pod is no longer available for printing.\n"
+"Countdown to the next production has been rebooted."
+msgstr ""
+"พ็อด​พิมพ์​ร่าง​พิมพ์​ไม่​ได้​แล้ว\n"
+"การ​นับ​ถอยหลัง​สู่​การผลิต​ครั้ง​ถัดไป​ถูก​เริ่มใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME"
+msgid "Printables have been reabsorbed"
+msgstr "ของ​ที่​พิมพ์​ได้​ถูก​ดูด​กลับ​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.TOOLTIP"
+msgid "Printing countdown rebooted"
+msgstr "รี​บูต​การ​นับ​ถอยหลัง​พิมพ์"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME"
+msgid "Duplicants have died"
+msgstr "ดู​พลิ​แคนต์​เสียชีวิต"
+
+#. STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.TOOLTIP"
+msgid "These Duplicants have died:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​เสียชีวิต:"
+
+#. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME"
+msgid "Fabricator idle"
+msgstr "เครื่อง​ผลิต​ว่างงาน"
+
+#. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP"
+msgid "These fabricators have no recipes queued:"
+msgstr "เครื่อง​ผลิต​เหล่านี้​ไม่​มี​สูตร​ใน​คิว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
+msgid "By building a <link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> from the <b>Plumbing Tab</b> {Hotkey/Plan5} over a pool of liquid, my Duplicants will be able to bottle it up and manually deliver it wherever it needs to go."
+msgstr "ถ้า​สร้าง<link=\"LIQUIDPUMPINGSTATION\">ปั๊ม​มือ​โยก</link>จาก<b>แท็บ​ประปา</b> {Hotkey/Plan5} ไว้​เหนือ​แอ่ง​ของเหลว ดู​พลิ​แคนต์​จะ​บรรจุขวด​แล้ว​ขน​ไป​ส่ง​ใน​ที่​ที่​ต้องการ​ได้​เอง"
+
+#. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
+msgid "Tutorial: Fetching Water"
+msgstr "บท​สอน: ตัก​น้ำ"
+
+#. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP"
+msgid "Notes on liquid resource gathering"
+msgstr "บันทึก​การ​เก็บ​ทรัพยากร​ของเหลว"
+
+#. STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME"
+msgid "Food shortage"
+msgstr "อาหาร​ขาดแคลน"
+
+#. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
+msgid ""
+"The colony's <link=\"FOOD\">Food</link> reserves are low:\n"
+"\n"
+"    • {0} are currently available\n"
+"    • {1} is being consumed per cycle\n"
+"\n"
+"<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
+msgstr ""
+"<link=\"FOOD\">อาหาร</link>สำรอง​ของ​อาณานิคม​เหลือ​น้อย:\n"
+"\n"
+"    • ตอนนี้​มี​อยู่ {0}\n"
+"    • ใช้​ไป {1} ต่อ​รอบ​วัน\n"
+"\n"
+"สร้าง<link=\"MICROBEMUSHER\">เครื่อง​บด​จุลินทรีย์</link>ได้​จาก<b>แท็บ​อาหาร</b> {Hotkey/Plan4}"
+
+#. STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME"
+msgid "Food has decayed"
+msgstr "อาหาร​เน่าเสีย"
+
+#. STRINGS.MISC.NOTIFICATIONS.FOODROT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.TOOLTIP"
+msgid "These <link=\"FOOD\">Food</link> items have rotted and are no longer edible:{0}"
+msgstr "<link=\"FOOD\">อาหาร</link>เหล่านี้​เน่า​และ​กิน​ไม่​ได้​แล้ว:{0}"
+
+#. STRINGS.MISC.NOTIFICATIONS.FOODSTALE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODSTALE.NAME"
+msgid "Food has become stale"
+msgstr "อาหาร​เริ่ม​ไม่​สด"
+
+#. STRINGS.MISC.NOTIFICATIONS.FOODSTALE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODSTALE.TOOLTIP"
+msgid "These <link=\"FOOD\">Food</link> items have become stale and could rot if not stored:"
+msgstr "<link=\"FOOD\">อาหาร</link>เหล่านี้​เริ่ม​ไม่​สด​และ​อาจ​เน่า​ถ้า​ไม่​เก็บ​ให้​ดี:"
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
+msgid "The colony is entering a cloud of gas"
+msgstr "อาณานิคม​กำลัง​เข้าสู่​กลุ่ม​เมฆ​ก๊าซ"
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME"
+msgid "The gas cloud is receding"
+msgstr "กลุ่ม​เมฆ​ก๊าซ​กำลัง​ถอยห่าง"
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
+msgid "The colony is once again in open space"
+msgstr "อาณานิคม​กลับ​สู่​อวกาศ​เปิด​อีกครั้ง"
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
+msgid "The gas cloud is at its densest point"
+msgstr "กลุ่ม​เมฆ​ก๊าซ​หนาแน่น​ที่สุด​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME"
+msgid "A gas cloud approaches"
+msgstr "กลุ่ม​เมฆ​ก๊าซ​กำลัง​เข้ามา"
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP"
+msgid "A toxic <style=\"KKeyword\">Gas</style> cloud will soon envelop the colony"
+msgstr "กลุ่ม​เมฆ<style=\"KKeyword\">ก๊าซ</style>พิษ​กำลังจะ​ปกคลุม​อาณานิคม"
+
+#. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME"
+msgid "Genes Shuffled"
+msgstr "ยีน​ถูก​สับเปลี่ยน"
+
+#. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.SUFFIX
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.SUFFIX"
+msgid " has developed <style=\"KKeyword\">{0}</style>"
+msgstr " ได้​พัฒนา<style=\"KKeyword\">{0}</style>"
+
+#. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.TOOLTIP"
+msgid "These Duplicants had their genetic makeup modified:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ถูก​ดัดแปลง​พันธุกรรม:"
+
+#. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.MESSAGEBODY"
+msgid ""
+"Deeply probing the genes of the {Plant} plant have led to the discovery of a promising new cultivatable mutation:\n"
+"\n"
+"<b>{Subspecies}</b>\n"
+"\n"
+"{Info}"
+msgstr ""
+"การ​เจาะลึก​ยีน​ของ​พืช {Plant} ทำให้​ค้นพบ​การกลายพันธุ์​ใหม่​ที่​น่าสนใจ​และ​ปลูก​ได้:\n"
+"\n"
+"<b>{Subspecies}</b>\n"
+"\n"
+"{Info}"
+
+#. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME"
+msgid "Seed Analysis Complete"
+msgstr "วิเคราะห์​เมล็ด​เสร็จสิ้น"
+
+#. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.TOOLTIP"
+msgid "{Plant} Analysis complete!"
+msgstr "วิเคราะห์ {Plant} เสร็จ​แล้ว!"
+
+#. STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.MESSAGEBODY"
+msgid ""
+"Bionic Duplicants can dump built-up <link=\"LIQUIDGUNK\">Gunk</link> into <link=\"REQUIREMENTCLASSTOILETTYPE\">Toilets</link> if no other options are available. This invariably clogs the plumbing, however, and must be removed before facilities can be used by other Duplicants.\n"
+"\n"
+"Building a <link=\"GUNKEMPTIER\">Gunk Extractor</link> from the <b>Plumbing Tab</b> {Hotkey/Plan5} will ensure that Bionic Duplicants can dispose of their waste appropriately."
+msgstr ""
+"ถ้า​ไม่​มี​ทางเลือก​อื่น ดู​พลิ​แคนต์​ไบโอ​นิ​ก​จะ​เท<link=\"LIQUIDGUNK\">คราบ​เหนียว</link>ที่​สะสม​ไว้​ลง​ใน<link=\"REQUIREMENTCLASSTOILETTYPE\">ห้องน้ำ</link> ซึ่ง​ทำให้​ท่อ​อุดตัน​ทุกที และ​ต้อง​เอา​ออก​ก่อน​ดู​พลิ​แคนต์​คนอื่น​จะ​ใช้ได้\n"
+"\n"
+"สร้าง<link=\"GUNKEMPTIER\">เครื่อง​ดูด​คราบ​เหนียว</link>จาก<b>แท็บ​ประปา</b> {Hotkey/Plan5} เพื่อให้​ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ทิ้ง​ของ​เสียได้​ถูกที่"
+
+#. STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.NAME"
+msgid "Tutorial: Gunked Toilets"
+msgstr "บท​สอน: ห้องน้ำ​อุดตัน​คราบ​เหนียว"
+
+#. STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.TOOLTIP"
+msgid "Notes on unclogging toilets"
+msgstr "บันทึก​การ​แก้​ห้องน้ำ​ตัน"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
 msgstr "กำลัง​พักฟื้น"
 
+#. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
+msgid "This Duplicant is recovering from an injury"
+msgstr "ดู​พลิ​แคนต์คน​นี้​กำลัง​ฟื้นตัว​จาก​อาการ​บาดเจ็บ"
+
+#. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME"
+msgid "New trait"
+msgstr "ลักษณะนิสัย​ใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.SUFFIX
+msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.SUFFIX"
+msgid " has developed <style=\"KKeyword\">{0}</style>"
+msgstr " ได้​พัฒนา<style=\"KKeyword\">{0}</style>"
+
+#. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
+msgid ""
+"These Duplicants' injuries weren't set and healed improperly.\n"
+"They developed <style=\"KKeyword\">Traits</style> as a result:"
+msgstr ""
+"อาการ​บาดเจ็บ​ของ​ดู​พลิ​แคนต์​เหล่านี้​ไม่​ได้​ถูก​จัด​กระดูก​ให้​เข้าที่​และ​หาย​ไม่​สนิท\n"
+"เลย​เกิด<style=\"KKeyword\">ลักษณะนิสัย</style>ขึ้น​มา:"
+
+#. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.NAME"
+msgid "No <link=\"WASHBASIN\">Wash Basin</link> built"
+msgstr "ยัง​ไม่​ได้​สร้าง<link=\"WASHBASIN\">อ่าง​ล้างมือ</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP"
+msgid ""
+"<link=\"DISEASE\">Germs</link> are spreading in the colony because my Duplicants have nowhere to clean up\n"
+"\n"
+"<link=\"WASHBASIN\">Wash Basins</link> can be built from the <b>Medicine Tab</b> {Hotkey/Plan8}"
+msgstr ""
+"<link=\"DISEASE\">เชื้อโรค</link>กำลัง​แพร่​ใน​อาณานิคม​เพราะ​ดู​พลิ​แคนต์​ไม่​มี​ที่​ล้าง​ตัว\n"
+"\n"
+"สร้าง<link=\"WASHBASIN\">อ่าง​ล้างมือ</link>ได้​จาก<b>แท็บ​การแพทย์</b> {Hotkey/Plan8}"
+
+#. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
+msgid "Printables have been reabsorbed"
+msgstr "ของ​ที่​พิมพ์​ได้​ถูก​ดูด​กลับ​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP"
+msgid "The care packages have been disintegrated and printable Duplicants have been Oozed"
+msgstr "พัสดุ​ช่วยชีวิต​ถูก​สลาย​ทิ้ง และ​ดู​พลิ​แคนต์​ที่​พิมพ์​ได้​ถูก​ละลาย​กลับเป็น​อู​ซ"
+
+#. STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.NAME"
+msgid "DEMOLIOR"
+msgstr "เดโม​ลิ​ออร์"
+
+#. STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOGGLE_TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOGGLE_TOOLTIP"
+msgid "Click to toggle impact zone preview"
+msgstr "คลิก​เพื่อ​เปิด/ปิด​ตัวอย่าง​เขต​ตก​กระทบ"
+
+#. STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOOLTIP"
+msgid ""
+"Incoming Asteroid: <b><color=#ff1111>DEMOLIOR</color></b>\n"
+"• Health: {0}/{1}\n"
+"• Time until impact: {2}\n"
+"\n"
+"Collision damage can be avoided by destroying <b><color=#ff1111>DEMOLIOR</color></b> with <link=\"LONGRANGEMISSILE\">Intracosmic Blastshot</link> before it makes contact"
+msgstr ""
+"ดาวเคราะห์​น้อย​กำลัง​พุ่ง​มา: <b><color=#ff1111>เดโม​ลิ​ออร์</color></b>\n"
+"• พลัง​ชีวิต: {0}/{1}\n"
+"• เวลา​ก่อน​ชน: {2}\n"
+"\n"
+"เลี่ยง​ความเสียหาย​จาก​การชน​ได้​โดย​ทำลาย<b><color=#ff1111>เดโม​ลิ​ออร์</color></b>ด้วย<link=\"LONGRANGEMISSILE\">กระสุน​ระเบิด​ข้าม​จักรวาล</link>ก่อน​มัน​พุ่ง​ถึง"
+
+#. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
+msgid "Duplicants' expectations increased"
+msgstr "ความคาดหวัง​ของ​ดู​พลิ​แคนต์​สูง​ขึ้น"
+
+#. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP"
+msgid ""
+"Duplicants require better amenities over time.\n"
+"These Duplicants have increased their expectations:"
+msgstr ""
+"ดู​พลิ​แคนต์​ต้องการ​สิ่งอำนวยความสะดวก​ที่​ดีขึ้น​ตามเวลา\n"
+"ดู​พลิ​แคนต์​เหล่านี้​คาดหวัง​สูง​ขึ้น​แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.NAME"
+msgid "Insufficient Oxygen generation"
+msgstr "ผลิต​ออกซิเจน​ไม่​พอ"
+
+#. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP"
+msgid ""
+"My colony is consuming more <link=\"OXYGEN\">Oxygen</link> than it is producing, and will run out air if I do not increase production.\n"
+"\n"
+"I should check my existing oxygen production buildings to ensure they're operating correctly\n"
+"\n"
+"• <link=\"OXYGEN\">Oxygen</link> produced last cycle: {EmittingRate}\n"
+"• Consumed last cycle: {ConsumptionRate}"
+msgstr ""
+"อาณานิคม​ของ​ฉัน​ใช้<link=\"OXYGEN\">ออกซิเจน</link>มากกว่า​ที่​ผลิต​ได้ และ​อากาศ​จะ​หมด​ถ้า​ไม่​เพิ่ม​การผลิต\n"
+"\n"
+"ฉัน​ควร​ตรวจ​สิ่งก่อสร้าง​ผลิต​ออกซิเจน​ที่​มี​อยู่​ว่า​ยัง​ทำงาน​ถูกต้อง​ไหม\n"
+"\n"
+"• <link=\"OXYGEN\">ออกซิเจน</link>ที่​ผลิต​รอบ​วันก่อน: {EmittingRate}\n"
+"• ที่​ใช้​ไป​รอบ​วันก่อน: {ConsumptionRate}"
+
+#. STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY"
+msgid ""
+"The temperature of an environment can have positive or negative effects on the well-being of my Duplicants, as well as the plants and critters in my colony. Selecting {Hotkey/Overlay3} will open the Temperature Overlay where I can check for any hot or cold spots.\n"
+"\n"
+"I can use a Utility building like an Ice-E Fan or a Space Heater to make an area colder or warmer. However, I will have limited success changing the temperature of a room unless I build the area with insulating tiles to prevent cold or warm air from escaping."
+msgstr ""
+"อุณหภูมิ​ของ​สภาพแวดล้อม​ส่ง​ผลดี​หรือ​ร้าย​ต่อ​ความเป็นอยู่​ของ​ดู​พลิ​แคนต์ รวมถึง​พืช​และ​สัตว์​ใน​อาณานิคม​ของ​ฉัน​ด้วย กด {Hotkey/Overlay3} จะ​เปิด​โอเวอร์​เลย์ (มุมมอง​ข้อมูล) อุณหภูมิ ให้​ฉัน​เช็ก​จุด​ที่​ร้อน​หรือ​เย็น​ได้\n"
+"\n"
+"ฉัน​ใช้​สิ่งก่อสร้าง​สาธารณูปโภค​อย่าง​พัดลม​ไอ-ซี​หรือ​ฮี​ตเตอร์ (เครื่องทำความร้อน) ทำให้​พื้นที่​เย็น​ลง​หรือ​อุ่น​ขึ้น​ได้ แต่​การ​เปลี่ยน​อุณหภูมิ​ห้อง​จะ​ได้ผล​น้อย​ถ้า​ไม่​สร้าง​พื้นที่​ด้วย​แผ่น​พื้น​ฉนวน​กัน​ไม่​ให้​อากาศ​เย็น​หรือ​อุ่น​รั่ว​ออก​ไป"
+
+#. STRINGS.MISC.NOTIFICATIONS.INSULATION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.NAME"
+msgid "Video: Insulation"
+msgstr "วิดีโอ: ฉนวน​กัน​ความร้อน"
+
+#. STRINGS.MISC.NOTIFICATIONS.INSULATION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.TOOLTIP"
+msgid "Notes on effective temperature management"
+msgstr "บันทึก​การ​จัดการ​อุณหภูมิ​อย่าง​ได้ผล"
+
+#. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME"
+msgid "Invalid construction location"
+msgstr "ตำแหน่ง​ก่อสร้าง​ไม่​ถูกต้อง"
+
+#. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP"
+msgid "These buildings cannot be constructed in the planned areas:"
+msgstr "สิ่งก่อสร้าง​เหล่านี้​สร้าง​ใน​พื้นที่​ที่​วางแผน​ไว้​ไม่​ได้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_GEYSER_ERUPTION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_GEYSER_ERUPTION.NAME"
+msgid "Geyser triggered"
+msgstr "น้ำพุ​ถูก​กระตุ้น"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_GEYSER_ERUPTION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_GEYSER_ERUPTION.TOOLTIP"
+msgid "Demolior's impact has triggered the eruption of a natural vent on this world"
+msgstr "แรง​ชน​ของ​เดโม​ลิ​ออร์​กระตุ้น​ให้​ช่อง​พ่น​ธรรมชาติ​บน​โลก​นี้​ปะทุ"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_KEEPSAKE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_KEEPSAKE.NAME"
+msgid "Artifact found"
+msgstr "พบ​โบราณวัตถุ"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_KEEPSAKE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_KEEPSAKE.TOOLTIP"
+msgid "An artifact has been found in Demolior's rubble"
+msgstr "พบ​โบราณวัตถุ​ใน​ซาก​หิน​ของ​เดโม​ลิ​ออร์"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.CALCULATING_IMPACT_ZONE_TEXT
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.CALCULATING_IMPACT_ZONE_TEXT"
+msgid "CALCULATING IMPACT ZONE..."
+msgstr "กำลัง​คำนวณ​เขต​ตก​กระทบ..."
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.LARGE_IMPACTOR_NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.LARGE_IMPACTOR_NAME"
+msgid "DEMOLIOR"
+msgstr "เดโม​ลิ​ออร์"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_DESCRIPTION
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_DESCRIPTION"
+msgid ""
+"\n"
+"\n"
+"TIME UNTIL IMPACT: {0} CYCLES."
+msgstr ""
+"\n"
+"\n"
+"เวลา​ก่อน​ชน: {0} รอบ​วัน"
+
+#. STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_TITLE
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_TITLE"
+msgid "IMMINENT THREAT"
+msgstr "ภัย​คุกคาม​ใกล้​ตัว"
+
+#. STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME"
+msgid "Attribute increase"
+msgstr "ค่า​คุณสมบัติ​เพิ่มขึ้น"
+
+#. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
+msgid " - {0} Attribute Level modifier raised to +{1}"
+msgstr " - ตัว​ปรับระดับ​คุณสมบัติ {0} เพิ่ม​เป็น +{1}"
+
+#. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
+msgid "These Duplicants' <style=\"KKeyword\">Attributes</style> have improved:"
+msgstr "<style=\"KKeyword\">คุณสมบัติ</style>ของ​ดู​พลิ​แคนต์​เหล่านี้​ดีขึ้น​แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
+msgid ""
+"Duplicants have limited jumping and climbing abilities. They can only climb two tiles high and cannot fit into spaces shorter than two tiles, or cross gaps wider than one tile. I should keep this in mind while placing errands.\n"
+"\n"
+"To check if an errand I've placed is accessible, I can select a Duplicant and (ClickType/click) <b>Show Navigation</b> to view all areas within their reach."
+msgstr ""
+"ดู​พลิ​แคนต์​กระโดด​และ​ปีนป่าย​ได้​จำกัด ปีน​ได้​สูง​แค่​สอง​ช่อง มุด​เข้าที่​เตี้ย​กว่า​สอง​ช่อง​ไม่​ได้ และ​ข้าม​ช่องว่าง​ที่​กว้าง​กว่า​หนึ่ง​ช่อง​ไม่​ได้ ฉัน​ต้อง​จำไว้​ตอน​วาง​งาน\n"
+"\n"
+"ถ้า​อยาก​เช็ก​ว่า​งาน​ที่​วาง​ไว้​ไป​ถึง​ได้​ไหม ให้​เลือก​ดู​พลิ​แคนต์​แล้ว(ClickType/click) <b>แสดง​เส้นทาง</b> เพื่อ​ดู​ทุก​พื้นที่​ที่​พวกเขา​ไป​ถึง​ได้"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
+msgid "Video: Duplicant Movement"
+msgstr "วิดีโอ: การ​เคลื่อนที่​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP"
+msgid "Notes on my Duplicants' maneuverability"
+msgstr "บันทึก​ความ​คล่องตัว​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.NAME"
+msgid "Logic Circuit Overloaded"
+msgstr "วงจร​ระบบ​อัตโนมัติ​โอเวอร์​โหลด"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.TOOLTIP"
+msgid "These <link=\"LOGICWIRE\">Automation Wire</link>s melted due to more bits of data being sent over them than they can support"
+msgstr "<link=\"LOGICWIRE\">สาย​ระบบ​อัตโนมัติ</link>เหล่านี้​ละลาย​เพราะ​ถูก​ส่ง​ข้อมูล​หลาย​บิต​เกิน​กว่า​ที่​รับ​ไหว"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
+msgid ""
+"<link=\"DISEASE\">Germs</link> such as <link=\"FOODPOISONING\">Food Poisoning</link> and <link=\"SLIMELUNG\">Slimelung</link> can cause <link=\"DISEASE\">Disease</link> in my Duplicants. I can use the <b>Germ Overlay</b> {Hotkey/Overlay9} to view all germ concentrations in my colony, and even detect the sources spawning them.\n"
+"\n"
+"Building Wash Basins from the <b>Medicine Tab</b> {Hotkey/Plan8} near colony toilets will tell my Duplicants they need to wash up.\n"
+"\n"
+"Related <link=\"VIDEOS18\">Video: Plumbing and Ventilation</link>"
+msgstr ""
+"<link=\"DISEASE\">เชื้อโรค</link>อย่าง<link=\"FOODPOISONING\">อาหาร​เป็นพิษ</link>และ<link=\"SLIMELUNG\">ปอด​เมือก</link>ทำให้​ดู​พลิ​แคนต์​ของ​ฉัน​เป็น<link=\"DISEASE\">โรค</link>ได้ ฉัน​ใช้<b>โอเวอร์​เลย์​เชื้อโรค</b> (มุมมอง​ข้อมูล) {Hotkey/Overlay9} ดู​ความ​เข้มข้น​ของ​เชื้อ​ทั้งหมด​ใน​อาณานิคม และ​หา​ต้นตอ​ที่​ปล่อย​เชื้อ​ได้​ด้วย\n"
+"\n"
+"สร้าง​อ่าง​ล้างมือ​จาก<b>แท็บ​การแพทย์</b> {Hotkey/Plan8} ไว้​ใกล้​ห้องน้ำ​ของ​อาณานิคม ดู​พลิ​แคนต์​จะ​ได้​รู้​ว่า​ต้อง​ล้างมือ\n"
+"\n"
+"ที่​เกี่ยวข้อง <link=\"VIDEOS18\">วิดีโอ: ระบบ​ท่อน้ำ​และ​ระบายอากาศ</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME"
+msgid "Tutorial: Germs and Disease"
+msgstr "บท​สอน: เชื้อโรค​และ​โรค​ภัย"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP"
+msgid "Notes on Duplicant disease risks"
+msgstr "บันทึก​ความเสี่ยง​โรค​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME"
+msgid "Missing materials"
+msgstr "ขาด​วัสดุ"
+
+#. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP"
+msgid "These resources are not available:"
+msgstr "ทรัพยากร​เหล่านี้​ไม่​มี​ให้​ใช้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
+msgid ""
+"<link=\"DIRTYWATER\">Polluted Water</link> slowly emits <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> which accelerates the spread of <link=\"DISEASE\">Disease</link>.\n"
+"\n"
+"Duplicants will also be <link=\"STRESS\">Stressed</link> by walking through Polluted Water, so I should have my Duplicants clean up spills by (ClickType/clicking) and dragging the <b>Mop Tool</b> {Hotkey/Mop}"
+msgstr ""
+"<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>จะ​ปล่อย<link=\"CONTAMINATEDOXYGEN\">ออกซิเจน​ปนเปื้อน</link>ออกมา​ช้า ๆ ซึ่ง​เร่ง​การ​แพร่​ของ<link=\"DISEASE\">โรค</link>\n"
+"\n"
+"ดู​พลิ​แคนต์​ยัง<link=\"STRESS\">เครียด</link>เวลา​เดิน​ลุย​น้ำ​ปนเปื้อน​ด้วย ฉัน​จึง​ควร​ให้​ดู​พลิ​แคนต์​เช็ด​ของ​หก​ด้วย​การ(ClickType/clicking)แล้ว​ลาก<b>เครื่องมือ​ถู​พื้น</b> {Hotkey/Mop}"
+
+#. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
+msgid "Tutorial: Polluted Water"
+msgstr "บท​สอน: น้ำ​ปนเปื้อน"
+
+#. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP"
+msgid "Notes on handling polluted materials"
+msgstr "บันทึก​การ​จัดการ​วัสดุ​ปนเปื้อน"
+
+#. STRINGS.MISC.NOTIFICATIONS.MORALE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MORALE.MESSAGEBODY"
+msgid ""
+"Food, Rooms, Decor, and Recreation all have an effect on Duplicant Morale. Good experiences improve their Morale, while poor experiences lower it. When a Duplicant's Morale is below their Expectations, they will become Stressed.\n"
+"\n"
+"Duplicants' Expectations will get higher as they are given new Skills, and the colony will have to be improved to keep up their Morale. An overview of Morale and Stress can be viewed on the Vitals screen.\n"
+"\n"
+"Related <link=\"MISCELLANEOUSTIPS\">Tutorial: Stress Management</link>"
+msgstr ""
+"อาหาร ห้อง ความสวยงาม และ​สันทนาการ ล้วน​ส่งผล​ต่อ​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์ ประสบการณ์​ดี​ทำให้​ขวัญ​กำลังใจ​เพิ่ม ประสบการณ์​แย่​ทำให้​ลดลง เมื่อ​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​ต่ำกว่า​ความคาดหวัง พวกเขา​จะ​เริ่ม​เครียด\n"
+"\n"
+"ความคาดหวัง​ของ​ดู​พลิ​แคนต์​จะ​สูง​ขึ้น​เมื่อ​ได้​ทักษะ​ใหม่ อาณานิคม​จึง​ต้อง​พัฒนา​ตาม​ให้​ทัน​เพื่อ​รักษา​ขวัญ​กำลังใจ ดู​ภาพรวม​ขวัญ​กำลังใจ​และ​ความเครียด​ได้ที่​หน้า​สัญญาณ​ชีพ\n"
+"\n"
+"ที่​เกี่ยวข้อง <link=\"MISCELLANEOUSTIPS\">บท​สอน: การ​จัดการ​ความเครียด</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.MORALE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MORALE.NAME"
+msgid "Video: Duplicant Morale"
+msgstr "วิดีโอ: ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.MORALE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.MORALE.TOOLTIP"
+msgid "Notes on Duplicant expectations"
+msgstr "บันทึก​ความคาดหวัง​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME"
+msgid "Nearly dry"
+msgstr "ใกล้​แห้ง​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP"
+msgid "These Duplicants will dry off soon:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​จะ​ตัว​แห้ง​เร็ว ๆ นี้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME"
+msgid "Colony requires a <link=\"POWER\">Power</link> source"
+msgstr "อาณานิคม​ต้อง​มี​แหล่ง<link=\"POWER\">พลังงาน</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP"
+msgid ""
+"<link=\"POWER\">Power</link> is required to operate electrical buildings\n"
+"\n"
+"<link=\"MANUALGENERATOR\">Manual Generators</link> and <link=\"WIRE\">Wire</link> can be built from the <link=\"[3]\">Power Tab</link>"
+msgstr ""
+"สิ่งก่อสร้าง​ไฟฟ้า​ต้อง​ใช้<link=\"POWER\">พลังงาน</link>จึง​จะ​ทำงาน​ได้\n"
+"\n"
+"สร้าง<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ</link>และ<link=\"WIRE\">สายไฟ</link>ได้​จาก<link=\"[3]\">แท็บ​พลังงาน</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME"
+msgid "Colony requires a food source"
+msgstr "อาณานิคม​ต้อง​มี​แหล่ง​อาหาร"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
+msgid ""
+"The colony will exhaust their supplies without a new <link=\"FOOD\">Food</link> source\n"
+"\n"
+"<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
+msgstr ""
+"อาณานิคม​จะ​ใช้​เสบียง​จน​หมด​ถ้า​ไม่​มี​แหล่ง<link=\"FOOD\">อาหาร</link>ใหม่\n"
+"\n"
+"สร้าง<link=\"MICROBEMUSHER\">เครื่อง​บด​จุลินทรีย์</link>ได้​จาก<b>แท็บ​อาหาร</b> {Hotkey/Plan4}"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
+msgid "No <link=\"BED\">Cots</link> built"
+msgstr "ยัง​ไม่​ได้​สร้าง<link=\"BED\">เตียง​พับ</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
+msgid ""
+"My Duplicants would appreciate a place to sleep\n"
+"\n"
+"<link=\"BED\">Cots</link> can be built from the <b>Furniture Tab</b> {Hotkey/Plan9}"
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​อยาก​มี​ที่นอน​สัก​ที่\n"
+"\n"
+"สร้าง<link=\"BED\">เตียง​พับ</link>ได้​จาก<b>แท็บ​เฟอร์นิเจอร์</b> {Hotkey/Plan9}"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME"
+msgid "No <link=\"OUTHOUSE\">Outhouse</link> built"
+msgstr "ยัง​ไม่​ได้​สร้าง<link=\"OUTHOUSE\">ส้วมหลุม</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
+msgid ""
+"My Duplicants have nowhere to relieve themselves\n"
+"\n"
+"<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}"
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​ไม่​มี​ที่​ให้​ปลดทุกข์​เลย\n"
+"\n"
+"สร้าง<link=\"OUTHOUSE\">ส้วมหลุม</link>ได้​จาก<b>แท็บ​ประปา</b> {Hotkey/Plan5}"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.NAME"
+msgid "New Automation Port"
+msgstr "พอร์ต​ระบบ​อัตโนมัติ​ใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.TOOLTIP"
+msgid "This building has a new automation port and is unintentionally connected to an existing <link=\"LOGICWIRE\">Automation Wire</link>"
+msgstr "สิ่งก่อสร้าง​นี้​มี​พอร์ต​ระบบ​อัตโนมัติ​ใหม่ และ​บังเอิญ​ต่อ​อยู่​กับ<link=\"LOGICWIRE\">สาย​ระบบ​อัตโนมัติ</link>ที่​มี​อยู่แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.NAME"
+msgid "New Mutant Seed Discovered"
+msgstr "พบ​เมล็ด​กลายพันธุ์​ใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP"
+msgid "A new mutant variety of the {Plant} has been found. Analyze it at the <link=\"GENETICANALYSISSTATION\">Botanical Analyzer</link> to learn more!"
+msgstr "พบ​สายพันธุ์​กลายพันธุ์​ใหม่​ของ {Plant} แล้ว เอา​ไป​วิเคราะห์​ที่<link=\"GENETICANALYSISSTATION\">เครื่อง​วิเคราะห์​พฤกษศาสตร์</link>เพื่อ​รู้​ข้อมูล​เพิ่ม!"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME"
+msgid "{0} has developed a trait"
+msgstr "{0} มี​ลักษณะนิสัย​ใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP"
+msgid ""
+"{0} has developed the trait(s):\n"
+"    • {1}"
+msgstr ""
+"{0} มี​ลักษณะนิสัย​ใหม่:\n"
+"    • {1}"
+
+#. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME"
+msgid "No <link=\"DOCTORSTATION\">Sick Bay</link> built"
+msgstr "ยัง​ไม่​ได้​สร้าง<link=\"DOCTORSTATION\">ห้อง​พยาบาล</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
+msgid ""
+"There is nowhere for sick Duplicants receive medical care\n"
+"\n"
+"<link=\"DOCTORSTATION\">Sick Bays</link> can be built from the <b>Medicine Tab</b> {Hotkey/Plan8}"
+msgstr ""
+"ดู​พลิ​แคนต์​ที่​ป่วย​ไม่​มี​ที่​ให้​รับ​การรักษา​เลย\n"
+"\n"
+"สร้าง<link=\"DOCTORSTATION\">ห้อง​พยาบาล</link>ได้​จาก<b>แท็บ​การแพทย์</b> {Hotkey/Plan8}"
+
+#. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME"
+msgid "No <link=\"OXYGEN\">Oxygen Generator</link> built"
+msgstr "ยัง​ไม่​ได้​สร้าง<link=\"OXYGEN\">เครื่อง​ผลิต​ออกซิเจน</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP"
+msgid ""
+"My colony is not producing any new <link=\"OXYGEN\">Oxygen</link>\n"
+"\n"
+"<link=\"MINERALDEOXIDIZER\">Oxygen Diffusers</link> can be built from the <b>Oxygen Tab</b> {Hotkey/Plan2}"
+msgstr ""
+"อาณานิคม​ของ​ฉัน​ไม่​ได้​ผลิต<link=\"OXYGEN\">ออกซิเจน</link>ใหม่​เลย\n"
+"\n"
+"สร้าง<link=\"MINERALDEOXIDIZER\">เครื่อง​กระจาย​ออกซิเจน</link>ได้​จาก<b>แท็บ​ออกซิเจน</b> {Hotkey/Plan2}"
+
+#. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME"
+msgid "Output blocked"
+msgstr "ทางออก​อุดตัน"
+
+#. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.TOOLTIP"
+msgid "Blocked <style=\"KKeyword\">Pipes</style> have stopped these systems from functioning:"
+msgstr "<style=\"KKeyword\">ท่อ</style>ที่​อุดตัน​ทำให้​ระบบ​เหล่านี้​หยุด​ทำงาน:"
+
+#. STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY"
+msgid ""
+"When connecting pipes for plumbing, it is useful to have the Plumbing Overlay {Hotkey/Overlay6} selected. Each building which requires plumbing must have their Building Intake connected to the Output Pipe from a source such as a Liquid Pump. Liquid Pumps must be submerged in liquid and attached to a power source to function.\n"
+"\n"
+"Buildings often output contaminated water which must flow out of the building through piping from the Output Pipe. The water can then be expelled through a Liquid Vent, or filtered through a Water Sieve for reuse.\n"
+"\n"
+"Ventilation applies the same principles to gases. Select the Ventilation Overlay {Hotkey/Overlay7} to see how gases are being moved around the colony."
+msgstr ""
+"เวลา​ต่อ​ท่อน้ำ การ​เปิด​โอเวอร์​เลย์ (มุมมอง​ข้อมูล) ระบบ​ท่อน้ำ {Hotkey/Overlay6} ไว้​จะ​ช่วย​ได้​มาก สิ่งก่อสร้าง​ทุก​อัน​ที่​ต้อง​ใช้​น้ำ​ต้อง​ต่อ​ช่อง​รับ​เข้ากับ​ท่อ​ขา​ออกจาก​แหล่ง​อย่าง​ปั๊ม​ของเหลว ปั๊ม​ของเหลว​ต้อง​จุ่ม​อยู่​ใน​ของเหลว​และ​ต่อ​แหล่งพลังงาน​จึง​จะ​ทำงาน​ได้\n"
+"\n"
+"สิ่งก่อสร้าง​มัก​ปล่อย​น้ำ​ปนเปื้อน​ออกมา ซึ่ง​ต้อง​ไหล​ออก​ทาง​ท่อ​จาก​ท่อ​ขาออก จากนั้น​จะ​ปล่อยทิ้ง​ทาง​ช่อง​ระบาย​ของเหลว หรือ​กรอง​ผ่าน​ตะแกรง​กรอง​น้ำ​เพื่อ​เอา​กลับมา​ใช้​ก็ได้\n"
+"\n"
+"ระบบ​ระบายอากาศ​ใช้​หลัก​เดียวกัน​กับ​ก๊าซ เลือก​โอเวอร์​เลย์​ระบายอากาศ {Hotkey/Overlay7} เพื่อ​ดู​ว่า​ก๊าซ​ถูก​เคลื่อนย้าย​ไป​ทั่ว​อาณานิคม​อย่างไร"
+
+#. STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME"
+msgid "Video: Plumbing and Ventilation"
+msgstr "วิดีโอ: ระบบ​ท่อน้ำ​และ​ระบายอากาศ"
+
+#. STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP"
+msgid "Notes on connecting buildings with pipes"
+msgstr "บันทึก​การ​ต่อ​ท่อ​เชื่อม​สิ่งก่อสร้าง"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.BUTTON_VIEW_LORE
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.BUTTON_VIEW_LORE"
+msgid "View entry"
+msgstr "ดู​บันทึก"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.MESSAGEBODY"
+msgid ""
+"Eureka! We've decrypted the Research Portal's final transmission. New buildings have become available:\n"
+"  {0}\n"
+"\n"
+"One file was labeled \"Open This First.\" New Database Entry unlocked."
+msgstr ""
+"ยู​เร​ก้า! เรา​ถอดรหัส​สัญญาณ​สุดท้าย​ของ​ประตู​มิติ​งานวิจัย​ได้​แล้ว มี​สิ่งก่อสร้าง​ใหม่​ให้​ใช้:\n"
+"  {0}\n"
+"\n"
+"มี​ไฟล์​หนึ่ง​ติดป้าย​ว่า \"เปิด​อันนี้​ก่อน\" ปลดล็อก​บันทึก​ฐานข้อมูล​ใหม่​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.NAME"
+msgid "Portal Unlocked!"
+msgstr "ปลดล็อก​ประตู​มิติ​แล้ว!"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.TOOLTIP"
+msgid "{0} unlocked!"
+msgstr "ปลดล็อก {0} แล้ว!"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.MESSAGEBODY"
+msgid ""
+"Eureka! We've decrypted the Research Portal's final transmission. New buildings have become available:\n"
+"  {0}\n"
+"\n"
+msgstr ""
+"ยู​เร​ก้า! เรา​ถอดรหัส​สัญญาณ​สุดท้าย​ของ​ประตู​มิติ​งานวิจัย​ได้​แล้ว มี​สิ่งก่อสร้าง​ใหม่​ให้​ใช้:\n"
+"  {0}\n"
+"\n"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.NAME"
+msgid "Portal Unlocked!"
+msgstr "ปลดล็อก​ประตู​มิติ​แล้ว!"
+
+#. STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.TOOLTIP"
+msgid "{0} unlocked!"
+msgstr "ปลดล็อก {0} แล้ว!"
+
+#. STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY"
+msgid ""
+"Generators are considered \"Producers\" of Power, while the various buildings and machines in the colony are considered \"Consumers\". Each Consumer will pull a certain wattage from the power circuit it is connected to, which can be checked at any time by (ClickType/clicking) the building and going to the Energy Tab.\n"
+"\n"
+"I can use the Power Overlay {Hotkey/Overlay2} to quickly check the status of all my circuits. If the Consumers are taking more wattage than the Generators are creating, the Batteries will drain and there will be brownouts.\n"
+"\n"
+"Additionally, if the Consumers are pulling more wattage through the Wires than the Wires can handle, they will overload and burn out. To correct both these situations, I will need to reorganize my Consumers onto separate circuits."
+msgstr ""
+"เครื่อง​กำเนิด​ไฟ​ถือเป็น \"ผู้ผลิต\" พลังงาน ส่วน​สิ่งก่อสร้าง​และ​เครื่องจักร​ต่าง ๆ ใน​อาณานิคม​ถือเป็น \"ผู้ใช้\" ผู้ใช้​แต่ละ​ตัว​จะ​ดึง​กำลัง​ไฟ​จาก​วงจร​ที่​ต่อ​อยู่​ใน​ปริมาณ​หนึ่ง ซึ่ง​เช็ก​ได้​ตลอด​ด้วย​การ(ClickType/clicking)สิ่งก่อสร้าง​แล้วไป​ที่​แท็บ​พลังงาน\n"
+"\n"
+"ฉัน​ใช้​โอเวอร์​เลย์ (มุมมอง​ข้อมูล) พลังงาน {Hotkey/Overlay2} เช็ก​สถานะ​วงจร​ทั้งหมด​ได้​ไว ๆ ถ้า​ผู้ใช้​กินกำลัง​ไฟ​มากกว่า​ที่​เครื่อง​กำเนิด​ไฟ​ผลิต​ได้ แบตเตอรี่​จะ​หมด​และ​ไฟ​จะ​ตก\n"
+"\n"
+"นอกจากนี้ ถ้า​ผู้ใช้​ดึง​กำลัง​ไฟ​ผ่าน​สายไฟ​มากกว่า​ที่​สาย​รับ​ไหว สาย​จะ​โอเวอร์​โหลด​และ​ไหม้ วิธี​แก้​ทั้งสอง​กรณี​คือ​จัด​ผู้ใช้​แยก​ไป​อยู่​คนละ​วงจร"
+
+#. STRINGS.MISC.NOTIFICATIONS.POWER.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.NAME"
+msgid "Video: Power Circuits"
+msgstr "วิดีโอ: วงจรไฟฟ้า"
+
+#. STRINGS.MISC.NOTIFICATIONS.POWER.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.TOOLTIP"
+msgid "Notes on managing electricity"
+msgstr "บันทึก​การ​จัด​การไฟฟ้า"
+
+#. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
+msgid "Duplicants will choose where to work based on the priority of the errands that I give them. I can open the <b>Priorities Screen</b> {Hotkey/ManagePriorities} to set their <style=\"KKeyword\">Duplicant Priorities</style>, and the <b>Priority Tool</b> {Hotkey/Prioritize} to fine tune <style=\"KKeyword\">Building Priority</style>. Many buildings will also let me change their Priority level when I select them."
+msgstr "ดู​พลิ​แคนต์​จะ​เลือก​ทำงาน​ตาม​ความสำคัญ​ของ​งาน​ที่​ฉัน​สั่ง ฉัน​เปิด<b>หน้า​ความสำคัญ</b> {Hotkey/ManagePriorities} เพื่อ​ตั้ง<style=\"KKeyword\">ความสำคัญ​ของ​ดู​พลิ​แคนต์</style> และ​ใช้<b>เครื่องมือ​ความสำคัญ</b> {Hotkey/Prioritize} ปรับ​ละเอียด<style=\"KKeyword\">ความสำคัญ​ของ​สิ่งก่อสร้าง</style>ได้ สิ่งก่อสร้าง​หลายอย่าง​ยัง​เปลี่ยน​ระดับ​ความสำคัญ​ได้​ตอน​เลือก​ด้วย"
+
+#. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
+msgid "Tutorial: Errand Priorities"
+msgstr "บท​สอน: ความสำคัญ​ของ​งาน"
+
+#. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
+msgid "Notes on my Duplicants' priorities"
+msgstr "บันทึก​ความสำคัญ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY"
+msgid ""
+"Objects such as <link=\"URANIUMORE\">Uranium Ore</link> and <link=\"BEE\">Beeta Hives</link> emit a <link=\"RADIOACTIVE\">Radioactive</link> energy that can be toxic to my Duplicants.\n"
+"\n"
+"I can use the <b>Radiation Overlay</b> {Hotkey/Overlay15} to check the scope of the Radiation field. Building thick walls around radiation emitters will dampen the field and protect my Duplicants from getting <link=\"RADIATIONSICKNESS\">Radiation Sickness</link>."
+msgstr ""
+"วัตถุ​อย่าง<link=\"URANIUMORE\">แร่​ยูเรเนียม</link>และ<link=\"BEE\">รัง​บี​ต้า</link>ปล่อย​พลังงาน<link=\"RADIOACTIVE\">กัมมันตรังสี</link>ที่​อาจ​เป็นพิษ​ต่อ​ดู​พลิ​แคนต์​ของ​ฉัน\n"
+"\n"
+"ฉัน​ใช้<b>โอเวอร์​เลย์​รังสี</b> (มุมมอง​ข้อมูล) {Hotkey/Overlay15} เช็ก​ขอบเขต​ของ​สนาม​รังสี​ได้ การ​สร้างกำแพง​หนา ๆ รอบตัว​ปล่อย​รังสี​จะ​ลด​สนาม​รังสี​และ​ปกป้อง​ดู​พลิ​แคนต์​ไม่​ให้​เป็น<link=\"RADIATIONSICKNESS\">โรค​จาก​รังสี</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.RADIATION.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.NAME"
+msgid "Tutorial: Radiation"
+msgstr "บท​สอน: รังสี"
+
+#. STRINGS.MISC.NOTIFICATIONS.RADIATION.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.TOOLTIP"
+msgid "Notes on managing radiation"
+msgstr "บันทึก​การ​จัดการ​รังสี"
+
 #. STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.NAME"
 msgid "Reactor Meltdown"
 msgstr "เตา​ปฏิกรณ์​หลอมละลาย"
 
+#. STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP"
+msgid "A Research Reactor has overheated and is melting down! Extreme radiation is flooding the area"
+msgstr "เครื่อง​ปฏิกรณ์​วิจัย​ร้อน​เกิน​และ​กำลัง​หลอมละลาย! รังสี​รุนแรง​กำลัง​ท่วม​พื้นที่"
+
+#. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
+msgid "Red Alert"
+msgstr "เตือนภัย​สีแดง"
+
+#. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
+msgid "The colony is prioritizing work over their individual well-being"
+msgstr "อาณานิคม​กำลัง​ให้ความสำคัญ​กับ​งาน​มากกว่า​ความเป็นอยู่​ของ​แต่ละคน"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
+msgid ""
+"Eureka! We've discovered {0} Technology.\n"
+"\n"
+"New technology has become available:\n"
+"  • {1}"
+msgstr ""
+"ยู​เร​ก้า! เรา​ค้นพบ​เทคโนโลยี {0} แล้ว\n"
+"\n"
+"มี​เทคโนโลยี​ใหม่​ให้​ใช้:\n"
+"  • {1}"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
+msgid "Research Complete"
+msgstr "วิจัย​เสร็จสิ้น"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP"
+msgid "{0} research complete!"
+msgstr "วิจัย {0} เสร็จ​แล้ว!"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESETSKILL.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESETSKILL.NAME"
+msgid "Skills reset"
+msgstr "รีเซ็ต​ทักษะ"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESETSKILL.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESETSKILL.TOOLTIP"
+msgid "These Duplicants have had their <style=\"KKeyword\">Skill Points</style> refunded:"
+msgstr "ดู​พลิ​แคนต์​เหล่านี้​ได้<style=\"KKeyword\">แต้ม​ทักษะ</style>คืน​แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME"
+msgid "Resources melted"
+msgstr "ทรัพยากร​ละลาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP"
+msgid "These resources have melted:"
+msgstr "ทรัพยากร​เหล่านี้​ละลาย​แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP"
+msgid ""
+"Duplicants assigned to <style=\"KKeyword\">{0}</style> have started their <b>{1}</b> block.\n"
+"\n"
+"{2}\n"
+"\n"
+"Open the <style=\"KKeyword\">Schedule Screen</style> {Hotkey/ManageSchedule} to change blocks or assignments"
+msgstr ""
+"ดู​พลิ​แคนต์​ที่อยู่​ใน​กลุ่ม<style=\"KKeyword\">{0}</style>เริ่ม​ช่วง<b>{1}</b>แล้ว\n"
+"\n"
+"{2}\n"
+"\n"
+"เปิด<style=\"KKeyword\">หน้า​ตารางเวลา</style> {Hotkey/ManageSchedule} เพื่อ​เปลี่ยน​ช่วงเวลา​หรือ​การ​จัดกลุ่ม"
+
+#. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
+msgid ""
+"My Duplicants will only eat, sleep, work, or bathe during the times I allot for such activities.\n"
+"\n"
+"To make the best use of their time, I can open the <b>Schedule Tab</b> {Hotkey/ManageSchedule} to adjust the colony's schedule and plan how they should utilize their day."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​จะ​กิน นอน ทำงาน หรือ​อาบน้ำ​เฉพาะ​ใน​เวลา​ที่​ฉัน​จัด​ไว้​ให้​เท่านั้น\n"
+"\n"
+"เพื่อ​ใช้เวลา​ให้​คุ้ม​ที่สุด ฉัน​เปิด<b>แท็บ​ตารางเวลา</b> {Hotkey/ManageSchedule} ปรับ​ตาราง​ของ​อาณานิคม​และ​วางแผน​ว่า​พวกเขา​ควร​ใช้​วัน​อย่างไร​ได้"
+
+#. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
+msgid "Tutorial: Scheduling"
+msgstr "บท​สอน: การ​จัด​ตารางเวลา"
+
+#. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.TOOLTIP"
+msgid "Notes on scheduling my Duplicants' time"
+msgstr "บันทึก​การ​จัด​เวลา​ให้​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY"
+msgid ""
+"These Duplicants have Skill Points that can be spent on new abilities:\n"
+"{0}"
+msgstr ""
+"ดู​พลิ​แคนต์​เหล่านี้​มี​แต้ม​ทักษะ​ที่​ใช้​เรียน​ความสามารถ​ใหม่​ได้:\n"
+"{0}"
+
+#. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.NAME"
+msgid "{Duplicant} earned a skill point!"
+msgstr "{Duplicant} ได้แต้ม​ทักษะ!"
+
+#. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.TOOLTIP"
+msgid "{Duplicant} has been working hard and is ready to learn a new skill"
+msgstr "{Duplicant} ทำงานหนัก​มา​ตลอด​และ​พร้อม​เรียน​ทักษะ​ใหม่​แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.MESSAGEBODY"
+msgid ""
+"My Duplicants may slip and fall on wet surfaces, and Duplicants with bionic systems can experience disruptive glitching.\n"
+"\n"
+"I can help my colony avoid undue <link=\"STRESS\">Stress</link> and potential injury by using the <b>Mop Tool</b> {Hotkey/Mop} to clean up spills. Building <link=\"REQUIREMENTCLASSTOILETTYPE\">Toilets</link> and <link=\"GUNKEMPTIER\">Gunk Extractors</link> can help minimize the incidence of spills."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​อาจ​ลื่นล้ม​บน​พื้น​เปียก และ​ดู​พลิ​แคนต์​ที่​มีระบบ​ไบโอ​นิ​ก​อาจ​เกิด​อาการ​กระตุก​รวน\n"
+"\n"
+"ฉัน​ช่วย​ให้​อาณานิคม​เลี่ยง<link=\"STRESS\">ความเครียด</link>ที่​ไม่​จำเป็น​และ​การ​บาดเจ็บ​ได้​ด้วย<b>เครื่องมือ​ถู​พื้น</b> {Hotkey/Mop} เช็ด​ของ​หก การ​สร้าง<link=\"REQUIREMENTCLASSTOILETTYPE\">ห้องน้ำ</link>และ<link=\"GUNKEMPTIER\">เครื่อง​ดูด​คราบ​เหนียว</link>ช่วย​ลด​โอกาส​ที่​ของ​จะ​หก​ได้"
+
+#. STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.NAME"
+msgid "Tutorial: Wet Surfaces"
+msgstr "บท​สอน: พื้น​เปียก"
+
+#. STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.TOOLTIP"
+msgid "Notes on slipping hazards"
+msgstr "บันทึก​อันตราย​จาก​การ​ลื่น"
+
+#. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY"
+msgid ""
+"Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket Platform</link> and adding modules from the menu. All components of the Rocket Checklist will need to be complete before being capable of launching.\n"
+"\n"
+"A <link=\"CLUSTERTELESCOPE\">Telescope</link> needs to be built on the surface of a Planetoid in order to use the <style=\"KKeyword\">Starmap Screen</style> {Hotkey/ManageStarmap} to see and set course for new destinations."
+msgstr ""
+"การ​สร้าง​จรวด​ต้อง​สร้าง<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link>ก่อน แล้ว​เพิ่ม​โมดูล​จาก​เมนู ทุก​ข้อ​ใน​เช็ก​ลิสต์ (รายการ​ตรวจสอบ) จรวด​ต้อง​ครบ​ก่อน​จึง​จะ​ปล่อย​ได้\n"
+"\n"
+"ต้อง​สร้าง<link=\"CLUSTERTELESCOPE\">กล้องโทรทรรศน์</link>ไว้​บน​ผิว​ดาว​ก่อน จึง​จะ​ใช้<style=\"KKeyword\">หน้าจอ​แผนที่​ดวงดาว</style> {Hotkey/ManageStarmap} ดู​และ​ตั้ง​เส้นทาง​ไป​จุดหมาย​ใหม่​ได้"
+
+#. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME"
+msgid "Tutorial: Space Travel"
+msgstr "บท​สอน: การ​เดิน​ทางใน​อวกาศ"
+
+#. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.TOOLTIP"
+msgid "Notes on traveling in space"
+msgstr "บันทึก​การ​เดิน​ทางใน​อวกาศ"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY"
+msgid ""
+"At 100% <link=\"STRESS\">Stress</link>, a Duplicant will have a nervous breakdown and be unable to work.\n"
+"\n"
+"Breakdowns can manifest in different colony-threatening ways, such as the destruction of buildings or the binge eating of food.\n"
+"\n"
+"I can help my Duplicants manage stressful situations by giving them access to good <link=\"FOOD\">Food</link>, fancy <link=\"DECOR\">Decor</link> and comfort items which boost their <link=\"MORALE\">Morale</link>.\n"
+"\n"
+"I can select a Duplicant and mouse over <link=\"STRESS\">Stress</link> or <link=\"MORALE\">Morale</link> in their CONDITION TAB to view current statuses, and hopefully manage things before they become a problem.\n"
+"\n"
+"Related <link=\"VIDEOS13\">Video: Duplicant Morale</link> "
+msgstr ""
+"เมื่อ<link=\"STRESS\">ความเครียด</link>ถึง 100% ดู​พลิ​แคนต์​จะ​สติแตก​และ​ทำงาน​ไม่​ได้\n"
+"\n"
+"อาการ​สติแตก​ออกมา​ได้​หลาย​แบบ​ที่​คุกคาม​อาณานิคม เช่น พัง​สิ่งก่อสร้าง หรือ​กิน​อาหาร​ไม่​ยั้ง\n"
+"\n"
+"ฉัน​ช่วย​ดู​พลิ​แคนต์​รับมือ​สถานการณ์​ตึงเครียด​ได้​ด้วย​การ​ให้​เข้าถึง<link=\"FOOD\">อาหาร</link>ดี ๆ <link=\"DECOR\">ของ​ตกแต่ง</link>หรูหรา และ​ของใช้​ให้​ความ​สบาย​ที่​เพิ่ม<link=\"MORALE\">ขวัญ​กำลังใจ</link>\n"
+"\n"
+"ฉัน​เลือก​ดู​พลิ​แคนต์​แล้ว​เอา​เมาส์​ชี้​ที่<link=\"STRESS\">ความเครียด</link>หรือ<link=\"MORALE\">ขวัญ​กำลังใจ</link>ใน​แท็บ​สภาพร่างกาย เพื่อ​ดู​สถานะ​ปัจจุบัน และ​หวัง​ว่า​จะ​จัดการ​ได้​ก่อน​กลาย​เป็นปัญหา\n"
+"\n"
+"ที่​เกี่ยวข้อง <link=\"VIDEOS13\">วิดีโอ: ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์</link> "
+
+#. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
+msgid "Tutorial: Stress Management"
+msgstr "บท​สอน: การ​จัดการ​ความเครียด"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP"
+msgid "Notes on keeping Duplicants happy and productive"
+msgstr "บันทึก​การ​ทำให้​ดู​พลิ​แคนต์​แฮปปี้​และ​ขยัน​ทำงาน"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME"
+msgid "Structural collapse"
+msgstr "โครงสร้าง​ถล่ม"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP"
+msgid "These buildings have collapsed:"
+msgstr "สิ่งก่อสร้าง​เหล่านี้​ถล่ม​แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME"
+msgid "Structural damage"
+msgstr "โครงสร้าง​เสียหาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
+msgid "These buildings' structural integrity has been compromised"
+msgstr "ความแข็งแรง​ของ​โครงสร้าง​ของ​สิ่งก่อสร้าง​เหล่านี้​ถูก​ทำลาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.NAME"
+msgid "No Docks available"
+msgstr "ไม่​มี​แท่น​ว่าง"
+
+#. STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.TOOLTIP"
+msgid "An exosuit was dropped because there were no empty docks available"
+msgstr "ชุด​ป้องกัน​ถูก​ทิ้ง​ไว้​เพราะ​ไม่​มี​แท่น​ว่าง​เลย"
+
+#. STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY"
+msgid ""
+"<link=\"ATMOSUIT\">Atmo Suits</link> can be equipped to protect my Duplicants from environmental hazards like extreme <link=\"HEAT\">Heat</link>, airborne <link=\"DISEASE\">Germs</link>, or unbreathable <link=\"ELEMENTSGAS\">Gas</link>. In order to utilize these suits, I'll need to hook up an <link=\"SUITLOCKER\">Atmo Suit Dock</link> to an <link=\"SUITMARKER\">Atmo Suit Checkpoint</link> , then store one of the suits inside.\n"
+"\n"
+"Duplicants will equip a suit when they walk past the checkpoint in the chosen direction, and will unequip their suit when walking back the opposite way."
+msgstr ""
+"ใส่<link=\"ATMOSUIT\">ชุด​อัต​โม</link> (ชุด​กัน​แก๊ส) เพื่อ​ปกป้อง​ดู​พลิ​แคนต์​จาก​อันตราย​ใน​สภาพแวดล้อม เช่น<link=\"HEAT\">ความร้อน</link>สุดขีด <link=\"DISEASE\">เชื้อโรค</link>ใน​อากาศ หรือ<link=\"ELEMENTSGAS\">ก๊าซ</link>ที่​หายใจ​ไม่​ได้ การ​จะ​ใช้​ชุด​เหล่านี้ ฉัน​ต้อง​ต่อ<link=\"SUITLOCKER\">แท่น​ชุด​อัต​โม</link>เข้ากับ<link=\"SUITMARKER\">ด่าน​ชุด​อัต​โม</link> แล้ว​เก็บ​ชุด​ไว้​ข้างใน​หนึ่ง​ชุด\n"
+"\n"
+"ดู​พลิ​แคนต์​จะ​ใส่​ชุด​เมื่อ​เดินผ่าน​ด่าน​ไป​ใน​ทิศ​ที่​เลือก และ​จะ​ถอด​ชุด​เมื่อ​เดิน​กลับ​ทาง​ตรงข้าม"
+
+#. STRINGS.MISC.NOTIFICATIONS.SUITS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.NAME"
+msgid "Tutorial: Atmo Suits"
+msgstr "บท​สอน: ชุด​อัต​โม"
+
+#. STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP"
+msgid "Notes on using atmo suits"
+msgstr "บันทึก​การ​ใช้​ชุด​อัต​โม"
+
+#. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
+msgid ""
+"Duplicants always perform errands in order of highest to lowest priority. They will harvest <link=\"FOOD\">Food</link> before they build, for example, or always build new structures before they mine materials.\n"
+"\n"
+"I can open the <b>Priorities Screen</b> {Hotkey/ManagePriorities} to set which Errand Types Duplicants may or may not perform, or to specialize skilled Duplicants for particular Errand Types."
+msgstr ""
+"ดู​พลิ​แคนต์​จะ​ทำงาน​ตาม​ลำดับความสำคัญ​จาก​สูง​ไป​ต่ำ​เสมอ เช่น เก็บเกี่ยว<link=\"FOOD\">อาหาร</link>ก่อน​ก่อสร้าง หรือ​สร้าง​สิ่งก่อสร้าง​ใหม่​ก่อน​ขุด​วัสดุ​ทุกครั้ง\n"
+"\n"
+"ฉัน​เปิด<b>หน้า​ความสำคัญ</b> {Hotkey/ManagePriorities} เพื่อ​ตั้ง​ว่า​ดู​พลิ​แคนต์​ทำงาน​ประเภท​ไหน​ได้​หรือไม่​ได้ หรือ​ให้​ดู​พลิ​แคนต์​ที่​มี​ทักษะ​เชี่ยวชาญ​งาน​บาง​ประเภท​ได้"
+
+#. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
+msgid "Tutorial: Priority"
+msgstr "บท​สอน: ความสำคัญ"
+
+#. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP"
+msgid "Notes on managing Duplicants' errands"
+msgstr "บันทึก​การ​จัด​การงาน​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY"
+msgid ""
+"Environments that are extremely <link=\"HEAT\">Hot</link> or <link=\"HEAT\">Cold</link> affect my Duplicants' internal body temperature and cause undue <link=\"STRESS\">Stress</link> or unscheduled naps.\n"
+"\n"
+"Opening the <b>Temperature Overlay</b> {Hotkey/Overlay3} and checking the <b>Thermal Tolerance</b> box allows me to view all areas where my Duplicants will feel discomfort and be unable to regulate their internal body temperature.\n"
+"\n"
+"Related <link=\"VIDEOS17\">Video: Insulation</link>"
+msgstr ""
+"สภาพแวดล้อม​ที่<link=\"HEAT\">ร้อน</link>หรือ<link=\"HEAT\">เย็น</link>สุดขีด​จะ​ส่งผล​ต่อ​อุณหภูมิ​ร่างกาย​ของ​ดู​พลิ​แคนต์ ทำให้<link=\"STRESS\">เครียด</link>เกิน​เหตุ​หรือ​เผลอ​หลับ​นอกเวลา\n"
+"\n"
+"เปิด<b>โอเวอร์​เลย์​อุณหภูมิ</b> (มุมมอง​ข้อมูล) {Hotkey/Overlay3} แล้ว​ติ๊ก​ช่อง<b>ความทน​อุณหภูมิ</b> จะ​เห็น​ทุก​พื้นที่​ที่​ดู​พลิ​แคนต์​จะ​รู้สึก​ไม่​สบาย​และ​คุม​อุณหภูมิ​ร่างกาย​ไม่​ได้\n"
+"\n"
+"ที่​เกี่ยวข้อง <link=\"VIDEOS17\">วิดีโอ: ฉนวน​กัน​ความร้อน</link>"
+
+#. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME"
+msgid "Tutorial: Duplicant Temperature"
+msgstr "บท​สอน: อุณหภูมิ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP"
+msgid "Notes on helping Duplicants keep their cool"
+msgstr "บันทึก​การ​ช่วย​ให้​ดู​พลิ​แคนต์​ใจเย็น (ตัว​ก็​เย็น)"
+
+#. STRINGS.MISC.NOTIFICATIONS.TILECOLLAPSE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TILECOLLAPSE.NAME"
+msgid "Ceiling Collapse!"
+msgstr "เพดาน​ถล่ม!"
+
+#. STRINGS.MISC.NOTIFICATIONS.TILECOLLAPSE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TILECOLLAPSE.TOOLTIP"
+msgid "Falling material fell on these Duplicants and displaced them:"
+msgstr "วัสดุ​ร่วง​ใส่​ดู​พลิ​แคนต์​เหล่านี้​จน​กระเด็น​ออกจาก​ที่:"
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY"
+msgid ""
+"When constructing buildings, I should always take note of their <link=\"HEAT\">Overheat Temperature</link> and plan their locations accordingly. Maintaining low ambient temperatures and good ventilation in the colony will also help keep building temperatures down.\n"
+"\n"
+"The <b>Relative Temperature</b> slider tool in the <b>Temperature Overlay</b> {Hotkey/Overlay3} allows me to change adjust the overlay's color-coding in order to highlight specific temperature ranges.\n"
+"\n"
+"If I allow buildings to exceed their Overheat Temperature they will begin to take damage, and if left unattended, they will break down and be unusable until repaired."
+msgstr ""
+"ตอน​สร้าง​สิ่งก่อสร้าง ฉัน​ควร​ดู<link=\"HEAT\">อุณหภูมิ​ร้อน​เกิน</link>ของ​มัน​เสมอ​และ​วาง​ตำแหน่ง​ให้​เหมาะ การรักษา​อุณหภูมิ​รอบ ๆ ให้​ต่ำ​และ​ระบายอากาศ​ดี​ใน​อาณานิคม​ก็​ช่วย​ให้​สิ่งก่อสร้าง​ไม่​ร้อน​ด้วย\n"
+"\n"
+"แถบ​เลื่อน<b>อุณหภูมิ​สัมพัทธ์</b>ใน<b>โอเวอร์​เลย์​อุณหภูมิ</b> (มุมมอง​ข้อมูล) {Hotkey/Overlay3} ช่วย​ให้​ฉัน​ปรับ​รหัส​สี​ของ​โอเวอร์​เลย์​เพื่อ​เน้น​ช่วง​อุณหภูมิ​ที่​ต้องการ​ได้\n"
+"\n"
+"ถ้า​ปล่อย​ให้​สิ่งก่อสร้าง​ร้อน​เกิน​อุณหภูมิ​ร้อน​เกิน มัน​จะ​เริ่ม​เสียหาย และ​ถ้า​ไม่​สนใจ มัน​จะ​พัง​และ​ใช้ไม่ได้​จนกว่า​จะ​ซ่อม"
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
+msgid "Tutorial: Building Temperature"
+msgstr "บท​สอน: อุณหภูมิ​ของ​สิ่งก่อสร้าง"
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP"
+msgid "Notes on preventing building from breaking"
+msgstr "บันทึก​การกัน​สิ่งก่อสร้าง​พัง"
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
+msgid "Unreachable resources"
+msgstr "ทรัพยากร​เข้า​ไม่​ถึง"
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP"
+msgid "Duplicants cannot retrieve these resources:"
+msgstr "ดู​พลิ​แคนต์​ไป​เก็บ​ทรัพยากร​เหล่านี้​ไม่​ได้:"
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.NAME"
+msgid "Unrefrigerated Food"
+msgstr "อาหาร​ไม่​ได้​แช่เย็น"
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP"
+msgid "These <link=\"FOOD\">Food</link> items are stored but not refrigerated:\n"
+msgstr "<link=\"FOOD\">อาหาร</link>เหล่านี้​ถูก​เก็บ​ไว้​แต่​ไม่​ได้​แช่เย็น:\n"
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME"
+msgid "Vent blocked"
+msgstr "ช่อง​ระบาย​ถูก​บัง"
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP"
+msgid "Blocked <style=\"KKeyword\">Pipes</style> have stopped these systems from functioning:"
+msgstr "<style=\"KKeyword\">ท่อ</style>ที่​อุดตัน​ทำให้​ระบบ​เหล่านี้​หยุด​ทำงาน:"
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME"
+msgid "Vent overpressurized"
+msgstr "ช่อง​ระบาย​แรงดัน​เกิน"
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP"
+msgid "These <style=\"KKeyword\">Pipe</style> systems have exited the ideal <style=\"KKeyword\">Pressure</style> range:"
+msgstr "ระบบ<style=\"KKeyword\">ท่อ</style>เหล่านี้​ออก​นอก​ช่วง<style=\"KKeyword\">แรงดัน</style>ที่​เหมาะสม​แล้ว:"
+
+#. STRINGS.MISC.NOTIFICATIONS.WARP_PORTAL_DUPE_READY.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WARP_PORTAL_DUPE_READY.NAME"
+msgid "Duplicant warp ready"
+msgstr "ดู​พลิ​แคนต์​พร้อม​วาร์ป"
+
+#. STRINGS.MISC.NOTIFICATIONS.WARP_PORTAL_DUPE_READY.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WARP_PORTAL_DUPE_READY.TOOLTIP"
+msgid "{dupe} is ready to warp from the Teleporter Transmitter"
+msgstr "{dupe} พร้อม​วาร์ป​จาก​เครื่องส่ง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) แล้ว"
+
+#. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
+msgid ""
+"I can use the <b>Dig Tool</b> {Hotkey/Dig} and the <b>Build Menu</b> in the lower left of the screen to begin planning my first construction tasks.\n"
+"\n"
+"Once I've placed a few errands my Duplicants will automatically get to work, without me needing to direct them individually."
+msgstr ""
+"ฉัน​ใช้<b>เครื่องมือ​ขุด</b> {Hotkey/Dig} และ<b>เมนู​ก่อสร้าง</b>ที่​มุม​ซ้าย​ล่าง​ของ​จอ​เพื่อ​เริ่ม​วางแผน​งานก่อสร้าง​แรก​ได้\n"
+"\n"
+"พอ​วาง​งาน​ไว้​สักหน่อย ดู​พลิ​แคนต์​จะ​ลงมือทำ​เอง​อัตโนมัติ ไม่ต้อง​สั่ง​ทีละ​คน"
+
+#. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
+msgid "Tutorial: Colony Management"
+msgstr "บท​สอน: การบริหาร​อาณานิคม"
+
+#. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP"
+msgid "Notes on getting Duplicants to do my bidding"
+msgstr "บันทึก​การ​ทำให้​ดู​พลิ​แคนต์​ทำ​ตามที่​ฉัน​สั่ง"
+
+#. STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.MESSAGEBODY"
+msgid ""
+"My Duplicants' astronomical efforts have uncovered a new Planetoid:\n"
+"{0}"
+msgstr ""
+"ความพยายาม​ทาง​ดาราศาสตร์​ของ​ดู​พลิ​แคนต์​ค้นพบ​ดาว​ดวง​ใหม่:\n"
+"{0}"
+
+#. STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.NAME"
+msgid "New Planetoid detected"
+msgstr "ตรวจ​พบ​ดาว​ดวง​ใหม่"
+
+#. STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.TOOLTIP"
+msgid "{0} discovered"
+msgstr "ค้นพบ {0}"
+
 #. STRINGS.MISC.NOTIFICATIONS.YELLOWALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.YELLOWALERT.NAME"
 msgid "Yellow Alert"
 msgstr "เตือนภัย​สีเหลือง"
+
+#. STRINGS.MISC.NOTIFICATIONS.YELLOWALERT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.YELLOWALERT.TOOLTIP"
+msgid "The colony has some top priority tasks to complete before resuming a normal schedule"
+msgstr "อาณานิคม​มี​งาน​ความสำคัญ​สูงสุด​ต้อง​ทำให้​เสร็จ​ก่อน​กลับ​ไป​ใช้​ตารางเวลา​ปกติ"
 
 #. STRINGS.MISC.PLACERS.DIGPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.DIGPLACER.NAME"
@@ -56408,30 +58501,476 @@ msgctxt "STRINGS.MISC.PLACERS.MOPPLACER.NAME"
 msgid "Mop"
 msgstr "ถู​พื้น"
 
+#. STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.NAME
+msgctxt "STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.NAME"
+msgid "Relocate Here"
+msgstr "ย้าย​มา​ที่นี่"
+
+#. STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.PLACER_STATUS
+msgctxt "STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.PLACER_STATUS"
+msgid "Next Destination"
+msgstr "จุดหมาย​ถัดไป"
+
+#. STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.PLACER_STATUS_TOOLTIP
+msgctxt "STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.PLACER_STATUS_TOOLTIP"
+msgid "Click to see where this item will be relocated to"
+msgstr "คลิก​เพื่อ​ดู​ว่า​ไอ​เท็ม​นี้​จะ​ถูก​ย้าย​ไป​ที่ไหน"
+
+#. STRINGS.MISC.POPFX.EXTRA_POWERBANKS_BIONIC
+msgctxt "STRINGS.MISC.POPFX.EXTRA_POWERBANKS_BIONIC"
+msgid "Extra Power Banks"
+msgstr "พาวเวอร์​แบงก์​ส่วนเกิน"
+
+#. STRINGS.MISC.POPFX.RESOURCE_EATEN
+msgctxt "STRINGS.MISC.POPFX.RESOURCE_EATEN"
+msgid "Resource Eaten"
+msgstr "ทรัพยากร​ถูก​กิน"
+
+#. STRINGS.MISC.POPFX.RESOURCE_SELECTION_CHANGED
+msgctxt "STRINGS.MISC.POPFX.RESOURCE_SELECTION_CHANGED"
+msgid "Changed to {0}"
+msgstr "เปลี่ยนเป็น {0}"
+
+#. STRINGS.MISC.STATUSITEMS.ARTIFACTENTOMBED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ARTIFACTENTOMBED.NAME"
+msgid "Entombed Artifact"
+msgstr "โบราณวัตถุ​ถูก​ฝัง"
+
+#. STRINGS.MISC.STATUSITEMS.ARTIFACTENTOMBED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ARTIFACTENTOMBED.TOOLTIP"
+msgid "This artifact is trapped in an obscuring shell limiting its decor. A skilled artist can remove it at the <link=\"ARTIFACTANALYSISSTATION\">Artifact Analysis Station</link>"
+msgstr "โบราณวัตถุ​นี้​ติด​อยู่​ใน​เปลือก​ที่​บดบัง​ความสวยงาม​ของ​มัน ศิลปิน​ที่​มี​ทักษะ​เอา​เปลือก​ออก​ได้ที่<link=\"ARTIFACTANALYSISSTATION\">สถานี​วิเคราะห์​โบราณวัตถุ</link>"
+
+#. STRINGS.MISC.STATUSITEMS.ATTENTIONREQUIRED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ATTENTIONREQUIRED.NAME"
+msgid "Attention Required!"
+msgstr "ต้อง​ดูแล​ด่วน!"
+
+#. STRINGS.MISC.STATUSITEMS.ATTENTIONREQUIRED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ATTENTIONREQUIRED.TOOLTIP"
+msgid "Something in my colony needs to be attended to"
+msgstr "มี​บางอย่าง​ใน​อาณานิคม​ของ​ฉัน​ที่​ต้อง​จัดการ"
+
+#. STRINGS.MISC.STATUSITEMS.AWAITINGSTUDY.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.AWAITINGSTUDY.NAME"
+msgid "Analysis Pending"
+msgstr "รอ​การ​วิเคราะห์"
+
+#. STRINGS.MISC.STATUSITEMS.AWAITINGSTUDY.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.AWAITINGSTUDY.TOOLTIP"
+msgid "New information on this Natural Feature will be compiled once the field study is complete"
+msgstr "ข้อมูล​ใหม่​ของ​ภูมิประเทศ​ธรรมชาติ​นี้​จะ​ถูก​รวบรวม​เมื่อ​การศึกษา​ภาคสนาม​เสร็จ"
+
+#. STRINGS.MISC.STATUSITEMS.BACKWALLMASS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BACKWALLMASS.TOOLTIP"
+msgid "This backwall has a mass of <b>{Mass}</b>"
+msgstr "ผนัง​หลัง​นี้​มี​มวล <b>{Mass}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.BACKWALLTEMPERATURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BACKWALLTEMPERATURE.TOOLTIP"
+msgid "This backwall is currently <b>{Temp}</b>"
+msgstr "ผนัง​หลัง​นี้​ตอนนี้​อยู่​ที่ <b>{Temp}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTER.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTER.NAME"
+msgid "Stored Geodata: {0}"
+msgstr "ข้อมูล​ธรณี​ที่เก็บ​ไว้: {0}"
+
+#. STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTER.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTER.TOOLTIP"
+msgid ""
+"<style=\"KKeyword\">Dowsing Boosters</style> retain geodata gathered by Bionic Duplicants\n"
+"\n"
+"When dowsing is complete and this booster is installed in a Bionic Duplicant, a new geyser will be revealed"
+msgstr ""
+"<style=\"KKeyword\">บูสเตอร์​หยั่ง​หา</style>เก็บ​ข้อมูล​ธรณี​ที่​ดู​พลิ​แคนต์​ไบโอ​นิ​กรวบ​รวม​ไว้\n"
+"\n"
+"เมื่อ​หยั่ง​หา​เสร็จ​และ​ติดตั้ง​บูสเตอร์​นี้​ใน​ดู​พลิ​แคนต์​ไบโอ​นิ​ก จะ​เผย​น้ำพุ​ใหม่​หนึ่ง​แห่ง"
+
+#. STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTERREADY.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTERREADY.NAME"
+msgid "Dowsing Complete"
+msgstr "หยั่ง​หา​เสร็จสิ้น"
+
+#. STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTERREADY.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTERREADY.TOOLTIP"
+msgid ""
+"This <style=\"KKeyword\">Dowsing Booster</style> has sufficient geodata stored to reveal a new geyser\n"
+"\n"
+"It must be installed in a Bionic Duplicant in order to function"
+msgstr ""
+"<style=\"KKeyword\">บูสเตอร์​หยั่ง​หา</style>นี้​มี​ข้อมูล​ธรณี​พอ​จะ​เผย​น้ำพุ​ใหม่​แล้ว\n"
+"\n"
+"ต้อง​ติดตั้ง​ใน​ดู​พลิ​แคนต์​ไบโอ​นิ​ก​จึง​จะ​ทำงาน"
+
+#. STRINGS.MISC.STATUSITEMS.BUBBLECONTENTS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BUBBLECONTENTS.TOOLTIP"
+msgid "Bubbles currently passing through this cell"
+msgstr "ฟองอากาศ​กำลัง​ลอย​ผ่าน​ช่อง​นี้"
+
+#. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME"
+msgid "Buried Object"
+msgstr "วัตถุ​ถูก​ฝัง"
+
+#. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NOTIFICATION
+msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NOTIFICATION"
+msgid "Buried object discovered"
+msgstr "พบ​วัตถุ​ถูก​ฝัง"
+
+#. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NOTIFICATION_TOOLTIP"
+msgid ""
+"My Duplicants have uncovered a {Uncoverable}!\n"
+"\n"
+"(ClickType/Click) to jump to its location."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​ขุด​เจอ {Uncoverable}!\n"
+"\n"
+"(ClickType/Click) เพื่อ​ไป​ยัง​ตำแหน่ง​ของ​มัน"
+
+#. STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP"
+msgid "Something seems to be hidden here"
+msgstr "ดูเหมือน​จะ​มี​อะไร​ซ่อน​อยู่​ตรงนี้"
+
 #. STRINGS.MISC.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning"
 msgstr "ทำความสะอาด"
+
+#. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP"
+msgid "This building is currently being cleaned"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​ถูก​ทำความสะอาด"
+
+#. STRINGS.MISC.STATUSITEMS.CLUSTERMETEORREMAININGTRAVELTIME.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.CLUSTERMETEORREMAININGTRAVELTIME.NAME"
+msgid "Time to collision: {time}"
+msgstr "เวลา​ก่อน​ชน: {time}"
+
+#. STRINGS.MISC.STATUSITEMS.CLUSTERMETEORREMAININGTRAVELTIME.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.CLUSTERMETEORREMAININGTRAVELTIME.TOOLTIP"
+msgid "The time remaining before this meteor reaches its destination"
+msgstr "เวลา​ที่​เหลือ​ก่อน​อุกกาบาต​นี้​จะ​ถึง​เป้าหมาย"
+
+#. STRINGS.MISC.STATUSITEMS.DURABILITY.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.DURABILITY.NAME"
+msgid "Durability: {durability}"
+msgstr "ความทนทาน: {durability}"
+
+#. STRINGS.MISC.STATUSITEMS.DURABILITY.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.DURABILITY.TOOLTIP"
+msgid ""
+"Items lose durability each time they are equipped, and can no longer be put on by a Duplicant once they reach 0% durability\n"
+"\n"
+"Repair of this item can be done in the appropriate fabrication station"
+msgstr ""
+"ไอ​เท็ม​จะ​เสีย​ความทนทาน​ทุกครั้งที่​ถูก​สวมใส่ และ​ดู​พลิ​แคนต์​จะ​ใส่​ไม่​ได้​อีก​เมื่อ​ความทนทาน​เหลือ 0%\n"
+"\n"
+"ซ่อม​ไอ​เท็ม​นี้​ได้ที่​สถานี​ผลิต​ที่​เหมาะสม"
+
+#. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
+msgid "Rations: {0}"
+msgstr "เสบียง: {0}"
+
+#. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
+msgid "Can provide <link=\"KCAL\">{0}</link> of energy to Duplicants"
+msgstr "ให้​พลังงาน​แก่​ดู​พลิ​แคนต์​ได้ <link=\"KCAL\">{0}</link>"
+
+#. STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.NAME"
+msgid "Lifetime Remaining: {0}"
+msgstr "อายุการใช้งาน​ที่​เหลือ: {0}"
+
+#. STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.TOOLTIP"
+msgid ""
+"Self-charging will continue for {0}\n"
+"\n"
+"When lifetime reaches zero, this  <link=\"ELECTROBANK\">Power Bank</link> will explode"
+msgstr ""
+"จะ​ชาร์จ​ตัวเอง​ต่อไป​อีก {0}\n"
+"\n"
+"เมื่อ​อายุการใช้งาน​เหลือ​ศูนย์ <link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>นี้​จะ​ระเบิด (บึ้ม!)"
+
+#. STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.NAME"
+msgid "Self-Charging: {0}"
+msgstr "ชาร์จ​ตัวเอง: {0}"
+
+#. STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.TOOLTIP"
+msgid "This <link=\"ELECTROBANK\">Power Bank</link> is always slowly charging itself"
+msgstr "<link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>นี้​ชาร์จ​ตัวเอง​ช้า ๆ อยู่​ตลอด"
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP"
+msgid "The selected object belongs to the <b>{Category}</b> resource category"
+msgstr "วัตถุ​ที่​เลือก​อยู่​ใน​หมวด​ทรัพยากร<b>{Category}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALDISEASE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALDISEASE.TOOLTIP"
+msgid "Current disease: {Disease}"
+msgstr "โรค​ปัจจุบัน: {Disease}"
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP"
+msgid "The selected object has a mass of <b>{Mass}</b>"
+msgstr "วัตถุ​ที่​เลือก​มี​มวล <b>{Mass}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP"
+msgid "The selected object is currently <b>{Temp}</b>"
+msgstr "วัตถุ​ที่​เลือก​ตอนนี้​อยู่​ที่ <b>{Temp}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.GENETICANALYSISCOMPLETED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.GENETICANALYSISCOMPLETED.NAME"
+msgid "Genome Sequenced"
+msgstr "ถอดรหัส​จีโนม​แล้ว"
+
+#. STRINGS.MISC.STATUSITEMS.GENETICANALYSISCOMPLETED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.GENETICANALYSISCOMPLETED.TOOLTIP"
+msgid "This Station has sequenced a new seed mutation"
+msgstr "สถานี​นี้​ถอดรหัส​การกลายพันธุ์​ของ​เมล็ด​แบบ​ใหม่​ได้​แล้ว"
+
+#. STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.NAME"
+msgid "Growing Branches"
+msgstr "กำลัง​แตก​กิ่ง"
+
+#. STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.TOOLTIP"
+msgid "This tree is working hard to grow new branches right now"
+msgstr "ต้นไม้​นี้​กำลัง​พยายาม​แตก​กิ่ง​ใหม่​สุด​แรง"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.ALRIGHT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.ALRIGHT.NAME"
 msgid "None"
 msgstr "ไม่​มี"
 
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.ALRIGHT.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.ALRIGHT.TOOLTIP"
+msgid "This Duplicant is none the worse for wear"
+msgstr "ดู​พลิ​แคนต์คน​นี้​ไม่เป็นไร​เลย​สักนิด"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME"
+msgid "Severe"
+msgstr "สาหัส"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP"
+msgid "This Duplicant is in serious need of medical attention"
+msgstr "ดู​พลิ​แคนต์คน​นี้​ต้อง​ได้รับ​การรักษา​ด่วน"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME"
+msgid "Conclusive"
+msgstr "สิ้นสุด"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP"
+msgid "This Duplicant won't be getting back up"
+msgstr "ดู​พลิ​แคนต์คน​นี้​จะ​ไม่​ลุกขึ้น​มา​อีกแล้ว"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME"
+msgid "Paralyzing"
+msgstr "เป็น​อัมพาต"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP"
+msgid "This Duplicant will die if they do not receive medical attention"
+msgstr "ดู​พลิ​แคนต์คน​นี้​จะ​ตาย​ถ้า​ไม่​ได้รับ​การรักษา"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME"
+msgid "Moderate"
+msgstr "ปานกลาง"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP"
+msgid "This Duplicant needs some patching up"
+msgstr "ดู​พลิ​แคนต์คน​นี้​ต้อง​ปะ​ผุ​นิดหน่อย"
+
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME"
 msgid "None"
 msgstr "ไม่​มี"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP"
+msgid "This Duplicant is in peak condition"
+msgstr "ดู​พลิ​แคนต์คน​นี้​สภาพ​ดีเยี่ยม"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME"
 msgid "Minor"
 msgstr "เล็กน้อย"
 
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP"
+msgid "This Duplicant has a few scrapes and bruises"
+msgstr "ดู​พลิ​แคนต์คน​นี้​มี​รอย​ถลอก​ฟกช้ำ​นิดหน่อย"
+
+#. STRINGS.MISC.STATUSITEMS.HIT.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HIT.NAME"
+msgid "{targetName} took {damageAmount} damage from {attackerName}'s attack!"
+msgstr "{targetName} โดน​การ​โจมตี​ของ {attackerName} เสียหาย {damageAmount}!"
+
+#. STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.NAME"
+msgid "Health: {0} / {1}"
+msgstr "พลัง​ชีวิต: {0} / {1}"
+
+#. STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.TOOLTIP"
+msgid "Collision damage can be avoided by destroying this impactor asteroid with <link=\"LONGRANGEMISSILE\">Intracosmic Blastshot</link> before it makes contact"
+msgstr "เลี่ยง​ความเสียหาย​จาก​การชน​ได้​โดย​ทำลาย​ดาวเคราะห์​น้อย​พุ่งชน​นี้​ด้วย<link=\"LONGRANGEMISSILE\">กระสุน​ระเบิด​ข้าม​จักรวาล</link>ก่อน​มัน​พุ่ง​ถึง"
+
+#. STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.NAME"
+msgid "Time until impact: {0}"
+msgstr "เวลา​ก่อน​ชน: {0}"
+
+#. STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.TOOLTIP"
+msgid "This impactor asteroid will reach its target in {0}"
+msgstr "ดาวเคราะห์​น้อย​พุ่งชน​นี้​จะ​ถึง​เป้าหมาย​ใน​อีก {0}"
+
+#. STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.NAME"
+msgid "Time To Intercept {0}: {1}"
+msgstr "เวลา​ก่อน​สกัด {0}: {1}"
+
+#. STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.TOOLTIP"
+msgid "This projectile will reach its destination in {1}"
+msgstr "วัตถุ​ที่​ยิง​นี้​จะ​ถึง​เป้าหมาย​ใน​อีก {1}"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.NAME"
+msgid "Compost Errand"
+msgstr "งาน​หมัก​ปุ๋ย"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP"
+msgid "Object is marked and will be moved to <link=\"COMPOST\">Compost</link> once a Duplicant is available"
+msgstr "วัตถุ​นี้​ถูก​ทำเครื่องหมาย​แล้ว และ​จะ​ถูก​ย้าย​ไป<link=\"COMPOST\">ถัง​หมัก​ปุ๋ย</link>เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOSTINSTORAGE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOSTINSTORAGE.NAME"
+msgid "Composted"
+msgstr "หมัก​ปุ๋ย​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOSTINSTORAGE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOSTINSTORAGE.TOOLTIP"
+msgid "The selected object is currently in the compost"
+msgstr "วัตถุ​ที่​เลือก​อยู่​ใน​กอง​ปุ๋ยหมัก"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.NAME"
+msgid "Disinfect Errand"
+msgstr "งาน​ฆ่าเชื้อ"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.TOOLTIP"
+msgid "Building will be disinfected once a Duplicant is available"
+msgstr "สิ่งก่อสร้าง​จะ​ถูก​ฆ่าเชื้อ​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORMOVE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORMOVE.NAME"
+msgid "Pending Move"
+msgstr "รอ​ย้าย"
+
+#. STRINGS.MISC.STATUSITEMS.MARKEDFORMOVE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORMOVE.TOOLTIP"
+msgid "Waiting for a Duplicant to move this object"
+msgstr "รอ​ดู​พลิ​แคนต์​มา​ย้าย​วัตถุ​นี้"
+
+#. STRINGS.MISC.STATUSITEMS.MINNOWPOIDEHYDRATEDSTATUS.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.MINNOWPOIDEHYDRATEDSTATUS.NAME"
+msgid "Insufficient Liquid"
+msgstr "ของเหลว​ไม่​พอ"
+
+#. STRINGS.MISC.STATUSITEMS.MINNOWPOIDEHYDRATEDSTATUS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MINNOWPOIDEHYDRATEDSTATUS.TOOLTIP"
+msgid ""
+"This area was once a <style=\"KKeyword\">Liquid</style> pool occupied by an unknown survivor Duplicant\n"
+"\n"
+"Its occupant will return when the area is sufficiently flooded"
+msgstr ""
+"พื้นที่​นี้​เคย​เป็น​แอ่ง<style=\"KKeyword\">ของเหลว</style>ที่​มี​ดู​พลิ​แคนต์​ผู้รอดชีวิต​นิรนาม​อาศัย​อยู่\n"
+"\n"
+"ผู้อาศัย​จะ​กลับมา​เมื่อ​พื้นที่​ถูก​น้ำท่วม​มาก​พอ"
+
 #. STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.NAME"
 msgid "Awaiting Delivery"
 msgstr "รอ​การ​ส่ง"
+
+#. STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.TOOLTIP"
+msgid "The occupant of this site is patiently awaiting deliveries"
+msgstr "ผู้อาศัย​ใน​จุด​นี้​กำลัง​รอ​ของ​มา​ส่ง​อย่าง​ใจเย็น"
+
+#. STRINGS.MISC.STATUSITEMS.MOVESTORAGEUNREACHABLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.MOVESTORAGEUNREACHABLE.NAME"
+msgid "Unreachable Move"
+msgstr "ย้าย​ไม่​ถึง"
+
+#. STRINGS.MISC.STATUSITEMS.MOVESTORAGEUNREACHABLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.MOVESTORAGEUNREACHABLE.TOOLTIP"
+msgid "Duplicants cannot reach this object to move it"
+msgstr "ดู​พลิ​แคนต์​เข้าไป​ย้าย​วัตถุ​นี้​ไม่​ถึง"
+
+#. STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.NAME"
+msgid "No Sweep Destination"
+msgstr "ไม่​มี​ปลายทาง​กวาด"
+
+#. STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.TOOLTIP"
+msgid "There are no valid destinations for this object to be swept to"
+msgstr "ไม่​มี​ปลายทาง​ที่​ใช้ได้​ให้​กวาด​วัตถุ​นี้​ไป"
+
+#. STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.NAME"
+msgid "No Harvest Pending"
+msgstr "ไม่​มี​งาน​เก็บเกี่ยว​รอ"
+
+#. STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.TOOLTIP"
+msgid "Use the <b>Harvest Tool</b> {Hotkey/Harvest} to mark this plant for harvest"
+msgstr "ใช้<b>เครื่องมือ​เก็บเกี่ยว</b> {Hotkey/Harvest} เพื่อ​ทำเครื่องหมาย​ให้​เก็บเกี่ยว​พืช​นี้"
+
+#. STRINGS.MISC.STATUSITEMS.OPERATING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.NAME"
+msgid "In Use"
+msgstr "กำลัง​ใช้งาน"
+
+#. STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP"
+msgid "This object is currently being used"
+msgstr "วัตถุ​นี้​กำลัง​ถูก​ใช้งาน​อยู่"
+
+#. STRINGS.MISC.STATUSITEMS.ORDERATTACK.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ORDERATTACK.NAME"
+msgid "Pending Attack"
+msgstr "รอ​โจมตี"
+
+#. STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP"
+msgid "The selected object has a mass of <b>{Mass}</b>"
+msgstr "วัตถุ​ที่​เลือก​มี​มวล <b>{Mass}</b>"
+
+#. STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
+msgid "The selected object is currently <b>{Temp}</b>"
+msgstr "วัตถุ​ที่​เลือก​ตอนนี้​อยู่​ที่ <b>{Temp}</b>"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
@@ -56467,6 +59006,22 @@ msgstr "ปรุงรส"
 msgctxt "STRINGS.MISC.STATUSITEMS.SPICEDFOOD.TOOLTIP"
 msgid "This food has been improved with spice from the <link=\"SPICEGRINDER\">Spice Grinder</link>"
 msgstr "อาหาร​นี้​ปรุงรส​ด้วย​เครื่องเทศ​จาก<link=\"SPICEGRINDER\">เครื่อง​บด​เครื่องเทศ</link>แล้ว"
+
+#. STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.NAME"
+msgid "Durability: {durability}"
+msgstr "ความทนทาน: {durability}"
+
+#. STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.TOOLTIP"
+msgid ""
+"Items lose durability each time they are equipped, and can no longer be put on by a Duplicant once they reach 0% durability\n"
+"\n"
+"Repair of this item can be done in the appropriate fabrication station"
+msgstr ""
+"ไอ​เท็ม​จะ​เสีย​ความทนทาน​ทุกครั้งที่​ถูก​สวมใส่ และ​ดู​พลิ​แคนต์​จะ​ใส่​ไม่​ได้​อีก​เมื่อ​ความทนทาน​เหลือ 0%\n"
+"\n"
+"ซ่อม​ไอ​เท็ม​นี้​ได้ที่​สถานี​ผลิต​ที่​เหมาะสม"
 
 #. STRINGS.MISC.STATUSITEMS.SUBLIMATIONEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONEMITTING.NAME"
@@ -89971,3 +92526,8 @@ msgstr "ดาวเคราะห์​น้อย​หิน"
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.HIGH"
 msgid "Likely"
 msgstr "น่าจะ​มี"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.NEUTRAL
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.NEUTRAL"
+msgid "Moderate"
+msgstr "ปานกลาง"
