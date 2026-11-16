@@ -153,3 +153,20 @@
 | Exosuit Training / Suit Sustainability Training | ฝึกใส่ชุดเอ็กโซสูท / ฝึกถนอมชุด |
 | Basic Swimming / Divemaster | ว่ายน้ำพื้นฐาน / ครูสอนดำน้ำ |
 | Duplicant personality names | คงชื่ออังกฤษ (Abe, Ada, ...) |
+
+## เพิ่มช่วงท้าย (ความสำเร็จ ไบโอม ห้อง ชื่อโลก)
+| Imperative (เงื่อนไขชนะ) | พันธกิจ |
+| Initiative | ภารกิจริเริ่ม |
+| Abyss / Reef / Kelp Forest | ห้วงลึก / แนวปะการัง / ป่าสาหร่าย |
+| Marsh / Swampy / Wetlands / Wasteland | หนองน้ำ / บึง / พื้นที่ชุ่มน้ำ / แดนรกร้าง |
+| Tundra / Ice Cave / Cool Pool / Nectar / Feather | ทุนดรา / ถ้ำน้ำแข็ง / แอ่งเย็น / น้ำหวาน / ขนนก |
+| Jungle / Forest / Garden / Metallic / Oily | ป่าดงดิบ / ป่าไม้ / สวน / โลหะ / น้ำมัน |
+| Greenhouse / Barracks / Private Bedroom / Private Bathroom | เรือนกระจก / ห้องนอนรวม / ห้องนอนส่วนตัว / ห้องน้ำส่วนตัว |
+| Heavy-Duty Generator | เครื่องปั่นไฟงานหนัก |
+| Gasket / Gum Palm / Clampum | ปะเก็น / ปาล์มยาง / แคลมพัม |
+| Rocket Platform | ฐานปล่อยจรวด |
+| Interplanetary Payload | พัสดุข้ามดาว |
+| Sludge Press | เครื่องอัดกากตะกอน |
+| World names (Terra, Rime, Ceres, ...) | ตามชื่อคลัสเตอร์: เทอร์รา, ไรม์, ซีรีส, โอเอซิส, วอลคาเนีย ... |
+| Random colony names | รูปแบบ "{noun}{adjective}" เช่น โรงงานแสนสวย |
+| Random rocket/world syllable names | คงภาษาอังกฤษ |

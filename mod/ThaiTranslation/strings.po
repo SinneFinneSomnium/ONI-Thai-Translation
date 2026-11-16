@@ -38335,7 +38335,7 @@ msgid ""
 "In the aftermath of a successful mission--be it the completion of a story trait or the survival of some epic event--my Duplicants sometimes form sentimental attachments to an item associated with that chapter of their lives.\n"
 "\n"
 msgstr ""
-"หลัง​ภารกิจ​สำเร็จ ไม่​ว่า​จะ​เป็นการ​ทำ​ลักษณะ​เรื่องราว​จน​จบ หรือ​การ​รอดชีวิต​จาก​เหตุการณ์​มหากาพย์ ดู​พลิ​แคนต์​ของ​ฉัน​บางครั้ง​ก็​ผูกพัน​กับ​สิ่งของ​ที่​เกี่ยวข้อง​กับ​บท​นั้น​ใน​ชีวิต​พวกเขา\n"
+"หลัง​ภารกิจ​สำเร็จ ไม่​ว่า​จะ​เป็นการ​ทำ​ลักษณะ​เนื้อเรื่อง​จน​จบ หรือ​การ​รอดชีวิต​จาก​เหตุการณ์​มหากาพย์ ดู​พลิ​แคนต์​ของ​ฉัน​บางครั้ง​ก็​ผูกพัน​กับ​สิ่งของ​ที่​เกี่ยวข้อง​กับ​บท​นั้น​ใน​ชีวิต​พวกเขา\n"
 "\n"
 
 #. STRINGS.CODEX.KEEPSAKE.TITLE
@@ -42191,7 +42191,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME"
 msgid "Story Trait: Critter Flux-O-Matic"
-msgstr "ลักษณะ​เรื่องราว: ฟลักซ์-โอ-แม​ติก​สัตว์"
+msgstr "ลักษณะ​เนื้อเรื่อง: ฟลักซ์-โอ-แม​ติก​สัตว์"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION"
@@ -42237,7 +42237,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME"
 msgid "Story Trait Complete: Critter Flux-O-Matic"
-msgstr "ลักษณะ​เรื่องราว​สำเร็จ: ฟลักซ์-โอ-แม​ติก​สัตว์"
+msgstr "ลักษณะ​เนื้อเรื่อง​สำเร็จ: ฟลักซ์-โอ-แม​ติก​สัตว์"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME"
@@ -42891,7 +42891,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME"
 msgid "Story Trait: Ancient Specimen"
-msgstr "ลักษณะ​เรื่องราว: ตัวอย่าง​โบราณ"
+msgstr "ลักษณะ​เนื้อเรื่อง: ตัวอย่าง​โบราณ"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION"
@@ -43031,7 +43031,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.NAME"
 msgid "Story Trait Complete: Ancient Specimen"
-msgstr "ลักษณะ​เรื่องราว​สำเร็จ: ตัวอย่าง​โบราณ"
+msgstr "ลักษณะ​เนื้อเรื่อง​สำเร็จ: ตัวอย่าง​โบราณ"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.DESC
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.DESC"
@@ -43542,7 +43542,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.BEGIN_POPUP.NAME"
 msgid "Story Trait: Printerceptor"
-msgstr "ลักษณะ​เรื่องราว: พรินเตอร์​ดัก​ปล้น"
+msgstr "ลักษณะ​เนื้อเรื่อง: พรินเตอร์​ดัก​ปล้น"
 
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.DESCRIPTION"
@@ -43592,7 +43592,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.END_POPUP.NAME"
 msgid "Story Trait Complete: Printerceptor"
-msgstr "ลักษณะ​เรื่องราว​สำเร็จ: พรินเตอร์​ดัก​ปล้น"
+msgstr "ลักษณะ​เนื้อเรื่อง​สำเร็จ: พรินเตอร์​ดัก​ปล้น"
 
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.HANDOFF.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.HANDOFF.BODY.CONTAINER1"
@@ -43800,7 +43800,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.UNLOCK_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.UNLOCK_POPUP.NAME"
 msgid "Story Trait: Printerceptor"
-msgstr "ลักษณะ​เรื่องราว: พรินเตอร์​ดัก​ปล้น"
+msgstr "ลักษณะ​เนื้อเรื่อง: พรินเตอร์​ดัก​ปล้น"
 
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.WHENIMGONE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.WHENIMGONE.BODY.CONTAINER1"
@@ -43913,7 +43913,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.NAME"
 msgid "Story Trait: Mysterious Hermit"
-msgstr "ลักษณะ​เรื่องราว: ฤๅษี​ลึกลับ"
+msgstr "ลักษณะ​เนื้อเรื่อง: ฤๅษี​ลึกลับ"
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.BODY.CONTAINER1"
@@ -44117,7 +44117,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.END_POPUP.NAME"
 msgid "Story Trait Complete: Mysterious Hermit"
-msgstr "ลักษณะ​เรื่องราว​สำเร็จ: ฤๅษี​ลึกลับ"
+msgstr "ลักษณะ​เนื้อเรื่อง​สำเร็จ: ฤๅษี​ลึกลับ"
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.GIFTRESPONSE_POPUP.CRAPPYFOOD.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.GIFTRESPONSE_POPUP.CRAPPYFOOD.NAME"
@@ -44305,7 +44305,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME"
 msgid "Story Trait: Somnium Synthesizer"
-msgstr "ลักษณะ​เรื่องราว: เครื่อง​สังเคราะห์​ซอม​เนียม"
+msgstr "ลักษณะ​เนื้อเรื่อง: เครื่อง​สังเคราะห์​ซอม​เนียม"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION"
@@ -44355,7 +44355,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.NAME"
 msgid "Story Trait Complete: Somnium Synthesizer"
-msgstr "ลักษณะ​เรื่องราว​สำเร็จ: เครื่อง​สังเคราะห์​ซอม​เนียม"
+msgstr "ลักษณะ​เนื้อเรื่อง​สำเร็จ: เครื่อง​สังเคราะห์​ซอม​เนียม"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.NAME"
@@ -44592,7 +44592,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME"
 msgid "Story Trait: Biobot Builder"
-msgstr "ลักษณะ​เรื่องราว: เครื่อง​สร้าง​ไบโอ​บอ​ท"
+msgstr "ลักษณะ​เนื้อเรื่อง: เครื่อง​สร้าง​ไบโอ​บอ​ท"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON"
@@ -44627,7 +44627,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.NAME"
 msgid "Story Trait Complete: Biobot Builder"
-msgstr "ลักษณะ​เรื่องราว​สำเร็จ: เครื่อง​สร้าง​ไบโอ​บอ​ท"
+msgstr "ลักษณะ​เนื้อเรื่อง​สำเร็จ: เครื่อง​สร้าง​ไบโอ​บอ​ท"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.LOCKER.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.LOCKER.DESCRIPTION"
@@ -44677,7 +44677,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.NAME"
 msgid "Story Trait: Biobot Builder"
-msgstr "ลักษณะ​เรื่องราว: เครื่อง​สร้าง​ไบโอ​บอ​ท"
+msgstr "ลักษณะ​เนื้อเรื่อง: เครื่อง​สร้าง​ไบโอ​บอ​ท"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.NAME"
@@ -79585,7 +79585,7 @@ msgstr "แซนด์​บ็อกซ์: โปรย"
 #. STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTORYTRAITTOOL
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTORYTRAITTOOL"
 msgid "Sandbox Spawn Story Trait"
-msgstr "แซนด์​บ็อกซ์: เสก​ลักษณะ​เรื่องราว"
+msgstr "แซนด์​บ็อกซ์: เสก​ลักษณะ​เนื้อเรื่อง"
 
 #. STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTRESSTOOL
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTRESSTOOL"
@@ -86241,7 +86241,7 @@ msgstr "เหล็กกล้า"
 #. STRINGS.MISC.TAGS.STORYTRAITRESOURCE
 msgctxt "STRINGS.MISC.TAGS.STORYTRAITRESOURCE"
 msgid "Story Trait"
-msgstr "ลักษณะ​เรื่องราว"
+msgstr "ลักษณะ​เนื้อเรื่อง"
 
 #. STRINGS.MISC.TAGS.SUBLIMATING
 msgctxt "STRINGS.MISC.TAGS.SUBLIMATING"
@@ -96940,7 +96940,7 @@ msgstr "<link=\"SICKNESS\">อาการป่วย</link>"
 #. STRINGS.UI.CODEX.CATEGORYNAMES.STORYTRAITS
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.STORYTRAITS"
 msgid "<link=\"STORYTRAITS\">Story Traits</link>"
-msgstr "<link=\"STORYTRAITS\">ลักษณะ​เรื่องราว</link>"
+msgstr "<link=\"STORYTRAITS\">ลักษณะ​เนื้อเรื่อง</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.SYSTEMS
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.SYSTEMS"
@@ -112468,7 +112468,7 @@ msgstr "ลักษณะ​เนื้อเรื่อง"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPAWN_STORY_TRAIT.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPAWN_STORY_TRAIT.TOOLTIP"
 msgid "Spawn story traits {Hotkey}"
-msgstr "เสก​ลักษณะ​เรื่องราว {Hotkey}"
+msgstr "เสก​ลักษณะ​เนื้อเรื่อง {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPAWNER.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPAWNER.NAME"
@@ -117702,7 +117702,7 @@ msgstr "วาง"
 #. STRINGS.UI.TOOLS.SANDBOX.SPAWN_STORY_TRAIT.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.SPAWN_STORY_TRAIT.NAME"
 msgid "Story Trait"
-msgstr "ลักษณะ​เรื่องราว"
+msgstr "ลักษณะ​เนื้อเรื่อง"
 
 #. STRINGS.UI.TOOLS.SANDBOX.SPAWNER.HOVERACTION
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.SPAWNER.HOVERACTION"
