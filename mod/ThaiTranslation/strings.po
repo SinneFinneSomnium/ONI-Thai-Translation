@@ -40016,105 +40016,724 @@ msgstr ""
 "โอ​ลิ​เวีย: ฉัน​ว่า​เรา​สร้าง​แหล่งพลังงาน​ไม่​มี​ที่​สิ้นสุด​ได้​แล้ว\n"
 "------------------\n"
 
+#. STRINGS.CODEX.PLANETARYECHOES.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.PLANETARYECHOES.BODY.CONTAINER2"
+msgid ""
+"Olivia: What on earth is this?\n"
+"\n"
+"[An open palm slams papers down on a desk.]\n"
+"\n"
+"Olivia: These readings show that hundreds of kilograms of Neutronium are building up in the machine every shift. When were you going to tell me?\n"
+"\n"
+"Jackie: I'm handling it.\n"
+"\n"
+"Olivia: We don't have the luxury of taking shortcuts. Not when safety is on the line.\n"
+"\n"
+"Jackie: I think I'm capable of overseeing my own safety.\n"
+"\n"
+"Olivia: I-I'm not just concerned about <i>your</i> safety! We don't understand the longterm implications of what we're developing here... the manipulations we conduct in this facility could have rippling effects throughout the world, maybe even the universe.\n"
+"\n"
+"Jackie: Don't be such a fearmonger. It's not befitting of a scientist. Besides, I'll remind you this research has the potential to stop the fuel wars in their tracks and end the suffering of thousands. Every day we spend on trials here delays that.\n"
+"\n"
+"Olivia: It's dangerous.\n"
+"\n"
+"Jackie: Your concern is noted.\n"
+"------------------\n"
+msgstr ""
+"โอ​ลิ​เวีย: นี่​มัน​อะไร​กัน?\n"
+"\n"
+"[ฝ่ามือ​ฟาด​กระดาษ​ลง​บน​โต๊ะ​ดัง​ปัง]\n"
+"\n"
+"โอ​ลิ​เวีย: ค่าที่​อ่าน​ได้​พวก​นี้​แสดงว่า​มี​นิว​โทร​เนียม​สะ​สมใน​เครื่อง​หลาย​ร้อย​กิโลกรัม​ทุก​กะ เธอ​จะ​บอก​ฉัน​เมื่อไหร่?\n"
+"\n"
+"แจ็ก​กี้: ฉัน​จัดการ​อยู่\n"
+"\n"
+"โอ​ลิ​เวีย: เรา​ไม่​มีสิทธิ์​ลัด​ขั้นตอน ไม่​ใช่​ตอนที่​ความปลอดภัย​เป็น​เดิมพัน\n"
+"\n"
+"แจ็ก​กี้: ฉัน​ว่า​ฉัน​ดูแล​ความปลอดภัย​ของ​ตัวเอง​ได้​นะ\n"
+"\n"
+"โอ​ลิ​เวีย: ฉ-ฉัน​ไม่​ได้​ห่วง​แค่​ความปลอดภัย​ของ<i>เธอ</i>! เรา​ไม่​เข้าใจ​ผลกระทบ​ระยะยาว​ของ​สิ่ง​ที่​เรา​กำลัง​พัฒนา​ที่นี่​เลย... สิ่ง​ที่​เรา​ดัดแปลง​ใน​ศูนย์​วิจัย​นี้​อาจ​ส่งผล​กระเพื่อม​ไป​ทั่วโลก หรือ​อาจ​ถึง​ทั้ง​จักรวาล\n"
+"\n"
+"แจ็ก​กี้: อย่า​ปลุกปั่น​ให้​คน​กลัว​นัก​เลย มัน​ไม่​สม​กับ​เป็น​นักวิทยาศาสตร์ อีก​อย่าง ขอ​เตือน​ความจำ​นะ​ว่า​งานวิจัย​นี้​มี​ศักยภาพ​จะ​หยุด​สงคราม​เชื้อเพลิง​ได้​ทันที และ​ยุติ​ความทุกข์​ของ​คน​นับ​พัน ทุก​วันที่​เรา​ใช้​ไป​กับ​การทดลอง​ที่นี่ ทำให้​สิ่ง​นั้น​ล่าช้า​ออก​ไป\n"
+"\n"
+"โอ​ลิ​เวีย: มัน​อันตราย\n"
+"\n"
+"แจ็ก​กี้: รับทราบ​ความกังวล​ของ​เธอ​แล้ว\n"
+"------------------\n"
+
+#. STRINGS.CODEX.PLANETARYECHOES.BODY.TITLE1
+msgctxt "STRINGS.CODEX.PLANETARYECHOES.BODY.TITLE1"
+msgid "Echo One"
+msgstr "เสียงสะท้อน​ที่หนึ่ง"
+
+#. STRINGS.CODEX.PLANETARYECHOES.BODY.TITLE2
+msgctxt "STRINGS.CODEX.PLANETARYECHOES.BODY.TITLE2"
+msgid "Echo Two"
+msgstr "เสียงสะท้อน​ที่สอง"
+
 #. STRINGS.CODEX.PLANETARYECHOES.SUBTITLE
 msgctxt "STRINGS.CODEX.PLANETARYECHOES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.PLANETARYECHOES.TITLE
+msgctxt "STRINGS.CODEX.PLANETARYECHOES.TITLE"
+msgid "Planetary Echoes"
+msgstr "เสียงสะท้อน​จาก​ดาว"
+
+#. STRINGS.CODEX.PLANKTONCORAL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PLANKTONCORAL.BODY.CONTAINER1"
+msgid ""
+"Starnacles share DNA with both arthropods and echinoderms, though they retain elements of the latter's fascinating digestive mechanism.\n"
+"\n"
+"During feeding, a Starnacle's stomach is pushed out through its small mouthpiece to envelop the nutrient source. Digestion is completed outside the body, and the stomach then retracts.\n"
+"\n"
+"The process can be disturbing to witness. Fortunately, the organism's mouthpiece is located on its underside."
+msgstr ""
+"สตาร์​นา​เคิล​มี DNA ร่วมกับ​ทั้ง​สัตว์​ขา​ปล้อง​และ​เอ​ไค​โน​เดิร์ม แต่​ยังคง​กลไก​ย่อย​อาหาร​สุด​พิศวง​ของ​กลุ่ม​หลัง​ไว้​บางส่วน\n"
+"\n"
+"ระหว่าง​กิน​อาหาร กระเพาะ​ของ​สตาร์​นา​เคิล​จะ​ถูก​ดัน​ออก​ทาง​ปาก​เล็ก ๆ ไป​ห่อหุ้ม​แหล่ง​อาหาร ย่อย​เสร็จ​นอก​ร่างกาย​แล้ว​กระเพาะ​ก็​หดกลับ​เข้าไป\n"
+"\n"
+"กระบวนการ​นี้​ดู​แล้ว​อาจ​ชวน​ขนลุก​หน่อย โชคดี​ที่​ปาก​ของ​มัน​อยู่​ด้านล่าง"
 
 #. STRINGS.CODEX.PLANKTONCORAL.SUBTITLE
 msgctxt "STRINGS.CODEX.PLANKTONCORAL.SUBTITLE"
 msgid "Aquatic Organism"
 msgstr "สิ่งมีชีวิต​ใน​น้ำ"
 
+#. STRINGS.CODEX.PLANKTONCORAL.TITLE
+msgctxt "STRINGS.CODEX.PLANKTONCORAL.TITLE"
+msgid "Starnacle"
+msgstr "สตาร์​นา​เคิล"
+
+#. STRINGS.CODEX.PLUGSLUG.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PLUGSLUG.BODY.CONTAINER1"
+msgid ""
+"Plug Slugs are fuzzy gastropoda that are able to cling to walls and ceilings thanks to an extreme triboelectric effect caused by friction between their fur and various surfaces.\n"
+"\n"
+"This same phenomenon allows the Plug Slug to generate a significant amount of static electricity that can be converted into power.\n"
+"\n"
+"The increased amount of static electricity a Plug Slug can generate when domesticated is due to the internal vibration, or contented 'humming', they demonstrate when all their needs are met."
+msgstr ""
+"ปลั๊ก​สลัก​เป็น​หอย​ทาก​ขน​ปุย​ที่​เกาะ​ผนัง​และ​เพดาน​ได้ เพราะ​ปรากฏการณ์​ไทร​โบ​อิเล็กทริก​สุดขั้ว​จาก​แรงเสียดทาน​ระหว่าง​ขน​กับ​พื้นผิว​ต่าง ๆ\n"
+"\n"
+"ปรากฏการณ์​เดียวกัน​นี้​ทำให้​ปลั๊ก​สลัก​สร้าง​ไฟฟ้าสถิต​ได้​มาก ซึ่ง​แปลง​เป็น​พลังงาน​ได้\n"
+"\n"
+"ที่​ปลั๊ก​สลัก​เชื่อง​สร้าง​ไฟฟ้าสถิต​ได้​มากขึ้น ก็​เพราะ​การ​สั่นสะเทือน​ภายใน หรือ \"เสียง​ฮัม\" อย่าง​พึงพอใจ​ที่​มัน​แสดง​ออกมา​เมื่อ​ได้รับ​ทุกอย่าง​ที่​ต้องการ"
+
 #. STRINGS.CODEX.PLUGSLUG.SUBTITLE
 msgctxt "STRINGS.CODEX.PLUGSLUG.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.PLUGSLUG.TITLE
+msgctxt "STRINGS.CODEX.PLUGSLUG.TITLE"
+msgid "Plug Slug"
+msgstr "ปลั๊ก​สลัก"
+
+#. STRINGS.CODEX.POKESHELL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER1"
+msgid "Pokeshells are bottom-feeding invertebrates that consume the waste and discarded food left behind by other creatures."
+msgstr "โพ​ค​เชลล์​เป็น​สัตว์ไม่มีกระดูกสันหลัง​ที่​หากิน​ตาม​พื้น กิน​ของเสีย​และ​เศษอาหาร​ที่​สัตว์​อื่น​ทิ้ง​ไว้"
+
+#. STRINGS.CODEX.POKESHELL.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER2"
+msgid "They have formidably sized claws that fold safely into their shells for protection when not in use."
+msgstr "มัน​มี​ก้าม​ขนาด​น่าเกรงขาม​ที่​พับ​เก็บ​เข้า​กระดอง​ได้​อย่าง​ปลอดภัย​เวลา​ไม่​ได้​ใช้"
+
+#. STRINGS.CODEX.POKESHELL.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER3"
+msgid "As Pokeshells mature they must periodically shed portions of their exoskeletons to make room for new growth."
+msgstr "เมื่อ​โพ​ค​เชลล์​โต​ขึ้น มัน​ต้อง​ลอก​โครงร่าง​ภายนอก​บางส่วน​เป็นระยะ ๆ เพื่อให้​มี​ที่ว่าง​สำหรับ​การ​เติบโต"
+
+#. STRINGS.CODEX.POKESHELL.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER4"
+msgid "Although the most dramatic sheds occur early in a Pokeshell's adolescence, they will continue growing and shedding throughout their adult lives, until the day they eventually die."
+msgstr "แม้​การ​ลอกคราบ​ครั้ง​ใหญ่​ที่สุด​จะ​เกิดขึ้น​ช่วง​วัยรุ่น​ของ​โพ​ค​เชลล์ แต่​มัน​จะ​โต​และ​ลอกคราบ​ต่อไป​ตลอดชีวิต​วัยผู้ใหญ่ จนถึง​วันที่​มัน​ตาย​ในที่สุด"
 
 #. STRINGS.CODEX.POKESHELL.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.POKESHELL.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
 
+#. STRINGS.CODEX.POKESHELL.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.POKESHELL.SPECIES_TITLE"
+msgid "Pokeshells"
+msgstr "โพ​ค​เชลล์"
+
 #. STRINGS.CODEX.POKESHELL.SUBTITLE
 msgctxt "STRINGS.CODEX.POKESHELL.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.POKESHELL.TITLE
+msgctxt "STRINGS.CODEX.POKESHELL.TITLE"
+msgid "Pokeshell"
+msgstr "โพ​ค​เชลล์"
+
+#. STRINGS.CODEX.POLLINATORS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.POLLINATORS.BODY.CONTAINER1"
+msgid ""
+"Pollination is a symbiotic interaction between <link=\"PLANTS\">Plants</link> and certain <link=\"CREATURES\">Critter</link> species, which benefits plant growth.\n"
+"\n"
+"Some <link=\"PLANTS\">Plants</link> rely on pollinators in order to grow at all, while others receive a valuable acceleration to their natural growth speed."
+msgstr ""
+"การ​ผสม​เกสร​คือ​ปฏิสัมพันธ์​แบบ​พึ่งพา​กัน​ระหว่าง<link=\"PLANTS\">พืช</link>กับ<link=\"CREATURES\">สัตว์</link>บาง​สายพันธุ์ ซึ่ง​เป็นประโยชน์​ต่อ​การ​เติบโต​ของ​พืช\n"
+"\n"
+"<link=\"PLANTS\">พืช</link>บาง​ชนิด​ต้อง​พึ่ง​แมลง​ผสม​เกสร​ถึง​จะ​โต​ได้​เลย ส่วน​บาง​ชนิด​ก็​ได้รับ​การ​เร่งความเร็ว​การ​เติบโต​ตาม​ธรรมชาติ​อย่าง​มีค่า"
+
+#. STRINGS.CODEX.POLLINATORS.SUBTITLE
+msgctxt "STRINGS.CODEX.POLLINATORS.SUBTITLE"
+msgid "Critter-Boosted Growth"
+msgstr "การ​เติบโต​ที่​สัตว์​ช่วย​เร่ง"
 
 #. STRINGS.CODEX.POLLINATORS.TITLE
 msgctxt "STRINGS.CODEX.POLLINATORS.TITLE"
 msgid "Pollination"
 msgstr "การ​ผสม​เกสร"
 
+#. STRINGS.CODEX.POWER.HEADER_1
+msgctxt "STRINGS.CODEX.POWER.HEADER_1"
+msgid "Electricity"
+msgstr "ไฟฟ้า"
+
+#. STRINGS.CODEX.POWER.HEADER_2
+msgctxt "STRINGS.CODEX.POWER.HEADER_2"
+msgid "Generators and Batteries"
+msgstr "เครื่องปั่นไฟ​และ​แบตเตอรี่"
+
+#. STRINGS.CODEX.POWER.HEADER_3
+msgctxt "STRINGS.CODEX.POWER.HEADER_3"
+msgid "Measuring Power"
+msgstr "การ​วัด​พลังงาน"
+
+#. STRINGS.CODEX.POWER.HEADER_4
+msgctxt "STRINGS.CODEX.POWER.HEADER_4"
+msgid "Overloading"
+msgstr "การ​ใช้​ไฟ​เกินพิกัด"
+
 #. STRINGS.CODEX.POWER.HEADER_5
 msgctxt "STRINGS.CODEX.POWER.HEADER_5"
 msgid "Video: Power Circuits"
 msgstr "วิดีโอ: วงจรไฟฟ้า"
+
+#. STRINGS.CODEX.POWER.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.POWER.PARAGRAPH_1"
+msgid ""
+"Electrical power is required to run many of the buildings in a base. Different buildings requires different amounts of power to run. Power can be transferred to buildings that require it using <link=\"WIRE\">Wires</link>.\n"
+"\n"
+msgstr ""
+"สิ่งก่อสร้าง​หลายอย่าง​ใน​ฐาน​ต้อง​ใช้​ไฟฟ้า​ใน​การทำงาน สิ่งก่อสร้าง​แต่ละ​แบบ​ต้อง​ใช้​พลังงาน​ไม่​เท่ากัน ส่ง​พลังงาน​ไป​ยัง​สิ่งก่อสร้าง​ที่​ต้องการ​ได้​ด้วย<link=\"WIRE\">สายไฟ</link>\n"
+"\n"
+
+#. STRINGS.CODEX.POWER.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.POWER.PARAGRAPH_2"
+msgid ""
+"Several buildings can generate power. Duplicants can run on the <link=\"MANUALGENERATOR\">Manual Generator</link> to generate clean power. Once generated, power can be consumed by buildings or stored in a <link=\"BATTERY\">Battery</link> to prevent waste. Any generated power that is not consumed or stored will be wasted. Batteries and Generators tend to produce a significant amount of <link=\"HEAT\">Heat</link> while active.\n"
+"\n"
+"Power can also be stored in portable <link=\"ELECTROBANK\">Power Banks</link>.\n"
+"\n"
+msgstr ""
+"มี​สิ่งก่อสร้าง​หลายอย่าง​ที่​ผลิต​พลังงาน​ได้ ดู​พลิ​แคนต์​วิ่ง​บน<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ</link>เพื่อ​ผลิต​พลังงาน​สะอาด​ได้ เมื่อ​ผลิต​แล้ว พลังงาน​จะ​ถูก​ใช้​โดย​สิ่งก่อสร้าง​หรือ​เก็บ​ไว้​ใน<link=\"BATTERY\">แบตเตอรี่</link>เพื่อ​ไม่​ให้​สูญเปล่า พลังงาน​ที่​ผลิต​แล้ว​ไม่​ได้​ใช้​หรือไม่​ได้​เก็บ​จะ​เสียเปล่า แบตเตอรี่​และ​เครื่องปั่นไฟ​มัก​ปล่อย<link=\"HEAT\">ความร้อน</link>ออกมา​มาก​ขณะ​ทำงาน\n"
+"\n"
+"ยัง​เก็บ​พลังงาน​ไว้​ใน<link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>แบบ​พกพา​ได้​ด้วย\n"
+"\n"
+
+#. STRINGS.CODEX.POWER.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.POWER.PARAGRAPH_3"
+msgid ""
+"Power is measure in Joules when stored in a <link=\"BATTERY\">Battery</link>. Power produced and consumed by buildings is measured in Watts, which are equal to Joules (consumed or produced) per second.\n"
+"\n"
+"A Battery that stored 5000 Joules could power a building that consumed 240 Watts for about 20 seconds. A generator which produces 480 Watts could power two buildings which consume 240 Watts for as long as it was running.\n"
+"\n"
+msgstr ""
+"พลังงาน​ที่เก็บ​ใน<link=\"BATTERY\">แบตเตอรี่</link>วัด​เป็น​จูล ส่วน​พลังงาน​ที่​สิ่งก่อสร้าง​ผลิต​และ​ใช้​วัด​เป็น​วัตต์ ซึ่ง​เท่ากับ​จูล (ที่​ใช้​หรือ​ผลิต) ต่อ​วินาที\n"
+"\n"
+"แบตเตอรี่​ที่เก็บ​ไว้ 5000 จูล จ่ายไฟ​ให้​สิ่งก่อสร้าง​ที่​ใช้ 240 วัตต์​ได้​ราว 20 วินาที ส่วน​เครื่องปั่นไฟ​ที่​ผลิต 480 วัตต์ จ่ายไฟ​ให้​สิ่งก่อสร้าง​ที่​ใช้ 240 วัตต์​ได้​สอง​หลัง​ตลอดเวลา​ที่​มัน​ทำงาน\n"
+"\n"
+
+#. STRINGS.CODEX.POWER.PARAGRAPH_4
+msgctxt "STRINGS.CODEX.POWER.PARAGRAPH_4"
+msgid ""
+"A network of <link=\"WIRE\">Wires</link> can be overloaded if it is consuming too many watts. If the wattage of a wire network exceeds its limits it may break and require repair.\n"
+"\n"
+"<link=\"WIRE\">Standard wires</link> have a 1000 Watt limit.\n"
+"\n"
+msgstr ""
+"เครือข่าย<link=\"WIRE\">สายไฟ</link>อาจ​ใช้​ไฟ​เกินพิกัด​ถ้า​ใช้​วัตต์​มากเกินไป ถ้า​กำลัง​ไฟ​ของ​เครือข่าย​สายไฟ​เกิน​ขีดจำกัด สายไฟ​อาจ​ขาด​และ​ต้อง​ซ่อม\n"
+"\n"
+"<link=\"WIRE\">สายไฟ​มาตรฐาน</link>รับได้​สูงสุด 1000 วัตต์\n"
+"\n"
+
+#. STRINGS.CODEX.POWER.PARAGRAPH_5
+msgctxt "STRINGS.CODEX.POWER.PARAGRAPH_5"
+msgid ""
+"To learn more, watch the <link=\"VIDEOS16\">Power Circuits</link> video tutorial.\n"
+"\n"
+msgstr ""
+"อยากรู้​เพิ่มเติม ดู​วิดีโอ​บท​สอน<link=\"VIDEOS16\">วงจรไฟฟ้า</link>\n"
+"\n"
+
+#. STRINGS.CODEX.POWER.TITLE
+msgctxt "STRINGS.CODEX.POWER.TITLE"
+msgid "<link=\"POWER\">Power</link>"
+msgstr "<link=\"POWER\">พลังงาน</link>"
+
+#. STRINGS.CODEX.POWER_STATION_TOOLS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.POWER_STATION_TOOLS.BODY.CONTAINER1"
+msgid "Microchips are engineered tools containing countless lines of proprietary code. New applications are still being discovered."
+msgstr "ไมโคร​ชิป​คือ​เครื่องมือ​ที่​ผ่าน​การ​ออกแบบ​ทาง​วิศวกรรม บรรจุ​โค้ด​กรรมสิทธิ์​นับไม่ถ้วน และ​ยังมี​การ​ค้นพบ​วิธีใช้​ใหม่ ๆ อยู่​เรื่อย ๆ"
+
+#. STRINGS.CODEX.POWER_STATION_TOOLS.SUBTITLE
+msgctxt "STRINGS.CODEX.POWER_STATION_TOOLS.SUBTITLE"
+msgid "Specialized Equipment"
+msgstr "อุปกรณ์​เฉพาะทาง"
+
+#. STRINGS.CODEX.POWER_STATION_TOOLS.TITLE
+msgctxt "STRINGS.CODEX.POWER_STATION_TOOLS.TITLE"
+msgid "Microchips"
+msgstr "ไมโคร​ชิป"
+
+#. STRINGS.CODEX.PREHISTORICPACU.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PREHISTORICPACU.BODY.CONTAINER1"
+msgid ""
+"While the Jawbo may be terrifying to behold, in truth it is quite harmless for trained handlers.\n"
+"\n"
+"A disproportionately sized mandible makes it impossible for this critter to properly chew its food, necessitating a preference for prey that are small enough to be swallowed whole.\n"
+"\n"
+"Though much of its DNA suggests that the Jawbo evolved in isolation, it does share a small number of genetic markers with serrasalmids such as the <link=\"PACU\">Pacu</link>. Familial connection, however, does not preclude consideration as a food source."
+msgstr ""
+"แม้​จอว์​โบ​จะ​ดู​น่ากลัว​ขนหัวลุก แต่​จริง ๆ แล้ว​ไม่​มี​พิษภัย​เลย​สำหรับ​คนเลี้ยง​ที่​ผ่าน​การ​ฝึก​มา\n"
+"\n"
+"ขากรรไกร​ล่าง​ใหญ่​เกินตัว​ทำให้​สัตว์​ตัว​นี้​เคี้ยว​อาหาร​ไม่​ได้ จึง​ชอบ​เหยื่อ​ที่​เล็ก​พอ​จะ​กลืน​ได้​ทั้งตัว\n"
+"\n"
+"แม้ DNA ส่วนใหญ่​บ่งบอก​ว่า​จอว์​โบ​วิวัฒนาการ​มา​อย่าง​โดดเดี่ยว แต่​มัน​ก็​มี​เครื่องหมาย​ทาง​พันธุกรรม​จำนวน​เล็กน้อย​ร่วมกับ​ปลา​วงศ์​ปิ​รัน​ยา​อย่าง<link=\"PACU\">ปา​คู</link> แต่​การ​เป็น​ญาติ​กัน​ก็​ไม่​ได้​ทำให้​มัน​เลิก​มอง​อีก​ฝ่าย​เป็น​อาหาร​หรอก​นะ"
+
+#. STRINGS.CODEX.PREHISTORICPACU.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.PREHISTORICPACU.SPECIES_SUBTITLE"
+msgid "Aquatic Species"
+msgstr "สายพันธุ์​สัตว์น้ำ"
+
+#. STRINGS.CODEX.PREHISTORICPACU.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.PREHISTORICPACU.SPECIES_TITLE"
+msgid "Jawbos"
+msgstr "จอว์​โบ"
 
 #. STRINGS.CODEX.PREHISTORICPACU.SUBTITLE
 msgctxt "STRINGS.CODEX.PREHISTORICPACU.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PREHISTORICPACU.TITLE
+msgctxt "STRINGS.CODEX.PREHISTORICPACU.TITLE"
+msgid "Jawbo"
+msgstr "จอว์​โบ"
+
+#. STRINGS.CODEX.PRINCE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PRINCE.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: Puft \"Prince\" variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: พัฟต์​สายพันธุ์​ย่อย \"เจ้าชาย\"</smallcaps>"
+
+#. STRINGS.CODEX.PRINCE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.PRINCE.BODY.CONTAINER2"
+msgid ""
+"A specialized air bladder in the Puft's chest cavity stores varying concentrations of gas, allowing it to control its buoyancy and float effortlessly through the air.\n"
+"\n"
+"Combined with extremely lightweight and elastic skin, the Puft is capable of maintaining flotation indefinitely with negligible energy expenditure. Its orientation and balance, meanwhile, are maintained by counterweighted formations of bone located in its otherwise useless legs."
+msgstr ""
+"ถุงลม​พิเศษ​ใน​ช่อ​งอก​ของ​พัฟต์​เก็บ​แก๊ส​ได้​หลาย​ระดับ​ความ​เข้มข้น ทำให้​มัน​ควบคุม​การลอยตัว​และ​ล่องลอย​ใน​อากาศ​ได้​อย่าง​สบาย ๆ\n"
+"\n"
+"เมื่อ​รวม​กับ​ผิวหนัง​ที่​เบาหวิว​และ​ยืดหยุ่น​สุด ๆ พัฟต์​จึง​ลอยตัว​ได้​ไม่​มี​กำหนด​โดย​แทบ​ไม่​ใช้​พลังงาน ส่วน​การทรงตัว​และ​การ​วางตัว​นั้น​อาศัย​กระดูก​ถ่วง​น้ำหนัก​ใน​ขา​ที่​แทบ​ไม่​มีประโยชน์​อะไร​อย่าง​อื่น​เลย​ของ​มัน"
+
 #. STRINGS.CODEX.PRINCE.SUBTITLE
 msgctxt "STRINGS.CODEX.PRINCE.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.PRINCE.TITLE
+msgctxt "STRINGS.CODEX.PRINCE.TITLE"
+msgid "Puft Prince"
+msgstr "พัฟต์​เจ้าชาย"
+
+#. STRINGS.CODEX.PRIORITY.HEADER_1
+msgctxt "STRINGS.CODEX.PRIORITY.HEADER_1"
+msgid "Errand Priority"
+msgstr "ความสำคัญ​ของ​งาน"
+
+#. STRINGS.CODEX.PRIORITY.HEADER_2
+msgctxt "STRINGS.CODEX.PRIORITY.HEADER_2"
+msgid "Errand Type Prioritization"
+msgstr "การ​จัด​ลำดับความสำคัญ​ตาม​ประเภท​งาน"
+
+#. STRINGS.CODEX.PRIORITY.HEADER_3
+msgctxt "STRINGS.CODEX.PRIORITY.HEADER_3"
+msgid "Priority Tool"
+msgstr "เครื่องมือ​ความสำคัญ"
 
 #. STRINGS.CODEX.PRIORITY.HEADER_4
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_4"
 msgid "Tutorial: Errand Priorities"
 msgstr "บท​สอน: ความสำคัญ​ของ​งาน"
 
+#. STRINGS.CODEX.PRIORITY.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_1"
+msgid ""
+"Duplicants prioritize their errands based on several factors. Some of these can be adjusted to affect errand choice, but some errands (such as seeking breathable <link=\"OXYGEN\">Oxygen</link>) are so important that they cannot be delayed. Errand priority can primarily be controlled by Errand Type prioritization, and then can be further fine-tuned by the <b>Priority Tool</b> {Hotkey/Prioritize}.\n"
+"\n"
+msgstr ""
+"ดู​พลิ​แคนต์​จัด​ลำดับความสำคัญ​ของ​งาน​จาก​หลาย​ปัจจัย บาง​ปัจจัย​ปรับ​ได้​เพื่อ​เปลี่ยน​การ​เลือก​งาน แต่​บาง​งาน (อย่าง​การ​หา<link=\"OXYGEN\">ออกซิเจน</link>ที่​หายใจ​ได้) สำคัญ​มาก​จน​เลื่อน​ไม่​ได้ ความสำคัญ​ของ​งาน​ควบคุม​ได้​หลัก ๆ ผ่าน​การ​จัด​ลำดับความสำคัญ​ตาม​ประเภท​งาน แล้ว​ปรับ​ละเอียด​เพิ่ม​ได้​ด้วย<b>เครื่องมือ​ความสำคัญ</b> {Hotkey/Prioritize}\n"
+"\n"
+
+#. STRINGS.CODEX.PRIORITY.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_2"
+msgid ""
+"Each errand a Duplicant can perform falls into an Errand Category. These categories can be prioritized on a per-Duplicant basis in the <b>Priorities Screen</b>. Entire errand categories can also be prohibited to a Duplicant if they are meant to never perform errands of that variety. A common configuration is to assign errand type priority based on Duplicant attributes.\n"
+"\n"
+"For example, Duplicants who are good at Research could be made to prioritize the Researching errand type. Duplicants with poor Athletics could be made to deprioritize the Supplying and Storing errand types.\n"
+"\n"
+msgstr ""
+"งาน​ทุกอย่าง​ที่​ดู​พลิ​แคนต์​ทำได้​จะ​อยู่​ใน​หมวด​งาน หมวด​เหล่านี้​จัด​ลำดับความสำคัญ​แยก​ราย​คน​ได้​ใน<b>หน้า​ความสำคัญ</b> และ​ยัง​ห้าม​ดู​พลิ​แคนต์​ทำงาน​ทั้ง​หมวด​ได้​ถ้า​ไม่ต้องการ​ให้​ทำงาน​แบบ​นั้น​เลย การ​ตั้ง​ค่าที่​นิยม​คือ​กำหนด​ความสำคัญ​ของ​ประเภท​งาน​ตาม​ค่า​คุณสมบัติ​ของ​ดู​พลิ​แคนต์\n"
+"\n"
+"เช่น ดู​พลิ​แคนต์​ที่​เก่ง​การวิจัย​อาจ​ตั้ง​ให้ความสำคัญ​กับ​งานวิจัย​ก่อน ส่วน​ดู​พลิ​แคนต์​ที่​กีฬา​แย่​อาจ​ตั้ง​ให้​งาน​ส่ง​ของ​และ​เก็บ​ของ​สำคัญ​น้อยลง\n"
+"\n"
+
+#. STRINGS.CODEX.PRIORITY.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_3"
+msgid ""
+"The priority of errands can often be modified using the <b>Priority tool</b> {Hotkey/Prioritize}. The values applied by this tool are always less influential than the Errand Type priorities described above. If two errands with equal Errand Type Priority are available to a Duplicant, they will choose the errand with a higher priority setting as applied by the tool.\n"
+"\n"
+msgstr ""
+"ความสำคัญ​ของ​งาน​มัก​ปรับ​ได้​ด้วย<b>เครื่องมือ​ความสำคัญ</b> {Hotkey/Prioritize} ค่า​ที่ตั้ง​ด้วย​เครื่องมือ​นี้​มีผล​น้อยกว่า​ความสำคัญ​ของ​ประเภท​งาน​ที่​อธิบาย​ไว้​ข้างบน​เสมอ ถ้า​ดู​พลิ​แคนต์​มี​งาน​สอง​งาน​ที่​ความสำคัญ​ตาม​ประเภท​งาน​เท่ากัน เขา​จะ​เลือก​งาน​ที่ตั้ง​ความสำคัญ​ด้วย​เครื่องมือ​ไว้​สูง​กว่า\n"
+"\n"
+
+#. STRINGS.CODEX.PRIORITY.PARAGRAPH_4
+msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_4"
+msgid "To learn more, see <link=\"MISCELLANEOUSTIPS6\">Tutorial: Errand Priorities</link>."
+msgstr "อยากรู้​เพิ่มเติม ดู<link=\"MISCELLANEOUSTIPS6\">บท​สอน: ความสำคัญ​ของ​งาน</link>"
+
+#. STRINGS.CODEX.PRIORITY.TITLE
+msgctxt "STRINGS.CODEX.PRIORITY.TITLE"
+msgid "<link=\"PRIORITY\">Priorities</link>"
+msgstr "<link=\"PRIORITY\">ความสำคัญ</link>"
+
+#. STRINGS.CODEX.PUFFERFISH.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PUFFERFISH.BODY.CONTAINER1"
+msgid ""
+"Blowters are docile fish with a poorly developed gastrointestinal tract.\n"
+"\n"
+"This species eats only <link=\"SEALETTUCE\">Waterweed</link> but lacks the digestive enzymes required to process the plant efficiently. Large amounts of excess <link=\"OXYGEN\">Oxygen</link> build up in the critter's gut during digestion, resulting in chronic and extreme bloating.\n"
+"\n"
+"Marine explorers have learned to siphon <link=\"OXYGEN\">Oxygen</link> from Blowters in an emergency. It's not clear who was the first to attempt this."
+msgstr ""
+"โบ​ลว์เตอร์​เป็น​ปลา​นิสัย​เชื่อง​ที่​มี​ทางเดินอาหาร​พัฒนา​ไม่​ดี\n"
+"\n"
+"สายพันธุ์​นี้​กิน​แต่<link=\"SEALETTUCE\">สาหร่าย​น้ำ</link> แต่​ขาด​เอนไซม์​ย่อย​ที่​จำ​เป็นต่อ​การ​ย่อย​พืช​นี้​อย่าง​มีประสิทธิภาพ <link=\"OXYGEN\">ออกซิเจน</link>ส่วนเกิน​จำนวนมาก​จึง​สะ​สมใน​ท้อง​ระหว่าง​ย่อย ทำให้​ท้องอืด​เรื้อรัง​ขั้น​รุนแรง\n"
+"\n"
+"นัก​สำรวจ​ทางทะเล​เรียนรู้​ที่จะ​ดูด<link=\"OXYGEN\">ออกซิเจน</link>จาก​โบ​ลว์เตอร์​ใน​ยามฉุกเฉิน ไม่​แน่ชัด​ว่า​ใคร​เป็น​คน​แรก​ที่​ลอง​ทำ​แบบนี้"
+
 #. STRINGS.CODEX.PUFFERFISH.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PUFFERFISH.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.PUFFERFISH.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.PUFFERFISH.SPECIES_TITLE"
+msgid "Blowter"
+msgstr "โบ​ลว์เตอร์"
 
 #. STRINGS.CODEX.PUFFERFISH.SUBTITLE
 msgctxt "STRINGS.CODEX.PUFFERFISH.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PUFFERFISH.TITLE
+msgctxt "STRINGS.CODEX.PUFFERFISH.TITLE"
+msgid "Blowter"
+msgstr "โบ​ลว์เตอร์"
+
+#. STRINGS.CODEX.PUFT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PUFT.BODY.CONTAINER1"
+msgid "The Puft is a mellow creature whose limited brainpower is largely dedicated to sustaining its basic life processes."
+msgstr "พัฟต์​เป็น​สัตว์​ใจเย็น​ที่​สมอง​อันน้อย​นิด​ทุ่มเท​ให้​แค่​การรักษา​กระบวนการ​ชีวิต​พื้นฐาน​เป็นหลัก"
+
 #. STRINGS.CODEX.PUFT.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PUFT.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.PUFT.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.PUFT.SPECIES_TITLE"
+msgid "Pufts"
+msgstr "พัฟต์"
 
 #. STRINGS.CODEX.PUFT.SUBTITLE
 msgctxt "STRINGS.CODEX.PUFT.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.PUFT.TITLE
+msgctxt "STRINGS.CODEX.PUFT.TITLE"
+msgid "Puft"
+msgstr "พัฟต์"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.DECOR.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.DECOR.NAME"
+msgid "Improve nearby Decor"
+msgstr "ปรับปรุง​ความสวยงาม​รอบ ๆ"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.DECOR.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.DECOR.TOOLTIP"
+msgid ""
+"Establish average <style=\"KKeyword\">Decor</style> of {0} or higher for the area surrounding this building\n"
+"\n"
+"Average Decor: {1:0.##}"
+msgstr ""
+"ทำให้<style=\"KKeyword\">ความสวยงาม</style>เฉลี่ย​รอบ​สิ่งก่อสร้าง​นี้​ได้ {0} ขึ้นไป\n"
+"\n"
+"ความสวยงาม​เฉลี่ย: {1:0.##}"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NAME"
+msgid "Deliver Food to the mailbox"
+msgstr "ส่ง​อาหาร​ไป​ที่​ตู้จดหมาย"
+
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE"
 msgid "None"
 msgstr "ไม่​มี"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.TOOLTIP"
+msgid ""
+"Deliver 3 unique <style=\"KKeyword\">Food</style> items. Quality must be {0} or higher\n"
+"\n"
+"Foods Delivered:\n"
+"{1}"
+msgstr ""
+"ส่ง<style=\"KKeyword\">อาหาร</style>ที่​ไม่​ซ้ำ​กัน 3 อย่าง คุณภาพ​ต้อง {0} ขึ้นไป\n"
+"\n"
+"อาหาร​ที่​ส่ง​แล้ว:\n"
+"{1}"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTICEFOSSIL.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTICEFOSSIL.NAME"
+msgid "<link=\"MOVECAMERATOFOSSILICE\">Frozen Fossil</link>"
+msgstr "<link=\"MOVECAMERATOFOSSILICE\">ฟอสซิล​แช่แข็ง</link>"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.LOSTICEFOSSIL.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTICEFOSSIL.NONE"
 msgid "None"
 msgstr "ไม่​มี"
 
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTICEFOSSIL.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTICEFOSSIL.TOOLTIP"
+msgid "Retrieve a piece of the ancient critter that has been preserved in <style=\"KKeyword\">Ice</style>"
+msgstr "เก็บ​ชิ้นส่วน​ของ​สัตว์​โบราณ​ที่​ถูก​รักษา​ไว้​ใน<style=\"KKeyword\">น้ำแข็ง</style>"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTRESINFOSSIL.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTRESINFOSSIL.NAME"
+msgid "<link=\"MOVECAMERATOFOSSILRESIN\">Amber Fossil</link>"
+msgstr "<link=\"MOVECAMERATOFOSSILRESIN\">ฟอสซิล​อำพัน</link>"
+
 #. STRINGS.CODEX.QUESTS.CRITERIA.LOSTRESINFOSSIL.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTRESINFOSSIL.NONE"
 msgid "None"
 msgstr "ไม่​มี"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTRESINFOSSIL.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTRESINFOSSIL.TOOLTIP"
+msgid "Retrieve a piece of the ancient critter that has been preserved in a strangely resin-like substance"
+msgstr "เก็บ​ชิ้นส่วน​ของ​สัตว์​โบราณ​ที่​ถูก​รักษา​ไว้​ใน​สาร​ประหลาด​คล้าย​ยางไม้"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.NAME"
+msgid "<link=\"MOVECAMERATOFOSSILROCK\">Petrified Fossil</link>"
+msgstr "<link=\"MOVECAMERATOFOSSILROCK\">ฟอสซิล​กลายเป็น​หิน</link>"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.NONE"
 msgid "None"
 msgstr "ไม่​มี"
 
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.TOOLTIP"
+msgid "Retrieve a piece of the ancient critter that has been preserved in <style=\"KKeyword\">Rock</style> "
+msgstr "เก็บ​ชิ้นส่วน​ของ​สัตว์​โบราณ​ที่​ถูก​รักษา​ไว้​ใน<style=\"KKeyword\">หิน</style> "
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.NAME"
+msgid "<link=\"MOVECAMERATOFOSSILDIG\">Ancient Specimen</link>"
+msgstr "<link=\"MOVECAMERATOFOSSILDIG\">ตัวอย่าง​โบราณ</link>"
+
 #. STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.NONE"
 msgid "None"
 msgstr "ไม่​มี"
 
+#. STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.TOOLTIP"
+msgid "Retrieve the largest deposit of the ancient critter's remains"
+msgstr "เก็บ​แหล่ง​ซากสัตว์​โบราณ​ที่​ใหญ่​ที่สุด"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.NEIGHBOR.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.NEIGHBOR.NAME"
+msgid "Knock on door"
+msgstr "เคาะ​ประตู"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.NEIGHBOR.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.NEIGHBOR.TOOLTIP"
+msgid "Send a Duplicant over to introduce themselves and discover what it'll take to turn this stranger into a friend"
+msgstr "ส่ง​ดู​พลิ​แคนต์​ไป​แนะนำตัว แล้ว​ดู​ว่า​ต้อง​ทำ​ยังไง​ถึง​จะ​เปลี่ยน​คนแปลกหน้า​คน​นี้​ให้​เป็นเพื่อน​ได้"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.SUPPLIEDPOWER.NAME
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.SUPPLIEDPOWER.NAME"
+msgid "Turn on festive lights"
+msgstr "เปิดไฟ​ประดับ​เทศกาล"
+
+#. STRINGS.CODEX.QUESTS.CRITERIA.SUPPLIEDPOWER.TOOLTIP
+msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.SUPPLIEDPOWER.TOOLTIP"
+msgid ""
+"Connect this building to <style=\"KKeyword\">Power</style> long enough to cheer up its occupant\n"
+"\n"
+"Time Remaining: {0}s"
+msgstr ""
+"ต่อ​สิ่งก่อสร้าง​นี้​เข้ากับ<style=\"KKeyword\">พลังงาน</style>นาน​พอ​จะ​ทำให้​ผู้อยู่อาศัย​อารมณ์​ดีขึ้น\n"
+"\n"
+"เวลา​ที่​เหลือ: {0} วินาที"
+
+#. STRINGS.CODEX.QUESTS.FOODQUEST.COMPLETE
+msgctxt "STRINGS.CODEX.QUESTS.FOODQUEST.COMPLETE"
+msgid ""
+"Success! My Duplicants' cooking has whetted the hermit's appetite for communal living.\n"
+"\n"
+"They've also found what appears to be a page from an old logbook tucked behind the mailbox."
+msgstr ""
+"สำเร็จ! ฝีมือ​ทำอาหาร​ของ​ดู​พลิ​แคนต์​ทำให้​ฤๅษี​เริ่ม​อยาก​ใช้ชีวิต​ร่วมกับ​คนอื่น​แล้ว\n"
+"\n"
+"พวกเขา​ยัง​เจอ​กระดาษ​ที่​ดูเหมือน​หน้าหนึ่ง​จาก​สมุดบันทึก​เก่า​ซุก​อยู่​หลัง​ตู้จดหมาย​ด้วย"
+
+#. STRINGS.CODEX.QUESTS.FOODQUEST.NAME
+msgctxt "STRINGS.CODEX.QUESTS.FOODQUEST.NAME"
+msgid "Welcome Dinner"
+msgstr "มื้อ​ค่ำ​ต้อนรับ"
+
+#. STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.COMPLETE
+msgctxt "STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.COMPLETE"
+msgid ""
+"Each of the fossil deposits on this asteroid has been excavated, and its contents safely retrieved.\n"
+"\n"
+"The ancient specimen's deeper cache of fossil can now be mined."
+msgstr ""
+"ขุด​แหล่ง​ฟอสซิล (ซากดึกดำบรรพ์) ทุกแห่ง​บน​ดาวเคราะห์​น้อย​นี้​แล้ว และ​เก็บ​ของ​ข้างใน​ออกมา​อย่าง​ปลอดภัย​เรียบร้อย\n"
+"\n"
+"ตอนนี้​ขุด​แหล่ง​ฟอสซิล​ที่​ลึก​กว่า​ของ​ตัวอย่าง​โบราณ​ได้​แล้ว"
+
+#. STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.NAME
+msgctxt "STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.NAME"
+msgid "Scattered Fragments"
+msgstr "ชิ้นส่วน​กระจัดกระจาย"
+
+#. STRINGS.CODEX.QUESTS.HIGHDECOR.COMPLETE
+msgctxt "STRINGS.CODEX.QUESTS.HIGHDECOR.COMPLETE"
+msgid ""
+"Success! All this excellent decor is really making the hermit feel at home.\n"
+"\n"
+"He scrawled a thank-you note on the back of an old holiday card."
+msgstr ""
+"สำเร็จ! ของ​ตกแต่ง​สวย ๆ เต็มไปหมด​นี่​ทำให้​ฤๅษี​รู้สึก​เหมือน​อยู่​บ้าน​จริง ๆ\n"
+"\n"
+"เขา​ขีดเขียน​โน้ต​ขอบคุณ​ไว้​หลัง​การ์ด​อวยพร​วันหยุด​เก่า ๆ"
+
+#. STRINGS.CODEX.QUESTS.HIGHDECOR.NAME
+msgctxt "STRINGS.CODEX.QUESTS.HIGHDECOR.NAME"
+msgid "Nice Neighborhood"
+msgstr "เพื่อนบ้าน​น่าอยู่"
+
+#. STRINGS.CODEX.QUESTS.KNOCKQUEST.COMPLETE
+msgctxt "STRINGS.CODEX.QUESTS.KNOCKQUEST.COMPLETE"
+msgid ""
+"Initial contact was a success! Our new neighbor seems friendly, though extremely shy.\n"
+"\n"
+"They'll need a little more coaxing before they're ready to join my colony."
+msgstr ""
+"การ​ติดต่อ​ครั้งแรก​สำเร็จ! เพื่อนบ้าน​ใหม่​ของ​เรา​ดู​เป็นมิตร แต่​ขี้อาย​สุด ๆ\n"
+"\n"
+"ต้อง​เกลี้ยกล่อม​อีก​นิด​ก่อนที่​เขา​จะ​พร้อม​เข้าร่วม​อาณานิคม​ของ​ฉัน"
+
+#. STRINGS.CODEX.QUESTS.KNOCKQUEST.NAME
+msgctxt "STRINGS.CODEX.QUESTS.KNOCKQUEST.NAME"
+msgid "Greet Occupant"
+msgstr "ทักทาย​ผู้อยู่อาศัย"
+
+#. STRINGS.CODEX.QUESTS.PLUGGEDIN.COMPLETE
+msgctxt "STRINGS.CODEX.QUESTS.PLUGGEDIN.COMPLETE"
+msgid ""
+"Success! The hermit is very excited about being on the grid.\n"
+"\n"
+"The bright lights illuminate an unfamiliar file on the ground nearby."
+msgstr ""
+"สำเร็จ! ฤๅษี​ตื่นเต้น​มาก​ที่​ได้​ต่อ​ไฟฟ้า\n"
+"\n"
+"แสงไฟ​สว่างจ้า​ส่อง​ให้​เห็น​แฟ้ม​แปลกตา​บน​พื้น​ใกล้ ๆ"
+
+#. STRINGS.CODEX.QUESTS.PLUGGEDIN.NAME
+msgctxt "STRINGS.CODEX.QUESTS.PLUGGEDIN.NAME"
+msgid "On the Grid"
+msgstr "ต่อ​ไฟ​แล้ว"
+
 #. STRINGS.CODEX.RADIATION.HEADER_1
 msgctxt "STRINGS.CODEX.RADIATION.HEADER_1"
 msgid "Radiation"
 msgstr "รังสี"
+
+#. STRINGS.CODEX.RADIATION.HEADER_2
+msgctxt "STRINGS.CODEX.RADIATION.HEADER_2"
+msgid "Radiation Sickness"
+msgstr "โรค​จาก​รังสี"
+
+#. STRINGS.CODEX.RADIATION.HEADER_3
+msgctxt "STRINGS.CODEX.RADIATION.HEADER_3"
+msgid "Nuclear Energy"
+msgstr "พลังงานนิวเคลียร์"
+
+#. STRINGS.CODEX.RADIATION.HEADER_4
+msgctxt "STRINGS.CODEX.RADIATION.HEADER_4"
+msgid "Tutorial"
+msgstr "บท​สอน"
+
+#. STRINGS.CODEX.RADIATION.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_1"
+msgid ""
+"When transporting radioactive materials such as <link=\"URANIUMORE\">Uranium Ore</link>, care must be taken to avoid exposing outside objects to <link=\"RADIATIONSICKNESS\">Radioactive Contaminants</link>.\n"
+"\n"
+"Using proper transportation vessels, such as those which are lined with <link=\"LEAD\">Lead</link>, is crucial to ensuring that Duplicants avoid <link=\"RADIATIONSICKNESS\">Radiation Sickness</link>.\n"
+"\n"
+msgstr ""
+"เวลา​ขนส่ง​วัสดุ​กัมมันตรังสี​อย่าง<link=\"URANIUMORE\">แร่​ยูเรเนียม</link> ต้อง​ระวัง​ไม่​ให้​วัตถุ​ภายนอก​สัมผัส<link=\"RADIATIONSICKNESS\">สารปนเปื้อน​กัมมันตรังสี</link>\n"
+"\n"
+"การ​ใช้​ภาชนะ​ขนส่ง​ที่​เหมาะสม เช่น ภาชนะ​บุ<link=\"LEAD\">ตะกั่ว</link> สำคัญ​มาก​ต่อ​การป้องกัน​ไม่​ให้​ดู​พลิ​แคนต์​เป็น<link=\"RADIATIONSICKNESS\">โรค​จาก​รังสี</link>\n"
+"\n"
+
+#. STRINGS.CODEX.RADIATION.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_2"
+msgid ""
+"Duplicants who are exposed to <link=\"RADIATIONSICKNESS\">Radioactive Contaminants</link> will need to wear protection or they risk coming down with <link=\"RADIATIONSICKNESS\">Radiation Sickness</link>.\n"
+"\n"
+"Some Duplicants will have more of a natural resistance to radiation, but prolonged exposure will still increase their chances of becoming sick.\n"
+"\n"
+"Consuming <link=\"BASICRADPILL\">Rad Pills</link> or seafood such as <link=\"COOKEDFISH\">Cooked Seafood</link> or <link=\"SEALETTUCE\">Waterweed</link> increases a Duplicant's radiation resistance, but will not cure a Duplicant's <link=\"RADIATIONSICKNESS\">Radiation Sickness</link> once they have become infected.\n"
+"\n"
+"On the other hand, exposure to radiation will kill <link=\"FOODPOISONING\">Food Poisoning</link>, <link=\"SLIMELUNG\">Slimelung</link> and <link=\"ZOMBIESPORES\">Zombie Spores</link> on surfaces (including on Duplicants).\n"
+"\n"
+msgstr ""
+"ดู​พลิ​แคนต์​ที่​สัมผัส<link=\"RADIATIONSICKNESS\">สารปนเปื้อน​กัมมันตรังสี</link>ต้อง​สวม​เครื่อง​ป้องกัน ไม่งั้น​เสี่ยง​เป็น<link=\"RADIATIONSICKNESS\">โรค​จาก​รังสี</link>\n"
+"\n"
+"ดู​พลิ​แคนต์​บางคน​ต้านทาน​รังสี​ได้​ดีกว่า​โดยธรรมชาติ แต่​การสัมผัส​นาน ๆ ก็​ยัง​เพิ่ม​โอกาส​ป่วย​อยู่ดี\n"
+"\n"
+"การ​กิน<link=\"BASICRADPILL\">ยา​ต้าน​รังสี</link> หรือ​อาหารทะเล​อย่าง<link=\"COOKEDFISH\">อาหารทะเล​ปรุง​สุก</link>หรือ<link=\"SEALETTUCE\">สาหร่าย​น้ำ</link> ช่วย​เพิ่ม​ความต้านทาน​รังสี​ของ​ดู​พลิ​แคนต์ แต่​รักษา<link=\"RADIATIONSICKNESS\">โรค​จาก​รังสี</link>ไม่​ได้​หาก​ติด​ไป​แล้ว\n"
+"\n"
+"ในทางกลับกัน การสัมผัส​รังสี​จะ​ฆ่าเชื้อ<link=\"FOODPOISONING\">อาหาร​เป็นพิษ</link> <link=\"SLIMELUNG\">ปอด​เมือก</link> และ<link=\"ZOMBIESPORES\">สปอร์​ซอมบี้</link>บน​พื้นผิว​ได้ (รวมถึง​บน​ตัว​ดู​พลิ​แคนต์​ด้วย)\n"
+"\n"
 
 #. STRINGS.CODEX.RAPTOR.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.RAPTOR.SPECIES_SUBTITLE"
