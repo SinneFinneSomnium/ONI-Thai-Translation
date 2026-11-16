@@ -118,3 +118,38 @@
 | Gunk | คราบเหนียว |
 | Flydo | ฟลายโด |
 | Desalinator | เครื่องแยกเกลือ |
+| Sporechid | กล้วยไม้สปอร์ |
+| Micronutrient Fertilizer | ปุ๋ยธาตุอาหารรอง |
+| Trench Stench | กลิ่นสนามเพลาะ |
+| Radiation Sickness | โรคจากรังสี |
+| Sunburn | ผิวไหม้แดด |
+| Power Bank / Electrobank | แบงก์พลังงาน |
+| Food Poisoning | อาหารเป็นพิษ |
+| Lavatory | ส้วมชักโครก |
+| Washroom (room) | ห้องน้ำ |
+| Latrine (room) | ห้องส้วม |
+| Outhouse | ส้วมหลุม |
+| Red Alert | เตือนภัยสีแดง |
+| Mess Hall / Great Hall / Banquet Hall | ห้องอาหาร / ห้องโถงใหญ่ / ห้องจัดเลี้ยง |
+| Barracks / Luxury Barracks | ห้องนอนรวม / ห้องนอนรวมหรู |
+| Gear Balm | บาล์มเกียร์ |
+| Microchip | ไมโครชิป |
+| Bristle Berry | เบอร์รีหนาม |
+| Table Salt | เกลือป่น |
+| Vitamin Chews | วิตามินเคี้ยว |
+| Immuno Booster | ยาเสริมภูมิคุ้มกัน |
+| Rad Pill | ยาต้านรังสี |
+
+## ชื่อทักษะ (Skills) — ใช้ชุดนี้ ตอนตรวจรอบสุดท้ายให้ไล่แก้จุดที่ไม่ตรง
+| Art Fundamentals / Aesthetic Design / Masterworks | พื้นฐานศิลปะ / ออกแบบสุนทรียะ / ผลงานชิ้นเอก |
+| Rocket Piloting / Rocket Navigation | บังคับจรวด / นำทางจรวด |
+| Improved Construction I/II / Demolition | ก่อสร้างขั้นสูง I/II / รื้อถอน |
+| Grilling / Enhanced Seasoning / Fine Dining | ย่าง / ปรุงรสขั้นสูง / อาหารเลิศรส |
+| Improved Farming I/II / Crop Tending | ทำฟาร์มขั้นสูง I/II / ดูแลพืชผล |
+| Hard / Superhard / Super-Duperhard / Hazmat Digging | ขุดแข็ง / ขุดแข็งพิเศษ / ขุดแข็งขั้นเทพ / ขุดวัตถุอันตราย |
+| Medicine Compounding / Bedside Manner / Advanced Medical Care | ปรุงยา / ดูแลข้างเตียง / การแพทย์ขั้นสูง |
+| Improved Tinkering / Electrical Engineering / Mechatronics Engineering | ปรับแต่งขั้นสูง / วิศวกรรมไฟฟ้า / วิศวกรรมเมคคาทรอนิกส์ |
+| Improved Carrying I/II / Improved Strength / Plumbing | แบกของขั้นสูง I/II / พละกำลังอัปเกรด / งานประปา |
+| Exosuit Training / Suit Sustainability Training | ฝึกใส่ชุดเอ็กโซสูท / ฝึกถนอมชุด |
+| Basic Swimming / Divemaster | ว่ายน้ำพื้นฐาน / ครูสอนดำน้ำ |
+| Duplicant personality names | คงชื่ออังกฤษ (Abe, Ada, ...) |
