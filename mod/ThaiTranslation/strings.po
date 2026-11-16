@@ -32473,25 +32473,443 @@ msgstr ""
 "<link=\"LUBRICATINGOIL\">น้ำมัน​เกียร์</link>: การรักษา​ให้​ระบบ​ไบโอ​นิ​ก​ทำงาน​มีประสิทธิภาพ​ต้อง​แวะ<link=\"OILCHANGER\">สถานี​หล่อลื่น</link>หรือ​ใช้<link=\"LUBRICATIONSTICK\">บาล์ม​เกียร์</link> ถ้า​ไม่​มี​ทั้งสอง​อย่าง คนงาน​จะ​เคลื่อนไหว​ช้า​ลง​เพื่อ​ไม่​ให้​เฟือง​บด​กัน\n"
 "\n"
 
+#. STRINGS.CODEX.BIONIC.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.BIONIC.PARAGRAPH_2"
+msgid ""
+"<link=\"BOOSTER\">Boosters</link>: Bionic Duplicants gain specialized building usage and increase attributes by installing boosters. These can be added or removed at any time to customize a Bionic Duplicant's career path or mitigate the consequences of bionic bugs.\n"
+"\n"
+"<link=\"ROLES\">Skills</link>: Performing colony duties helps Bionic Duplicants earn skill points that can be exchanged for skills that may increase attributes and expand their capacity to install <link=\"BOOSTER\">Boosters</link> and <link=\"ELECTROBANK\">Power Banks</link>.\n"
+"\n"
+"<link=\"MORALE\">Morale</link>: Morale in excess of a Duplicant's expectations will trigger Overjoyed responses that positively affect a variety of colony functions. <link=\"REQUIREMENTCLASSRECBUILDING\">Recreational</link> building usage, <link=\"REQUIREMENTCLASSDECORATION\">attractive buildings </link> that increase <link=\"DECOR\">Decor</link>, and improved <link=\"FOOD\">Foods</link> contribute to higher morale.\n"
+"\n"
+"<link=\"STRESS\">Stress</link>: When Stress levels reach 100%, Bionic Duplicants will exhibit negative Stress responses that can disrupt work and damage buildings.\n"
+"\n"
+"<link=\"TECH\">Research</link>: Using <link=\"REQUIREMENTCLASSSCIENCEBUILDING\">science buildings</link> unlocks advanced technologies that increase work efficiency and improve the colony's standard of living.\n"
+"\n"
+"<i>More information about sustaining Bionic Duplicants' well-being is covered in <link=\"MISCELLANEOUSTIPS\">Tips</link> and <link=\"LESSONS\">Tutorials</link>.</i>\n"
+"\n"
+msgstr ""
+"<link=\"BOOSTER\">บูสเตอร์</link>: ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ได้​ความสามารถ​ใช้​สิ่งก่อสร้าง​เฉพาะทาง​และ​เพิ่มค่า​คุณสมบัติ​ด้วย​การ​ติดตั้ง​บูสเตอร์ ใส่​หรือ​ถอด​ได้​ทุกเมื่อ​เพื่อ​ปรับ​เส้นทาง​อาชีพ​ของ​ดู​พลิ​แคนต์​ไบโอ​นิ​ก หรือ​บรรเทา​ผล​จาก​บัค​ไบโอ​นิ​ก\n"
+"\n"
+"<link=\"ROLES\">ทักษะ</link>: การ​ทำหน้าที่​ใน​อาณานิคม​ช่วย​ให้​ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ได้แต้ม​ทักษะ ซึ่ง​แลก​เป็น​ทักษะ​ที่​อาจ​เพิ่มค่า​คุณสมบัติ​และ​ขยาย​ความจุ​ใน​การ​ติดตั้ง<link=\"BOOSTER\">บูสเตอร์</link>และ<link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>ได้\n"
+"\n"
+"<link=\"MORALE\">ขวัญ​กำลังใจ</link>: ขวัญ​กำลังใจ​ที่สูง​เกิน​ความคาดหวัง​ของ​ดู​พลิ​แคนต์​จะ​กระตุ้น​อาการ​ดีใจ​สุดขีด ซึ่ง​ส่ง​ผลดี​ต่อ​การทำงาน​หลายอย่าง​ของ​อาณานิคม การ​ใช้​สิ่งก่อสร้าง<link=\"REQUIREMENTCLASSRECBUILDING\">สันทนาการ</link> <link=\"REQUIREMENTCLASSDECORATION\">สิ่งก่อสร้าง​สวยงาม </link>ที่​เพิ่ม<link=\"DECOR\">ความสวยงาม</link> และ<link=\"FOOD\">อาหาร</link>ที่​ดีขึ้น​ช่วย​เพิ่ม​ขวัญ​กำลังใจ\n"
+"\n"
+"<link=\"STRESS\">ความเครียด</link>: เมื่อ​ความเครียด​ถึง 100% ดู​พลิ​แคนต์​ไบโอ​นิ​ก​จะ​แสดงอาการ​เครียด​เชิงลบ​ที่​รบกวน​งาน​และ​ทำลาย​สิ่งก่อสร้าง​ได้\n"
+"\n"
+"<link=\"TECH\">งานวิจัย</link>: การ​ใช้<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">สิ่งก่อสร้าง​วิทยาศาสตร์</link>จะ​ปลดล็อก​เทคโนโลยี​ขั้นสูง​ที่​เพิ่มประสิทธิภาพ​การทำงาน​และ​ยกระดับ​คุณภาพชีวิต​ของ​อาณานิคม\n"
+"\n"
+"<i>ข้อมูล​เพิ่มเติม​เรื่อง​การ​ดูแล​ความเป็นอยู่​ของ​ดู​พลิ​แคนต์​ไบโอ​นิ​กอ​ยู่​ใน<link=\"MISCELLANEOUSTIPS\">เคล็ดลับ</link>และ<link=\"LESSONS\">บท​สอน</link></i>\n"
+"\n"
+
+#. STRINGS.CODEX.BIONIC.SUBTITLE
+msgctxt "STRINGS.CODEX.BIONIC.SUBTITLE"
+msgid "Specialized Colony Worker"
+msgstr "คนงาน​อาณานิคม​เฉพาะทาง"
+
+#. STRINGS.CODEX.BIONIC.TITLE
+msgctxt "STRINGS.CODEX.BIONIC.TITLE"
+msgid "Bionic Duplicant"
+msgstr "ดู​พลิ​แคนต์​ไบโอ​นิ​ก"
+
+#. STRINGS.CODEX.BIONICBOOSTER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BIONICBOOSTER.BODY.CONTAINER1"
+msgid ""
+"Boosters are programming modules designed to improve and expand Bionic Duplicants' abilities.\n"
+"\n"
+"Boosters consume a significant amount of processing power during access and implementation. Bionic Duplicants can expand their capacity for booster installation by accumulating skill points.\n"
+"\n"
+"Boosters can be combined to grant a broader range of skills, as well as to counteract bionic bugs that may exist in their original programming."
+msgstr ""
+"บูสเตอร์​คือ​โมดูล​โปรแกรม​ที่​ออกแบบ​มา​เพื่อ​พัฒนา​และ​ขยาย​ความสามารถ​ของ​ดู​พลิ​แคนต์​ไบโอ​นิ​ก\n"
+"\n"
+"บูสเตอร์​ใช้​พลัง​ประมวลผล​มาก​ระหว่าง​การ​เข้าถึง​และ​ใช้งาน ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ขยาย​ความจุ​ใน​การ​ติดตั้ง​บูสเตอร์​ได้​ด้วย​การ​สะสม​แต้ม​ทักษะ\n"
+"\n"
+"บูสเตอร์​ใช้​ร่วมกัน​ได้​เพื่อ​ให้ได้​ทักษะ​หลากหลาย​ขึ้น และ​ยัง​ใช้​แก้​บัค​ไบโอ​นิ​ก​ที่​อาจ​มี​อยู่​ใน​โปรแกรม​ดั้งเดิม​ได้​ด้วย"
+
+#. STRINGS.CODEX.BIONICBOOSTER.SUBTITLE
+msgctxt "STRINGS.CODEX.BIONICBOOSTER.SUBTITLE"
+msgid "Bionic Systems"
+msgstr "ระบบ​ไบโอ​นิ​ก"
+
 #. STRINGS.CODEX.BIONICBOOSTER.TITLE
 msgctxt "STRINGS.CODEX.BIONICBOOSTER.TITLE"
 msgid "Boosters"
 msgstr "บูสเตอร์"
+
+#. STRINGS.CODEX.BLISSBURST.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BLISSBURST.BODY.CONTAINER1"
+msgid ""
+"The Bliss Burst is a succulent in the genus Haworthia and is a hardy plant well-suited for beginner gardeners.\n"
+"\n"
+"They require little in the way of upkeep, to the point that the most common cause of death for Bliss Bursts is overwatering from over-eager carers."
+msgstr ""
+"ต้น​ระเบิด​ความสุข​เป็น​ไม้​อวบน้ำ​ใน​สกุล​ฮา​วอร์​เทีย เป็น​พืช​ทรหด​ที่​เหมาะกับ​มือใหม่​หัด​ปลูก\n"
+"\n"
+"แทบ​ไม่ต้อง​ดูแล​อะไร​เลย จน​สาเหตุ​การตาย​ที่​พบ​บ่อย​ที่สุด​ของ​ต้น​ระเบิด​ความสุข​คือ​โดน​รดน้ำ​มากเกินไป​จาก​คน​ดูแล​ที่​กระตือรือร้น​เกิน​เหตุ"
+
+#. STRINGS.CODEX.BLISSBURST.SUBTITLE
+msgctxt "STRINGS.CODEX.BLISSBURST.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.BLISSBURST.TITLE
+msgctxt "STRINGS.CODEX.BLISSBURST.TITLE"
+msgid "Bliss Burst"
+msgstr "ต้น​ระเบิด​ความสุข"
+
+#. STRINGS.CODEX.BLUE_GRASS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BLUE_GRASS.BODY.CONTAINER1"
+msgid ""
+"The Alveo Vera's fleshy stems are dotted with small apertures featuring bidirectional valves through which <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> is absorbed and sticky oxygenated waste is secreted.\n"
+"\n"
+"The buildup from this respiration cycle crystallizes into <link=\"OXYROCK\">Oxylite</link> ore.\n"
+"\n"
+"Horticulturists have long been curious about the protective epithelium that prevents the <link=\"OXYROCK\">Oxylite</link> ore from sublimating while on the plant. Unfortunately, it is too fragile to survive handling, and has thus far proven impossible to study."
+msgstr ""
+"ลำต้น​อวบ​ของ​อัล​วี​โอ​เว​รา​มี​รู​เล็ก ๆ ประปราย​ที่​มี​วาล์ว​สอง​ทาง ใช้​ดูด<link=\"CARBONDIOXIDE\">คาร์บอนไดออกไซด์</link>เข้า​และ​ขับ​ของเสีย​เหนียว​ที่​มี​ออกซิเจน​ออก\n"
+"\n"
+"สิ่ง​ที่​สะสม​จาก​วงจร​การ​หายใจ​นี้​ตกผลึก​เป็น​แร่<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>\n"
+"\n"
+"นัก​พืชสวน​สงสัย​มา​นาน​เรื่อง​เยื่อ​บุ​ผิว​ป้อง​กันที่​ทำให้​แร่<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>ไม่​ระเหิด​ขณะ​อยู่​บน​ต้น น่าเสียดาย​ที่​มัน​เปราะ​เกิน​กว่า​จะ​รอด​จาก​การ​จับต้อง จึง​ยัง​ศึกษา​ไม่​ได้​เลย​จนถึง​ตอนนี้"
 
 #. STRINGS.CODEX.BLUE_GRASS.SUBTITLE
 msgctxt "STRINGS.CODEX.BLUE_GRASS.SUBTITLE"
 msgid "Plant"
 msgstr "พืช"
 
+#. STRINGS.CODEX.BLUE_GRASS.TITLE
+msgctxt "STRINGS.CODEX.BLUE_GRASS.TITLE"
+msgid "Alveo Vera"
+msgstr "อัล​วี​โอ​เว​รา"
+
+#. STRINGS.CODEX.BLUFFBRIAR.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BLUFFBRIAR.BODY.CONTAINER1"
+msgid ""
+"Bluff Briars have formed a symbiotic relationship with a closely related plant strain, the <link=\"PRICKLEFLOWER\">Bristle Blossom</link>.\n"
+"\n"
+"They tend to thrive in areas where the Bristle Blossom is present, as the berry it produces emits a rare chemical while decaying that the Briar is capable of absorbing to supplement its own pheromone production."
+msgstr ""
+"พุ่ม​หนาม​หลอกตา​มี​ความสัมพันธ์​แบบ​พึ่งพา​กับ​พืช​สายพันธุ์​ใกล้ชิด​อย่าง<link=\"PRICKLEFLOWER\">ดอกไม้​หนาม</link>\n"
+"\n"
+"มัน​มัก​เติบโต​ดี​ใน​ที่​ที่​มี​ดอกไม้​หนาม เพราะ​เบอร์รี​ของ​ดอกไม้​หนาม​ปล่อย​สารเคมี​หา​ยาก​ออกมา​ตอน​เน่าเปื่อย ซึ่ง​พุ่ม​หนาม​ดูดซับ​ไป​เสริม​การผลิต​ฟีโรโมน​ของ​ตัวเอง​ได้"
+
+#. STRINGS.CODEX.BLUFFBRIAR.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.BLUFFBRIAR.BODY.CONTAINER2"
+msgid ""
+"Due to the Bluff Briar's unique pheromonal \"charm\" defense, animals are extremely unlikely to eat it in the wild.\n"
+"\n"
+"As a result, the Briar's barbs have become ineffectual over time and are unlikely to cause injury, unlike the Bristle Blossom, which possesses barbs that are exceedingly sharp and require careful handling."
+msgstr ""
+"ด้วย​กลไก​ป้องกันตัว​แบบ \"เสน่ห์\" ฟีโรโมน​อันเป็น​เอกลักษณ์​ของ​พุ่ม​หนาม​หลอกตา สัตว์​ใน​ธรรมชาติ​แทบ​ไม่​มีทาง​กิน​มัน​เลย\n"
+"\n"
+"เมื่อ​เวลา​ผ่าน​ไป หนาม​ของ​มัน​จึง​ไร้​ประสิทธิภาพ​และ​แทบ​ไม่​ทำให้​บาดเจ็บ ต่าง​จาก​ดอกไม้​หนาม​ที่​หนาม​แหลมคม​สุด ๆ และ​ต้อง​จับ​อย่าง​ระมัดระวัง"
+
+#. STRINGS.CODEX.BLUFFBRIAR.SUBTITLE
+msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.BLUFFBRIAR.TITLE
+msgctxt "STRINGS.CODEX.BLUFFBRIAR.TITLE"
+msgid "Bluff Briar"
+msgstr "พุ่ม​หนาม​หลอกตา"
+
+#. STRINGS.CODEX.BOGBUCKET.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BOGBUCKET.BODY.CONTAINER1"
+msgid ""
+"Bog Buckets get their name from their bucket-like flowers and their propensity to grow in swampy, bog-like environments.\n"
+"\n"
+"The flower secretes a thick, sweet liquid which collects at the bottom of the bucket and can be gathered for consumption.\n"
+"\n"
+"Though not inherently dangerous, the interior of the Bog Bucket flower is so warm and inviting that it has tempted individuals to climb inside for a nap, only to awake trapped in its sticky sap."
+msgstr ""
+"ต้น​ถัง​บึง​ได้ชื่อ​มาจาก​ดอก​รูปร่าง​คล้าย​ถัง​และ​นิสัย​ชอบ​ขึ้น​ใน​ที่​ชื้นแฉะ​คล้าย​บึง\n"
+"\n"
+"ดอก​จะ​หลั่ง​ของเหลว​ข้น​หวาน​ที่​ไป​รวม​ที่​ก้น​ถัง และ​เก็บ​มา​กิน​ได้\n"
+"\n"
+"ถึง​จะ​ไม่​ได้​อันตราย​ใน​ตัว แต่​ข้างใน​ดอก​ต้น​ถัง​บึง​นั้น​อุ่น​และ​น่า​เข้าไป​จน​เคย​มี​คน​ปีน​เข้าไป​งีบ แล้ว​ตื่น​มา​พบ​ว่า​ติด​อยู่​ใน​ยาง​เหนียว"
+
+#. STRINGS.CODEX.BOGBUCKET.SUBTITLE
+msgctxt "STRINGS.CODEX.BOGBUCKET.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.BOGBUCKET.TITLE
+msgctxt "STRINGS.CODEX.BOGBUCKET.TITLE"
+msgid "Bog Bucket"
+msgstr "ต้น​ถัง​บึง"
+
+#. STRINGS.CODEX.BRISTLEBLOSSOM.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.BODY.CONTAINER1"
+msgid ""
+"The Bristle Blossom is frequently cultivated for its calorie dense and relatively fast growing Bristle Berries.\n"
+"\n"
+"Consumption of the berry requires special preparation due to the thick barbs surrounding the edible fruit.\n"
+"\n"
+"The term \"Bristle Berry\" is, in fact, a misnomer, as it is not a \"berry\" by botanical definition but an aggregate fruit made up of many smaller fruitlets."
+msgstr ""
+"ดอกไม้​หนาม​มัก​ถูก​ปลูก​เพื่อ​เอา​เบอร์รี​หนาม​ที่​แคลอรี​สูง​และ​โต​ค่อนข้าง​เร็ว\n"
+"\n"
+"การ​กิน​เบอร์รี​ต้อง​เตรียม​เป็นพิเศษ​เพราะ​มี​หนาม​หนา​ล้อมรอบ​ผล​ที่​กิน​ได้\n"
+"\n"
+"จริง ๆ แล้ว​ชื่อ \"เบอร์รี​หนาม\" เป็น​ชื่อ​ที่​ผิด เพราะ​ตาม​นิยาม​ทาง​พฤกษศาสตร์​มัน​ไม่​ใช่ \"เบอร์รี\" แต่​เป็น​ผลรวม​ที่​ประกอบด้วย​ผล​ย่อย​เล็ก ๆ จำนวนมาก"
+
+#. STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE
+msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.BRISTLEBLOSSOM.TITLE
+msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.TITLE"
+msgid "Bristle Blossom"
+msgstr "ดอกไม้​หนาม"
+
+#. STRINGS.CODEX.BUDDYBUD.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BUDDYBUD.BODY.CONTAINER1"
+msgid "As a byproduct of photosynthesis, the Buddy Bud naturally secretes a compound that is chemically similar to the neuropeptide created in the human brain after receiving a hug."
+msgstr "ดอก​ตูม​เพื่อนซี้​หลั่ง​สารประกอบ​ที่​มี​โครงสร้าง​เคมี​คล้าย​นิว​โร​เปป​ไท​ด์​ที่​สมอง​มนุษย์​สร้าง​ขึ้น​หลัง​ได้รับ​การ​กอด ออกมา​ตาม​ธรรมชาติ​เป็น​ผลพลอยได้​จาก​การ​สังเคราะห์แสง"
+
+#. STRINGS.CODEX.BUDDYBUD.SUBTITLE
+msgctxt "STRINGS.CODEX.BUDDYBUD.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.BUDDYBUD.TITLE
+msgctxt "STRINGS.CODEX.BUDDYBUD.TITLE"
+msgid "Buddy Bud"
+msgstr "ดอก​ตูม​เพื่อนซี้"
+
+#. STRINGS.CODEX.BULBLOOM.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BULBLOOM.BODY.CONTAINER1"
+msgid ""
+"On a molecular level, it is nearly impossible to distinguish between the Bulbloom's translucent bulbar envelope and high-quality arachnid silk.\n"
+"\n"
+"This combination of strength and extensibility keep its bright bloom intact in even the strongest currents, making this plant a beacon of hope in dark marine environments."
+msgstr ""
+"ใน​ระดับ​โมเลกุล แทบ​แยก​ไม่​ออก​เลย​ระหว่าง​เปลือกหุ้ม​กระเปาะ​โปร่งแสง​ของ​ดอก​หลอดไฟ​กับ​ใยแมงมุม​คุณภาพ​สูง\n"
+"\n"
+"ความแข็งแรง​ผสม​ความยืดหยุ่น​นี้​ทำให้​ดอก​สว่างไสว​ของ​มัน​คง​สภาพ​ได้​แม้​ใน​กระแสน้ำ​ที่​แรง​ที่สุด ทำให้​พืช​นี้​เป็น​ประภาคาร​แห่ง​ความหวัง​ใน​ทะเล​ลึก​อัน​มืดมิด"
+
+#. STRINGS.CODEX.BULBLOOM.SUBTITLE
+msgctxt "STRINGS.CODEX.BULBLOOM.SUBTITLE"
+msgid "Decor Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.BULBLOOM.TITLE
+msgctxt "STRINGS.CODEX.BULBLOOM.TITLE"
+msgid "Bulbloom"
+msgstr "ดอก​หลอดไฟ"
+
+#. STRINGS.CODEX.BUTTERFLY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BUTTERFLY.BODY.CONTAINER1"
+msgid ""
+"Mimikas are difficult to categorize. Biologists theorize that the <link=\"BUTTERFLYPLANT\">Mimika Bud</link> engages in this rare variation of reproductive mimicry to improve seed-dispersal and survive the extinction of key species native to its original habitat.\n"
+"\n"
+"These charming moth-like organisms feature a microscopic cluster of phytoprotein \"brain\" cells and are driven by a singular instinct to tend to their host plants.\n"
+"\n"
+"Due to a monogenic malfunction, however, this plant-tending behavior benefits all of the flora in its area <i>except</i> its own."
+msgstr ""
+"มิ​มิ​กา​จัดหมวดหมู่​ได้​ยาก นักชีววิทยา​ตั้ง​ทฤษฎี​ว่า<link=\"BUTTERFLYPLANT\">ดอก​ตูม​มิ​มิ​กา</link>ใช้การ​เลียนแบบ​เพื่อ​สืบพันธุ์​รูปแบบ​หา​ยาก​นี้​เพื่อ​ช่วย​กระจาย​เมล็ด และ​เอาตัวรอด​จาก​การสูญพันธุ์​ของ​สายพันธุ์​สำคัญ​ใน​ถิ่น​ที่อยู่​ดั้งเดิม\n"
+"\n"
+"สิ่งมีชีวิต​น่ารัก​คล้าย​ผีเสื้อ​กลางคืน​เหล่านี้​มี​กลุ่ม​เซลล์ \"สมอง\" โปรตีน​พืช​ขนาด​จิ๋ว และ​ถูก​ขับเคลื่อนด้วย​สัญชาตญาณ​เดียว​คือ​ดูแล​พืช​เจ้าบ้าน\n"
+"\n"
+"แต่​เพราะ​ความผิดปกติ​ของ​ยีน​เดี่ยว พฤติกรรม​ดูแล​พืช​นี้​จึง​เป็นประโยชน์​กับ​พืช​ทุก​ต้น​ใน​บริเวณ<i>ยกเว้น</i>ต้น​ของ​มัน​เอง"
+
+#. STRINGS.CODEX.BUTTERFLY.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.BUTTERFLY.SPECIES_SUBTITLE"
+msgid "Uncategorized Organism"
+msgstr "สิ่งมีชีวิต​ที่​ยัง​ไม่​จัดหมวดหมู่"
+
+#. STRINGS.CODEX.BUTTERFLY.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.BUTTERFLY.SPECIES_TITLE"
+msgid "Mimikas"
+msgstr "มิ​มิ​กา"
+
+#. STRINGS.CODEX.BUTTERFLY.SUBTITLE
+msgctxt "STRINGS.CODEX.BUTTERFLY.SUBTITLE"
+msgid "Critter?"
+msgstr "สัตว์?"
+
+#. STRINGS.CODEX.BUTTERFLY.TITLE
+msgctxt "STRINGS.CODEX.BUTTERFLY.TITLE"
+msgid "Mimika"
+msgstr "มิ​มิ​กา"
+
+#. STRINGS.CODEX.BUTTERFLYPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.BUTTERFLYPLANT.BODY.CONTAINER1"
+msgid ""
+"Mimika Buds are excellent companion plants that provide a farm with the advantages of beneficial insect presence without the challenges of managing an additional critter population.\n"
+"\n"
+"Inside each tightly wrapped bud is a highly concentrated pool of enzymes and imaginal discs similar to those found in the Lepidoptera insect family.\n"
+"\n"
+"Under the right conditions, this unique concoction produces a <link=\"BUTTERFLY\">Mimika</link>, an ephemeral pseudo-insect organism that accelerates growth in neighboring plants before settling into its final seed form.\n"
+"\n"
+"The sight of a <link=\"BUTTERFLY\">Mimika</link> never fails to fill a gardener with awe."
+msgstr ""
+"ดอก​ตูม​มิ​มิ​กา​เป็น​พืช​คู่หู​ชั้นเยี่ยม​ที่​ให้​ประโยชน์​แบบ​มี​แมลง​ที่​เป็นประโยชน์​ใน​ฟาร์ม โดย​ไม่ต้อง​ปวดหัว​เลี้ยงสัตว์​เพิ่ม​อีก​ฝูง\n"
+"\n"
+"ใน​ดอก​ตูม​ที่​ห่อ​แน่น​แต่ละ​ดอก​มี​แอ่ง​เอนไซม์​เข้มข้น​สูง​และ​แผ่น​ตัว​เต็ม​วัย​คล้าย​ที่​พบ​ใน​แมลง​วงศ์​ผีเสื้อ\n"
+"\n"
+"ใน​สภาวะ​ที่​เหมาะสม ส่วนผสม​เฉพาะ​นี้​จะ​สร้าง<link=\"BUTTERFLY\">มิ​มิ​กา</link> สิ่งมีชีวิต​กึ่ง​แมลง​อายุสั้น​ที่​เร่ง​การ​เติบโต​ของ​พืช​ข้างเคียง ก่อน​จะ​กลายเป็น​เมล็ด​ใน​ร่าง​สุดท้าย\n"
+"\n"
+"ภาพ​ของ<link=\"BUTTERFLY\">มิ​มิ​กา</link>ทำให้​คนทำสวน​ตื่น​ตะลึง​ได้​ทุกครั้ง"
+
+#. STRINGS.CODEX.BUTTERFLYPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.BUTTERFLYPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.BUTTERFLYPLANT.TITLE
+msgctxt "STRINGS.CODEX.BUTTERFLYPLANT.TITLE"
+msgid "Mimika Bud"
+msgstr "ดอก​ตูม​มิ​มิ​กา"
+
+#. STRINGS.CODEX.C01_EVIL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.C01_EVIL.BODY.CONTAINER1"
+msgid ""
+"Clearly Nikola is evil. He has some kind of scheme going on that he's keeping secret from the rest of Gravitas and I haven't been able to crack what that is because it's offline and he's always at his computer. Whenever I ask him what he's up to he says I wouldn't understand. Pfft! We both went through the same particle physics classes, buddy. Just because you mash a keyboard and I adjust knobs does not mean I don't know what the Time Containment Field does.\n"
+"\n"
+"And then today I dropped a wrench and Nikola nearly jumped out of his skin! He spun around and screamed at me never to do that again. And then when I said, \"Geez, it's not the end of the world,\" he was like, \"Yeah, it's not like the world will blow up if I get this wrong\" really sarcastic-like.\n"
+"\n"
+"Which technically is true. If the Time Containment Field were to break down, the Temporal Bow could theoretically blow up the world. But that's why there are safety systems in place. And safety systems on safety systems. And then safety systems on top of that. But then again he built all the safety systems, so if he wanted to...\n"
+"------------------\n"
+msgstr ""
+"ชัด​เลย​ว่า​นิ​โค​ลา​เป็น​คนชั่ว เขา​มีแผน​อะไร​บางอย่าง​ที่​ปิดบัง​คนอื่น​ใน​ก​รา​วิ​ทัส และ​ฉัน​ยัง​แกะ​ไม่​ออ​กว่า​มัน​คือ​อะไร เพราะ​มัน​อยู่​ออฟไลน์​และ​เขา​ก็​นั่ง​เฝ้า​คอม​ตลอดเวลา ทุกครั้งที่​ถาม​ว่า​กำลัง​ทำ​อะไร เขา​ก็​ตอบ​ว่า​ฉัน​ไม่​เข้าใจ​หรอก เชอะ! เรา​เรียน​วิชา​ฟิสิกส์​อนุภาค​มา​เหมือนกัน​เป๊ะ​นะ​เพื่อน แค่​เพราะ​นาย​รัว​คีย์บอร์ด​ส่วน​ฉัน​หมุน​ปุ่ม ไม่​ได้​แปล​ว่า​ฉัน​ไม่​รู้​ว่า​สนาม​กักเก็บ​กาลเวลา​ทำ​อะไร​หรอก\n"
+"\n"
+"แล้ว​วันนี้​ฉัน​ทำ​ประแจ​หล่น นิ​โค​ลา​สะดุ้ง​แทบ​หลุด​ออกจาก​ร่าง! เขา​หันขวับ​มา​ตะโกน​ใส่​ว่า​ห้าม​ทำ​แบบ​นั้น​อีก​เด็ดขาด พอ​ฉัน​บอ​กว่า \"โธ่ ไม่​ใช่​วัน​สิ้น​โลก​ซะ​หน่อย\" เขา​ก็​ตอบ​ว่า \"ใช่​สิ ถ้า​ฉัน​พลาด​ตรงนี้​โลก​ก็​ไม่​ได้​ระเบิด​หรอก\" ด้วย​น้ำเสียง​ประชด​สุด ๆ\n"
+"\n"
+"ซึ่ง​ใน​ทางเทคนิค​ก็​จริง​นะ ถ้า​สนาม​กักเก็บ​กาลเวลา​พัง​ลง โบว์​กาลเวลา​ก็​อาจ​ทำให้​โลก​ระเบิด​ได้​ใน​ทางทฤษฎี แต่​นั่นแหละ​ถึง​ต้อง​มีระบบ​ความปลอดภัย แล้วก็​ระบบ​ความปลอดภัย​ซ้อน​ระบบ​ความปลอดภัย แล้วก็​ซ้อน​อีก​ชั้น​ข้างบน แต่ว่า... เขา​เป็น​คน​สร้าง​ระบบ​ความปลอดภัย​ทั้งหมด​เอง​นี่​นา ถ้า​เขา​อยาก​จะ...\n"
+"------------------\n"
+
+#. STRINGS.CODEX.C01_EVIL.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.C01_EVIL.BODY.CONTAINER2"
+msgid ""
+"I decided to get into work early today but when I got in Nikola was already there and it looked like he hadn't been home all weekend. He was pacing back and forth in the lab, monologuing but not like an evil villain. Like someone who hadn't slept in a week.\n"
+"\n"
+"\"Ruby,\" he said. \"You have to promise me that if anything goes wrong you'll turn on this machine. They're pushing it too far. The printing pods are pushing the...It's too much - TOO MUCH! Something's going to blow. I tried... I'm trying to save it. Not the Earth. There's no hope for the Earth, it's all going to...\" then he made this exploding sound. \"But the Universe. Time itself. It could all go, don't you see? This machine can contain it. Put a Temporal Containment Field around the Earth so time itself doesn't break down and...and...\"\n"
+"\n"
+"Then all of a sudden these security guys came in. New guys. People I haven't seen before. And they just took him away. Then they took me to a room and asked me all kinds of questions and I answered them, I guess. I don't remember much because the whole time I was thinking - What if I was wrong? What if he's not evil, but Gravitas is?\n"
+"\n"
+"What if I was wrong and what if he's right?\n"
+"------------------\n"
+msgstr ""
+"วันนี้​ฉัน​ตั้ง​ใจมา​ทำงาน​แต่เช้า แต่​พอ​มาถึง นิ​โค​ลา​ก็​อยู่​ก่อน​แล้ว ดูเหมือน​เขา​ไม่​ได้​กลับบ้าน​มา​ทั้ง​สุดสัปดาห์ เขา​เดินไปเดินมา​ใน​แล็บ พูด​คนเดียว​ไม่​หยุด แต่​ไม่​ใช่​แบบ​ตัว​ร้าย​วางแผน เหมือน​คน​ที่​ไม่​ได้​นอนมา​ทั้ง​อาทิตย์​มากกว่า\n"
+"\n"
+"\"รู​บี้\" เขา​พูด \"เธอ​ต้อง​สัญญา​กับ​ฉัน​นะ​ว่า​ถ้า​มี​อะไร​ผิดพลาด เธอ​จะ​เปิด​เครื่อง​นี้ พวก​นั้น​ดัน​มัน​เกิน​ขีด​ไป​แล้ว ฝัก​พิมพ์​กำลัง​ดัน... มัน​มากเกินไป - มากเกินไป​แล้ว! อะไร​สัก​อย่าง​ต้อง​ระเบิด​แน่ ฉัน​พยายาม... ฉัน​กำลัง​พยายาม​ช่วย​มัน​ไว้ ไม่​ใช่​โลก โลก​ไม่​มีหวัง​แล้ว มัน​จะ​ต้อง...\" แล้ว​เขา​ก็​ทำ​เสียง​ระเบิด​ตูม \"แต่​เป็น​จักรวาล ตัว​เวลา​เอง มัน​อาจ​หาย​ไป​ทั้งหมด​เลย เธอ​ไม่​เห็น​เหรอ? เครื่อง​นี้​กัก​มัน​ไว้​ได้ สร้าง​สนาม​กักเก็บ​กาลเวลา​ครอบ​โลก​ไว้ เพื่อ​ไม่​ให้​ตัว​เวลา​เอง​พังทลาย แล้ว... แล้ว...\"\n"
+"\n"
+"ทันใดนั้น​ก็​มี​พวก​เจ้าหน้าที่​รักษา​ความปลอดภัย​เดิน​เข้ามา หน้าใหม่​ทั้งนั้น ไม่​เคย​เห็น​มา​ก่อน แล้ว​พวกเขา​ก็​พา​ตัว​เขา​ไป​เลย จากนั้น​ก็​พา​ฉัน​เข้า​ห้อง​ไป​ถาม​คำถาม​สารพัด ฉัน​ก็​คง​ตอบ​ไป​มั้ง จำ​ไม่ค่อย​ได้ เพราะ​ตลอดเวลา​ฉัน​คิด​อยู่​อย่าง​เดียว​ว่า - ถ้า​ฉัน​คิดผิด​ล่ะ? ถ้า​เขา​ไม่​ได้​ชั่ว แต่​ก​รา​วิ​ทัส​ต่างหาก​ที่​ชั่ว?\n"
+"\n"
+"ถ้า​ฉัน​คิดผิด แล้ว​เขา​คิด​ถูก​ล่ะ?\n"
+"------------------\n"
+
+#. STRINGS.CODEX.C01_EVIL.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.C01_EVIL.BODY.CONTAINER3"
+msgid ""
+"No seriously - what if he's right?\n"
+"------------------\n"
+msgstr ""
+"ไม่ ถาม​จริง ๆ นะ - ถ้า​เขา​คิด​ถูก​ล่ะ?\n"
+"------------------\n"
+
 #. STRINGS.CODEX.C01_EVIL.SUBTITLE
 msgctxt "STRINGS.CODEX.C01_EVIL.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
+#. STRINGS.CODEX.C01_EVIL.TITLE
+msgctxt "STRINGS.CODEX.C01_EVIL.TITLE"
+msgid "Evil"
+msgstr "ตัว​ร้าย"
+
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER3"
+msgid ""
+"<indent=5%>Director, I think I've found the perfect engineer candidate to design our small-scale colony machines.\n"
+"-----------------------------------------------------------------------------------------------------\n"
+"</indent>"
+msgstr ""
+"<indent=5%>ท่าน​ผู้อำนวยการ ดิฉัน​คิด​ว่า​เจอ​ผู้สมัคร​วิศวกร​ที่​เหมาะ​เป๊ะ​สำหรับ​ออกแบบ​เครื่องจักร​อาณานิคม​ขนาดเล็ก​ของ​เรา​แล้ว​ค่ะ\n"
+"-----------------------------------------------------------------------------------------------------\n"
+"</indent>"
+
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER4"
+msgid ""
+"<indent=10%><smallcaps><b>Bringing Creative Workspace Ideas into the Industrial Setting</b>\n"
+"\n"
+"Michael E.E. Perlmutter is a rising star in the world industrial design, making a name for himself by cooking up playful workspaces for a work force typically left out of the creative conversation.\n"
+"\n"
+"\"Ergodynamic chairs have been done to death,\" says Perlmutter. \"What I'm interested in is redesigning the industrial space. There's no reason why a machine can't convey a sense of whimsy.\"\n"
+"\n"
+"It's this philosophy that has launched Perlmutter to the top of a very short list of hot new industrial designers.</indent></smallcaps>"
+msgstr ""
+"<indent=10%><smallcaps><b>นำ​ไอเดีย​พื้น​ที่ทำงาน​สร้างสรรค์​สู่​โลก​อุตสาหกรรม</b>\n"
+"\n"
+"ไมเคิล อี.อี. เพิร์ลมัตเตอร์ คือ​ดาวรุ่ง​แห่ง​วงการ​ออกแบบ​อุตสาหกรรม ผู้สร้าง​ชื่อ​จาก​การ​รังสรรค์​พื้น​ที่ทำงาน​สุด​ขี้เล่น ให้​แรงงาน​กลุ่ม​ที่​มัก​ถูก​มองข้าม​ใน​วง​สนทนา​เรื่อง​ความคิดสร้างสรรค์\n"
+"\n"
+"\"เก้าอี้​เออร์​โก​ไดนามิก​น่ะ ทำ​กัน​จน​เฝือ​แล้ว\" เพิร์ลมัตเตอร์​กล่าว \"สิ่ง​ที่​ผม​สนใจ​คือ​การ​ออกแบบ​พื้นที่​อุตสาหกรรม​ใหม่ ไม่​มีเหตุผล​อะไร​เลย​ที่​เครื่องจักร​จะ​สื่อ​ความ​สนุกสนาน​ไม่​ได้\"\n"
+"\n"
+"ปรัชญา​นี้​เอง​ที่​ส่ง​เพิร์ลมัตเตอร์​ขึ้น​สู่​อันดับ​ต้น​ใน​รายชื่อ​อัน​แสน​สั้น​ของ​นักออกแบบ​อุตสาหกรรม​หน้าใหม่​มาแรง</indent></smallcaps>"
+
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"From: <b>[REDACTED]</b>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ผู้​อำนวย​กา​รส​เติร์น</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"จาก: <b>[REDACTED]</b>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"[REDACTED]\n"
+"<size=11>Human Resources Coordinator\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"[REDACTED]\n"
+"<size=11>ผู้ประสานงาน​ฝ่าย​บุคคล\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.SUBTITLE
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ONE"
 msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.TITLE
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.TITLE"
+msgid "RE: Engineer Candidate?"
+msgstr "RE: ผู้สมัคร​วิศวกร?"
+
+#. STRINGS.CODEX.C7_FIRSTCOLONY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.C7_FIRSTCOLONY.BODY.CONTAINER1"
+msgid ""
+"The first experiments with establishing a colony off planet were an unmitigated disaster. Without outside help, our current Artificial Intelligence was completely incapable of making the kind of spontaneous decisions needed to deal with unforeseen circumstances. Additionally, the colony subjects lacked the forethought to even build themselves toilet facilities, even after soiling themselves repeatedly.\n"
+"\n"
+"While initial experiments in a lab setting were encouraging, our latest operation on non-Terra soil revealed some massive inadequacies to our system. If this idea is ever going to work, we will either need to drastically improve the AI directing the subjects, or improve the brains of our Duplicants to the point where they possess higher cognitive functions.\n"
+"\n"
+"Given the disastrous complications that I could foresee arising if our Duplicants were made less supplicant, I'm leaning toward a push to improve our Artificial Intelligence.\n"
+"\n"
+"Meanwhile, we will have to send a clean-up crew to destroy all evidence of our little experiment beneath the Ceres' surface. We can't risk anyone discovering the remnants of our failed colony, even if that's unlikely to happen for another few decades at least.\n"
+"\n"
+"(Sometimes it boggles my mind how much further behind Gravitas the rest of the world is.)"
+msgstr ""
+"การทดลอง​ตั้ง​อาณานิคม​นอก​ดาว​ครั้งแรก​ล้มเหลว​ไม่เป็นท่า หาก​ไม่​มี​ความช่วยเหลือ​จาก​ภายนอก ปัญญาประดิษฐ์​ที่​เรา​มี​อยู่​ไม่​สามารถ​ตัดสินใจ​ฉับพลัน​เพื่อ​รับมือ​สถานการณ์​ไม่​คาดฝัน​ได้​เลย ยิ่งไปกว่านั้น ตัวอย่าง​ทด​ลองใน​อาณานิคม​ยัง​ขาด​ความคิด​ล่วงหน้า​ขนาดที่​ไม่​สร้าง​ห้องน้ำ​ให้​ตัวเอง ทั้งที่​ทำ​เลอะ​ตัวเอง​ซ้ำแล้วซ้ำเล่า\n"
+"\n"
+"แม้​การทดลอง​ช่วงแรก​ใน​ห้อง​แล็บ​จะ​ให้ผล​น่าพอใจ แต่​ปฏิบัติการ​ล่าสุด​บน​ผืนดิน​นอก​โลก​ได้​เผย​ข้อบกพร่อง​มหาศาล​ของ​ระบบ​เรา ถ้า​ไอเดีย​นี้​จะ​สำเร็จ​ได้ เรา​ต้อง​พัฒนา AI ที่​สั่งการ​ตัวอย่าง​ทดลอง​อย่าง​ก้าว​กระโดด หรือไม่​ก็​พัฒนา​สมอง​ของ​ดู​พลิ​แคนต์​ให้​มี​การรับรู้​ระดับสูง​ขึ้น\n"
+"\n"
+"เมื่อ​คำนึงถึง​ปัญหา​ร้ายแรง​ที่​ฉัน​คาด​ว่า​จะ​เกิดขึ้น​หาก​ดู​พลิ​แคนต์​ว่านอนสอนง่าย​น้อยลง ฉัน​จึง​เอนเอียง​ไป​ทาง​ผลักดัน​การพัฒนา​ปัญญาประดิษฐ์​มากกว่า\n"
+"\n"
+"ระหว่าง​นี้ เรา​ต้อง​ส่ง​ทีม​เก็บกวาด​ไป​ทำลาย​หลักฐาน​ทั้งหมด​ของ​การทดลอง​เล็ก ๆ ของ​เรา​ใต้​พื้นผิว​ซี​รี​ส เรา​เสี่ยง​ให้​ใคร​มา​พบ​ซาก​อาณานิคม​ที่​ล้มเหลว​ไม่​ได้ ถึงแม้ว่า​น่าจะ​ยัง​ไม่​มี​ใคร​ไป​ถึง​ที่นั่น​อีก​อย่าง​น้อย​หลาย​สิบ​ปี​ก็ตาม\n"
+"\n"
+"(บางที​ฉัน​ก็​งง​จริง ๆ ว่า​โลก​ภายนอก​ตามหลัง​ก​รา​วิ​ทัส​อยู่​ไกล​แค่​ไหน)"
 
 #. STRINGS.CODEX.C7_FIRSTCOLONY.SUBTITLE
 msgctxt "STRINGS.CODEX.C7_FIRSTCOLONY.SUBTITLE"
@@ -32503,10 +32921,141 @@ msgctxt "STRINGS.CODEX.C7_FIRSTCOLONY.TITLE"
 msgid "Director's Notes"
 msgstr "บันทึก​ของ​ผู้อำนวยการ"
 
+#. STRINGS.CODEX.C8_TIMESORDER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.C8_TIMESORDER.BODY.CONTAINER1"
+msgid ""
+"We have been successfully using the Temporal Bow now for some time with no obvious consequences. I should be happy that this works so well, but several questions gnaw at my brain late at night.\n"
+"\n"
+"If Time's Arrow is moving forward the Laws of Entropy declare that the universe should be moving from a state of order to one of chaos. If the Temporal Bow bends to a previous point in time to a point when things were more orderly, logic would dictate that we are making this point more chaotic by taking things from it. All known laws of the natural universe suggests that this should have affected our Present Day, but all evidence points to that not being true. It appears the theory that we cannot change our past was incorrect!\n"
+"\n"
+"This suggests that Time is, in fact, not an arrow but several arrows, each pointing different directions. Fundamentally, this proves the existence of other timelines - different dimensions - some of which we can assume have also built their own Temporal Bow.\n"
+"\n"
+"The promise of crossing this final dimensional threshold is too tempting. Imagine what things Gravitas has invented in another dimension!! I must find a way to tear open the fabric of spacetime and tap into the limitless human potential of a thousand alternate timelines."
+msgstr ""
+"เรา​ใช้​โบว์​กาลเวลา​ได้​สำเร็จ​มา​ระยะ​หนึ่ง​แล้ว​โดย​ไม่​มีผลกระทบ​ที่​เห็นได้ชัด ฉัน​ควร​ดีใจ​ที่​มัน​ได้​ผลดี​ขนาด​นี้ แต่​มี​คำถาม​หลาย​ข้อ​คอย​กัด​กิน​สมอง​ฉัน​ยามดึก\n"
+"\n"
+"ถ้า​ศร​แห่ง​กาลเวลา​พุ่ง​ไป​ข้างหน้า กฎ​แห่ง​เอนโทรปี​ระบุ​ว่า​จักรวาล​ควร​เคลื่อน​จาก​สภาวะ​เป็นระเบียบ​ไป​สู่​ความโกลาหล ถ้า​โบว์​กาลเวลา​โค้ง​ย้อน​ไป​ยัง​จุด​ใน​อดีต​ที่​สิ่ง​ต่าง ๆ เป็นระเบียบ​กว่า ตรรกะ​ก็​บอ​กว่า​เรา​กำลัง​ทำให้​จุด​นั้น​โกลาหล​ขึ้น​ด้วย​การ​เอา​ของ​ออก​มาจาก​มัน กฎธรรมชาติ​ที่​รู้จัก​ทั้งหมด​ชี้​ว่า​เรื่อง​นี้​ควร​ส่งผล​ต่อ​ปัจจุบัน​ของ​เรา แต่​หลักฐาน​ทั้งหมด​กลับ​ชี้​ว่า​ไม่​เป็น​เช่นนั้น ดูเหมือน​ทฤษฎี​ที่ว่า​เรา​เปลี่ยน​อดีต​ไม่​ได้​จะ​ผิด!\n"
+"\n"
+"นี่​บ่งชี้​ว่า​แท้จริง​แล้ว​เวลา​ไม่​ใช่​ลูกศร​ดอก​เดียว แต่​เป็น​ลูกศร​หลาย​ดอก แต่ละ​ดอก​ชี้​ไป​คนละ​ทิศ โดย​พื้นฐาน​แล้ว นี่​พิสูจน์​ว่า​มี​ไทม์​ไลน์​อื่น​อยู่​จริง - มิติ​อื่น - ซึ่ง​บาง​มิติ​เรา​อนุมาน​ได้​ว่า​คง​สร้าง​โบว์​กาลเวลา​ของ​ตัวเอง​ขึ้น​มา​แล้ว​เหมือนกัน\n"
+"\n"
+"คำสัญญา​ของ​การข้าม​ธรณีประตู​มิติ​สุดท้ายนี้​ช่าง​ยั่วยวน​เหลือเกิน ลอง​นึกดู​สิ​ว่า​ก​รา​วิ​ทัส​ใน​อีก​มิติ​จะ​ประดิษฐ์​อะไร​ไว้​บ้าง!! ฉัน​ต้อง​หาทาง​ฉีก​ผืน​ผ้า​แห่ง​กาลอวกาศ แล้ว​ดึง​ศักยภาพ​ไร้ขีดจำกัด​ของ​มนุษย์​จาก​ไทม์​ไลน์​คู่ขนาน​นับ​พัน​มา​ใช้​ให้ได้"
+
 #. STRINGS.CODEX.C8_TIMESORDER.SUBTITLE
 msgctxt "STRINGS.CODEX.C8_TIMESORDER.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.C8_TIMESORDER.TITLE
+msgctxt "STRINGS.CODEX.C8_TIMESORDER.TITLE"
+msgid "Time's Order"
+msgstr "ระเบียบ​แห่ง​กาลเวลา"
+
+#. STRINGS.CODEX.CARROTPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CARROTPLANT.BODY.CONTAINER1"
+msgid ""
+"Plume Squashes contain over a dozen types of remarkably stable anthocyanins; twice the number found in any other plant. This high concentration of flavonoids contributes to the tuber's vivid pigmentation and tolerance to low temperatures.\n"
+"\n"
+"The entire root is safe to eat, including the peel. The upper \"plume\" can be used to brush wayward bits off one's chin after the meal."
+msgstr ""
+"ฟัก​ขนนก​มี​แอน​โท​ไซ​ยา​นิ​น​ชนิด​เสถียร​อย่าง​น่าทึ่ง​มากกว่า​สิบ​ชนิด มาก​เป็น​สองเท่า​ของ​พืช​ชนิด​อื่น​ใด ฟลาโวนอยด์​เข้มข้น​นี้​ทำให้​หัว​ของ​มัน​มี​สีสด​จัดจ้าน​และ​ทน​อากาศ​หนาว​ได้ดี\n"
+"\n"
+"กิน​ได้​ทั้ง​หัว​รวมถึง​เปลือก ส่วน \"ขนนก\" ด้านบน​เอาไว้​ปัด​เศษอาหาร​ที่​ติด​คาง​หลัง​มื้อ​อาหาร​ได้​ด้วย​นะ"
+
+#. STRINGS.CODEX.CARROTPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.CARROTPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.CARROTPLANT.TITLE
+msgctxt "STRINGS.CODEX.CARROTPLANT.TITLE"
+msgid "Plume Squash Plant"
+msgstr "ต้น​ฟัก​ขนนก"
+
+#. STRINGS.CODEX.CATEGORIES.BIONICBUILDING.DESCRIPTION
+msgctxt "STRINGS.CODEX.CATEGORIES.BIONICBUILDING.DESCRIPTION"
+msgid "Buildings that keep Bionic Duplicants' complex inner machinery operating smoothly."
+msgstr "สิ่งก่อสร้าง​ที่​ช่วย​ให้​กลไก​ภายใน​อัน​ซับซ้อน​ของ​ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ทำงาน​ลื่นไหล"
+
+#. STRINGS.CODEX.CATEGORIES.BIONICBUILDING.NAME
+msgctxt "STRINGS.CODEX.CATEGORIES.BIONICBUILDING.NAME"
+msgid "<link=\"GROUPBIONICBUILDING\">Bionic Service Station</link>"
+msgstr "<link=\"GROUPBIONICBUILDING\">สถานี​บริการ​ไบโอ​นิ​ก</link>"
+
+#. STRINGS.CODEX.CATEGORIES.BIONICBUILDING.TITLE
+msgctxt "STRINGS.CODEX.CATEGORIES.BIONICBUILDING.TITLE"
+msgid "Bionic Service Stations"
+msgstr "สถานี​บริการ​ไบโอ​นิ​ก"
+
+#. STRINGS.CODEX.CATEGORIES.CREATURERELOCATOR.DESCRIPTION
+msgctxt "STRINGS.CODEX.CATEGORIES.CREATURERELOCATOR.DESCRIPTION"
+msgid "Buildings that facilitate the movement of <link=\"CREATURES\">Critters</link> from one location to another."
+msgstr "สิ่งก่อสร้าง​ที่​ช่วย​ย้าย<link=\"CREATURES\">สัตว์</link>จาก​ที่หนึ่ง​ไป​อีก​ที่หนึ่ง"
+
+#. STRINGS.CODEX.CATEGORIES.CREATURERELOCATOR.NAME
+msgctxt "STRINGS.CODEX.CATEGORIES.CREATURERELOCATOR.NAME"
+msgid "<link=\"GROUPCREATURERELOCATOR\">Critter relocator</link>"
+msgstr "<link=\"GROUPCREATURERELOCATOR\">เครื่อง​ย้าย​สัตว์</link>"
+
+#. STRINGS.CODEX.CATEGORIES.CREATURERELOCATOR.TITLE
+msgctxt "STRINGS.CODEX.CATEGORIES.CREATURERELOCATOR.TITLE"
+msgid "Critter Relocators"
+msgstr "เครื่อง​ย้าย​สัตว์"
+
+#. STRINGS.CODEX.CATEGORIES.FARMBUILDING.DESCRIPTION
+msgctxt "STRINGS.CODEX.CATEGORIES.FARMBUILDING.DESCRIPTION"
+msgid "Buildings that Duplicants can use to plant and tend to a wide variety of colony-sustaining crops."
+msgstr "สิ่งก่อสร้าง​ที่​ดู​พลิ​แคนต์​ใช้​ปลูก​และ​ดูแล​พืชผล​หลาก​หลายชนิด​ที่​หล่อเลี้ยง​อาณานิคม"
+
+#. STRINGS.CODEX.CATEGORIES.FARMBUILDING.NAME
+msgctxt "STRINGS.CODEX.CATEGORIES.FARMBUILDING.NAME"
+msgid "<link=\"GROUPFARMBUILDING\">Farm Building</link>"
+msgstr "<link=\"GROUPFARMBUILDING\">สิ่งก่อสร้าง​เกษตร</link>"
+
+#. STRINGS.CODEX.CATEGORIES.FARMBUILDING.TITLE
+msgctxt "STRINGS.CODEX.CATEGORIES.FARMBUILDING.TITLE"
+msgid "Farm Buildings"
+msgstr "สิ่งก่อสร้าง​เกษตร"
+
+#. STRINGS.CODEX.CATEGORIES.SHARED.BUILDINGS_LIST_TITLE
+msgctxt "STRINGS.CODEX.CATEGORIES.SHARED.BUILDINGS_LIST_TITLE"
+msgid "Buildings in this category:"
+msgstr "สิ่งก่อสร้าง​ใน​หมวด​นี้:"
+
+#. STRINGS.CODEX.CATEGORIES.SHARED.LIST_TITLE
+msgctxt "STRINGS.CODEX.CATEGORIES.SHARED.LIST_TITLE"
+msgid "In this category:"
+msgstr "ใน​หมวด​นี้:"
+
+#. STRINGS.CODEX.CHAMELEON.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CHAMELEON.BODY.CONTAINER1"
+msgid ""
+"Dartles are docile reptilian critters whose existence centers around maximum energy conservation.\n"
+"\n"
+"This species was once known as the fastest land-based critter in existence. However, its deep aversion to physical exertion has grown stronger than its desire to escape predation. Researchers are uncertain what, if anything, the Dartle is saving its energy for."
+msgstr ""
+"ดาร์เทิล​เป็น​สัตว์เลื้อยคลาน​นิสัย​เชื่อง ที่​ใช้ชีวิต​โดย​ยึดหลัก​ประหยัด​พลังงาน​สูงสุด\n"
+"\n"
+"ครั้งหนึ่ง​สายพันธุ์​นี้​เคย​ได้​ชื่อว่า​เป็น​สัตว์บก​ที่​เร็ว​ที่สุด​ใน​โลก แต่​ความเกลียด​การ​ออกแรง​ของ​มัน​กลับ​แรงกล้า​กว่า​ความอยาก​หนี​ผู้ล่า​ไป​แล้ว นักวิจัย​ยัง​ไม่​แน่ใจ​เลย​ว่า​ดาร์เทิล​เก็บ​แรง​ไว้​ทำ​อะไร​กัน​แน่ (ถ้า​มี​อะไร​ให้​ทำ​น่ะ​นะ)"
+
+#. STRINGS.CODEX.CHAMELEON.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.CHAMELEON.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.CHAMELEON.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.CHAMELEON.SPECIES_TITLE"
+msgid "Dartles"
+msgstr "ดาร์เทิล"
+
+#. STRINGS.CODEX.CHAMELEON.SUBTITLE
+msgctxt "STRINGS.CODEX.CHAMELEON.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.CHAMELEON.TITLE
+msgctxt "STRINGS.CODEX.CHAMELEON.TITLE"
+msgid "Dartle"
+msgstr "ดาร์เทิล"
 
 #. STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE"
@@ -32588,10 +33137,40 @@ msgctxt "STRINGS.CODEX.DECORSYSTEM.HEADER_1"
 msgid "Decor"
 msgstr "ความสวยงาม"
 
+#. STRINGS.CODEX.DEERSPECIES.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.DEERSPECIES.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.DEERSPECIES.SUBTITLE
+msgctxt "STRINGS.CODEX.DEERSPECIES.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.DIVERGENT.SUBTITLE
+msgctxt "STRINGS.CODEX.DIVERGENT.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.DRECKO.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.DRECKO.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.DRECKO.SUBTITLE
+msgctxt "STRINGS.CODEX.DRECKO.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
 #. STRINGS.CODEX.DUPLICANT.CODEXCATEGORYNAME
 msgctxt "STRINGS.CODEX.DUPLICANT.CODEXCATEGORYNAME"
 msgid "Duplicants"
 msgstr "ดู​พลิ​แคนต์"
+
+#. STRINGS.CODEX.DUSKCAP.SUBTITLE
+msgctxt "STRINGS.CODEX.DUSKCAP.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
 
 #. STRINGS.CODEX.EGG_SHELL.TITLE
 msgctxt "STRINGS.CODEX.EGG_SHELL.TITLE"
@@ -32632,6 +33211,56 @@ msgstr "{0} ถึง {1}"
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_TWO_ELEMENTS"
 msgid "{0} to {1} and {2}"
 msgstr "{0} เป็น {1} และ {2}"
+
+#. STRINGS.CODEX.GARDENDECORPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.GARDENDECORPLANT.SUBTITLE"
+msgid "Decor Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.GARDENFOODPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.GARDENFOODPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.GARDENFORAGEPLANTPLANTED.SUBTITLE
+msgctxt "STRINGS.CODEX.GARDENFORAGEPLANTPLANTED.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.GASSYMOO.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.GASSYMOO.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.GASSYMOO.SUBTITLE
+msgctxt "STRINGS.CODEX.GASSYMOO.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.GINGER.SUBTITLE
+msgctxt "STRINGS.CODEX.GINGER.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.HARDSKINBERRYPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.HARDSKINBERRYPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.HATCH.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.HATCH.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.HATCH.SUBTITLE
+msgctxt "STRINGS.CODEX.HATCH.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
 
 #. STRINGS.CODEX.HEADERS.BUILDINGEFFECTS
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGEFFECTS"
@@ -32678,10 +33307,30 @@ msgctxt "STRINGS.CODEX.HEAT.HEADER_1"
 msgid "Temperature"
 msgstr "อุณหภูมิ"
 
+#. STRINGS.CODEX.HEXALENT.SUBTITLE
+msgctxt "STRINGS.CODEX.HEXALENT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
 #. STRINGS.CODEX.HYDROCACTUS.SUBTITLE
 msgctxt "STRINGS.CODEX.HYDROCACTUS.SUBTITLE"
 msgid "Plant"
 msgstr "พืช"
+
+#. STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.ICEBELLY.SUBTITLE
+msgctxt "STRINGS.CODEX.ICEBELLY.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.ICEFLOWER.SUBTITLE
+msgctxt "STRINGS.CODEX.ICEFLOWER.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
 
 #. STRINGS.CODEX.INTERMEDIATEBOOSTER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.INTERMEDIATEBOOSTER.BODY.CONTAINER1"
@@ -32911,6 +33560,11 @@ msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
+#. STRINGS.CODEX.JUMPINGJOYA.SUBTITLE
+msgctxt "STRINGS.CODEX.JUMPINGJOYA.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
 #. STRINGS.CODEX.LIGHT.HEADER_1
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
 msgid "Light"
@@ -32921,10 +33575,30 @@ msgctxt "STRINGS.CODEX.LIGHT.HEADER_4"
 msgid "Video: Power Circuits"
 msgstr "วิดีโอ: วงจรไฟฟ้า"
 
+#. STRINGS.CODEX.LILYPAD.SUBTITLE
+msgctxt "STRINGS.CODEX.LILYPAD.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
 #. STRINGS.CODEX.LOCKS.NEURALVACILLATOR
 msgctxt "STRINGS.CODEX.LOCKS.NEURALVACILLATOR"
 msgid "Neural Vacillator"
 msgstr "เครื่อง​แว​ซิ​ลเลเตอร์​ประสาท"
+
+#. STRINGS.CODEX.MEALWOOD.SUBTITLE
+msgctxt "STRINGS.CODEX.MEALWOOD.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.MELLOWMALLOW.SUBTITLE
+msgctxt "STRINGS.CODEX.MELLOWMALLOW.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.MIRTHLEAF.SUBTITLE
+msgctxt "STRINGS.CODEX.MIRTHLEAF.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2"
@@ -32948,6 +33622,11 @@ msgctxt "STRINGS.CODEX.MISSINGNOTES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
 
+#. STRINGS.CODEX.MOLE.SUBTITLE
+msgctxt "STRINGS.CODEX.MOLE.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
 #. STRINGS.CODEX.MORALE.HEADER_1
 msgctxt "STRINGS.CODEX.MORALE.HEADER_1"
 msgid "Morale"
@@ -32963,6 +33642,21 @@ msgctxt "STRINGS.CODEX.MORALE.HEADER_3"
 msgid "Overjoyed Responses"
 msgstr "อา​การตอน​ดีใจ​สุดขีด"
 
+#. STRINGS.CODEX.MOSQUITO.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.MOSQUITO.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.MUCKROOT.SUBTITLE
+msgctxt "STRINGS.CODEX.MUCKROOT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.MUSSELSPROUT.SUBTITLE
+msgctxt "STRINGS.CODEX.MUSSELSPROUT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
 #. STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE"
 msgid "Recreation"
@@ -32973,25 +33667,65 @@ msgctxt "STRINGS.CODEX.MYSTERYAWARD.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
 
+#. STRINGS.CODEX.NOSHBEAN.SUBTITLE
+msgctxt "STRINGS.CODEX.NOSHBEAN.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
 #. STRINGS.CODEX.OXYFERN.SUBTITLE
 msgctxt "STRINGS.CODEX.OXYFERN.SUBTITLE"
 msgid "Plant"
 msgstr "พืช"
+
+#. STRINGS.CODEX.PACU.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.PACU.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
 
 #. STRINGS.CODEX.PACU.SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PARROTFISH.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.PARROTFISH.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
 #. STRINGS.CODEX.PARROTFISH.SUBTITLE
 msgctxt "STRINGS.CODEX.PARROTFISH.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PIP.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.PIP.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.PIP.SUBTITLE
+msgctxt "STRINGS.CODEX.PIP.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
 #. STRINGS.CODEX.PLANETARYECHOES.SUBTITLE
 msgctxt "STRINGS.CODEX.PLANETARYECHOES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.PLUGSLUG.SUBTITLE
+msgctxt "STRINGS.CODEX.PLUGSLUG.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.POKESHELL.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.POKESHELL.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.POKESHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.POKESHELL.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
 
 #. STRINGS.CODEX.POLLINATORS.TITLE
 msgctxt "STRINGS.CODEX.POLLINATORS.TITLE"
@@ -33013,10 +33747,25 @@ msgctxt "STRINGS.CODEX.PRIORITY.HEADER_4"
 msgid "Tutorial: Errand Priorities"
 msgstr "บท​สอน: ความสำคัญ​ของ​งาน"
 
+#. STRINGS.CODEX.PUFFERFISH.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.PUFFERFISH.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
 #. STRINGS.CODEX.PUFFERFISH.SUBTITLE
 msgctxt "STRINGS.CODEX.PUFFERFISH.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.PUFT.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.PUFT.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.PUFT.SUBTITLE
+msgctxt "STRINGS.CODEX.PUFT.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE"
@@ -33048,6 +33797,11 @@ msgctxt "STRINGS.CODEX.RADIATION.HEADER_1"
 msgid "Radiation"
 msgstr "รังสี"
 
+#. STRINGS.CODEX.RAPTOR.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.RAPTOR.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
 #. STRINGS.CODEX.RESEARCH.HEADER_1
 msgctxt "STRINGS.CODEX.RESEARCH.HEADER_1"
 msgid "Research"
@@ -33063,10 +33817,20 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.TITLE"
 msgid "Dining Tables"
 msgstr "โต๊ะอาหาร"
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.BUILDINGS_LIST_TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.BUILDINGS_LIST_TITLE"
+msgid "In this category:"
+msgstr "ใน​หมวด​นี้:"
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE"
 msgid "Toilets"
 msgstr "ห้องน้ำ"
+
+#. STRINGS.CODEX.SALTYSTICKSPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.SALTYSTICKSPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE"
@@ -33078,15 +33842,85 @@ msgctxt "STRINGS.CODEX.SEAFAIRY.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.SEAHORSE.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SEAHORSE.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
 #. STRINGS.CODEX.SEAHORSE.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAHORSE.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.SEAL.SUBTITLE
+msgctxt "STRINGS.CODEX.SEAL.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
 #. STRINGS.CODEX.SEATURTLE.SUBTITLE
 msgctxt "STRINGS.CODEX.SEATURTLE.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.SHERBERRY.SUBTITLE
+msgctxt "STRINGS.CODEX.SHERBERRY.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SHINEBUG.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SHINEBUG.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SHINEBUG.SUBTITLE
+msgctxt "STRINGS.CODEX.SHINEBUG.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.SLEETWHEAT.SUBTITLE
+msgctxt "STRINGS.CODEX.SLEETWHEAT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SLICKSTER.SUBTITLE
+msgctxt "STRINGS.CODEX.SLICKSTER.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SNAIL.SUBTITLE
+msgctxt "STRINGS.CODEX.SNAIL.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.SPACETREE.SUBTITLE
+msgctxt "STRINGS.CODEX.SPACETREE.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SQUID.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SQUID.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
 
 #. STRINGS.CODEX.SQUID.SUBTITLE
 msgctxt "STRINGS.CODEX.SQUID.SUBTITLE"
@@ -33102,6 +33936,16 @@ msgstr "ความต้องการ​พื้นฐาน"
 msgctxt "STRINGS.CODEX.STANDARD.HEADER_2"
 msgid "Worker Optimization"
 msgstr "การ​เพิ่มประสิทธิภาพ​คนงาน"
+
+#. STRINGS.CODEX.STEGO.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.STEGO.SPECIES_SUBTITLE"
+msgid "Critter Species"
+msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.STEGO.SUBTITLE
+msgctxt "STRINGS.CODEX.STEGO.SUBTITLE"
+msgid "Domesticable Critter"
+msgstr "สัตว์เลี้ยง​ได้"
 
 #. STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON"
@@ -33253,6 +34097,11 @@ msgctxt "STRINGS.CODEX.STRESS.HEADER_1"
 msgid "Stress"
 msgstr "ความเครียด"
 
+#. STRINGS.CODEX.SWAMPCHARD.SUBTITLE
+msgctxt "STRINGS.CODEX.SWAMPCHARD.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
+
 #. STRINGS.CODEX.SWAMPLILYFLOWER.SUBTITLE
 msgctxt "STRINGS.CODEX.SWAMPLILYFLOWER.SUBTITLE"
 msgid "Medicinal Herb"
@@ -33275,6 +34124,21 @@ msgstr ""
 msgctxt "STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.TRANQUILTOES.SUBTITLE
+msgctxt "STRINGS.CODEX.TRANQUILTOES.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.WATERCUPS.SUBTITLE
+msgctxt "STRINGS.CODEX.WATERCUPS.SUBTITLE"
+msgid "Decorative Plant"
+msgstr "ไม้ประดับ"
+
+#. STRINGS.CODEX.WATERWEED.SUBTITLE
+msgctxt "STRINGS.CODEX.WATERWEED.SUBTITLE"
+msgid "Edible Plant"
+msgstr "พืช​กิน​ได้"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE"
@@ -71584,6 +72448,11 @@ msgstr "Quinn"
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BIG"
 msgid "Big"
 msgstr "ใหญ่"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL"
+msgid "Evil"
+msgstr "ตัว​ร้าย"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.TINY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.TINY"
