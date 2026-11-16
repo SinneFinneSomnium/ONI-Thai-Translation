@@ -44212,20 +44212,361 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.KNOCK_KNOCK.TEXT"
 msgid "Knock Knock"
 msgstr "ก๊อก ก๊อก"
 
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.KNOCK_KNOCK.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.KNOCK_KNOCK.TOOLTIP"
+msgid "Approach this building and welcome its occupant"
+msgstr "เดิน​เข้าไป​ที่​สิ่งก่อสร้าง​นี้​และ​ต้อนรับ​ผู้อยู่อาศัย"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.NAME"
+msgid "Mysterious Hermit"
+msgstr "ฤๅษี​ลึกลับ"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.ACQUAINTANCE.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.ACQUAINTANCE.NAME"
+msgid "Intrigued"
+msgstr "เริ่ม​สนใจ"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.ACQUAINTANCE.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.ACQUAINTANCE.TOOLTIP"
+msgid "The hermit isn't sure why everyone is being so nice"
+msgstr "ฤๅษี​ไม่​แน่ใจ​ว่า​ทำไม​ทุกคน​ถึงใจ​ดีกัน​นัก"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODINTRO.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODINTRO.NAME"
+msgid "Unconvinced"
+msgstr "ยัง​ไม่​เชื่อ"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODINTRO.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODINTRO.TOOLTIP"
+msgid "The hermit is keeping an eye out for more unsolicited overtures"
+msgstr "ฤๅษี​คอย​จับตา​ว่า​จะ​มี​ใคร​มา​ตีสนิท​โดย​ไม่​ได้​รับเชิญ​อีก​ไหม"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODNEIGHBOR.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODNEIGHBOR.NAME"
+msgid "Appreciative"
+msgstr "ซาบซึ้ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODNEIGHBOR.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GOODNEIGHBOR.TOOLTIP"
+msgid "The hermit is developing warm, fuzzy feelings about this colony"
+msgstr "ฤๅษี​เริ่ม​รู้สึก​อบอุ่น​ฟูฟ่อง​กับ​อาณานิคม​นี้​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GREATNEIGHBOR.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GREATNEIGHBOR.NAME"
+msgid "Cherished"
+msgstr "เป็น​ที่รัก"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GREATNEIGHBOR.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.GREATNEIGHBOR.TOOLTIP"
+msgid "The hermit is really starting to feel like he might belong here"
+msgstr "ฤๅษี​เริ่ม​รู้สึก​จริง ๆ ว่า​ตัวเอง​อาจ​เป็น​ส่วนหนึ่ง​ของ​ที่นี่"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.STRANGERDANGER.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.STRANGERDANGER.NAME"
+msgid "Stranger Danger"
+msgstr "ระวัง​คนแปลกหน้า"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.STRANGERDANGER.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.PROGRESSRESPONSE.STRANGERDANGER.TOOLTIP"
+msgid "The hermit is suspicious of all outsiders"
+msgstr "ฤๅษี​ระแวง​คนนอก​ทุกคน"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.QUESTCOMPLETE_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.QUESTCOMPLETE_POPUP.NAME"
+msgid "Hermit Recruitment Progress"
+msgstr "ความคืบหน้า​การ​ชักชวน​ฤๅษี"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.QUESTCOMPLETE_POPUP.VIEW_IN_CODEX
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.QUESTCOMPLETE_POPUP.VIEW_IN_CODEX"
+msgid "View File"
+msgstr "ดู​แฟ้ม"
+
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.CODEX_NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.CODEX_NAME"
 msgid "First Encounter"
 msgstr "การพบกัน​ครั้งแรก"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.DESCRIPTION"
+msgid ""
+"I've discovered a new dream-analyzing building buried deep inside our asteroid.\n"
+"\n"
+"It seems to contain new sleep-specific suits...could these be the key to unlocking my Duplicants' ability to dream?\n"
+"\n"
+"I've often wondered what they might be capable of, once their imaginations were awakened."
+msgstr ""
+"ฉัน​ค้นพบ​สิ่งก่อสร้าง​วิเคราะห์​ความฝัน​แห่ง​ใหม่​ฝัง​ลึก​อยู่​ใน​ดาวเคราะห์​น้อย​ของ​เรา\n"
+"\n"
+"ดูเหมือน​ข้างใน​จะ​มี​ชุด​สำหรับ​การ​นอน​โดยเฉพาะ...หรือ​นี่​จะ​เป็น​กุญแจ​ปลดล็อก​ความสามารถ​ใน​การ​ฝัน​ของ​ดู​พลิ​แคนต์?\n"
+"\n"
+"ฉัน​มัก​สงสัย​ว่า​พวกเขา​จะ​ทำ​อะไร​ได้​บ้าง ถ้า​จินตนาการ​ของ​พวกเขา​ถูก​ปลุก​ให้​ตื่น"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME"
+msgid "Story Trait: Somnium Synthesizer"
+msgstr "ลักษณะ​เรื่องราว: เครื่อง​สังเคราะห์​ซอม​เนียม"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION"
+msgid ""
+"Power up a colossal relic from Gravitas's underground sleep lab.\n"
+"\n"
+"When Duplicants sleep, their minds are blissfully blank and dream-free. But under the right conditions, things could be...different."
+msgstr ""
+"เปิด​เครื่อง​โบราณวัตถุ​มหึมา​จาก​แล็บ​การ​นอน​ใต้ดิน​ขอ​งก​รา​วิ​ทัส\n"
+"\n"
+"เวลา​ดู​พลิ​แคนต์​หลับ จิตใจ​ของ​พวกเขา​ว่างเปล่า​อย่าง​สงบสุข​และ​ไร้​ความฝัน แต่​ใน​สภาพ​ที่​เหมาะสม อะไร ๆ อาจ...ต่าง​ออก​ไป"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION_SHORT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION_SHORT"
+msgid "Power up a colossal relic from Gravitas's underground sleep lab."
+msgstr "เปิด​เครื่อง​โบราณวัตถุ​มหึมา​จาก​แล็บ​การ​นอน​ใต้ดิน​ขอ​งก​รา​วิ​ทัส"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.BUTTON"
+msgid "Unlock Maximum Aptitude Mode"
+msgstr "ปลดล็อก​โหมด​ศักยภาพ​สูงสุด"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.CODEX_NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.CODEX_NAME"
 msgid "Challenge Completed"
 msgstr "ทำ​ภารกิจ​สำเร็จ"
 
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.DESCRIPTION"
+msgid ""
+"Meeting the initial quota of dream content analysis has triggered a surge of electromagnetic activity that appears to be enhancing performance for Duplicants everywhere.\n"
+"\n"
+"If my Duplicants can keep this building fuelled with Dream Journals, perhaps we will continue to reap this benefit.\n"
+"\n"
+"A small side compartment has also popped open, revealing an unfamiliar object.\n"
+"\n"
+"A keepsake, perhaps?"
+msgstr ""
+"การวิเคราะห์เนื้อหา​ความฝัน​ครบ​โควตา​แรก​ได้​กระตุ้น​กิจกรรม​แม่เหล็ก​ไฟฟ้า​พุ่งพรวด ซึ่ง​ดูเหมือน​จะ​เพิ่มประสิทธิภาพ​ให้​ดู​พลิ​แคนต์​ทุกหน​แห่ง\n"
+"\n"
+"ถ้า​ดู​พลิ​แคนต์​ของ​ฉัน​เติม​บันทึก​ความฝัน​ให้​สิ่งก่อสร้าง​นี้​ได้​ต่อเนื่อง เรา​อาจ​ได้​รับประโยชน์​นี้​ต่อไป\n"
+"\n"
+"ช่อง​เล็ก ๆ ด้าน​ข้าง​ยัง​เด้ง​เปิด​ออก เผย​ให้​เห็น​วัตถุ​แปลกตา​ชิ้น​หนึ่ง\n"
+"\n"
+"ของที่ระลึก​งั้น​เหรอ?"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.NAME"
+msgid "Story Trait Complete: Somnium Synthesizer"
+msgstr "ลักษณะ​เรื่องราว​สำเร็จ: เครื่อง​สังเคราะห์​ซอม​เนียม"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.NAME"
+msgid "Somnium Synthesizer"
+msgstr "เครื่อง​สังเคราะห์​ซอม​เนียม"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B040]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Three days ago, we completed our first non-fatal Duplicant trial of Nikola's comprehensive synapse microanalysis and mirroring process. Five hours from now, Subject #901 will make history as our first human test subject.\n"
+"\n"
+"Even at the Vertex Institute, which is twice Gravitas's size, I could've spent half my career waiting for approval to advance to human trials for such an invasive process! But Director Stern is too invested in this work to let it stagnate.\n"
+"\n"
+"My darling Bruce always said that when you're on the right path, the universe conspires to help you. He'd be so proud of the work we do here.\n"
+"\n"
+"[LOG ENDS]\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"My bio-printed multi-cerebral storage chambers (or \"mega minds\" as I've been calling them) are working! Just in time to save my job.\n"
+"\n"
+"The Director's been getting increasingly impatient about our struggle to maintain the integrity of our growing datasets during extraction and processing. The other day, she held my report over a Bunsen burner until the flames reached her fingertips.\n"
+"\n"
+"I can only imagine how much stress she's under.\n"
+"\n"
+"The whole world is counting on us.\n"
+"\n"
+"[LOG ENDS]\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"On a hunch, I added dream content analysis to the data and...wow. Oneirology may be scientifically \"fluffy\", but integrating subconscious narratives has produced a new type of brainmap - one with more latent potential for complex processing.\n"
+"\n"
+"If these results are replicable, we might be on the verge of unlocking the secret to creating synthetic life forms with the capacity to evolve beyond blindly following commands.\n"
+"\n"
+"Nikola says that's irrelevant for our purposes. Surely Director Stern would disagree.\n"
+"\n"
+"[LOG ENDS]\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Nikola gave me a dataset to plug into the mega minds. He wouldn't say where it came from, but even if he had...nothing could have prepared me for what it contained.\n"
+"\n"
+"When he saw my face, he muttered something about how people should call me \"Tremors,\" not \"Nails\" and sent me on my lunch break.\n"
+"\n"
+"All I could think about was those poor souls.\n"
+"\n"
+"Did they have souls?\n"
+"\n"
+"...do we?\n"
+"\n"
+"[LOG ENDS]\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"It's done. My adjustments to the memory transfer protocol are hardcoded into the machine.\n"
+"\n"
+"I finished just as Nikola stormed in.\n"
+"\n"
+"I may be too much of a coward to stand up for those unfortunate creatures, but with these new parameters in place...someday, they might be able to stand up for themselves.\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​บุคคล: B040]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"สาม​วันก่อน เรา​ทดลอง​กระบวนการ​วิเคราะห์​ระดับ​ไมโคร​และ​จำลอง​ไซ​แนปส์​แบบ​ครบวงจร​ของ​นิ​โค​ลา​กับ​ดู​พลิ​แคนต์​โดย​ไม่​มี​ผู้เสียชีวิต​เป็นครั้งแรก อีก​ห้า​ชั่วโมง​ข้างหน้า ตัวอย่าง​หมายเลข #901 จะ​สร้าง​ประวัติศาสตร์​ใน​ฐานะ​มนุษย์​ผู้ทดลอง​คน​แรก​ของ​เรา\n"
+"\n"
+"ขนาดที่​สถาบัน​เวอร์​เท็กซ์​ที่​ใหญ่​กว่า​ก​รา​วิ​ทัส​สองเท่า ฉัน​อาจ​ต้อง​ใช้​ครึ่ง​ชีวิต​การทำงาน​รอ​อนุมัติ​ให้​ทด​ลองใน​มนุษย์​สำหรับ​กระบวน​การรุกล้ำ​ขนาด​นี้! แต่​ผู้​อำนวย​กา​รส​เติร์น​ทุ่มเท​ให้​งาน​นี้​มาก​เกิน​กว่า​จะ​ปล่อย​ให้​มัน​หยุดนิ่ง\n"
+"\n"
+"บ​รู​ซ​ที่รัก​ของ​ฉัน​ชอบ​พูด​เสมอ​ว่า​เวลา​เรา​เดิน​ถูก​ทาง จักรวาล​จะ​สมรู้ร่วมคิด​ช่วย​เรา เขา​คง​ภูมิใจ​มาก​กับ​งาน​ที่​เรา​ทำ​ที่นี่\n"
+"\n"
+"[จบ​บันทึก]\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"ห้อง​เก็บ​ข้อมูล​หลาย​สมอง​ที่​พิมพ์​ด้วย​ชีวภาพ​ของ​ฉัน (ที่​ฉัน​เรียก​ว่า \"เมกะ​มายด์\") ใช้งาน​ได้​แล้ว! ทันเวลา​ช่วย​งาน​ฉัน​ไว้​พอดี\n"
+"\n"
+"ท่าน​ผู้อำนวยการ​หงุดหงิด​ขึ้น​เรื่อย ๆ ที่​เรา​ดิ้นรน​รักษา​ความสมบูรณ์​ของ​ชุด​ข้อมูล​ที่​ใหญ่​ขึ้น​ระหว่าง​การ​ดึง​และ​ประมวลผล วันก่อน​เธอ​ถือ​รายงาน​ของ​ฉัน​ไว้​เหนือ​ตะเกียง​บุ​น​เซน​จน​เปลวไฟ​ลาม​ถึง​ปลายนิ้ว\n"
+"\n"
+"ฉัน​ได้​แต่​นึก​ภาพ​ว่า​เธอ​เครียด​แค่​ไหน\n"
+"\n"
+"ทั้งโลก​ฝาก​ความหวัง​ไว้​กับ​เรา\n"
+"\n"
+"[จบ​บันทึก]\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"ตาม​สัญชาตญาณ ฉัน​ลอง​เพิ่ม​การวิเคราะห์เนื้อหา​ความฝัน​ลง​ใน​ข้อมูล แล้ว...ว้าว วิทยาการ​ความฝัน​อาจ​ดู \"เพ้อฝัน\" ใน​ทางวิทยาศาสตร์ แต่​การผสาน​เรื่องราว​ใน​จิตใต้สำนึก​เข้าไป​ได้​สร้าง​แผนที่​สมอง​แบบ​ใหม่ ที่​มี​ศักยภาพ​แฝง​ใน​การประมวลผล​ซับซ้อน​มากกว่า\n"
+"\n"
+"ถ้า​ผล​นี้​ทำซ้ำ​ได้ เรา​อาจ​ใกล้​จะ​ไขความลับ​ใน​การ​สร้าง​สิ่งมีชีวิต​สังเคราะห์​ที่​วิวัฒนาการ​ได้​เกิน​กว่า​การทำตาม​คำสั่ง​แบบ​มืด​บอด\n"
+"\n"
+"นิ​โค​ลา​บอ​กว่า​มัน​ไม่​เกี่ยวกับ​เป้าหมาย​ของ​เรา แต่​ผู้​อำนวย​กา​รส​เติร์นคง​ไม่​เห็นด้วย​แน่ ๆ\n"
+"\n"
+"[จบ​บันทึก]\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"นิ​โค​ลา​ให้​ชุด​ข้อมูล​ชุด​หนึ่ง​มา​เสียบ​เข้า​เมกะ​มายด์ เขา​ไม่​ยอม​บอ​กว่า​มาจาก​ไหน แต่​ต่อให้​บอก...ก็​ไม่​มี​อะไร​เตรียมใจ​ฉัน​ให้​พร้อม​รับ​สิ่ง​ที่อยู่​ข้างใน​ได้​เลย\n"
+"\n"
+"พอ​เขา​เห็น​สีหน้า​ฉัน เขา​ก็​พึมพำ​ว่า​คน​น่าจะ​เรียก​ฉัน​ว่า \"ขี้​สั่น\" แทน \"ใจ​เหล็ก\" แล้ว​ไล่​ฉัน​ไป​พัก​กิน​ข้าวกลางวัน\n"
+"\n"
+"ฉัน​คิดถึง​แต่​ดวงวิญญาณ​น่าสงสาร​พวก​นั้น\n"
+"\n"
+"พวกเขา​มี​วิญญาณ​ไหม?\n"
+"\n"
+"...แล้ว​พวกเรา​ล่ะ?\n"
+"\n"
+"[จบ​บันทึก]\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"เสร็จ​แล้ว การ​ปรับ​โปรโตคอล​ถ่ายโอน​ความทรงจำ​ของ​ฉัน​ถูก​ฝัง​ลง​ใน​เครื่องแบบ​ถาวร​แล้ว\n"
+"\n"
+"ฉัน​ทำ​เสร็จ​พอดี​ตอนที่​นิ​โค​ลา​บุก​เข้ามา\n"
+"\n"
+"ฉัน​อาจ​ขี้ขลาด​เกิน​กว่า​จะ​ลุกขึ้น​ปกป้อง​สิ่งมีชีวิต​อาภัพ​พวก​นั้น แต่​ด้วย​พารามิเตอร์​ใหม่​นี้...สักวันหนึ่ง พวกเขา​อาจ​ลุกขึ้น​ปกป้อง​ตัวเอง​ได้\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.TITLE"
+msgid "A Seed is Planted"
+msgstr "เมล็ดพันธุ์​ถูก​หว่าน​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION"
+msgid ""
+"Reboot an ambitious collaborative project spearheaded by Gravitas's bioengineering and robotics departments.\n"
+"\n"
+"If correctly rebuilt, it could save Duplicant lives."
+msgstr ""
+"รี​บูต​โครงการ​ร่วม​สุด​ทะเยอทะยาน​ที่​นำ​โดย​ฝ่าย​วิศวกรรม​ชีวภาพ​และ​ฝ่าย​หุ่นยนต์​ขอ​งก​รา​วิ​ทัส\n"
+"\n"
+"ถ้า​สร้าง​ใหม่​ได้​ถูกต้อง มัน​อาจ​ช่วยชีวิต​ดู​พลิ​แคนต์​ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION_SHORT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION_SHORT"
+msgid "Reboot an ambitious collaborative project spearheaded by Gravitas's bioengineering and robotics departments."
+msgstr "รี​บูต​โครงการ​ร่วม​สุด​ทะเยอทะยาน​ที่​นำ​โดย​ฝ่าย​วิศวกรรม​ชีวภาพ​และ​ฝ่าย​หุ่นยนต์​ขอ​งก​รา​วิ​ทัส"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.BODY.CONTAINER1"
+msgid ""
+"Dr. Seyed Ali,\n"
+"\n"
+"You were right to be angry with me. I <i>am</i> the reason that the driverless workbot project was reassigned. Director Stern called me in to discuss your concerns regarding the Sporb mucin cross-contamination, and I...\n"
+"\n"
+"She said the supplemental testing on model X posed a threat to the Ceres mission.\n"
+"\n"
+"After what happened to that poor lab tech, I should have said more, but...\n"
+"\n"
+"It was already too late for him.\n"
+"\n"
+"It may be too late for all of us.\n"
+"\n"
+"You should know that the Director received a video call from someone at the Vertex Institute as I left... I lingered outside her door and heard her address them as the head of transnational security! The way they were talking about the biobot...\n"
+"\n"
+"It's not safe to write more here. I'll wait for you at the rocket hangar after your shift tonight.\n"
+"\n"
+"I hope you'll come. I understand if you don't.\n"
+"\n"
+"I am so, so sorry.\n"
+"\n"
+" - Dr. Saruhashi"
+msgstr ""
+"ดร.เซ​เย​ด อาลี\n"
+"\n"
+"คุณ​โกรธ​ฉัน​ก็​สมควร​แล้ว ฉัน<i>คือ</i>เหตุผล​ที่​โครงการ​หุ่นยนต์​ทำงาน​ไร้​คนขับ​ถูก​โยกย้าย ผู้​อำนวย​กา​รส​เติร์น​เรียก​ฉัน​ไป​คุย​เรื่อง​ที่​คุณ​กังวล​เกี่ยวกับ​การ​ปนเปื้อน​ข้าม​ของ​เมือก​สปอร์​บ แล้ว​ฉัน​ก็...\n"
+"\n"
+"เธอ​บอก​ว่าการ​ทดสอบ​เพิ่มเติม​กับ​รุ่น X เป็น​ภัย​ต่อ​ภารกิจ​ซี​รี​ส\n"
+"\n"
+"หลังจาก​สิ่ง​ที่เกิด​กับ​ช่าง​แล็บ​ผู้​น่าสงสาร​คน​นั้น ฉัน​ควร​พูด​มากกว่า​นี้ แต่...\n"
+"\n"
+"มัน​สาย​เกินไป​สำหรับ​เขา​แล้ว\n"
+"\n"
+"อาจ​สาย​เกินไป​สำหรับ​พวกเรา​ทุกคน​แล้วด้วย\n"
+"\n"
+"คุณ​ควร​รู้​ไว้​ว่า​ตอน​ฉัน​ออกมา ท่าน​ผู้อำนวยการ​ได้รับ​วิดีโอ​คอ​ล​จาก​ใคร​บางคน​ที่​สถาบัน​เวอร์​เท็กซ์... ฉัน​แอบ​ยืน​อยู่​หน้า​ประตู​ห้อง​เธอ แล้ว​ได้ยิน​เธอ​เรียก​อีก​ฝ่าย​ว่า​หัวหน้า​ฝ่าย​ความมั่นคง​ข้ามชาติ! วิธี​ที่​พวกเขา​พูดถึง​ไบโอ​บอ​ท (หุ่น​ชีวภาพ)...\n"
+"\n"
+"เขียน​มากกว่า​นี้​ที่นี่​ไม่​ปลอดภัย ฉัน​จะ​รอ​คุณ​ที่​โรง​เก็บ​จรวด​หลัง​เลิก​กะ​คืนนี้\n"
+"\n"
+"หวัง​ว่า​คุณ​จะ​มา ถ้า​ไม่​มา​ฉัน​ก็​เข้าใจ\n"
+"\n"
+"ขอโทษ​จริง ๆ ขอโทษ​จริง ๆ นะ\n"
+"\n"
+" - ดร.ซา​รุ​ฮา​ชิ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.TITLE"
+msgid "With Regrets"
+msgstr "ด้วย​ความเสียใจ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.NAME"
+msgid "Biobot Builder"
+msgstr "เครื่อง​สร้าง​ไบโอ​บอ​ท"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON"
@@ -44237,20 +44578,166 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.CODEX_NAME"
 msgid "First Encounter"
 msgstr "การพบกัน​ครั้งแรก"
 
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.DESCRIPTION"
+msgid ""
+"My Duplicants have discovered a laboratory full of dusty machinery. The vestiges of another colony's experiments, perhaps?\n"
+"\n"
+"It is unclear whether the apparatus is intended for biological experimentation or advanced mechatronics...or both."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​ค้นพบ​ห้อง​แล็บ​ที่​เต็มไปด้วย​เครื่องจักร​ฝุ่นจับ ร่องรอย​การทด​ลองของ​อาณานิคม​อื่น​งั้น​เหรอ?\n"
+"\n"
+"ไม่​แน่ชัด​ว่า​อุปกรณ์​นี้​มี​ไว้​สำหรับ​การทดลอง​ทางชีววิทยา​หรือ​แมค​คา​ทรอ​นิกส์​ขั้นสูง...หรือ​ทั้งสอง​อย่าง"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME"
+msgid "Story Trait: Biobot Builder"
+msgstr "ลักษณะ​เรื่องราว: เครื่อง​สร้าง​ไบโอ​บอ​ท"
+
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON"
 msgid "Close"
 msgstr "ปิด"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON_READLORE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON_READLORE"
+msgid "Inspect Toy"
+msgstr "ตรวจดู​ของเล่น"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.CODEX_NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.CODEX_NAME"
 msgid "Challenge Completed"
 msgstr "ทำ​ภารกิจ​สำเร็จ"
 
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.DESCRIPTION"
+msgid ""
+"Success! My Duplicants' efforts to get the Biobot Builder up and running have finally paid off!\n"
+"\n"
+"Our first fully assembled P.E.G.G.Y. biobot is ready to perform tasks in hazardous environments, which means less exposure to danger for my Duplicants. There seems to be no limit to the number of biobots that we could produce.\n"
+"\n"
+"A small toy bot was found discarded behind the Sporb tank. It occasionally plays a deteriorated laugh track."
+msgstr ""
+"สำเร็จ! ความพยายาม​ของ​ดู​พลิ​แคนต์​ที่จะ​ทำให้​เครื่อง​สร้าง​ไบโอ​บอ​ท (หุ่น​ชีวภาพ) กลับมา​ทำงาน​ได้ผล​ในที่สุด!\n"
+"\n"
+"ไบโอ​บอ​ท P.E.G.G.Y. ตัว​แรก​ที่​ประกอบ​เสร็จ​สมบูรณ์​พร้อม​ทำงาน​ใน​สภาพแวดล้อม​อันตราย​แล้ว ซึ่ง​หมายความว่า​ดู​พลิ​แคนต์​ของ​ฉัน​จะ​เสี่ยงอันตราย​น้อยลง ดูเหมือน​จะ​ผลิต​ไบโอ​บอ​ท​ได้​ไม่​จำกัด​จำนวน​เลย\n"
+"\n"
+"เจอ​หุ่น​ของเล่น​ตัวเล็ก​ถูก​ทิ้ง​ไว้​หลัง​ถัง​สปอร์​บ บางครั้ง​มัน​ก็​เล่น​เสียงหัวเราะ​ประกอบ​ที่​เสื่อมสภาพ​แล้ว​ออกมา"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.NAME"
+msgid "Story Trait Complete: Biobot Builder"
+msgstr "ลักษณะ​เรื่องราว​สำเร็จ: เครื่อง​สร้าง​ไบโอ​บอ​ท"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.LOCKER.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.LOCKER.DESCRIPTION"
+msgid ""
+"A hermetically sealed glass cabinet.\n"
+"\n"
+"It contains two <link=\"EVILFLOWER\">Sporechid</link> seeds and a carefully penned note."
+msgstr ""
+"ตู้กระจก​ปิดผนึก​สุญญากาศ\n"
+"\n"
+"ข้างใน​มี​เมล็ด<link=\"EVILFLOWER\">กล้วยไม้​สปอร์</link>สอง​เมล็ด​กับ​โน้ต​ที่​เขียน​ไว้​อย่าง​ประณีต"
+
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_CLOSE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_CLOSE"
 msgid "Close"
 msgstr "ปิด"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_READLORE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_READLORE"
+msgid "Read Transcript"
+msgstr "อ่าน​บันทึก​ถอดความ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.CODEX_NAME"
+msgid "Meet P.E.G.G.Y."
+msgstr "ทำความรู้จัก P.E.G.G.Y."
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.DESCRIPTION"
+msgid ""
+"Our restoration work is complete!\n"
+"\n"
+"A small plaque on this building's mechanical assembly tank reads: \"Pathogen-Fueled Extravehicular Geo-Exploratory Guidebot (Y).\"\n"
+"\n"
+"The adjacent tank contains the floating shape of a half-formed organism. Its vivid coloring reminds me of the poisonous amphibians that were eradicated from our home planet's jungles.\n"
+"\n"
+"A tattered transcript print-out was recovered from the mess."
+msgstr ""
+"งาน​บูรณะ​ของ​เรา​เสร็จ​สมบูรณ์!\n"
+"\n"
+"ป้าย​เล็ก ๆ บน​ถัง​ประกอบ​กลไก​ของ​สิ่งก่อสร้าง​นี้​เขียน​ว่า: \"หุ่น​นำทาง​สำรวจ​ธรณี​นอก​ยาน​พลัง​เชื้อโรค (Y)\"\n"
+"\n"
+"ถัง​ข้าง ๆ มี​ร่าง​ของ​สิ่งมีชีวิต​ที่​ยัง​ก่อตัว​ไม่​เสร็จ​ลอย​อยู่ สีสัน​สด​จัด​ของ​มัน​ทำให้​นึกถึง​สัตว์​ครึ่ง​บก​ครึ่ง​น้ำ​มีพิษ​ที่​ถูก​กำจัด​จน​หมด​จาก​ป่าดงดิบ​ของ​ดาว​บ้านเกิด​เรา\n"
+"\n"
+"กู้​กระดาษ​พิมพ์​บันทึก​ถอดความ​ขาด ๆ ได้​จาก​กอง​เละเทะ​นั้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.NAME"
+msgid "Story Trait: Biobot Builder"
+msgstr "ลักษณะ​เรื่องราว: เครื่อง​สร้าง​ไบโอ​บอ​ท"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.NAME"
+msgid "Being Restored"
+msgstr "กำลัง​บูรณะ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.TOOLTIP"
+msgid "This building is being restored to its former glory"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​ถูก​บูรณะ​ให้​กลับมา​รุ่งโรจน์​ดังเดิม"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.NAME"
+msgid "Preparing Biobot"
+msgstr "กำลัง​เตรียม​ไบโอ​บอ​ท"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.TOOLTIP"
+msgid "This building is being operated by a skilled Duplicant"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​ถูก​ดู​พลิ​แคนต์​ผู้ชำนาญ​ใช้งาน"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.NAME"
+msgid "Restoring Equipment"
+msgstr "กำลัง​บูรณะ​อุปกรณ์"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.TOOLTIP"
+msgid "This Duplicant is carefully restoring the Biobot Builder"
+msgstr "ดู​พลิ​แคนต์คน​นี้​กำลัง​บูรณะ​เครื่อง​สร้าง​ไบโอ​บอ​ท (หุ่น​ชีวภาพ) อย่าง​ระมัดระวัง"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.NAME"
+msgid "Crafting Biobot"
+msgstr "กำลัง​ประดิษฐ์​ไบโอ​บอ​ท"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.TOOLTIP"
+msgid "This building is using <link=\"STEEL\">Steel</link> to craft a Biobot frame"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​ใช้<link=\"STEEL\">เหล็กกล้า</link>สร้าง​โครง​ไบโอ​บอ​ท (หุ่น​ชีวภาพ)"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.NAME"
+msgid "Awaiting Doctor"
+msgstr "กำลัง​รอ​หมอ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.TOOLTIP"
+msgid "This building is waiting for a skilled Duplicant to perform an occupational health and safety check"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​รอ​ดู​พลิ​แคนต์​ผู้ชำนาญ​มา​ตรวจ​สุขภาพ​และ​ความปลอดภัย​ใน​การทำงาน"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.NAME"
+msgid "Assessing Sporb"
+msgstr "กำลัง​ประเมิน​สปอร์​บ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.TOOLTIP"
+msgid "This Duplicant is assessing the Sporb's readiness for Biobot assembly"
+msgstr "ดู​พลิ​แคนต์คน​นี้​กำลัง​ประเมิน​ว่า​สปอร์​บ​พร้อม​สำหรับ​การ​ประกอบ​ไบโอ​บอ​ท (หุ่น​ชีวภาพ) หรือยัง"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.CANCEL_REVEAL_BTN
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.CANCEL_REVEAL_BTN"
