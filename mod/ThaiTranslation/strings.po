@@ -27924,10 +27924,2650 @@ msgctxt "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.DESCRIPTION"
 msgid "A cluster of visitable planetoids with an Ice Cave starting world."
 msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​ถ้ำ​น้ำแข็ง"
 
+#. STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.NAME"
+msgid "Ceres Cluster"
+msgstr "คลัสเตอร์​ซี​รี​ส"
+
+#. STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.DESCRIPTION"
+msgid "A cluster of visitable planetoids with an icy, exploded starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่มต้น​เป็น​น้ำแข็ง​ที่​ระเบิด​แหลก"
+
+#. STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.NAME"
+msgid "Blasted Ceres Cluster"
+msgstr "คลัสเตอร์​ซี​รี​ส​แหลกลาญ"
+
 #. STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.DESCRIPTION"
 msgid "A cluster of visitable planetoids with an Ice Cave starting world."
 msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​ถ้ำ​น้ำแข็ง"
+
+#. STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.NAME"
+msgid "Ceres Minor Cluster"
+msgstr "คลัสเตอร์​ซี​รี​ส​ขนาด​ย่อ"
+
+#. STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.DESCRIPTION"
+msgid "A cluster of visitable planetoids with an Ice Cave starting world that was fractured by an experiment gone wrong."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​ถ้ำ​น้ำแข็ง​ที่​แตกร้าว​จาก​การทดลอง​ที่​ผิดพลาด"
+
+#. STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.NAME"
+msgid "Mini Cluster - Ceres Mantle"
+msgstr "มินิ​คลัสเตอร์ - แมน​เทิล​ซี​รี​ส"
+
+#. STRINGS.CLUSTER_NAMES.DEFAULT.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.DEFAULT.DESCRIPTION"
+msgid "One location with everything you need on it."
+msgstr "ดาว​ดวง​เดียว​ที่​มี​ทุกอย่าง​ที่​ต้อง​ใช้"
+
+#. STRINGS.CLUSTER_NAMES.DEFAULT.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.DEFAULT.NAME"
+msgid "Single World"
+msgstr "โลก​เดี่ยว"
+
+#. STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.DESCRIPTION"
+msgid "A foresty cluster of visitable planetoids made from the remains of an anomalous planet."
+msgstr "กลุ่ม​ดาว​ป่าไม้​ที่​ไป​เยือน​ได้ สร้าง​จาก​ซาก​ของ​ดาว​ประหลาด"
+
+#. STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME"
+msgid "Folia Cluster"
+msgstr "คลัสเตอร์​โฟ​เลีย"
+
+#. STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION"
+msgid "Large locations with resources shared between worlds."
+msgstr "ดาว​ขนาดใหญ่​ที่​แบ่ง​ทรัพยากร​กัน​ระหว่าง​โลก"
+
+#. STRINGS.CLUSTER_NAMES.MILKYWAY.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.NAME"
+msgid "Planetary System"
+msgstr "ระบบ​ดาวเคราะห์"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.DESCRIPTION"
+msgid "A cluster of visitable planetoids with a Desolands starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​ดินแดน​รกร้าง"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME"
+msgid "Moonlet Cluster - The Desolands"
+msgstr "คลัสเตอร์​ดาว​จิ๋ว - ดินแดน​รกร้าง"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION"
+msgid "A cluster of visitable planetoids with an inverted starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​กลับหัว"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME"
+msgid "Moonlet Cluster - Flipped"
+msgstr "คลัสเตอร์​ดาว​จิ๋ว - กลับหัว"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION"
+msgid "A cluster of visitable planetoids with a Frozen Forest starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​ป่า​เยือกแข็ง"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME"
+msgid "Moonlet Cluster - Frozen Forest"
+msgstr "คลัสเตอร์​ดาว​จิ๋ว - ป่า​เยือกแข็ง"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION"
+msgid "A cluster of visitable planetoids with a Metallic Swampy starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​หนอง​โลหะ"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME"
+msgid "Moonlet Cluster - Metallic Swampy"
+msgstr "คลัสเตอร์​ดาว​จิ๋ว - หนอง​โลหะ"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION"
+msgid "A cluster of visitable planetoids with a Radioactive Ocean starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​มหาสมุทร​กัมมันตรังสี"
+
+#. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME"
+msgid "Moonlet Cluster - Radioactive Ocean"
+msgstr "คลัสเตอร์​ดาว​จิ๋ว - มหาสมุทร​กัมมันตรังสี"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_BASE_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_BASE_CLUSTER.DESCRIPTION"
+msgid ""
+"An endangered location with abundant food resources.\n"
+"\n"
+"<smallcaps>Relica's biodiversity makes reliable food production more attainable for new colonies. Construction materials and fuels are also ample. Surface defence must be prioritized to minimize damage from an incoming impactor asteroid.</smallcaps>"
+msgstr ""
+"ดาว​ใกล้​สูญพันธุ์​ที่​มี​แหล่ง​อาหาร​อุดมสมบูรณ์\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​เร​ลิ​กา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น วัสดุก่อสร้าง​และ​เชื้อเพลิง​ก็​มี​เหลือเฟือ ต้อง​รีบ​สร้าง​แนว​ป้องกัน​ผิว​ดาว​เพื่อ​ลด​ความเสียหาย​จาก​ดาวเคราะห์​น้อย​ที่​กำลัง​พุ่ง​มา</smallcaps>"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_BASE_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_BASE_CLUSTER.NAME"
+msgid "Relica"
+msgstr "เร​ลิ​กา"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_CLASSIC_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_CLASSIC_CLUSTER.DESCRIPTION"
+msgid "A cluster of visitable planetoids with a Garden starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​สวน"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_CLASSIC_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_CLASSIC_CLUSTER.NAME"
+msgid "Relica Cluster"
+msgstr "คลัสเตอร์​เร​ลิ​กา"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_SHATTERED_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_SHATTERED_CLUSTER.DESCRIPTION"
+msgid "A cluster of visitable planetoids with an impactor-struck starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่มต้น​ที่​โดน​ดาวเคราะห์​น้อย​ชน"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_SHATTERED_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_SHATTERED_CLUSTER.NAME"
+msgid "RelicAAAA<sup>AAAGHH</sup> Cluster"
+msgstr "คลัสเตอร์​เร​ลิ​กา​าาา<sup>าาากกก</sup>"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_SPACEDOUT_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_SPACEDOUT_CLUSTER.DESCRIPTION"
+msgid "A cluster of visitable planetoids with a Garden starting world."
+msgstr "กลุ่ม​ดาว​ที่​ไป​เยือน​ได้ โดย​มี​ดาว​เริ่ม​ต้นแบบ​สวน"
+
+#. STRINGS.CLUSTER_NAMES.PREHISTORIC_SPACEDOUT_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.PREHISTORIC_SPACEDOUT_CLUSTER.NAME"
+msgid "Relica Minor Cluster"
+msgstr "คลัสเตอร์​เร​ลิ​กา​ขนาด​ย่อ"
+
+#. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION"
+msgid "An earthy cluster of visitable planetoids made from the remains of an anomalous planet."
+msgstr "กลุ่ม​ดาว​ดิน​ที่​ไป​เยือน​ได้ สร้าง​จาก​ซาก​ของ​ดาว​ประหลาด"
+
+#. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME"
+msgid "Terrania Cluster"
+msgstr "คลัสเตอร์​เทอร์​รา​เนีย"
+
+#. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION"
+msgid "A swampy cluster of visitable planetoids made from the remains of an anomalous planet."
+msgstr "กลุ่ม​ดาว​หนองน้ำ​ที่​ไป​เยือน​ได้ สร้าง​จาก​ซาก​ของ​ดาว​ประหลาด"
+
+#. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME"
+msgid "Quagmiris Cluster"
+msgstr "คลัสเตอร์​แควก​ไม​ริ​ส"
+
+#. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION"
+msgid "Two cozy locations with limited resources shared between them."
+msgstr "ดาว​อบอุ่น​สอง​ดวง​ที่​แบ่ง​ทรัพยากร​จำกัด​กัน"
+
+#. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME"
+msgid "Two Small Worlds"
+msgstr "โลก​เล็ก​สอง​ใบ"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a temperate foresty planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​ป่าไม้​อากาศ​อบอุ่น"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME"
+msgid "Arboria Cluster"
+msgstr "คลัสเตอร์​อาร์​โบ​เรีย"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a hot foresty planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​ป่าไม้​อากาศ​ร้อน"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME"
+msgid "Aridio Cluster"
+msgstr "คลัสเตอร์​อา​ริ​ดิ​โอ"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a larger barren planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​แห้งแล้ง​ขนาดใหญ่"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME"
+msgid "The Badlands Cluster"
+msgstr "คลัสเตอร์​แบด​แลนด์"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a larger foresty planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​ป่าไม้​ขนาดใหญ่"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.NAME"
+msgid "Verdante Cluster"
+msgstr "คลัสเตอร์​เวอร์​ดาน​เต"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a larger desolate planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​รกร้าง​ขนาดใหญ่"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.NAME"
+msgid "Oasisse Cluster"
+msgstr "คลัสเตอร์​โอเอซิส"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a salty planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​เค็ม"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.NAME"
+msgid "Oceania Cluster"
+msgstr "คลัสเตอร์​โอเชียเนีย"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a larger earthy planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​ดิน​ขนาดใหญ่"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
+msgid "Terra Cluster"
+msgstr "คลัสเตอร์​เทอร์​รา"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a frozen planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​เยือกแข็ง"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.NAME"
+msgid "Rime Cluster"
+msgstr "คลัสเตอร์​ไร​ม์"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a larger swampy planetoid to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​หนองน้ำ​ขนาดใหญ่"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
+msgid "Squelchy Cluster"
+msgstr "คลัสเตอร์​ส​เค​วล​ชี"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a toasty planetoid full of molten lava pockets to start on."
+msgstr "กลุ่ม​ดาว​ที่​เริ่ม​บน​ดาว​ร้อนระอุ​ที่​เต็มไปด้วย​แอ่ง​ลาวา​หลอมเหลว"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME"
+msgid "Volcanea Cluster"
+msgstr "คลัสเตอร์​วอ​ล​คา​เนีย"
+
+#. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>Director,\n"
+"\n"
+"Even with dramatic optimization, we can't fit the massive volume of resources needed for a colony seed aboard the craft. Not even when calculating for a very small interplanetary travel duration.\n"
+"\n"
+"Some serious changes are gonna have to be made for this to work.</indent>"
+msgstr ""
+"<indent=5%>ท่าน​ผู้อำนวยการ\n"
+"\n"
+"ถึง​จะ​ปรับ​ให้​มีประสิทธิภาพ​สุด ๆ แล้ว เรา​ก็​ยัง​ยัด​ทรัพยากร​ปริมาณ​มหาศาล​ที่​ต้อง​ใช้​สำหรับ​เมล็ดพันธุ์​อาณานิคม​ขึ้น​ยาน​ไม่​ได้ แม้​จะ​คำนวณ​ด้วย​ระยะเวลา​เดิน​ทางข้าม​ดาว​ที่​สั้น​มาก ๆ ก็ตาม\n"
+"\n"
+"คง​ต้อง​เปลี่ยนแปลง​อะไร​ครั้ง​ใหญ่​ถึง​จะ​ทำได้</indent>"
+
+#. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>[REDACTED]</b>\n"
+"From: <b>[REDACTED]</b></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[REDACTED]</b>\n"
+"จาก: <b>[REDACTED]</b></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"[REDACTED]\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"[REDACTED]\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.SUBTITLE
+msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.TITLE
+msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.TITLE"
+msgid "Preliminary Calculations"
+msgstr "การคำนวณ​เบื้องต้น"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.BODY.CONTAINER1"
+msgid ""
+"Introducing the latest in 3D printing technology:\n"
+"The Gravitas Home Printing Pod\n"
+"\n"
+"We are proud to announce that printing advancements developed here in the Gravitas Facility will soon bring new, bio-organic production capabilities to your old home printers.\n"
+"\n"
+"What does that mean for the average household?\n"
+"\n"
+"Dinner frustrations are a thing of the past. Simply select any of the pod's 5398 pre-programmed recipes, and voila! Delicious pot roast ready in only .87 seconds.\n"
+"\n"
+"Prefer the patented family recipe? Program your own custom meal template for an instant taste of home, or go old school and create fresh, delicious ingredients and prepare your own home cooked meal.\n"
+"\n"
+"Dinnertime has never been easier!"
+msgstr ""
+"ขอ​แนะนำ​เทคโนโลยี​การ​พิมพ์ 3 มิติ​ล่าสุด:\n"
+"พ็อด​พิมพ์​ร่าง​ประจำ​บ้า​นก​รา​วิ​ทัส\n"
+"\n"
+"เรา​ภูมิใจ​ที่จะ​ประกาศ​ว่า ความก้าวหน้า​ด้าน​การ​พิมพ์​ที่​พัฒนา​ขึ้น​ที่​ศูนย์​วิจัย​ก​รา​วิ​ทัส​แห่ง​นี้ จะ​นำ​ความสามารถ​ใน​การผลิต​ชีว​อินทรีย์​แบบ​ใหม่​มาสู่​เครื่องพิมพ์​เก่า​ใน​บ้าน​ของ​คุณ​เร็ว ๆ นี้\n"
+"\n"
+"แล้ว​มัน​หมายความว่า​อย่างไร​สำหรับ​ครัวเรือน​ทั่วไป?\n"
+"\n"
+"ความหงุดหงิด​เรื่อง​มื้อ​เย็น​จะ​กลาย​เป็นอดีต แค่​เลือก​สูตร​ใด​ก็ได้​จาก 5398 สูตร​ที่ตั้ง​โปรแกรม​ไว้​ใน​พ็อด แล้ว​แท่น​แท้​น! สตู​เนื้อ​อบ​หม้อ​อร่อย ๆ พร้อม​เสิร์ฟ​ใน​เวลา​เพียง .87 วินาที\n"
+"\n"
+"ชอบ​สูตร​ประจำ​ตระกูล​ที่​จดสิทธิบัตร​ไว้​มากกว่า? ตั้ง​โปรแกรม​แม่แบบ​มื้อ​อาหาร​ของ​คุณ​เอง​เพื่อ​ลิ้มรส​บ้าน​ได้​ทันที หรือ​จะ​ใช้​วิธี​ดั้งเดิม สร้าง​วัตถุดิบ​สด​ใหม่​แสน​อร่อย​แล้ว​ทำอาหาร​ฝีมือ​ตัวเอง​ก็ได้\n"
+"\n"
+"มื้อ​เย็น​ไม่​เคย​ง่าย​ขนาด​นี้​มา​ก่อน!"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.BODY.CONTAINER2"
+msgid ""
+"\n"
+"Projected for commercial availability early next year.\n"
+"Brought to you by the Gravitas Facility."
+msgstr ""
+"\n"
+"คาด​ว่า​จะ​วาง​จำหน่าย​เชิงพาณิชย์​ต้น​ปีหน้า\n"
+"นำเสนอ​โดย​ศูนย์​วิจัย​ก​รา​วิ​ทัส"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.SUBTITLE
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.SUBTITLE"
+msgid "PUBLIC RELEASE"
+msgstr "เผยแพร่​สู่​สาธารณะ"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.TITLE
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.TITLE"
+msgid "Printing Pod Promo"
+msgstr "โฆษณา​พ็อด​พิมพ์​ร่าง"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.BODY.CONTAINER1"
+msgid ""
+"Bring your mining operations into the twenty-third century with new Gravitas personal excavators.\n"
+"\n"
+"Improved particle condensers reduce raw volume for more efficient product shipping - and that's good for your bottom line.\n"
+"\n"
+"Licensed for industrial use only, resale of Gravitas equipment may carry a fine of up to $200,000 under the Global Restoration Act."
+msgstr ""
+"ยกระดับ​งาน​เหมือง​ของ​คุณ​สู่​ศตวรรษ​ที่​ยี่สิบ​สาม​ด้วย​เครื่อง​ขุด​ส่วนตัว​รุ่นใหม่​จา​กก​รา​วิ​ทัส\n"
+"\n"
+"ตัว​ควบแน่น​อนุภาค​ที่​ปรับปรุง​ใหม่​ช่วย​ลด​ปริมาตร​ดิบ ให้​ขนส่งสินค้า​ได้​มีประสิทธิภาพ​ขึ้น ซึ่ง​ดี​ต่อ​ผลกำไร​ของ​คุณ\n"
+"\n"
+"ได้รับอนุญาต​ให้​ใช้​ใน​อุตสาหกรรม​เท่านั้น การ​ขายต่อ​อุปกรณ์​ขอ​งก​รา​วิ​ทัส​อาจ​มี​โทษปรับ​สูงสุด $200,000 ภายใต้​พระราชบัญญัติ​ฟื้นฟู​โลก"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.BODY.CONTAINER2"
+msgid "Brought to you by the Gravitas Facility."
+msgstr "นำเสนอ​โดย​ศูนย์​วิจัย​ก​รา​วิ​ทัส"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.SUBTITLE
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.SUBTITLE"
+msgid "PUBLIC RELEASE"
+msgstr "เผยแพร่​สู่​สาธารณะ"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.TITLE
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.TITLE"
+msgid "Mining Gun Promo"
+msgstr "โฆษณา​ปืน​ขุด"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.BODY.CONTAINER1"
+msgid ""
+"Tired of shutting down during seasonal heat waves? Looking to cut weather-related operating costs?\n"
+"\n"
+"Look no further: Gravitas's revolutionary Anti Entropy Thermo-Nullifier is the exciting, affordable new way to eliminate operational downtime.\n"
+"\n"
+"Powered by our proprietary renewable power sources, the AETN efficiently cools an entire office building without incurring any of the environmental surcharges associated with comparable systems.\n"
+"\n"
+"Initial setup includes hydrogen duct installation and discounted monthly maintenance visits from our elite team of specially trained contractors.\n"
+"\n"
+"Now available for pre-order!"
+msgstr ""
+"เบื่อ​ไหม​ที่​ต้อง​ปิด​ทำการ​ทุกครั้งที่​มี​คลื่น​ความร้อน​ตามฤดูกาล? อยาก​ลด​ต้นทุน​ดำเนินงาน​ที่​เกี่ยวกับ​สภาพอากาศ​อยู่​หรือเปล่า?\n"
+"\n"
+"ไม่ต้อง​มองหา​ที่ไหน​อีกแล้ว: เครื่องล้าง​ความร้อน​ต้าน​เอนโทรปี​สุด​ปฏิวัติ​วงการ​ขอ​งก​รา​วิ​ทัส คือ​วิธี​ใหม่​สุด​เร้าใจ​ใน​รา​คาที่​จับต้อง​ได้ เพื่อ​กำจัด​เวลา​หยุดงาน\n"
+"\n"
+"ขับเคลื่อนด้วย​แหล่งพลังงาน​หมุนเวียน​ที่​เป็น​กรรมสิทธิ์​ของ​เรา AETN ทำความ​เย็น​ได้​ทั้ง​อาคารสำนักงาน​อย่าง​มีประสิทธิภาพ โดย​ไม่ต้อง​เสียค่าธรรมเนียม​สิ่งแวดล้อม​ใด ๆ เหมือน​ระบบ​อื่น​ที่​เทียบ​กัน​ได้\n"
+"\n"
+"การ​ติดตั้ง​ครั้งแรก​รวม​การ​วาง​ท่อ​ไฮโดรเจน และ​ส่วนลด​ค่าบำรุงรักษา​รายเดือน​จาก​ทีม​ช่าง​ผู้​ผ่าน​การ​ฝึก​พิเศษ​ระดับ​หัวกะทิ​ของ​เรา\n"
+"\n"
+"เปิด​ให้​สั่งจอง​ล่วงหน้า​แล้ว​วันนี้!"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.BODY.CONTAINER2"
+msgid ""
+"Brought to you by the Gravitas Facility.\n"
+"<smallcaps>Patent Pending</smallcaps>"
+msgstr ""
+"นำเสนอ​โดย​ศูนย์​วิจัย​ก​รา​วิ​ทัส\n"
+"<smallcaps>อยู่​ระหว่าง​ยื่น​จดสิทธิบัตร</smallcaps>"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.SUBTITLE
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.SUBTITLE"
+msgid "PUBLIC RELEASE"
+msgstr "เผยแพร่​สู่​สาธารณะ"
+
+#. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.TITLE
+msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.TITLE"
+msgid "Thermo-Nullifier Promo"
+msgstr "โฆษณา​เครื่องล้าง​ความร้อน"
+
+#. STRINGS.CODEX.A1_A046.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER1"
+msgid ""
+"Gravitas has been growing pretty rapidly since our first product hit the market. I just got a look at some of the new hires - they're practically babies! Not quite what I was expecting, but then I've never had an opportunity to mentor someone before. Could be fun!\n"
+"------------------\n"
+msgstr ""
+"ก​รา​วิ​ทัส​เติบโต​เร็ว​มาก​ตั้งแต่​สินค้า​ตัว​แรก​ออก​สู่​ตลาด เพิ่ง​ได้​เห็น​พนักงาน​ใหม่​บางคน แต่ละคน​ยัง​เด็ก​เหมือน​ทารก​เลย! ไม่ค่อย​ตรง​กับ​ที่​คาด​ไว้​เท่าไหร่ แต่​ฉัน​ก็​ไม่​เคย​ได้​เป็น​พี่เลี้ยง​ใคร​มา​ก่อน น่าจะ​สนุก​ดี!\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_A046.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER2"
+msgid ""
+"Well, mentorship hasn't gone quite how I'd expected. Turns out the young hires don't need me to show them the ropes. Actually, since the facility's gotten rid of our swipe cards one of the nice young men had to show me how to operate the doors after I got stuck outside my own lab. Don't I feel silly.\n"
+"------------------\n"
+msgstr ""
+"เอ่อ การ​เป็น​พี่เลี้ยง​ไม่​ได้​เป็น​อย่าง​ที่​คิด​ไว้​เลย กลายเป็น​ว่า​เด็ก​ใหม่​ไม่ต้อง​ให้​ฉัน​สอน​งาน​พื้นฐาน​เลย​สักนิด จริง ๆ แล้ว ตั้งแต่​ศูนย์​ยกเลิก​บัตร​รูด​ของ​เรา ชายหนุ่ม​ใจดี​คน​หนึ่ง​ต้อง​มา​สอน​ฉัน​เปิด​ประตู หลังจาก​ฉัน​ติด​อยู่​นอก​แล็บ​ตัวเอง รู้สึก​เปิ่น​จริง ๆ\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_A046.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER3"
+msgid ""
+"Well, if that isn't just gravy, hm? One of the new hires will be acting as the team lead on my next project.\n"
+"\n"
+"When I first started it wasn't that uncommon to sample a whole rack of test tubes by hand. Now a machine can do hundreds of them in seconds. Who knows what this job will look like in another ten or twenty years. Will I still even be in it?\n"
+"------------------\n"
+msgstr ""
+"แหม ช่าง​ดี​เหลือเกิน​นะ ใช่ไหม? เด็ก​ใหม่​คน​หนึ่ง​จะ​ได้​เป็น​หัวหน้า​ทีม​ใน​โปรเจกต์​ถัดไป​ของ​ฉัน\n"
+"\n"
+"ตอนที่​ฉัน​เริ่ม​งาน​ใหม่ ๆ การ​เก็บ​ตัวอย่าง​หลอด​ทดลอง​ทั้ง​แร็ก​ด้วยมือ​ไม่​ใช่​เรื่อง​แปลก ตอนนี้​เครื่องจักร​ทำได้​หลาย​ร้อย​หลอด​ใน​ไม่​กี่​วินาที ใคร​จะ​รู้​ว่า​งาน​นี้​จะ​เป็น​ยังไง​ใน​อีก​สิบ​หรือ​ยี่สิบ​ปี ฉัน​จะ​ยังอยู่​ใน​วงการ​นี้​ไหม​ด้วยซ้ำ?\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_A046.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER4"
+msgid ""
+"That nice young man who helped me with the door the other day, Mr. Kraus, has been an absolute angel. He's been kind enough to help me with this horrible e-mail system and even showed me how to digitize my research notes. I'm learning a lot. Turns out I wasn't the mentor, I'm the mentee! If that isn't a chuckle. At any rate, I feel like I have a better handle on things around here due to Mr. Kraus' help. Turns out you're never too old to learn something new!\n"
+"------------------\n"
+msgstr ""
+"ชายหนุ่ม​ใจดี​ที่​ช่วย​เรื่อง​ประตู​วันก่อน คุณ​เค​ราส์ เป็น​เหมือน​นางฟ้า​เลย เขา​ใจดี​ช่วย​ฉัน​จัดการ​ระบบ​อีเมล​แย่ ๆ นี่ แถม​ยัง​สอน​วิธี​แป​ลงบันทึก​งานวิจัย​เป็น​ดิจิทัล​ด้วย ฉัน​ได้​เรียนรู้​เยอะ​มาก กลายเป็น​ว่า​ฉัน​ไม่​ใช่​พี่เลี้ยง แต่​ฉัน​เป็น​คน​ถูก​เลี้ยง! ขำ​ดี​ไหม​ล่ะ ยังไง​ก็ตาม ฉัน​รู้สึก​ว่า​เข้าใจ​เรื่อง​ต่าง ๆ ที่นี่​ดีขึ้น​เพราะ​คุณ​เค​ราส์​ช่วย กลายเป็น​ว่า​ไม่​มี​ใคร​แก่​เกิน​เรียน​จริง ๆ!\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_A046.SUBTITLE
+msgctxt "STRINGS.CODEX.A1_A046.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A1_A046.TITLE
+msgctxt "STRINGS.CODEX.A1_A046.TITLE"
+msgid "Personal Journal: A046"
+msgstr "บันทึก​ส่วนตัว: A046"
+
+#. STRINGS.CODEX.A1_CLONEDRABBITS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A1_CLONEDRABBITS.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"[A throat clears.]\n"
+"\n"
+"B111: We are now reliably printing healthy, living subjects, though all have exhibited unusual qualities as a result of the cloning process.\n"
+"\n"
+"[Chattering sounds can be heard.]\n"
+"\n"
+"B111: Odd communications, abnormal excrescenses, and vestigial limbs have been seen in all subjects thus far, to varying degrees of severity. It seems that bypassing or accelerating juvenility halts certain critical stages of development. Brain function, however, appears typical.\n"
+"\n"
+"[Chattering.]\n"
+"\n"
+"B111: T-They also seem quite happy.\n"
+"\n"
+"B111: Dr. Broussard, signing off.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"[เสียง​กระแอม]\n"
+"\n"
+"B111: ตอนนี้​เรา​พิมพ์​ผู้ทดลอง​ที่​มีชีวิต​และ​สุขภาพ​ดี​ได้​อย่าง​สม่ำเสมอ​แล้ว แต่​ทุก​ตัวแสดง​คุณลักษณะ​ผิดปกติ​อัน​เป็นผล​จาก​กระบวนการ​โคลน\n"
+"\n"
+"[ได้ยิน​เสียง​พูดเจื้อยแจ้ว]\n"
+"\n"
+"B111: พบ​การสื่อสาร​แปลก ๆ ก้อนเนื้องอก​ผิดปกติ และ​รยางค์​หลงเหลือ​ใน​ผู้ทดลอง​ทุก​ตัว​จนถึง​ตอนนี้ ใน​ความรุนแรง​ต่างกัน​ไป ดูเหมือน​การข้าม​หรือ​เร่ง​วัยเยาว์​จะ​หยุด​พัฒนาการ​บาง​ช่วง​ที่​สำคัญ อย่างไรก็ตาม การทำงาน​ของ​สมอง​ดู​ปกติ\n"
+"\n"
+"[เสียง​เจื้อยแจ้ว]\n"
+"\n"
+"B111: พ-พวกเขา​ยัง​ดู​มีความสุข​มาก​ด้วย\n"
+"\n"
+"B111: ดร.บ​รู​ซาร์​ด ขอ​จบ​การ​บันทึก\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A1_CLONEDRABBITS.SUBTITLE
+msgctxt "STRINGS.CODEX.A1_CLONEDRABBITS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A1_CLONEDRABBITS.TITLE
+msgctxt "STRINGS.CODEX.A1_CLONEDRABBITS.TITLE"
+msgid "Initial Success"
+msgstr "ความสำเร็จ​ขั้นแรก"
+
+#. STRINGS.CODEX.A1_CLONEDRACCOONS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A1_CLONEDRACCOONS.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"[A throat clears.]\n"
+"\n"
+"B111: We are now reliably printing healthy, living subjects, though all have exhibited unusual qualities as a result of the cloning process.\n"
+"\n"
+"[Trilling sounds can be heard.]\n"
+"\n"
+"B111: Unusual mewings, benign neoplasms, and atavistic extremities have been seen in all subjects thus far, to varying degrees of severity. It seems that bypassing or accelerating juvenility halts certain critical stages of development. Brain function, however, appears typical.\n"
+"\n"
+"[Trilling.]\n"
+"\n"
+"B111: T-They also seem quite happy.\n"
+"\n"
+"B111: Dr. Broussard, signing off.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"[เสียง​กระแอม]\n"
+"\n"
+"B111: ตอนนี้​เรา​พิมพ์​ผู้ทดลอง​ที่​มีชีวิต​และ​สุขภาพ​ดี​ได้​อย่าง​สม่ำเสมอ​แล้ว แต่​ทุก​ตัวแสดง​คุณลักษณะ​ผิดปกติ​อัน​เป็นผล​จาก​กระบวนการ​โคลน\n"
+"\n"
+"[ได้ยิน​เสียงร้อง​รัว ๆ]\n"
+"\n"
+"B111: พบ​เสียงร้อง​เหมียว ๆ ผิดปกติ เนื้องอก​ชนิด​ไม่​ร้ายแรง และ​รยางค์​แบบ​บรรพบุรุษ​ใน​ผู้ทดลอง​ทุก​ตัว​จนถึง​ตอนนี้ ใน​ความรุนแรง​ต่างกัน​ไป ดูเหมือน​การข้าม​หรือ​เร่ง​วัยเยาว์​จะ​หยุด​พัฒนาการ​บาง​ช่วง​ที่​สำคัญ อย่างไรก็ตาม การทำงาน​ของ​สมอง​ดู​ปกติ\n"
+"\n"
+"[เสียงร้อง​รัว ๆ]\n"
+"\n"
+"B111: พ-พวกเขา​ยัง​ดู​มีความสุข​มาก​ด้วย\n"
+"\n"
+"B111: ดร.บ​รู​ซาร์​ด ขอ​จบ​การ​บันทึก\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A1_CLONEDRACCOONS.SUBTITLE
+msgctxt "STRINGS.CODEX.A1_CLONEDRACCOONS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A1_CLONEDRACCOONS.TITLE
+msgctxt "STRINGS.CODEX.A1_CLONEDRACCOONS.TITLE"
+msgid "Initial Success"
+msgstr "ความสำเร็จ​ขั้นแรก"
+
+#. STRINGS.CODEX.A1_CLONEDRATS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A1_CLONEDRATS.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"[A throat clears.]\n"
+"\n"
+"B111: We are now reliably printing healthy, living subjects, though all have exhibited unusual qualities as a result of the cloning process.\n"
+"\n"
+"[Squeaking sounds can be heard.]\n"
+"\n"
+"B111: Unusual vocalizations, benign growths, and missing appendages have been seen in all subjects thus far, to varying degrees of severity. It seems that bypassing or accelerating juvenility halts certain critical stages of development. Brain function, however, appears typical.\n"
+"\n"
+"[Squeaking.]\n"
+"\n"
+"B111: T-They also seem quite happy.\n"
+"\n"
+"B111: Dr. Broussard, signing off.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"[เสียง​กระแอม]\n"
+"\n"
+"B111: ตอนนี้​เรา​พิมพ์​ผู้ทดลอง​ที่​มีชีวิต​และ​สุขภาพ​ดี​ได้​อย่าง​สม่ำเสมอ​แล้ว แต่​ทุก​ตัวแสดง​คุณลักษณะ​ผิดปกติ​อัน​เป็นผล​จาก​กระบวนการ​โคลน\n"
+"\n"
+"[ได้ยิน​เสียง​เอี๊ยด ๆ]\n"
+"\n"
+"B111: พบ​การ​เปล่งเสียง​ผิดปกติ ก้อน​เนื้อ​ไม่​ร้ายแรง และ​รยางค์​ที่​หาย​ไป​ใน​ผู้ทดลอง​ทุก​ตัว​จนถึง​ตอนนี้ ใน​ความรุนแรง​ต่างกัน​ไป ดูเหมือน​การข้าม​หรือ​เร่ง​วัยเยาว์​จะ​หยุด​พัฒนาการ​บาง​ช่วง​ที่​สำคัญ อย่างไรก็ตาม การทำงาน​ของ​สมอง​ดู​ปกติ\n"
+"\n"
+"[เสียง​เอี๊ยด ๆ]\n"
+"\n"
+"B111: พ-พวกเขา​ยัง​ดู​มีความสุข​มาก​ด้วย\n"
+"\n"
+"B111: ดร.บ​รู​ซาร์​ด ขอ​จบ​การ​บันทึก\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A1_CLONEDRATS.SUBTITLE
+msgctxt "STRINGS.CODEX.A1_CLONEDRATS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A1_CLONEDRATS.TITLE
+msgctxt "STRINGS.CODEX.A1_CLONEDRATS.TITLE"
+msgid "Initial Success"
+msgstr "ความสำเร็จ​ขั้นแรก"
+
+#. STRINGS.CODEX.A1_MAILROOMETIQUETTE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A1_MAILROOMETIQUETTE.BODY.CONTAINER1"
+msgid ""
+"<smallcaps><b>Reminder: Mailroom Etiquette</b>\n"
+"From: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"To: <b>All</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>Please do not have live bees delivered to the office mail room. Requests and orders for experimental test subjects may be processed through admin.\n"
+"\n"
+"<i>Please request all test subjects through admin.</i>\n"
+"\n"
+"Thank-you.\n"
+"\n"
+"-Admin\n"
+"The Gravitas Facility</indent>"
+msgstr ""
+"<smallcaps><b>ประกาศ​เตือน: มารยาท​การ​ใช้​ห้อง​ไปรษณีย์</b>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"ถึง: <b>ทุกคน</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>กรุณา​อย่า​สั่ง​ผึ้ง​เป็น ๆ มา​ส่ง​ที่​ห้อง​ไปรษณีย์​ของ​สำนักงาน คำขอ​และ​คำ​สั่งซื้อ​ผู้ทดลอง​สำหรับ​การทดลอง​ให้​ดำเนินการ​ผ่าน​ฝ่าย​ธุรการ\n"
+"\n"
+"<i>กรุณา​ขอ​ผู้ทดลอง​ทุก​รายการ​ผ่าน​ฝ่าย​ธุรการ</i>\n"
+"\n"
+"ขอบคุณ​ค่ะ\n"
+"\n"
+"-ฝ่าย​ธุรการ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</indent>"
+
+#. STRINGS.CODEX.A1_MAILROOMETIQUETTE.SUBTITLE
+msgctxt "STRINGS.CODEX.A1_MAILROOMETIQUETTE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A1_MAILROOMETIQUETTE.TITLE
+msgctxt "STRINGS.CODEX.A1_MAILROOMETIQUETTE.TITLE"
+msgid "Mailroom Etiquette"
+msgstr "มารยาท​การ​ใช้​ห้อง​ไปรษณีย์"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.CONTAINER2"
+msgid "<indent=5%>Please pay it no mind. If any of these journals reach out to you, deny comment.</indent>"
+msgstr "<indent=5%>ไม่ต้อง​สนใจ​หรอก ถ้า​วารสาร​พวก​นี้​ติด​ต่อมา ให้​ปฏิเสธ​การ​ให้​ความเห็น</indent>"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.CONTAINER3"
+msgid "<indent=5%>Director, are you aware of the articles that have been cropping up about us lately?</indent>"
+msgstr "<indent=5%>ท่าน​ผู้อำนวยการ ทราบ​ไหม​คะ​ว่า​ช่วงนี้​มี​บทความ​เกี่ยวกับ​เรา​โผล่​มา​เรื่อย ๆ</indent>"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.CONTAINER4"
+msgid "<indent=10%><color=#F44A47>>[BROKEN LINK]</color> <alpha=#AA><smallcaps>the gravitas facility: questionable rise of a research giant</smallcaps></indent></color>"
+msgstr "<indent=10%><color=#F44A47>>[ลิงก์​เสีย]</color> <alpha=#AA><smallcaps>ศูนย์​วิจัย​ก​รา​วิ​ทัส: การ​ผงาด​อัน​น่าสงสัย​ของ​ยักษ์​ใหญ่​ด้าน​การวิจัย</smallcaps></indent></color>"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\n"
+"From: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ผู้​อำนวย​กา​รส​เติร์น</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\n"
+"จาก: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.EMAILHEADER2
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.EMAILHEADER2"
+msgid ""
+"<smallcaps>To: <b>[REDACTED]</b>\n"
+"From: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[REDACTED]</b>\n"
+"จาก: <b>ผู้​อำนวย​กา​รส​เติร์น</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"[REDACTED]\n"
+"<size=11>Personnel Coordinator\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"[REDACTED]\n"
+"<size=11>ผู้ประสานงาน​บุคลากร\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Director Stern\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ผู้​อำนวย​กา​รส​เติร์น\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.TITLE
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.TITLE"
+msgid "Re: Have you seen this?"
+msgstr "Re: เห็น​นี่​หรือยัง?"
+
+#. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.TITLE2
+msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.TITLE2"
+msgid "SUBJECT: Have you seen this?"
+msgstr "เรื่อง: เห็น​นี่​หรือยัง?"
+
+#. STRINGS.CODEX.A1A_B111.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A1A_B111.BODY.CONTAINER1"
+msgid ""
+"I sent Dr. Holland home today after I found him wandering the lab mumbling to himself. He looked like he hadn't slept in days!\n"
+"\n"
+"I worry that everyone here is so afraid of disappointing ‘The Director' that they are pushing themselves to the breaking point. Next chance I get, I'm going to bring this up with Jackie.\n"
+"------------------\n"
+msgstr ""
+"วันนี้​ฉัน​ส่ง ดร.ฮอลแลนด์ กลับบ้าน หลัง​เจอ​เขา​เดิน​พึมพำ​คนเดียว​อยู่​ใน​แล็บ ดูเหมือน​ไม่​ได้​นอนมา​หลาย​วัน​แล้ว!\n"
+"\n"
+"ฉัน​กังวล​ว่า​ทุกคน​ที่นี่​กลัว​จะ​ทำให้ \"ท่าน​ผู้อำนวยการ\" ผิดหวัง​จน​ผลักดัน​ตัวเอง​จนถึง​ขีดสุด มีโอกาส​เมื่อไหร่ ฉัน​จะ​คุย​เรื่อง​นี้​กับ​แจ็ก​กี้\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1A_B111.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A1A_B111.BODY.CONTAINER2"
+msgid ""
+"Well, that didn't work.\n"
+"\n"
+"Bringing up the need for some office bonding activities with the Director only met with her usual stubborn insistence that we \"don't have time for any fun\".\n"
+"\n"
+"This is ridiculous. Tomorrow I'm going to organize something fun for everyone and Jackie will just have to deal with it. She just needs to see the long term benefits of short term stress relief to fully understand the importance of this.\n"
+"------------------\n"
+msgstr ""
+"เอ่อ ไม่​ได้ผล​แฮะ\n"
+"\n"
+"พอ​เสนอ​เรื่อง​กิจกรรม​สร้างความสัมพันธ์​ใน​ออฟฟิศ​กับ​ท่าน​ผู้อำนวยการ ก็​เจอ​แต่​การยืนกราน​หัวชนฝา​แบบ​เดิม ๆ ว่า​เรา \"ไม่​มี​เวลา​สนุก\"\n"
+"\n"
+"ไร้สาระ​สิ้นดี พรุ่งนี้​ฉัน​จะ​จัด​อะไร​สนุก ๆ ให้​ทุกคน แล้ว​แจ็ก​กี้​ก็​ต้อง​ทำใจ​ยอมรับ​ไป เธอ​แค่​ต้อง​เห็น​ประโยชน์​ระยะยาว​ของ​การคลายเครียด​ระยะสั้น​ถึง​จะ​เข้าใจ​ว่า​มัน​สำคัญ​แค่​ไหน\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1A_B111.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A1A_B111.BODY.CONTAINER3"
+msgid ""
+"I can't believe this! I organized a potluck lunch thinking it would be a nice break but Jackie discovered us as we were setting up and insisted that no one had time for \"fooling around\". Of course, everyone was too afraid to defy 'The Director' and went right back to work.\n"
+"\n"
+"All the food was just thrown out. Someone had even brought homemade perogies! Seeing the break room garbage full of potato salad and chicken wings made me even more depressed than before. Those perogies looked so good.\n"
+"------------------\n"
+msgstr ""
+"ไม่​อยาก​เชื่อ​เลย! ฉัน​จัด​ปาร์ตี้​มื้อ​กลางวัน​แบบ​ต่าง​คน​ต่าง​เอา​อาหาร​มา คิด​ว่า​จะ​ได้​พัก​เบรก​ดี ๆ แต่​แจ็ก​กี้​มา​เจอ​ตอน​กำลัง​จัด​โต๊ะ แล้ว​ยืนกราน​ว่า​ไม่​มี​ใคร​มี​เวลา \"เล่น​ไป​เรื่อย\" แน่นอน​ว่า​ทุกคน​กลัว​เกิน​กว่า​จะ​ขัด \"ท่าน​ผู้อำนวยการ\" เลย​กลับ​ไป​ทำงาน​ทันที\n"
+"\n"
+"อาหาร​ทั้งหมด​ถูก​โยนทิ้ง มี​คน​ทำ​เปีย​รอ​กี​ฝีมือ​ตัวเอง​มา​ด้วย​นะ! เห็น​ถังขยะ​ห้องพัก​เต็มไปด้วย​สลัด​มันฝรั่ง​กับ​ปีกไก่​แล้ว​ยิ่ง​หดหู่​กว่า​เดิม เปีย​รอ​กี​พวก​นั้น​ดู​น่ากิน​มาก​เลย\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1A_B111.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A1A_B111.BODY.CONTAINER4"
+msgid ""
+"I keep finding senseless mistakes from stressed-out lab workers. It's getting dangerous. I'm worried this colony we're building will be plagued with these kinds of problems if we don't prioritize mental health as much as physical health. What's the use of making all these plans for the future if we can't build a better world?\n"
+"\n"
+"Maybe there's some way I can sneak some prerequisite downtime activities into the Printing Pod without Jackie knowing.\n"
+"------------------\n"
+msgstr ""
+"ฉัน​เจอ​ความผิดพลาด​ไร้เหตุผล​จาก​คนงาน​แล็บ​ที่​เครียด​จัด​อยู่​เรื่อย ๆ มัน​เริ่ม​อันตราย​แล้ว ฉัน​กังวล​ว่า​อาณานิคม​ที่​เรา​กำลัง​สร้าง​จะ​เต็มไปด้วย​ปัญหา​แบบนี้ ถ้า​เรา​ไม่​ให้ความสำคัญ​กับ​สุขภาพจิต​พอ ๆ กับ​สุขภาพกาย จะ​วางแผน​อนาคต​ไป​ทำไม ถ้า​เรา​สร้าง​โลก​ที่​ดีกว่า​ไม่​ได้?\n"
+"\n"
+"บางที​อาจ​มี​วิธี​แอบ​ใส่​กิจกรรม​พักผ่อน​ที่​จำเป็น​ลง​ใน​พ็อด​พิมพ์​ร่าง​โดยที่​แจ็ก​กี้​ไม่​รู้\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A1A_B111.SUBTITLE
+msgctxt "STRINGS.CODEX.A1A_B111.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.A1A_B111.TITLE
+msgctxt "STRINGS.CODEX.A1A_B111.TITLE"
+msgid "Personal Journal: B111"
+msgstr "บันทึก​ส่วนตัว: B111"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B577]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Geneticist: We've engineered crops to be rotated as needed depending on environmental situation. While a variety of plants would be ideal to supplement any remaining nutritional needs, any one of our designs would be enough to sustain a colony indefinitely without adverse effects on physical health.\n"
+"\n"
+"Geneticist: Some environmental survival issues still remain. Differing temperatures, light availability and last pass changes to nutrient levels take top priority, particularly for food and oxygen producing plants.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B577]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"นัก​พันธุศาสตร์: เรา​ดัดแปลง​พืชผล​ให้​หมุนเวียน​ปลูก​ได้​ตาม​สภาพแวดล้อม ถึง​พืช​หลายชนิด​จะ​เหมาะ​ที่สุด​ใน​การ​เสริม​ความต้องการ​ทาง​โภชนาการ​ที่​เหลือ แต่​แบบ​ใด​แบบ​หนึ่ง​ของ​เรา​ก็​พอ​จะ​เลี้ยง​อาณานิคม​ได้​ไม่​มี​กำหนด​โดย​ไม่​ส่ง​ผลเสีย​ต่อ​สุขภาพกาย\n"
+"\n"
+"นัก​พันธุศาสตร์: ยัง​มีปัญหา​การอยู่รอด​ใน​สภาพแวดล้อม​อยู่​บ้าง ความต่าง​ของ​อุณหภูมิ ปริมาณ​แสง และ​การ​ปรับระดับ​สารอาหาร​รอบ​สุดท้าย​เป็น​เรื่องสำคัญ​ที่สุด โดยเฉพาะ​พืช​ที่​ผลิต​อาหาร​และ​ออกซิเจน\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER2"
+msgid ""
+"<smallcaps>[Log fragmentation detected]\n"
+"[Voice Recognition unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...Selected in response to concerns about colony psychological well-being.\n"
+"\n"
+"While design should focus on attributing mood-enhancing effects to natural Briar pheromone emissions, the project has been moved to the lowest priority level beneath more life-sustaining designs...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...ได้รับ​เลือก​เพื่อ​ตอบสนอง​ข้อ​กังวล​เรื่อง​สุขภาวะ​ทางจิต​ของ​อาณานิคม\n"
+"\n"
+"แม้​การ​ออกแบบ​ควร​มุ่ง​ให้​ฟีโรโมน​ธรรมชาติ​ที่​ไบรเออร์​ปล่อย​ออกมา​มีผล​ช่วย​เสริม​อารมณ์ แต่​โปรเจกต์​นี้​ถูก​ย้าย​ไป​อยู่​ระดับ​ความสำคัญ​ต่ำสุด รอง​จาก​แบบ​ที่​จำ​เป็นต่อ​การดำรงชีวิต​มากกว่า...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER3"
+msgid ""
+"<smallcaps>[Log fragmentation detected]\n"
+"[Voice Recognition unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...It is yet unknown if we can surmount the obstacles that stand in the way of engineering a root capable of reproduction in the more uninhabitable situations we anticipate for our colonies, or whether it is even worth the effort...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...ยัง​ไม่​รู้​ว่า​เรา​จะ​ผ่าน​อุปสรรค​ใน​การ​ดัดแปลง​ราก​ที่​ขยายพันธุ์​ได้​ใน​สภาพ​ที่อยู่อาศัย​ไม่​ได้​ซึ่ง​เรา​คาด​ว่า​อาณานิคม​จะ​ต้อง​เจอ​ได้​หรือไม่ หรือ​มัน​คุ้มค่า​ที่จะ​พยายาม​ด้วยซ้ำ​หรือเปล่า...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER4"
+msgid ""
+"<smallcaps>[Log fragmentation detected]\n"
+"[Voice Recognition unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...The Mealwood's hardiness will make it a potential contingency crop should Bristle Blossoms be unable to sustain sizable populations.\n"
+"\n"
+"If pursued, design should focus on longterm viability and solving the psychological repercussions of prolonged Mealwood grain ingestion...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...ความทรหด​ของ​ต้น​เหา​ข้าว​ทำให้​มัน​อาจ​เป็น​พืช​สำรอง​ได้ หาก​ดอกไม้​หนาม​เลี้ยง​ประชากร​จำนวนมาก​ไม่​ไหว\n"
+"\n"
+"หาก​ดำเนินการ​ต่อ การ​ออกแบบ​ควร​เน้น​ความอยู่รอด​ระยะยาว​และ​แก้​ผลกระทบ​ทางจิตใจ​จาก​การ​กิน​เมล็ด​ต้น​เหา​ข้าว​เป็นเวลา​นาน...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER5
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER5"
+msgid ""
+"<smallcaps>[Log fragmentation detected]\n"
+"[Voice Recognition unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...The Thimble Reed will be used as a contingency for textile production in the event that printed materials not be sufficient.\n"
+"\n"
+"Design should focus on the yield frequency of the plant, as well as... erm... softness.\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...ต้น​กก​ปลอกนิ้ว​จะ​ใช้​เป็น​แผน​สำรอง​ใน​การผลิต​สิ่งทอ ในกรณีที่​วัสดุ​จาก​การ​พิมพ์​ไม่​เพียงพอ\n"
+"\n"
+"การ​ออกแบบ​ควร​เน้น​ความถี่​ใน​การ​ให้ผล​ของ​พืช และ... เอ่อ... ความนุ่ม\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER6
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER6"
+msgid ""
+"<smallcaps>[Log fragmentation detected]\n"
+"[Voice Recognition unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...Balm Lily is a reliable all-purpose medicinal plant.\n"
+"\n"
+"Very little need be altered, save for assurances that it will survive wherever it may be planted...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...ลิลลี่​บาล์ม​เป็น​พืช​สมุนไพร​อเนกประสงค์​ที่​ไว้ใจได้\n"
+"\n"
+"แทบ​ไม่ต้อง​ดัดแปลง​อะไร นอกจาก​รับประกัน​ว่า​มัน​จะ​รอด​ไม่​ว่า​จะ​ปลูก​ที่ไหน...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER7
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER7"
+msgid ""
+"<smallcaps>[Log fragmentation detected]\n"
+"[Voice Recognition unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...The gene sequences within the common Dusk Cap allow it to grow in low light environments.\n"
+"\n"
+"These genes should be sampled, with the hope that we can splice them into other plant designs....\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...ลำดับ​ยีน​ใน​เห็ด​สนธยา​ทั่วไป​ทำให้​มัน​เติบโต​ได้​ใน​ที่​แสง​น้อย\n"
+"\n"
+"ควร​เก็บ​ตัวอย่าง​ยีน​เหล่านี้​ไว้ โดย​หวัง​ว่า​จะ​ตัดต่อ​เข้าไป​ใน​แบบ​พืช​อื่น​ได้....\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.SUBTITLE
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.A2_AGRICULTURALNOTES.TITLE
+msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.TITLE"
+msgid "Agricultural Notes"
+msgstr "บันทึก​ด้าน​เกษตรกรรม"
+
+#. STRINGS.CODEX.A2_B327.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A2_B327.BODY.CONTAINER1"
+msgid ""
+"I'm starting my new job at Gravitas today. I'm... well, I'm nervous.\n"
+"\n"
+"It turns out they hired a bunch of new people - I guess they're expanding - and most of them are about my age, but I'm the only one that hasn't done my doctorate. They all call me \"Mister\" Kraus and it's the <i>worst</i>.\n"
+"\n"
+"I have no idea where I'll find the time to do my PhD while working a full time job.\n"
+"------------------\n"
+msgstr ""
+"วันนี้​ฉัน​เริ่ม​งาน​ใหม่​ที่​ก​รา​วิ​ทัส ฉัน... เอ่อ ฉัน​ตื่นเต้น​จน​ประหม่า\n"
+"\n"
+"กลายเป็น​ว่า​พวกเขา​จ้าง​คน​ใหม่​มา​เพียบ คง​กำลัง​ขยายกิจการ ส่วนใหญ่​อายุ​พอ ๆ กับ​ฉัน แต่​ฉัน​เป็น​คนเดียว​ที่​ยัง​ไม่​ได้​จบ​ปริญญาเอก ทุกคน​เรียก​ฉัน​ว่า \"คุณ\" เค​ราส์ และ​มัน<i>แย่​ที่สุด</i>เลย\n"
+"\n"
+"ไม่​รู้​จะ​หา​เวลา​ที่ไหน​ไป​เรียน​ปริญญาเอก​ระหว่าง​ทำงาน​เต็มเวลา\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_B327.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A2_B327.BODY.CONTAINER2"
+msgid ""
+"<i>I screwed up so much today.</i>\n"
+"\n"
+"At one point I spaced on the formula for calculating the volume of a cone. They must have thought I was completely useless.\n"
+"\n"
+"The only time I knew what I was doing was when I helped an older coworker figure out her dumb old email.\n"
+"\n"
+"People say education isn't so important as long as you've got the skills, but there's things my colleagues know that I just <i>don't</i>. They're not mean about it or anything, it's just so frustrating. I feel dumb when I talk to them!\n"
+"\n"
+"I bet they're gonna realize soon that I don't belong here, and then I'll be fired for sure. Man... I'm still paying off my student loans (WITH international fees), I <i>can't</i> lose this income.\n"
+"------------------\n"
+msgstr ""
+"<i>วันนี้​ฉัน​พลาด​ไป​เยอะ​มาก</i>\n"
+"\n"
+"มี​ช่วง​หนึ่ง​ที่​ฉัน​ลืม​สูตร​คำนวณ​ปริมาตร​กรวย​ไป​เฉย ๆ พวกเขา​คง​คิด​ว่า​ฉัน​ไร้ประโยชน์​สุด ๆ\n"
+"\n"
+"ครั้ง​เดียว​ที่​ฉัน​รู้​ว่า​กำลัง​ทำ​อะไร​คือ​ตอน​ช่วย​เพื่อนร่วมงาน​รุ่น​ใหญ่​จัดการ​อีเมล​เก่า ๆ ไม่เข้าเรื่อง​ของ​เธอ\n"
+"\n"
+"คน​ชอบ​พูดว่า​การศึกษา​ไม่​ได้​สำคัญ​ขนาด​นั้น​ถ้า​มี​ทักษะ แต่​มี​หลายอย่าง​ที่​เพื่อนร่วมงาน​รู้​แต่​ฉัน<i>ไม่​รู้</i> พวกเขา​ไม่​ได้​ใจร้าย​หรือ​อะไร​นะ แค่​มัน​น่า​หงุดหงิด​มาก คุย​กับ​พวกเขา​แล้ว​รู้สึก​ตัวเอง​โง่!\n"
+"\n"
+"พนัน​เลย​ว่า​อีกไม่นาน​พวกเขา​จะ​รู้​ว่า​ฉัน​ไม่​ควร​อยู่​ที่นี่ แล้ว​ฉัน​ก็​โดน​ไล่ออก​แน่ ๆ เฮ้อ... ฉัน​ยัง​ผ่อนหนี้​กู้​เรียน​อยู่เลย (บวก​ค่าธรรมเนียม​นักศึกษา​ต่างชาติ​ด้วย) ฉัน​จะ​เสีย​รายได้​นี้​ไป<i>ไม่​ได้</i>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_B327.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A2_B327.BODY.CONTAINER3"
+msgid ""
+"Dr. Sklodowska's been really nice and welcoming since I started working here. Sometimes she comes and sits with me in the cafeteria. The food she brings from home smells like old feet but she chats with me about what new research papers we're each reading and it's very kind.\n"
+"\n"
+"She tells me the fact I got hired without a doctorate means I must be very smart, and management must see something in me.\n"
+"\n"
+"I'm not sure I believe her but it's nice to hear something that counters little voice in my head anyway.\n"
+"------------------\n"
+msgstr ""
+"ดร.ส​โก​ลด​อฟ​สกา ใจดี​และ​ต้อนรับ​ฉัน​มาก​ตั้งแต่​เริ่ม​ทำงาน​ที่นี่ บางที​เธอ​ก็​มา​นั่ง​กับ​ฉัน​ที่​โรงอาหาร อาหาร​ที่​เธอ​เอา​มาจาก​บ้าน​กลิ่น​เหมือน​เท้า​เก่า ๆ แต่​เธอ​ชวน​คุย​ว่า​แต่ละคน​กำลัง​อ่าน​งานวิจัย​อะไร​ใหม่ ๆ อยู่ ซึ่ง​ใจ​ดีมาก\n"
+"\n"
+"เธอ​บอก​ว่าการ​ที่​ฉัน​ได้รับ​การ​จ้าง​โดย​ไม่​มี​ปริญญาเอก แปล​ว่า​ฉัน​ต้อง​ฉลาด​มาก และ​ฝ่ายบริหาร​ต้อง​เห็น​อะไร​บางอย่าง​ใน​ตัว​ฉัน\n"
+"\n"
+"ไม่​แน่ใจ​ว่า​เชื่อ​เธอ​หรือเปล่า แต่​ก็ดี​ที่​ได้ยิน​อะไร​ที่​แย้ง​เสียง​เล็ก ๆ ใน​หัว​ฉัน​บ้าง\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_B327.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A2_B327.BODY.CONTAINER4"
+msgid ""
+"It's been about a week and a half and I think I'm finally starting to settle in. I'm feeling a lot better about my position - some of the senior scientists have even started using my ideas in the lab.\n"
+"\n"
+"Dr. Sklodowska might have been right, my anxiety was just growing pains. This is my first real job and I guess afraid to let myself believe I could really, actually do it, just in case it went wrong.\n"
+"\n"
+"I think I want to buy Dr. Sklowdoska a digital reader for her books and papers as a thank-you one day, if I ever pay off my student loans.\n"
+"\n"
+"ONCE I pay off my student loans.\n"
+"------------------\n"
+msgstr ""
+"ผ่าน​ไป​ราว​สัปดาห์​ครึ่ง และ​ฉัน​คิด​ว่า​เริ่ม​ปรับตัว​ได้​แล้ว รู้สึก​ดี​กับ​ตำแหน่ง​ตัวเอง​มากขึ้น​เยอะ นักวิทยาศาสตร์​อาวุโส​บางคน​ถึงกับ​เริ่ม​เอา​ไอเดีย​ของ​ฉัน​ไป​ใช้​ใน​แล็บ\n"
+"\n"
+"ดร.ส​โก​ลด​อฟ​สกา​อาจ​พูด​ถูก ความกังวล​ของ​ฉัน​เป็น​แค่​ความเจ็บปวด​ของ​การ​เติบโต นี่​เป็นงาน​จริง​งาน​แรก​ของ​ฉัน และ​คง​กลัว​ที่จะ​ยอม​เชื่อ​ว่า​ตัวเอง​ทำได้​จริง ๆ เผื่อว่า​มัน​จะ​พัง\n"
+"\n"
+"ฉัน​คิด​ว่า​สักวัน​อยาก​ซื้อ​เครื่อง​อ่าน​ดิจิทัล​ให้ ดร.ส​โก​ลด​อฟ​สกา ไว้​อ่านหนังสือ​กับ​งานวิจัย​เป็นการ​ขอบคุณ ถ้า​ฉัน​ผ่อนหนี้​กู้​เรียน​หมด​สักวัน\n"
+"\n"
+"เมื่อไหร่​ที่​ฉัน​ผ่อนหนี้​กู้​เรียน​หมด​ต่างหาก\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_B327.SUBTITLE
+msgctxt "STRINGS.CODEX.A2_B327.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A2_B327.TITLE
+msgctxt "STRINGS.CODEX.A2_B327.TITLE"
+msgid "Personal Journal: B327"
+msgstr "บันทึก​ส่วนตัว: B327"
+
+#. STRINGS.CODEX.A2_BACTERIALCULTURES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A2_BACTERIALCULTURES.BODY.CONTAINER1"
+msgid ""
+"<smallcaps><b>Reminder to all Personnel</b>\n"
+"From: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"To: <b>All</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>For the health and safety of your fellow Facility employees, please do not store unlabeled bacterial cultures in the cafeteria fridge.\n"
+"\n"
+"Similarly, the cafeteria dishwasher is incapable of handling petri \"dishes\", despite the nomenclature.\n"
+"\n"
+"We thank you for your consideration.\n"
+"\n"
+"-Admin\n"
+"The Gravitas Facility</indent>"
+msgstr ""
+"<smallcaps><b>ประกาศ​เตือน​บุคลากร​ทุกคน</b>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"ถึง: <b>ทุกคน</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>เพื่อ​สุขภาพ​และ​ความปลอดภัย​ของ​เพื่อน​พนักงาน​ใน​ศูนย์ กรุณา​อย่า​เก็บ​เชื้อ​แบคทีเรีย​ที่​ไม่​ได้​ติด​ฉลาก​ไว้​ใน​ตู้เย็น​โรงอาหาร\n"
+"\n"
+"ในทำนองเดียวกัน เครื่องล้างจาน​ของ​โรงอาหาร​ล้าง \"จาน\" เพาะเชื้อ​ไม่​ได้ แม้​ชื่อ​จะ​เรียก​อย่างนั้น​ก็ตาม\n"
+"\n"
+"ขอ​ขอบคุณ​ที่​ให้ความร่วมมือ\n"
+"\n"
+"-ฝ่าย​ธุรการ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</indent>"
+
+#. STRINGS.CODEX.A2_BACTERIALCULTURES.SUBTITLE
+msgctxt "STRINGS.CODEX.A2_BACTERIALCULTURES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A2_BACTERIALCULTURES.TITLE
+msgctxt "STRINGS.CODEX.A2_BACTERIALCULTURES.TITLE"
+msgid "Unattended Cultures"
+msgstr "เชื้อ​เพาะ​ที่​ถูก​ทิ้ง​ไว้"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER1"
+msgid ""
+"<indent=5%><i>Hello</i> Mr. Kraus!\n"
+"\n"
+"I was just e-mailing you after our little chat today to pass along something you might like to read - I think you'll find it super useful in your research!\n"
+"\n"
+"</indent>"
+msgstr ""
+"<indent=5%><i>สวัสดี</i>ค่ะ คุณ​เค​ราส์!\n"
+"\n"
+"ฉัน​แค่​อีเมล​มา​หลังจาก​เรา​คุย​กัน​นิดหน่อย​วันนี้ เพื่อ​ส่ง​ของ​ที่​คุณ​อาจ​อยาก​อ่าน​มา​ให้ คิด​ว่า​คุณ​จะ​เห็น​ว่า​มัน​มีประโยชน์​สุด ๆ กับ​งานวิจัย​ของ​คุณ!\n"
+"\n"
+"</indent>"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER2"
+msgid ""
+"<indent=10%><b>FIRST LAW</b></indent>\n"
+"<indent=15%>Energy can neither be created or destroyed, only change forms.</indent>"
+msgstr ""
+"<indent=10%><b>กฎ​ข้อ​ที่หนึ่ง</b></indent>\n"
+"<indent=15%>พลังงาน​ไม่​สามารถ​สร้าง​ขึ้น​หรือ​ทำลาย​ได้ เปลี่ยน​ได้​แค่​รูปแบบ</indent>"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER3"
+msgid ""
+"<indent=10%><b>SECOND LAW</b></indent>\n"
+"<indent=15%>Entropy in an isolated system that is not in equilibrium tends to increase over time, approaching the maximum value at equilibrium.</indent>"
+msgstr ""
+"<indent=10%><b>กฎ​ข้อ​ที่สอง</b></indent>\n"
+"<indent=15%>เอนโทรปี​ใน​ระบบ​โดดเดี่ยว​ที่​ไม่​อยู่​ใน​สมดุล​มีแนวโน้ม​เพิ่มขึ้น​ตามเวลา และ​เข้าใกล้​ค่าสูงสุด​เมื่อ​อยู่​ใน​สมดุล</indent>"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER4"
+msgid ""
+"<indent=10%><b>THIRD LAW</b></indent>\n"
+"<indent=15%>Entropy in a system approaches a constant minimum as temperature approaches absolute zero.</indent>"
+msgstr ""
+"<indent=10%><b>กฎ​ข้อ​ที่สาม</b></indent>\n"
+"<indent=15%>เอนโทรปี​ของ​ระบบ​เข้าใกล้​ค่า​ต่ำสุด​คงที่​เมื่อ​อุณหภูมิ​เข้าใกล้​ศูนย์สัมบูรณ์</indent>"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER5
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER5"
+msgid ""
+"<indent=10%><b>ZEROTH LAW</b></indent>\n"
+"<indent=15%>If two thermodynamic systems are in thermal equilibrium with a third, then they are in thermal equilibrium with each other.</indent>"
+msgstr ""
+"<indent=10%><b>กฎ​ข้อ​ที่​ศูนย์</b></indent>\n"
+"<indent=15%>ถ้า​ระบบ​เทอร์โม​ไดนามิกส์​สอง​ระบบ​อยู่​ใน​สมดุล​ความร้อน​กับ​ระบบ​ที่สาม ระบบ​ทั้งสอง​ก็​อยู่​ใน​สมดุล​ความร้อน​กันเอง​ด้วย</indent>"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER6
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.CONTAINER6"
+msgid ""
+"<indent=5%>\n"
+"If this is too complicated for you, you can come by to chat. I'd be <i>thrilled</i> to answer your questions. ;)</indent>"
+msgstr ""
+"<indent=5%>\n"
+"ถ้า​เรื่อง​นี้​ซับซ้อน​เกินไป​สำหรับ​คุณ แวะ​มา​คุย​กัน​ได้​นะ ฉัน<i>ยินดี​สุด ๆ</i>ที่จะ​ตอบคำถาม​ของ​คุณ ;)</indent>"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Mr. Kraus</b><alpha=#AA><size=12> <okraus@gravitas.nova></size></color>\n"
+"From: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>คุณ​เค​ราส์</b><alpha=#AA><size=12> <okraus@gravitas.nova></size></color>\n"
+"จาก: <b>ดร.โจนส์</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.SUBTITLE
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.A2_THERMODYNAMICLAWS.TITLE
+msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.TITLE"
+msgid "The Laws of Thermodynamics"
+msgstr "กฎ​ของ​เทอร์โม​ไดนามิกส์"
+
+#. STRINGS.CODEX.A3_B556.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A3_B556.BODY.CONTAINER1"
+msgid ""
+"I've been so tired lately. I've probably spent the last 3 nights sleeping at my desk, and I've used the lab's safety shower to bathe twice already this month.\n"
+"\n"
+"We're technically on schedule, but for some reason Director Stern has been breathing down my neck to get these new products ready for market.\n"
+"\n"
+"Normally I'd be mad about the added pressure on my work, but something in the Director's voice tells me that time is of the essence.\n"
+"------------------\n"
+msgstr ""
+"ช่วงนี้​ฉัน​เหนื่อย​มาก น่าจะ​นอนหลับ​ที่​โต๊ะทำงาน​มา​สาม​คืน​แล้ว และ​เดือน​นี้​ก็​ใช้​ฝักบัว​ฉุกเฉิน​ของ​แล็บ​อาบน้ำ​ไป​สอง​ครั้ง​แล้ว\n"
+"\n"
+"ใน​ทางเทคนิค​เรา​ยัง​ตามกำหนด​อยู่ แต่​ไม่​รู้​ทำไม​ผู้​อำนวย​กา​รส​เติร์น​ถึง​จี้​ให้​ฉัน​เตรียม​ผลิตภัณฑ์​ใหม่​พวก​นี้​ออก​ตลาด​ตลอด\n"
+"\n"
+"ปกติ​ฉัน​คง​โกรธ​ที่​โดน​กดดัน​งาน​เพิ่ม แต่​มี​อะไร​บางอย่าง​ใน​น้ำเสียง​ของ​ผู้อำนวยการ​ที่​บอ​กว่า​เวลา​เป็น​เรื่องสำคัญ​มาก\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_B556.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A3_B556.BODY.CONTAINER2"
+msgid ""
+"I keep finding myself staring at my computer screen, totally unable to remember what it was I was doing.\n"
+"\n"
+"I try to force myself to type up some notes or analyze my data but it's like my brain is paralyzed, I can't get anything done.\n"
+"\n"
+"I'll have to stay late to make up for all this time I've wasted staying late.\n"
+"------------------\n"
+msgstr ""
+"ฉัน​เผลอ​จ้อง​หน้าจอ​คอมพิวเตอร์​อยู่​เรื่อย ๆ จำ​ไม่​ได้​เลย​ว่า​กำลัง​ทำ​อะไร​อยู่\n"
+"\n"
+"พยายาม​บังคับ​ตัวเอง​ให้​พิมพ์​บันทึก​หรือ​วิเคราะห์​ข้อมูล แต่​สมอง​เหมือน​เป็น​อัมพาต ทำ​อะไร​ไม่​ได้​เลย\n"
+"\n"
+"คง​ต้อง​อยู่​ดึก​เพื่อ​ชดเชย​เวลา​ที่​เสีย​ไป​กับ​การ​อยู่​ดึก\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_B556.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A3_B556.BODY.CONTAINER3"
+msgid ""
+"Dr. Broussard told me I looked half dead and sent me home today. I don't think she even has the authority to do that, but I did as I was told. She wasn't messing around if you know what I mean.\n"
+"\n"
+"I can probably get a head start on my paper from home today, anyway.\n"
+"\n"
+"I think I have an idea for a circuit configuration that will improve the battery life of all our technologies by a whole 2.3%.\n"
+"------------------\n"
+msgstr ""
+"วันนี้ ดร.บ​รู​ซาร์​ด บอ​กว่า​ฉัน​ดูเหมือน​คน​ครึ่ง​เป็น​ครึ่ง​ตาย แล้ว​ส่ง​ฉัน​กลับบ้าน ฉัน​ว่า​เธอ​ไม่​มีอำนาจ​ทำ​แบบ​นั้น​ด้วยซ้ำ แต่​ฉัน​ก็​ทำตาม เธอ​เอาจริง​มาก ถ้า​เข้าใจ​ที่​ฉัน​หมายถึง​นะ\n"
+"\n"
+"ยังไง​วันนี้​ก็​น่าจะ​เริ่ม​เขียน​เปเปอร์​ที่​บ้าน​ล่วงหน้า​ได้\n"
+"\n"
+"ฉัน​คิด​ว่า​มี​ไอเดีย​การ​จัด​วงจร​ที่จะ​เพิ่ม​อายุ​แบตเตอรี่​ของ​เทคโนโลยี​ทั้งหมด​ของ​เรา​ได้​ตั้ง 2.3%\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_B556.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A3_B556.BODY.CONTAINER4"
+msgid ""
+"I got home yesterday fully intending to work on my paper after Broussard sent me home, but the second I walked in the door I hit the pillow and didn't get back up. I slept for <i>12 straight hours</i>.\n"
+"\n"
+"I had no idea I needed that. When I got into the lab this morning I looked over my work from the past few weeks, and realized it's completely useless.\n"
+"\n"
+"It'll take me hours to correct all the mistakes I made these past few months. Is this what I was killing myself for? I'm such a rube, I owe Broussard a huge thanks.\n"
+"\n"
+"I'll start keeping more regular hours from now on... Also, I was considering maybe getting a dog."
+msgstr ""
+"เมื่อวาน​หลัง​บ​รู​ซาร์​ด​ส่ง​กลับบ้าน ฉัน​ตั้งใจ​เต็ม​ที่ว่า​จะ​เขียน​เปเปอร์​ต่อ แต่​ทันทีที่​เดิน​เข้า​ประตู​ก็​ล้ม​ตัว​ลง​หมอน​แล้ว​ไม่​ลุกขึ้น​มา​อีก​เลย ฉัน​หลับ​ไป<i>12 ชั่วโมง​เต็ม</i>\n"
+"\n"
+"ไม่​เคย​รู้​เลย​ว่า​ต้องการ​มัน​ขนาด​นั้น เช้านี้​พอ​มาถึง​แล็บ ฉัน​เปิด​ดูงาน​ช่วง​หลาย​สัปดาห์​ที่ผ่านมา แล้วก็​รู้​ว่า​มัน​ไร้ประโยชน์​โดยสิ้นเชิง\n"
+"\n"
+"คง​ต้อง​ใช้เวลา​หลาย​ชั่วโมง​แก้​ความผิดพลาด​ทั้งหมด​ที่​ทำ​ไว้​ใน​ช่วง​หลาย​เดือน​นี้ นี่​เหรอ​ที่​ฉัน​ทำร้าย​ตัวเอง​มา​ตลอด? ฉัน​นี่​มัน​ซื่อบื้อ​จริง ๆ ต้อง​ขอบคุณ​บ​รู​ซาร์​ด​ยกใหญ่\n"
+"\n"
+"ต่อจากนี้​ฉัน​จะ​ทำงาน​เป็นเวลา​มากขึ้น... แล้วก็ คิด​ว่า​อาจจะ​เลี้ยง​หมา​สัก​ตัว"
+
+#. STRINGS.CODEX.A3_B556.SUBTITLE
+msgctxt "STRINGS.CODEX.A3_B556.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A3_B556.TITLE
+msgctxt "STRINGS.CODEX.A3_B556.TITLE"
+msgid "Personal Journal: B556"
+msgstr "บันทึก​ส่วนตัว: B556"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.CONTAINER1"
+msgid ""
+"<indent=5%>Oh my goddd I found out today that Devon's one of those people who takes pictures of their food and uploads them to some boring blog somewhere.\n"
+"\n"
+"You HAVE to come to lunch with us and see, they spend so long taking pictures that the food gets cold and they have to ask the waiter to reheat it. It's SO FUNNY.</indent>"
+msgstr ""
+"<indent=5%>โอ้ย​ยย พระเจ้า วันนี้​เพิ่ง​รู้​ว่า​เด​วอน​เป็น​พวก​ถ่ายรูป​อาหาร​แล้ว​อัป​ลง​บล็อก​น่าเบื่อ​ที่ไหน​สัก​แห่ง\n"
+"\n"
+"เธอ​ต้อง​มา​กิน​ข้าวกลางวัน​กับ​พวกเรา​แล้ว​ดู​ให้ได้ เด​วอน​ถ่ายรูป​นาน​จน​อาหาร​เย็นชืด แล้ว​ต้อง​ขอให้​พนักงาน​เอา​ไป​อุ่น​ใหม่ ขำ​มา​กก​กก</indent>"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>Oh cool, Devon's writing a new post for <i>Toast of the Town</i>? I'd love to tag along and \"see how the sausage is made\" so to speak, haha.\n"
+"\n"
+"I'll see you guys in a bit! :)</indent>"
+msgstr ""
+"<indent=5%>อ้าว เจ๋ง​เลย เด​วอน​กำลัง​เขียน​โพสต์​ใหม่​ลง <i>Toast of the Town</i> เหรอ? อยาก​ตาม​ไปดู \"เบื้องหลัง​การ​ทำ​ไส้กรอก\" ซะ​หน่อย ฮ่า ๆ\n"
+"\n"
+"เดี๋ยว​เจอกัน​นะ​ทุกคน! :)</indent>"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.CONTAINER3"
+msgid "<indent=5%>WAIT, Joshua, you read Devon's blog??</indent>"
+msgstr "<indent=5%>เดี๋ยว​นะ โจชัว เธอ​อ่าน​บล็อก​เด​วอน​ด้วย​เหรอ??</indent>"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Dr. Summers</b><alpha=#AA><size=12> <jsummers@gravitas.nova></size></color>\n"
+"From: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.ซัมเมอร์​ส</b><alpha=#AA><size=12> <jsummers@gravitas.nova></size></color>\n"
+"จาก: <b>ดร.โจนส์</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.EMAILHEADER2
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.EMAILHEADER2"
+msgid ""
+"<smallcaps>To: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color>\n"
+"From: <b>Dr. Summers</b><alpha=#AA><size=12> <jsummers@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.โจนส์</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color>\n"
+"จาก: <b>ดร.ซัมเมอร์​ส</b><alpha=#AA><size=12> <jsummers@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Dr. Summers\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ดร.ซัมเมอร์​ส\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.TITLE
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.TITLE"
+msgid "Re: devon's bloggg"
+msgstr "Re: บล็อก​ของ​เด​วอน​นน"
+
+#. STRINGS.CODEX.A3_DEVONSBLOG.TITLE2
+msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.TITLE2"
+msgid "SUBJECT: devon's bloggg"
+msgstr "เรื่อง: บล็อก​ของ​เด​วอน​นน"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Log Fragmentation Detected]\n"
+"[Voice Recognition Unavailable]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...The Hatch has been selected for development due to its naturally wide range of potential food sources.\n"
+"\n"
+"Energy production is our primary goal, but augmentation to allow for the consumption of non-organic materials is a more attainable first step, and will have additional uses for waste disposal...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[ตรวจ​พบ​บันทึก​แตก​กระจาย]\n"
+"[ระบบ​จดจำ​เสียง​ใช้งาน​ไม่​ได้]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...แฮตช์​ได้รับ​เลือก​ให้​พัฒนา​เพราะ​โดยธรรมชาติ​กิน​อาหาร​ได้​หลากหลาย​มาก\n"
+"\n"
+"เป้าหมายหลัก​คือ​การผลิต​พลังงาน แต่​การ​เสริม​ให้​กิน​วัสดุ​อนินทรีย์​ได้​เป็น​ก้าว​แรก​ที่​ทำได้​จริง​กว่า และ​ยัง​ใช้​กำจัด​ของ​เสียได้​ด้วย...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER2"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"...The Morb has been selected for development based on its ability to perform a multitude of the waste breakdown functions typical for a healthy ecosystem.\n"
+"\n"
+"Design should focus on eliminating the disease risks posed by a fully matured Morb specimen...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...มอร์บ​ได้รับ​เลือก​ให้​พัฒนา​เพราะ​ทำหน้าที่​ย่อยสลาย​ของ​เสียได้​หลายอย่าง​แบบ​ที่​ระบบนิเวศ​สุขภาพ​ดี​มัก​มี\n"
+"\n"
+"การ​ออกแบบ​ควร​เน้น​กำจัด​ความเสี่ยง​โรค​จาก​มอร์บ​ที่​โต​เต็ม​วัย...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER3"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"...The Puft may be suited for serving a sustainable decontamination role.\n"
+"\n"
+"Potential design must focus on the efficiency of these processes...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...พัฟต์​อาจ​เหมาะกับ​บทบาท​ขจัด​สารปนเปื้อน​อย่าง​ยั่งยืน\n"
+"\n"
+"การ​ออกแบบ​ที่​เป็นไปได้​ต้อง​เน้น​ประสิทธิภาพ​ของ​กระบวนการ​เหล่านี้...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER4"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"...Wheezeworts are an ideal selection due to their low nutrient requirements and natural terraforming capabilities.\n"
+"\n"
+"Design of these creatures should focus on enhancing their natural influence on ambient temperatures...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...วี​ซเวิร์ต​เป็น​ตัวเลือก​ที่​เหมาะ​เพราะ​ต้องการ​สารอาหาร​น้อย​และ​ปรับ​สภาพแวดล้อม​ได้​เอง​ตาม​ธรรมชาติ\n"
+"\n"
+"การ​ออกแบบ​สิ่งมีชีวิต​เหล่านี้​ควร​เน้น​เสริม​อิทธิพล​ตาม​ธรรมชาติ​ต่อ​อุณหภูมิ​รอบ ๆ...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER5
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER5"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"...The preliminary Hatch gene splices were successful.\n"
+"\n"
+"The prolific mucus excretions that are typical of the species are now producing hydrocarbons at an incredible pace.\n"
+"\n"
+"The creature has essentially become a free source of burnable oil...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...การตัดต่อ​ยีน​แฮตช์​ขั้นต้น​ประสบความสำเร็จ\n"
+"\n"
+"เมือก​ที่​ขับ​ออกมา​มากมาย​ตามปกติ​ของ​สายพันธุ์​นี้ ตอนนี้​ผลิต​ไฮโดรคาร์บอน​ได้​เร็ว​อย่าง​เหลือเชื่อ\n"
+"\n"
+"สิ่งมีชีวิต​นี้​กลายเป็น​แหล่ง​น้ำมัน​เผาไหม้​ได้​ฟรี​ไป​แล้ว​โดยปริยาย...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER6
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER6"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"...Bioluminescence is always a novelty, but little time should be spent on perfecting these insects from here on out.\n"
+"\n"
+"The project has more pressing concerns than light sources, particularly now that the low light vegetation issue has been solved...\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...การ​เรืองแสง​ทาง​ชีวภาพ​เป็น​ของ​แปลกใหม่​เสมอ แต่​จากนี้ไป​ไม่​ควร​เสียเวลา​มาก​กับ​การ​ขัดเกลา​แมลง​พวก​นี้\n"
+"\n"
+"โปรเจกต์​มีเรื่อง​เร่งด่วน​กว่า​แหล่ง​แสง โดยเฉพาะ​ตอนนี้​ที่​แก้ปัญหา​พืช​ใน​ที่​แสง​น้อย​ได้​แล้ว...\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER7
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER7"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B363]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Geneticist: The primary concern raised by this project is the variability of environments that colonies may be forced to deal with. The creatures we send with the settlement party will not have the time to evolve and adapt to a new environment, yet each creature has been chosen to play a vital role in colony sustainability and is thus too precious to risk loss.\n"
+"\n"
+"Geneticist: It follows that each organism we design must be equipped with the tools to survive in as many volatile environments as we are capable of planning for. We should not rely on the Pod alone to replenish creature populations.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B363]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"นัก​พันธุศาสตร์: ข้อ​กังวล​หลัก​ของ​โปรเจกต์​นี้​คือ​ความหลากหลาย​ของ​สภาพแวดล้อม​ที่​อาณานิคม​อาจ​ต้อง​เผชิญ สิ่งมีชีวิต​ที่​เรา​ส่ง​ไป​กับ​คณะ​ตั้งถิ่นฐาน​จะ​ไม่​มี​เวลา​วิวัฒนาการ​และ​ปรับตัว​เข้ากับ​สภาพแวดล้อม​ใหม่ แต่ละ​ตัว​ถูก​เลือก​มา​ให้​มีบทบาท​สำคัญ​ต่อ​ความยั่งยืน​ของ​อาณานิคม จึง​มีค่า​เกิน​กว่า​จะ​เสี่ยง​สูญเสีย\n"
+"\n"
+"นัก​พันธุศาสตร์: ดังนั้น​สิ่งมีชีวิต​ทุก​ตัว​ที่​เรา​ออกแบบ​ต้อง​มี​เครื่องมือ​ให้​รอด​ใน​สภาพแวดล้อม​ผันผวน​ได้​มาก​ที่สุด​เท่าที่​เรา​วางแผน​ได้ เรา​ไม่​ควร​พึ่ง​พ็อด​อย่าง​เดียว​ใน​การ​เติม​ประชากร​สิ่งมีชีวิต\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.SUBTITLE
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.A3_HUSBANDRYNOTES.TITLE
+msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.TITLE"
+msgid "Husbandry Notes"
+msgstr "บันทึก​การ​เลี้ยงสัตว์"
+
+#. STRINGS.CODEX.A3_NEWSECURITY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A3_NEWSECURITY.BODY.CONTAINER1"
+msgid ""
+"<smallcaps><b>Subject: New Security Protocol</b>\n"
+"From: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"To: <b>All</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>NOTICE TO ALL PERSONNEL\n"
+"\n"
+"We are currently undergoing critical changes to facility security that may affect your workflow and accessibility.\n"
+"\n"
+"To use the system, simply remove all hand coverings and place your hand on the designated scan area, then wait as the system verifies your employee identity.\n"
+"\n"
+"PLEASE NOTE\n"
+"\n"
+"All keycards must be returned to the front desk by [REDACTED]. For questions or rescheduling, please contact security at [REDACTED]@GRAVITAS.NOVA.\n"
+"\n"
+"Thank-you.\n"
+"\n"
+"-Admin\n"
+"The Gravitas Facility</indent>"
+msgstr ""
+"<smallcaps><b>เรื่อง: ระเบียบ​ความปลอดภัย​ใหม่</b>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"ถึง: <b>ทุกคน</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>ประกาศ​ถึง​บุคลากร​ทุกคน\n"
+"\n"
+"ขณะนี้​ศูนย์​กำลัง​เปลี่ยนแปลง​ระบบ​ความปลอดภัย​ครั้ง​สำคัญ ซึ่ง​อาจ​กระทบ​การทำงาน​และ​การ​เข้าถึง​ของ​คุณ\n"
+"\n"
+"วิธีใช้​ระบบ เพียง​ถอด​สิ่ง​ที่​สวม​มือ​ออก​ทั้งหมด วาง​มือบน​พื้นที่​สแกน​ที่​กำหนด แล้ว​รอ​ให้​ระบบ​ยืนยัน​ตัวตน​พนักงาน​ของ​คุณ\n"
+"\n"
+"โปรดทราบ\n"
+"\n"
+"ต้อง​คืน​คีย์​การ์ด​ทั้งหมด​ที่​โต๊ะ​ต้อนรับ​ภายใน [REDACTED] หาก​มี​คำถาม​หรือ​ต้องการ​เลื่อนนัด กรุณา​ติดต่อ​ฝ่าย​รักษา​ความปลอดภัย​ที่ [REDACTED]@GRAVITAS.NOVA\n"
+"\n"
+"ขอบคุณ​ค่ะ\n"
+"\n"
+"-ฝ่าย​ธุรการ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</indent>"
+
+#. STRINGS.CODEX.A3_NEWSECURITY.SUBTITLE
+msgctxt "STRINGS.CODEX.A3_NEWSECURITY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A3_NEWSECURITY.TITLE
+msgctxt "STRINGS.CODEX.A3_NEWSECURITY.TITLE"
+msgid "NEW SECURITY PROTOCOL"
+msgstr "ระเบียบ​ความปลอดภัย​ใหม่"
+
+#. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>Director,\n"
+"\n"
+"Everything went well. Broussard was reluctant at first, but she has little alternative given the nature of her work and the recent turn of events.\n"
+"\n"
+"She can begin at your convenience.</indent>"
+msgstr ""
+"<indent=5%>ท่าน​ผู้อำนวยการ\n"
+"\n"
+"ทุกอย่าง​เป็นไป​ด้วยดี ตอน​แร​กบ​รู​ซาร์​ด​ลังเล แต่​เธอ​ไม่​มี​ทางเลือก​มาก​นัก​เมื่อ​ดู​จาก​ลักษณะ​งาน​ของ​เธอ​และ​เหตุการณ์​ช่วงหลัง\n"
+"\n"
+"เธอ​เริ่ม​งาน​ได้​ตามที่​ท่าน​สะดวก</indent>"
+
+#. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Director Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n"
+"From: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ผู้​อำนวย​กา​รส​เติร์น</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n"
+"จาก: <b>ดร.โจนส์</b><alpha=#AA><size=12> <ejones@gravitas.nova></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE
+msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE
+msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE"
+msgid "Results from Atomicon"
+msgstr "ผลลัพธ์​จาก​อะ​ตอ​มิ​คอน"
+
+#. STRINGS.CODEX.A4_B835.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER1"
+msgid ""
+"I started work at a new company called the \"Gravitas Facility\" today! I was nervous I wouldn't get the job at first because I was fresh out of school, and I was so so so pushy in the interview, but the Director apparently liked my thesis on the physiological thermal regulation of Arctic lizards. I'll be working with some brilliant geneticists, bioengineering organisms for space travel in harsh environments! It's like a dream come true. I get to work on exciting new research in a place where no one knows me!\n"
+"------------------\n"
+msgstr ""
+"วันนี้​ฉัน​เริ่ม​งาน​ที่​บริษัท​ใหม่​ชื่อ \"ศูนย์​วิจัย​ก​รา​วิ​ทัส\"! ตอนแรก​กังวล​ว่า​จะ​ไม่​ได้​งาน​เพราะ​เพิ่ง​เรียนจบ แถม​ตอน​สัมภาษณ์​ยัง​เชิงรุก​มาก​มาก​มาก แต่​ดูเหมือน​ท่าน​ผู้อำนวยการ​จะ​ชอบ​วิทยานิพนธ์​ของ​ฉัน​เรื่อง​การควบคุม​ความร้อน​ทาง​สรีรวิทยา​ของ​กิ้งก่า​ขั้วโลก ฉัน​จะ​ได้​ทำงาน​กับ​นัก​พันธุศาสตร์​สุด​เก่ง ดัดแปลง​สิ่งมีชีวิต​ทาง​วิศวกรรม​ชีวภาพ​สำหรับ​เดิน​ทางใน​อวกาศ​สภาพ​โหด! เหมือน​ฝัน​เป็นจริง​เลย ได้​ทำ​งานวิจัย​ใหม่​สุด​ตื่นเต้น​ใน​ที่​ที่​ไม่​มี​ใคร​รู้จัก​ฉัน!\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_B835.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER2"
+msgid ""
+"No no no no no! It can't be! BANHI ANSARI is here, working on space shuttle thrusters in the robotics lab! As soon as she saw me she called me \"Bubbles\" and told everyone about the time I accidentally inhaled a bunch of fungal spores during lab, blew a big snot bubble out my nose and then sneezed all over Professor Avery! Everyone's calling me \"Bubbles\" instead of \"Doctor\" at work now. Some of them don't even know it's a nickname, but I don't want to correct them and seem rude or anything. Ugh, I can't believe that story followed me here! BANHI RUINS EVERYTHING!\n"
+"------------------\n"
+msgstr ""
+"ไม่ ไม่ ไม่ ไม่ ไม่! เป็นไปไม่ได้! บาน​ฮี อัน​ซา​รี อยู่​ที่นี่ ทำ​เครื่อง​ขับดัน​กระสวย​อวกาศ​อยู่​ใน​แล็บ​หุ่นยนต์! ทันทีที่​เห็น​ฉัน เธอ​ก็​เรียก​ฉัน​ว่า \"บับเบิลส์\" แล้ว​เล่า​ให้​ทุก​คนฟัง​เรื่อง​ที่​ฉัน​เผลอ​สูด​สปอร์​เชื้อรา​เข้าไป​เพียบ​ตอน​เข้า​แล็บ จน​เป่า​น้ำมูก​เป็น​ฟอง​ใหญ่​ออก​จมูก​แล้ว​จาม​ใส่​ศาสตราจารย์​เอ​เวอ​รี่​เต็ม ๆ! ตอนนี้​ทุกคน​ที่ทำงาน​เรียก​ฉัน​ว่า \"บับเบิลส์\" แทน \"ด็อกเตอร์\" กัน​หมด บางคน​ไม่​รู้​ด้วยซ้ำ​ว่า​เป็น​ชื่อเล่น แต่​ฉัน​ไม่​อยาก​แก้​ให้​ดู​เสียมารยาท อึ๋ย ไม่​อยาก​เชื่อ​ว่า​เรื่อง​นั้น​ตาม​มาถึง​นี่! บาน​ฮี​ทำ​พัง​ทุกอย่าง!\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_B835.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER3"
+msgid ""
+"I've spent the last few days buried in my work, and I'm actually feeling a lot better. We finally perfected a gene manipulation that controls heat sensitivity in rats. Our test subjects barely even shiver in subzero temperatures now. We'll probably do a testrun tomorrow with Robotics to see how the rats fare in the prototype shuttles we're developing.\n"
+"------------------\n"
+msgstr ""
+"ไม่​กี่​วัน​มา​นี้​ฉัน​จมอยู่กับ​งาน และ​รู้สึก​ดีขึ้น​เยอะ​เลย ในที่สุด​เรา​ก็​ปรับ​แต่ง​ยีน​ที่​ควบคุม​ความ​ไว​ต่อ​ความ​ร้อนใน​หนู​ได้​สมบูรณ์ ผู้ทดลอง​ของ​เรา​แทบ​ไม่​สั่น​เลย​ใน​อุณหภูมิ​ติดลบ พรุ่งนี้​น่าจะ​ทดสอบ​ร่วมกับ​ฝ่าย​หุ่นยนต์ ดู​ว่า​หนู​จะ​เป็น​ยังไง​ใน​กระสวย​ต้นแบบ​ที่​เรา​กำลัง​พัฒนา\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_B835.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER4"
+msgid ""
+"HAHAHAHAHA! Bioengineering and Robotics did the test run today and Banhi was securing the live cargo pods when one of the rats squeaked at her. She was so scared, she fell on her butt and TOOTED in front of EVERYONE! They're all calling her \"Pipsqueak\". \"Bubbles\" doesn't seem quite so bad now. Pipsqueak's been a really good sport about it though, she even laughed it off at the time. I think we might actually be friends now? It's weird.\n"
+"------------------\n"
+msgstr ""
+"ฮ่า​ฮ่า​ฮ่า​ฮ่า​ฮ่า! ฝ่าย​วิศวกรรม​ชีวภาพ​กับ​ฝ่าย​หุ่นยนต์​ทดสอบ​กัน​วันนี้ บาน​ฮี​กำลัง​ล็อก​พ็อดขน​สินค้า​มีชีวิต​อยู่ แล้ว​หนู​ตัว​หนึ่ง​ก็​ร้อง​เอี๊ยด​ใส่​เธอ เธอ​ตกใจ​จน​ก้น​จ้ำเบ้า แล้ว​ตด​ดัง​ปู้ด​ต่อหน้า​ทุกคน! ตอนนี้​ทุกคน​เรียก​เธอ​ว่า \"พิปสค​วีก\" \"บับเบิลส์\" ดู​ไม่​แย่​ขนาด​นั้น​แล้ว แต่​พิปสค​วีก​ก็​ใจกว้าง​เรื่อง​นี้​มาก ตอนนั้น​ยัง​หัวเราะ​กลบเกลื่อน​เลย ฉัน​ว่า​ตอนนี้​เรา​อาจ​เป็นเพื่อน​กัน​แล้ว​จริง ๆ? แปลก​ดี\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_B835.BODY.CONTAINER5
+msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER5"
+msgid ""
+"I lied. Me and Banhi aren't friends - we're BEST FRIENDS. She even showed me how she does her hair. We're gonna book the wind tunnel after work and run experiments together on thermo-rat rockets! Haha!\n"
+"------------------\n"
+msgstr ""
+"ฉัน​โกหก ฉัน​กับ​บาน​ฮี​ไม่​ใช่​เพื่อน เรา​เป็น​เพื่อนรัก​กัน! เธอ​ยัง​สอน​วิธีทำ​ผม​ให้​ฉัน​ด้วย เลิกงาน​แล้ว​เรา​จะ​จอง​อุโมงค์​ลม​ไป​ทดลอง​จรวด​หนู​เทอร์โม​ด้วยกัน! ฮ่า ๆ!\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A4_B835.SUBTITLE
+msgctxt "STRINGS.CODEX.A4_B835.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A4_B835.TITLE
+msgctxt "STRINGS.CODEX.A4_B835.TITLE"
+msgid "Personal Journal: B835"
+msgstr "บันทึก​ส่วนตัว: B835"
+
+#. STRINGS.CODEX.A4_CASUALFRIDAY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.BODY.CONTAINER1"
+msgid ""
+"<smallcaps><b>Casual Friday!</b>\n"
+"From: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"To: <b>All</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>To all employees;\n"
+"\n"
+"The facility is pleased to announced that starting this week, all Fridays will now be Casual Fridays!\n"
+"\n"
+"Please enjoy the clinically proven de-stressing benefits of casual attire by wearing your favorite shirt to the lab.\n"
+"\n"
+"<b>NOTE: Any personnel found on facility premises without regulation full body protection will be put on immediate notice.</b>\n"
+"\n"
+"Thank-you and have fun!\n"
+"\n"
+"-Admin\n"
+"The Gravitas Facility</indent>"
+msgstr ""
+"<smallcaps><b>วัน​ศุกร์​แต่งตัว​สบาย!</b>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"ถึง: <b>ทุกคน</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>ถึง​พนักงาน​ทุกคน\n"
+"\n"
+"ศูนย์​ยินดี​ประกาศ​ว่า​ตั้งแต่​สัปดาห์​นี้ ทุกวัน​ศุกร์​จะ​เป็น​วัน​ศุกร์​แต่งตัว​สบาย!\n"
+"\n"
+"ขอ​เชิญ​เพลิดเพลิน​กับ​ประโยชน์​ใน​การคลายเครียด​ที่​พิสูจน์​ทาง​คลินิก​แล้ว​ของ​ชุดลำลอง ด้วย​การ​ใส่​เสื้อ​ตัว​โปรด​มา​แล็บ\n"
+"\n"
+"<b>หมายเหตุ: บุคลากร​ที่​พบ​ใน​พื้นที่​ศูนย์​โดย​ไม่​สวม​ชุด​ป้องกัน​เต็มตัว​ตามระเบียบ จะ​ถูก​ตักเตือน​ทันที</b>\n"
+"\n"
+"ขอบคุณ และ​สนุก​กัน​นะคะ!\n"
+"\n"
+"-ฝ่าย​ธุรการ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</indent>"
+
+#. STRINGS.CODEX.A4_CASUALFRIDAY.SUBTITLE
+msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A4_CASUALFRIDAY.TITLE
+msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.TITLE"
+msgid "Casual Friday!"
+msgstr "วัน​ศุกร์​แต่งตัว​สบาย!"
+
+#. STRINGS.CODEX.A4_HIBISCUS3.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A4_HIBISCUS3.BODY.CONTAINER1"
+msgid ""
+"EXPERIMENT 7D\n"
+"Security Code: B111\n"
+"\n"
+"Subject: #762, \"Hibiscus-3\"\n"
+"Adult female, 42cm, 257g\n"
+"\n"
+"Donor: #650, \"Hibiscus\"\n"
+"Adult female, 42cm, 257g"
+msgstr ""
+"การทดลอง 7D\n"
+"รหัส​ความปลอดภัย: B111\n"
+"\n"
+"ผู้ทดลอง: #762, \"ฮิ​บิ​สคัส-3\"\n"
+"เพศ​เมีย​โต​เต็ม​วัย, 42cm, 257g\n"
+"\n"
+"ผู้ให้: #650, \"ฮิ​บิ​สคัส\"\n"
+"เพศ​เมีย​โต​เต็ม​วัย, 42cm, 257g"
+
+#. STRINGS.CODEX.A4_HIBISCUS3.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A4_HIBISCUS3.BODY.CONTAINER2"
+msgid ""
+"Hypothesis: Subjects cloned from Hibiscus will correctly operate a lever apparatus when introduced, demonstrating retention of original donor's conditioned memories.\n"
+"\n"
+"Donor subject #650, \"Hibiscus\", conditioned to pull a lever to the right for a reward (almonds). Conditioning took place over a period of two weeks.\n"
+"\n"
+"Hibiscus quickly learned that pulling the lever to the left produced no results, and was reliably demonstrating the desired behavior by the end of the first week.\n"
+"\n"
+"Training continued for one additional week to strengthen neural pathways and ensure the intended behavioral conditioning was committed to long term and muscle memory.\n"
+"\n"
+"Cloning subject #762, \"Hibiscus-3\", was introduced to the lever apparatus to ascertain memory retention and recall.\n"
+"\n"
+"Hibiscus-3 showed no signs of recognition and did not perform the desired behavior. Subject initially failed to interact with the apparatus on any level.\n"
+"\n"
+"On second introduction, Hibiscus-3 pulled the lever to the left.\n"
+"\n"
+"Conclusion: Printed subject retains no memory from donor."
+msgstr ""
+"สมมติฐาน: ผู้ทดลอง​ที่​โคลน​จาก​ฮิ​บิ​สคัส​จะ​ใช้​คันโยก​ได้​ถูกต้อง​เมื่อ​ได้​พบ แสดงว่า​ยังคง​ความทรงจำ​ที่​ถูก​ฝึก​ไว้​ของ​ผู้ให้​ต้นฉบับ\n"
+"\n"
+"ผู้ให้​หมายเลข #650 \"ฮิ​บิ​สคัส\" ถูก​ฝึก​ให้​ดึง​คันโยก​ไป​ทางขวา​เพื่อ​รับรางวัล (อัลมอนด์) การ​ฝึก​ใช้เวลา​สอง​สัปดาห์\n"
+"\n"
+"ฮิ​บิ​สคัส​เรียนรู้​อย่าง​รวดเร็ว​ว่าการ​ดึง​คันโยก​ไป​ทางซ้าย​ไม่​ได้​อะไร และ​แสดง​พฤติกรรม​ที่​ต้องการ​ได้​อย่าง​สม่ำเสมอ​ภายใน​สิ้น​สัปดาห์​แรก\n"
+"\n"
+"การ​ฝึก​ดำเนิน​ต่อ​อีก​หนึ่ง​สัปดาห์​เพื่อ​เสริม​เส้นทาง​ประสาท​และ​ให้​แน่ใจ​ว่า​พฤติกรรม​ที่​ฝึก​ไว้​ถูก​บันทึก​ลง​ความจำ​ระยะยาว​และ​ความจำ​กล้ามเนื้อ\n"
+"\n"
+"ผู้ทดลอง​โคลน​หมายเลข #762 \"ฮิ​บิ​สคัส-3\" ถูก​นำมา​พบ​อุปกรณ์​คันโยก​เพื่อ​ตรวจสอบ​การ​คงอยู่​และ​การ​เรียกคืน​ความทรงจำ\n"
+"\n"
+"ฮิ​บิ​สคัส-3 ไม่​แสดงอาการ​จด​จำได้​และ​ไม่​ทำ​พฤติกรรม​ที่​ต้องการ ใน​ตอนแรก​ผู้ทดลอง​ไม่​โต้ตอบ​กับ​อุปกรณ์​เลย​แม้แต่น้อย\n"
+"\n"
+"เมื่อ​นำมา​พบ​ครั้ง​ที่สอง ฮิ​บิ​สคัส-3 ดึง​คันโยก​ไป​ทางซ้าย\n"
+"\n"
+"สรุป: ผู้ทดลอง​ที่​ถูก​พิมพ์​ไม่​มี​ความทรงจำ​จาก​ผู้ให้​หลง​เหลืออยู่"
+
+#. STRINGS.CODEX.A4_HIBISCUS3.SUBTITLE
+msgctxt "STRINGS.CODEX.A4_HIBISCUS3.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A4_HIBISCUS3.TITLE
+msgctxt "STRINGS.CODEX.A4_HIBISCUS3.TITLE"
+msgid "Experiment 7D"
+msgstr "การทดลอง 7D"
+
+#. STRINGS.CODEX.A5_GENETICOOZE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A5_GENETICOOZE.BODY.CONTAINER1"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"The Printing Pod is primed by a synthesized bio-organic concoction the technicians have taken to calling \"Ooze\", a specialized mixture composed of water, carbon, and dozens upon dozens of the trace elements necessary for the creation of life.\n"
+"\n"
+"The pod reconstitutes these elements into a living organism using the blueprints we feed it, before finally administering a shock of life.\n"
+"\n"
+"It is like any other 3D printer. We just use different ink.\n"
+"\n"
+"Dr. Broussard, signing off.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"พ็อด​พิมพ์​ร่าง​ถูก​เติม​ด้วย​สารผสม​ชีว​อินทรีย์​สังเคราะห์​ที่​ช่างเทคนิค​เรียกกันว่า \"อู​ซ\" ส่วนผสม​พิเศษ​ที่​ประกอบด้วย​น้ำ คาร์บอน และ​ธาตุ​ร่องรอย​อีก​หลาย​สิบ​ชนิด​ที่​จำ​เป็นต่อ​การ​สร้าง​ชีวิต\n"
+"\n"
+"พ็อด​จะ​ประกอบ​ธาตุ​เหล่านี้​ขึ้น​ใหม่​เป็น​สิ่งมีชีวิต​ตาม​พิมพ์เขียว​ที่​เรา​ป้อน​ให้ ก่อน​จะ​ช็อก​ให้​มีชีวิต​เป็น​ขั้นสุดท้าย\n"
+"\n"
+"มัน​ก็​เหมือน​เครื่องพิมพ์ 3 มิติ​ทั่วไป แค่​เรา​ใช้​หมึก​ต่างกัน\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด ขอ​จบ​การ​บันทึก\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A5_GENETICOOZE.SUBTITLE
+msgctxt "STRINGS.CODEX.A5_GENETICOOZE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A5_GENETICOOZE.TITLE
+msgctxt "STRINGS.CODEX.A5_GENETICOOZE.TITLE"
+msgid "Biofluid"
+msgstr "ของเหลว​ชีวภาพ"
+
+#. STRINGS.CODEX.A5_SHRIMP.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A5_SHRIMP.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"\"A-and how are you clever little guys today?\n"
+"\n"
+"(trilling)\n"
+"\n"
+"Look! I brought some pink shrimp for you to eat. Your favorite! Are you hungry?\n"
+"\n"
+"(excited trilling)\n"
+"\n"
+"Oh, one moment, my keen eager pals. I left the recorder on --\n"
+"\n"
+"(rustling)\"\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"\"แ-แล้ว​วันนี้​เจ้า​ตัวเล็ก​หัวไว​เป็น​ยังไง​กัน​บ้าง?\n"
+"\n"
+"(เสียงร้อง​รัว ๆ)\n"
+"\n"
+"ดู​สิ! ฉัน​เอา​กุ้ง​สีชมพู​มา​ให้​กิน​ด้วย ของโปรด​เลย! หิว​กัน​ไหม?\n"
+"\n"
+"(เสียงร้อง​รัว ๆ อย่าง​ตื่นเต้น)\n"
+"\n"
+"อ้อ เดี๋ยว​นะ เพื่อน​ตัว​น้อย​ผู้​กระตือรือร้น ฉัน​ลืม​ปิด​เครื่อง​อัด --\n"
+"\n"
+"(เสียง​กุกกัก)\"\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A5_SHRIMP.SUBTITLE
+msgctxt "STRINGS.CODEX.A5_SHRIMP.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ZERO"
+msgstr "ระดับ​การเข้ารหัส: ศูนย์"
+
+#. STRINGS.CODEX.A5_SHRIMP.TITLE
+msgctxt "STRINGS.CODEX.A5_SHRIMP.TITLE"
+msgid "Shrimp"
+msgstr "กุ้ง"
+
+#. STRINGS.CODEX.A5_STRAWBERRIES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"\"A-and how are you bouncy little critters today?\n"
+"\n"
+"(chattering)\n"
+"\n"
+"Look! I brought strawberries. Your favorite! Are you hungry?\n"
+"\n"
+"(excited chattering)\n"
+"\n"
+"Oh, one moment, my precious, little pals. I left the recorder on --\n"
+"\n"
+"(rustling)\"\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"\"แ-แล้ว​วันนี้​เจ้า​ตัวเล็ก​ตัว​เด้ง​ดึ๋ง​เป็น​ยังไง​กัน​บ้าง?\n"
+"\n"
+"(เสียง​เจื้อยแจ้ว)\n"
+"\n"
+"ดู​สิ! ฉัน​เอา​สตรอว์เบอร์รี​มา​ด้วย ของโปรด​เลย! หิว​กัน​ไหม?\n"
+"\n"
+"(เสียง​เจื้อยแจ้ว​อย่าง​ตื่นเต้น)\n"
+"\n"
+"อ้อ เดี๋ยว​นะ เพื่อน​ตัว​น้อย​แสน​รัก ฉัน​ลืม​ปิด​เครื่อง​อัด --\n"
+"\n"
+"(เสียง​กุกกัก)\"\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A5_STRAWBERRIES.SUBTITLE
+msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ZERO"
+msgstr "ระดับ​การเข้ารหัส: ศูนย์"
+
+#. STRINGS.CODEX.A5_STRAWBERRIES.TITLE
+msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.TITLE"
+msgid "Strawberries"
+msgstr "สตรอว์เบอร์รี"
+
+#. STRINGS.CODEX.A5_SUNFLOWERSEEDS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"\"A-and how are you furry little fellows today?\n"
+"\n"
+"(squeaking)\n"
+"\n"
+"Look! I brought sunflower seeds. Your favorite! Are you hungry?\n"
+"\n"
+"(excited squeaking)\n"
+"\n"
+"Oh, one moment, my dear, little friends. I left the recorder on --\n"
+"\n"
+"(rustling)\"\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"\"แ-แล้ว​วันนี้​เจ้า​ตัวเล็ก​ขน​ปุย​เป็น​ยังไง​กัน​บ้าง?\n"
+"\n"
+"(เสียง​เอี๊ยด ๆ)\n"
+"\n"
+"ดู​สิ! ฉัน​เอา​เมล็ด​ทานตะวัน​มา​ด้วย ของโปรด​เลย! หิว​กัน​ไหม?\n"
+"\n"
+"(เสียง​เอี๊ยด ๆ อย่าง​ตื่นเต้น)\n"
+"\n"
+"อ้อ เดี๋ยว​นะ เพื่อน​ตัว​น้อย​ที่รัก ฉัน​ลืม​ปิด​เครื่อง​อัด --\n"
+"\n"
+"(เสียง​กุกกัก)\"\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A5_SUNFLOWERSEEDS.SUBTITLE
+msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ZERO"
+msgstr "ระดับ​การเข้ารหัส: ศูนย์"
+
+#. STRINGS.CODEX.A5_SUNFLOWERSEEDS.TITLE
+msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.TITLE"
+msgid "Sunflower Seeds"
+msgstr "เมล็ด​ทานตะวัน"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER2"
+msgid "<indent=5%><i>Pfft,</i> whatever.</indent>"
+msgstr "<indent=5%><i>ชิส์</i> ก็​ช่างเถอะ</indent>"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER3"
+msgid "<indent=5%>Aw, he's really nice if you get to know him though. Really dependable too. One time I busted a wheel off my office chair and he got me a new one in like, two minutes. I think he's just sweaty because he works so hard.</indent>"
+msgstr "<indent=5%>โธ่ ถ้า​ได้​รู้จัก​เขา​จริง ๆ เขา​ใจ​ดีมาก​นะ แถม​พึ่งพา​ได้​สุด ๆ ด้วย ครั้งหนึ่ง​ล้อ​เก้าอี้​ออฟฟิศ​ฉัน​หลุด เขา​หา​ตัวใหม่​มา​ให้​ใน​ประมาณ​สอง​นาที​เอง ฉัน​ว่า​เขา​เหงื่อ​ออก​เพราะ​ทำงานหนัก​น่ะ</indent>"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER4
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER4"
+msgid "<indent=5%>OMIGOSH have you seen our building's janitor? He totally smells and he has sweat stains under his armpits like EVERY time I see him. SO embarrassing.</indent>"
+msgstr "<indent=5%>ตาย​แล้ว​วว เคย​เห็น​ภารโรง​ตึก​เรา​ไหม? ตัว​เหม็น​สุด ๆ แถม​มี​คราบ​เหงื่อ​ใต้​รักแร้​แทบ​ทุกครั้งที่​เจอ น่าอาย​มาก​กก</indent>"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Dr. Summers</b><size=12><alpha=#AA> <jsummers@gravitas.nova></color></size>\n"
+"From: <b>Dr. Jones</b><size=12><alpha=#AA> <ejones@gravitas.nova></color></size></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.ซัมเมอร์​ส</b><size=12><alpha=#AA> <jsummers@gravitas.nova></color></size>\n"
+"จาก: <b>ดร.โจนส์</b><size=12><alpha=#AA> <ejones@gravitas.nova></color></size></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.EMAILHEADER2
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.EMAILHEADER2"
+msgid ""
+"<smallcaps>To: <b>Dr. Jones</b><size=12><alpha=#AA> <ejones@gravitas.nova></color></size>\n"
+"From: <b>Dr. Summers</b><size=12><alpha=#AA> <jsummers@gravitas.nova></color></size></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ดร.โจนส์</b><size=12><alpha=#AA> <ejones@gravitas.nova></color></size>\n"
+"จาก: <b>ดร.ซัมเมอร์​ส</b><size=12><alpha=#AA> <jsummers@gravitas.nova></color></size></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A5_THEJANITOR.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Dr. Summers\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ดร.ซัมเมอร์​ส\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A5_THEJANITOR.SUBTITLE
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.A5_THEJANITOR.TITLE
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.TITLE"
+msgid "Re: omg the janitor"
+msgstr "Re: ตาย​แล้ว ภารโรง"
+
+#. STRINGS.CODEX.A5_THEJANITOR.TITLE2
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.TITLE2"
+msgid "SUBJECT: Re: omg the janitor"
+msgstr "เรื่อง: Re: ตาย​แล้ว ภารโรง"
+
+#. STRINGS.CODEX.A5_THEJANITOR.TITLE3
+msgctxt "STRINGS.CODEX.A5_THEJANITOR.TITLE3"
+msgid "SUBJECT: omg the janitor"
+msgstr "เรื่อง: ตาย​แล้ว ภารโรง"
+
+#. STRINGS.CODEX.A6_DISHBOT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A6_DISHBOT.BODY.CONTAINER1"
+msgid ""
+"<smallcaps><b>Please Claim Your Bot</b>\n"
+"From: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"To: <b>All</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>While we appreciate your commitment to office upkeep, we would like to inform whomever installed a dishwashing droid in the cafeteria that your prototype was found grievously misusing dish soap and has been forcefully terminated.\n"
+"\n"
+"The remains may be collected at Security Block B.\n"
+"\n"
+"We apologize for the inconvenience and thank you for your timely collection of this prototype.\n"
+"\n"
+"-Admin\n"
+"The Gravitas Facility</indent>"
+msgstr ""
+"<smallcaps><b>กรุณา​มา​รับ​บอ​ต​ของ​ท่าน​คืน</b>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"ถึง: <b>ทุกคน</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>แม้​เรา​จะ​ซาบซึ้ง​ใน​ความ​ทุ่มเท​ดูแล​ออฟฟิศ​ของ​ท่าน แต่​ขอ​แจ้ง​ผู้​ที่​ติดตั้ง​ดร​อยด์​ล้างจาน​ไว้​ใน​โรงอาหาร​ว่า ต้นแบบ​ของ​ท่าน​ถูก​พบ​ว่า​ใช้​น้ำยาล้างจาน​ผิด​วิธี​อย่าง​ร้ายแรง และ​ถูก​บังคับ​ยุติ​การทำงาน​แล้ว\n"
+"\n"
+"มา​รับ​ซาก​ได้ที่​อาคาร​รักษา​ความปลอดภัย B\n"
+"\n"
+"ขออภัย​ใน​ความไม่สะดวก และ​ขอบคุณ​ที่มา​รับ​ต้น​แบบนี้​ไป​โดยเร็ว\n"
+"\n"
+"-ฝ่าย​ธุรการ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</indent>"
+
+#. STRINGS.CODEX.A6_DISHBOT.SUBTITLE
+msgctxt "STRINGS.CODEX.A6_DISHBOT.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A6_DISHBOT.TITLE
+msgctxt "STRINGS.CODEX.A6_DISHBOT.TITLE"
+msgid "Dishbot"
+msgstr "บอ​ต​ล้างจาน"
+
+#. STRINGS.CODEX.A6_MEMORYIMPLANTATION.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A6_MEMORYIMPLANTATION.BODY.CONTAINER1"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"Traditionally, cloning produces a subject that is genetically identical to the donor but develops independently, producing a being that is, in its own way, unique.\n"
+"\n"
+"The pod, conversely, attempts to print an exact atomic copy. Theoretically all neural pathways should be intact and identical to the original subject.\n"
+"\n"
+"It's fascinating, given this, that memories are not already inherent in our subjects; however, no cloned subjects as of yet have shown any signs of recognition when introduced to familiar stimuli, such as the donor subject's enclosure.\n"
+"\n"
+"Refer to Experiment 7D.\n"
+"\n"
+"Refer to Experiment 7F."
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"ตามปกติ การ​โคลน​จะ​ได้​ผู้ทดลอง​ที่​มี​พันธุกรรม​เหมือน​ผู้ให้​ทุก​ประการ แต่​พัฒนา​แยกกัน​อย่าง​อิสระ จน​กลายเป็น​สิ่งมีชีวิต​ที่​มี​เอกลักษณ์​ใน​แบบ​ของ​ตัวเอง\n"
+"\n"
+"ในทางกลับกัน พ็อด​พยายาม​พิมพ์​สำเนา​ที่​เหมือนกัน​ระดับ​อะตอม ตาม​ทฤษฎี​แล้ว​เส้นทาง​ประสาท​ทั้งหมด​ควร​ครบถ้วน​และ​เหมือน​ผู้ทดลอง​ต้นฉบับ​ทุก​ประการ\n"
+"\n"
+"เมื่อ​เป็น​เช่นนี้ จึง​น่าทึ่ง​ที่​ความทรงจำ​ไม่​ได้​มี​อยู่​ใน​ผู้ทดลอง​ของ​เรา​อยู่แล้ว อย่างไรก็ตาม ยัง​ไม่​มี​ผู้ทดลอง​โคลน​ตัว​ไหน​แสดงอาการ​จด​จำได้​เมื่อ​เจอ​สิ่งเร้า​ที่​คุ้นเคย เช่น กรง​ของ​ผู้ทดลอง​ผู้ให้\n"
+"\n"
+"ดู​การทดลอง 7D\n"
+"\n"
+"ดู​การทดลอง 7F"
+
+#. STRINGS.CODEX.A6_MEMORYIMPLANTATION.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A6_MEMORYIMPLANTATION.BODY.CONTAINER2"
+msgid ""
+"\n"
+"Memories <i>must</i> be embedded within the physical brainmaps of our subjects. The only question that remains is how to activate them. Hormones? Chemical supplements? Situational triggers?\n"
+"\n"
+"The Director seems eager to move past this problem, and I am concerned at her willingness to bypass essential stages of the research development process.\n"
+"\n"
+"We cannot move on to the fine polish of printing systems until the core processes have been perfected - which they have not.\n"
+"\n"
+"Dr. Broussard, signing off.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"\n"
+"ความทรงจำ<i>ต้อง</i>ฝัง​อยู่​ใน​แผนที่​สมอง​ทางกายภาพ​ของ​ผู้ทดลอง​แน่ ๆ คำถาม​เดียว​ที่​เหลือ​คือ​จะ​กระตุ้น​มัน​อย่างไร ฮอร์โมน? อาหารเสริม​เคมี? ตัวกระตุ้น​ตาม​สถานการณ์?\n"
+"\n"
+"ท่าน​ผู้อำนวยการ​ดู​กระตือรือร้น​ที่จะ​ข้าม​ปัญหา​นี้​ไป และ​ฉัน​กังวล​ที่​เธอ​พร้อม​จะ​ข้ามขั้น​ตอนสำคัญ​ของ​กระบวน​การพัฒนา​งานวิจัย\n"
+"\n"
+"เรา​ขัดเกลา​ระบบ​การ​พิมพ์​ให้​ละเอียด​ไม่​ได้​จนกว่า​กระบวนการ​หลัก​จะ​สมบูรณ์ ซึ่ง​ตอนนี้​ยัง​ไม่​สมบูรณ์\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด ขอ​จบ​การ​บันทึก\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A6_MEMORYIMPLANTATION.SUBTITLE
+msgctxt "STRINGS.CODEX.A6_MEMORYIMPLANTATION.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A6_MEMORYIMPLANTATION.TITLE
+msgctxt "STRINGS.CODEX.A6_MEMORYIMPLANTATION.TITLE"
+msgid "Memory Dysfunction Log"
+msgstr "บันทึก​ความผิดปกติ​ของ​ความทรงจำ"
+
+#. STRINGS.CODEX.A6_NEWSECURITY2.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>So, the facility is introducing this new security system that scans your hand to unlock the doors. My question is, what exactly are they scanning?\n"
+"\n"
+"The folks in engineering say the door device doesn't look like a fingerprint scanner, but the duo working over in bioengineering won't comment at all.\n"
+"\n"
+"I can't say I like it.</indent>"
+msgstr ""
+"<indent=5%>คือ ศูนย์​กำลังจะ​ใช้​ระบบ​รักษา​ความปลอดภัย​ใหม่​ที่​สแกน​มือ​เพื่อ​ปลดล็อก​ประตู คำถาม​ของ​ฉัน​คือ พวกเขา​สแกน​อะไร​กัน​แน่?\n"
+"\n"
+"คน​ฝ่าย​วิศวกรรม​บอ​กว่า​อุปกรณ์​ที่​ประตู​ไม่​เหมือน​เครื่อง​สแกน​ลายนิ้วมือ แต่​สอง​คน​ที่ทำงาน​ฝ่าย​วิศวกรรม​ชีวภาพ​ไม่​ยอมให้​ความเห็น​เลย\n"
+"\n"
+"พูด​ตรง ๆ ว่า​ฉัน​ไม่​ชอบ​มัน​เลย</indent>"
+
+#. STRINGS.CODEX.A6_NEWSECURITY2.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>[REDACTED]</b>\n"
+"From: <b>[REDACTED]</b></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[REDACTED]</b>\n"
+"จาก: <b>[REDACTED]</b></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A6_NEWSECURITY2.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"[REDACTED]\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"[REDACTED]\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A6_NEWSECURITY2.SUBTITLE
+msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.A6_NEWSECURITY2.TITLE
+msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.TITLE"
+msgid "New Security System?"
+msgstr "ระบบ​ความปลอดภัย​ใหม่?"
+
+#. STRINGS.CODEX.A7_EMPLOYEEPROCESSING.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A7_EMPLOYEEPROCESSING.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subjects Identified: A001, A435, B111]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Technician: Thank you for the fingerprints, doctor. We just need a quick voice sample, then you can be on your way.\n"
+"\n"
+"Dr. Broussard: Wow Jackie, your new security's no joke.\n"
+"\n"
+"Director: Please address me as \"Director\" while on Facility grounds.\n"
+"\n"
+"Dr. Broussard: ...R-right.\n"
+"\n"
+"(clicking)\n"
+"\n"
+"Technician: This should only take a moment. Speak clearly and the system will derive a vocal signature for you.\n"
+"\n"
+"Technician: When you're ready.\n"
+"\n"
+"(throat clearing)\n"
+"\n"
+"Dr. Broussard: Security code B111, Dr. Olivia Broussard. Gravitas Facility Bioengineering Department.\n"
+"\n"
+"(pause)\n"
+"\n"
+"Technician: Great.\n"
+"\n"
+"Dr. Broussard: What was that light just now?\n"
+"\n"
+"Director: A basic security scan. No need for concern.\n"
+"\n"
+"(machine printing)\n"
+"\n"
+"Technician: Here's your ID. You should have access to all doors in the facility now, Dr. Broussard.\n"
+"\n"
+"Dr. Broussard: Thank you.\n"
+"\n"
+"Director: Come along, Doctor.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​ผู้พูด: A001, A435, B111]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"ช่างเทคนิค: ขอบคุณ​สำหรับ​ลายนิ้วมือ​ครับ ด็อกเตอร์ เรา​แค่​ต้องการ​ตัวอย่าง​เสียง​สั้น ๆ แล้ว​คุณ​ก็​ไป​ได้​เลย\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด: ว้าว แจ็ก​กี้ ระบบ​รักษา​ความปลอดภัย​ใหม่​ของ​เธอ​ไม่ใช่เล่น ๆ เลย​นะ\n"
+"\n"
+"ผู้อำนวยการ: กรุณา​เรียก​ฉัน​ว่า \"ผู้อำนวยการ\" ขณะ​อยู่​ใน​พื้นที่​ศูนย์\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด: ...ค-ค่ะ\n"
+"\n"
+"(เสียง​คลิก)\n"
+"\n"
+"ช่างเทคนิค: ใช้เวลา​แป๊บเดียว​ครับ พูด​ให้​ชัด แล้ว​ระบบ​จะ​สร้าง​ลายเซ็น​เสียง​ให้​คุณ\n"
+"\n"
+"ช่างเทคนิค: พร้อม​เมื่อไหร่​ก็​เริ่ม​ได้​เลย​ครับ\n"
+"\n"
+"(เสียง​กระแอม)\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด: รหัส​ความปลอดภัย B111 ดร.โอ​ลิ​เวีย บ​รู​ซาร์​ด ฝ่าย​วิศวกรรม​ชีวภาพ ศูนย์​วิจัย​ก​รา​วิ​ทัส\n"
+"\n"
+"(เงียบ​ไป​ครู่หนึ่ง)\n"
+"\n"
+"ช่างเทคนิค: เยี่ยม​ครับ\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด: เมื่อกี้​แสง​อะไร​น่ะ?\n"
+"\n"
+"ผู้อำนวยการ: แค่​การ​สแกน​รักษา​ความปลอดภัย​พื้นฐาน ไม่ต้อง​กังวล\n"
+"\n"
+"(เสียง​เครื่องพิมพ์)\n"
+"\n"
+"ช่างเทคนิค: นี่​บัตรประจำตัว​ของ​คุณ​ครับ ตอนนี้​คุณ​น่าจะ​เข้า​ได้​ทุก​ประตู​ใน​ศูนย์​แล้ว ดร.บ​รู​ซาร์​ด\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด: ขอบคุณ​ค่ะ\n"
+"\n"
+"ผู้อำนวยการ: ตามมา​เลย ด็อกเตอร์\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A7_EMPLOYEEPROCESSING.SUBTITLE
+msgctxt "STRINGS.CODEX.A7_EMPLOYEEPROCESSING.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.A7_EMPLOYEEPROCESSING.TITLE
+msgctxt "STRINGS.CODEX.A7_EMPLOYEEPROCESSING.TITLE"
+msgid "Employee Processing"
+msgstr "การ​ดำเนินการ​ด้าน​พนักงาน"
+
+#. STRINGS.CODEX.A7_NEUTRONIUM.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A7_NEUTRONIUM.BODY.CONTAINER1"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"Director: I've determined the substance to be metallic in nature. The exact cause of its formation is still unknown, though I believe it to be something of an autoimmune reaction of the natural universe, a quarantining of foreign material to prevent temporal contamination.\n"
+"\n"
+"Director: A method has yet to be found that can successfully remove the substance from an affected object, and the larger implication that two molecularly, temporally identical objects cannot coexist at one point in time has dire implications for all time manipulation technology research, not just the Bow.\n"
+"\n"
+"Director: For the moment I have dubbed the substance \"Neutronium\", and assigned it a theoretical place on the table of elements. Research continues.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"ผู้อำนวยการ: ฉัน​ระบุ​ได้​แล้ว​ว่า​สาร​นี้​มี​สภาพ​เป็น​โลหะ สาเหตุ​ที่​แน่ชัด​ของ​การ​ก่อตัว​ยัง​ไม่​ทราบ แต่​ฉัน​เชื่อ​ว่า​มัน​เป็น​ปฏิกิริยา​คล้าย​ภูมิ​ต้าน​ตนเอง​ของ​จักรวาล​ธรรมชาติ เป็นการ​กัก​วัสดุ​แปลกปลอม​ไว้​เพื่อ​ป้องกัน​การ​ปนเปื้อน​ข้าม​กาลเวลา\n"
+"\n"
+"ผู้อำนวยการ: ยัง​ไม่​พบ​วิธี​เอา​สาร​นี้​ออกจาก​วัตถุ​ที่​ได้รับ​ผลกระทบ​ได้​สำเร็จ และ​นัย​ที่​กว้าง​กว่า​ว่า​วัตถุ​สอง​ชิ้น​ที่​เหมือนกัน​ทั้ง​ระดับ​โมเลกุล​และ​กาลเวลา​ไม่​อาจ​อยู่​ร่วมกัน ณ จุด​เวลา​เดียวกัน​ได้ ส่งผล​ร้ายแรง​ต่อ​งานวิจัย​เทคโนโลยี​ควบคุม​เวลา​ทั้งหมด ไม่​ใช่​แค่​โบว์\n"
+"\n"
+"ผู้อำนวยการ: ตอนนี้​ฉัน​ตั้งชื่อ​สาร​นี้​ว่า \"นิว​โทร​เนียม\" และ​กำหนด​ตำแหน่ง​ทางทฤษฎี​ให้​ใน​ตาราง​ธาตุ​แล้ว การวิจัย​ยัง​ดำเนินต่อไป\n"
+"\n"
+"[จบ​บันทึก]"
+
+#. STRINGS.CODEX.A7_NEUTRONIUM.SUBTITLE
+msgctxt "STRINGS.CODEX.A7_NEUTRONIUM.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.A7_NEUTRONIUM.TITLE
+msgctxt "STRINGS.CODEX.A7_NEUTRONIUM.TITLE"
+msgid "Byproduct Notes"
+msgstr "บันทึก​ผลพลอยได้"
+
+#. STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>Attention Gravitas Facility personnel;\n"
+"\n"
+"Please welcome our newest staff member, Olivia Broussard, PhD.\n"
+"\n"
+"Dr. Broussard will be leading our upcoming genetics project and has been installed in our bioengineering department.\n"
+"\n"
+"Be sure to offer her our warmest welcome.</indent>"
+msgstr ""
+"<indent=5%>เรียน​บุคลากร​ศูนย์​วิจัย​ก​รา​วิ​ทัส\n"
+"\n"
+"ขอ​ต้อนรับ​พนักงาน​ใหม่​ล่าสุด​ของ​เรา ดร.โอ​ลิ​เวีย บ​รู​ซาร์​ด\n"
+"\n"
+"ดร.บ​รู​ซาร์​ด​จะ​เป็น​ผู้นำ​โปรเจกต์​พันธุศาสตร์​ที่​กำลังจะ​เริ่ม และ​ได้​เข้า​ประจำ​ฝ่าย​วิศวกรรม​ชีวภาพ​แล้ว\n"
+"\n"
+"อย่า​ลืม​ต้อนรับ​เธอ​อย่าง​อบอุ่น​ที่สุด​นะคะ</indent>"
+
+#. STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>All</b>\n"
+"From: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ทุกคน</b>\n"
+"จาก: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"[REDACTED]\n"
+"<size=11>Personnel Coordinator\n"
+"The Gravitas Facility</indent>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"[REDACTED]\n"
+"<size=11>ผู้ประสานงาน​บุคลากร\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</indent>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A7_NEWEMPLOYEE.SUBTITLE
+msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A7_NEWEMPLOYEE.TITLE
+msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.TITLE"
+msgid "Welcome, New Employee"
+msgstr "ยินดีต้อนรับ​พนักงาน​ใหม่"
+
+#. STRINGS.CODEX.A8_CLEANUPTHEMESS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A8_CLEANUPTHEMESS.BODY.CONTAINER1"
+msgid ""
+"I cleaned up a few messes in my time, but ain't nothing like the mess I seen today in that bio lab. Green goop all over the floor, all over the walls. Murky tubes with what look like human shapes floating in them.\n"
+"\n"
+"They think old Mr. Gunderson ain't got smarts enough to put two and two together, but I got eyes, don't I?\n"
+"\n"
+"Ain't nobody ever pay attention to the janitor.\n"
+"\n"
+"But the janitor pays attention to everybody.\n"
+"\n"
+"-Mr. Stinky Gunderson"
+msgstr ""
+"ข้า​เก็บกวาด​ความ​เละเทะ​มา​ก็​หลายครั้ง แต่​ไม่​มี​ครั้งไหน​เหมือน​ที่​เห็น​วันนี้​ใน​แล็บ​ชีวะ เมือก​เขียว​เต็ม​พื้น​เต็ม​ผนัง หลอด​ขุ่น ๆ มี​อะไร​รูปร่าง​เหมือน​คน​ลอย​อยู่​ข้างใน\n"
+"\n"
+"พวก​มัน​คิด​ว่า​ตาแก่​กัน​เดอร์​สัน​ไม่​ฉลาด​พอ​จะ​ต่อ​จิ๊กซอว์​ได้ แต่​ข้า​ก็​มี​ตา​นะ จริง​ไหม?\n"
+"\n"
+"ไม่​เคย​มี​ใคร​สนใจ​ภารโรง​หรอก\n"
+"\n"
+"แต่​ภารโรง​สนใจ​ทุกคน\n"
+"\n"
+"-ตา​เหม็น​กัน​เดอร์​สัน"
+
+#. STRINGS.CODEX.A8_CLEANUPTHEMESS.SUBTITLE
+msgctxt "STRINGS.CODEX.A8_CLEANUPTHEMESS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.A8_CLEANUPTHEMESS.TITLE
+msgctxt "STRINGS.CODEX.A8_CLEANUPTHEMESS.TITLE"
+msgid "Cleaning Up The Mess"
+msgstr "เก็บกวาด​ความ​เละเทะ"
+
+#. STRINGS.CODEX.A8_FIRSTSUCCESS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.A8_FIRSTSUCCESS.BODY.CONTAINER1"
+msgid ""
+"We've successfully compressed and expanded small portions of time under .03 milliseconds. This proves that time is something that can be physically acted upon, suggesting that our vision is attainable.\n"
+"\n"
+"An unintentional consequence of both the expansion and contraction of time is the creation of a \"vacuum\" in the space between the affected portion of time and the much more expansive unaffected portions.\n"
+"\n"
+"So far, we are seeing that the unaffected time on either side of the manipulated portion will expand or contract to fill the vacuum, although we are unsure how far-reaching this consequence is or what effect it has on the laws of the natural universe. At the end of all compression and expansion experiments, alterations to time are undone and leave no lasting change."
+msgstr ""
+"เรา​บีบ​อัด​และ​ขยาย​ช่วงเวลา​สั้น ๆ ต่ำกว่า .03 มิ​ล​ลิ​วินาที​ได้​สำเร็จ นี่​พิสูจน์​ว่า​เวลา​เป็น​สิ่ง​ที่​กระทำ​ทางกายภาพ​ได้ แสดงว่า​วิสัยทัศน์​ของ​เรา​เป็นไปได้\n"
+"\n"
+"ผล​ที่​ไม่​ได้​ตั้งใจ​ของ​ทั้ง​การ​ขยาย​และ​การหด​เวลา คือ​การ​เกิด \"สุญญากาศ\" ใน​ช่องว่าง​ระหว่าง​ช่วงเวลา​ที่​ได้รับ​ผลกระทบ​กับ​ช่วง​ที่​ไม่​ได้รับ​ผลกระทบ​ซึ่ง​กว้าง​กว่า​มาก\n"
+"\n"
+"จนถึง​ตอนนี้ เรา​พบ​ว่า​เวลา​ที่​ไม่​ได้รับ​ผลกระทบ​ทั้งสอง​ฝั่ง​ของ​ช่วง​ที่​ถูกปรับ​จะ​ขยาย​หรือ​หดตัว​เพื่อ​เติม​สุญญากาศ แต่​เรา​ยัง​ไม่​แน่ใจ​ว่า​ผล​นี้​ไป​ไกล​แค่​ไหน หรือ​ส่งผล​ต่อ​กฎ​ของ​จักรวาล​ธรรมชาติ​อย่างไร เมื่อ​จบ​การทดลอง​บีบ​อัด​และ​ขยาย​ทุกครั้ง การเปลี่ยนแปลง​เวลา​จะ​ย้อนกลับ​และ​ไม่​ทิ้งร่องรอย​ถาวร"
+
+#. STRINGS.CODEX.A8_FIRSTSUCCESS.SUBTITLE
+msgctxt "STRINGS.CODEX.A8_FIRSTSUCCESS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.A8_FIRSTSUCCESS.TITLE
+msgctxt "STRINGS.CODEX.A8_FIRSTSUCCESS.TITLE"
+msgid "Encouraging Results"
+msgstr "ผลลัพธ์​น่าพอใจ"
+
+#. STRINGS.CODEX.A8_NEWSECURITY3.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.A8_NEWSECURITY3.BODY.CONTAINER2"
+msgid ""
+"<indent=5%>I'm almost certain now that the Facility's stolen our genetic information.\n"
+"\n"
+"Forty-odd employees would make for mighty convenient lab rats, and even if we discovered what Gravitas did, we wouldn't have a lot of legal options. We can't exactly go to the public given the nature of our work.\n"
+"\n"
+"I can't stop thinking about what sort of experiments they might be conducting on my DNA, but I have to keep my mouth shut.\n"
+"\n"
+"I can't risk losing my job.</indent>"
+msgstr ""
+"<indent=5%>ตอนนี้​ฉัน​เกือบ​มั่นใจ​แล้ว​ว่า​ศูนย์​ขโมย​ข้อมูล​พันธุกรรม​ของ​พวกเรา​ไป\n"
+"\n"
+"พนักงาน​สี่​สิบ​กว่า​คน​ก็​เป็น​หนูทดลอง​ที่​สะดวก​ดีมาก และ​ต่อให้​เรา​รู้​ว่า​ก​รา​วิ​ทัส​ทำ​อะไร เรา​ก็​มี​ทางเลือก​ทางกฎหมาย​ไม่​มาก​นัก เรา​ไป​บอก​สาธารณะ​ไม่​ได้​ด้วย​ลักษณะ​งาน​ของ​เรา\n"
+"\n"
+"ฉัน​เลิก​คิด​ไม่​ได้​ว่า​พวกเขา​อาจ​กำลัง​ทดลอง​อะไร​กับ DNA ของ​ฉัน แต่​ฉัน​ต้อง​ปิดปากเงียบ​ไว้\n"
+"\n"
+"ฉัน​เสี่ยง​ตกงาน​ไม่​ได้</indent>"
+
+#. STRINGS.CODEX.A8_NEWSECURITY3.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.A8_NEWSECURITY3.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>[REDACTED]</b>\n"
+"From: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[REDACTED]</b>\n"
+"จาก: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A8_NEWSECURITY3.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.A8_NEWSECURITY3.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"[REDACTED]\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"[REDACTED]\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.A8_NEWSECURITY3.SUBTITLE
+msgctxt "STRINGS.CODEX.A8_NEWSECURITY3.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.A9_NEUTRONIUMAPPLICATIONS.SUBTITLE
+msgctxt "STRINGS.CODEX.A9_NEUTRONIUMAPPLICATIONS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.A9_PIPEDREAM.SUBTITLE
+msgctxt "STRINGS.CODEX.A9_PIPEDREAM.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ZERO"
+msgstr "ระดับ​การเข้ารหัส: ศูนย์"
 
 #. STRINGS.CODEX.ADVANCEDCURE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ADVANCEDCURE.BODY.CONTAINER1"
@@ -27960,10 +30600,222 @@ msgctxt "STRINGS.CODEX.AUTOMATION.HEADER_4"
 msgid "Gates"
 msgstr "เก​ต"
 
+#. STRINGS.CODEX.B1_HOLLANDSDOG.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.B1_HOLLANDSDOG.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Dr. Summers\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ดร.ซัมเมอร์​ส\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE
+msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.SUBTITLE
+msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.SUBTITLE"
+msgid "PUBLIC RELEASE"
+msgstr "เผยแพร่​สู่​สาธารณะ"
+
+#. STRINGS.CODEX.B10_AI.SUBTITLE
+msgctxt "STRINGS.CODEX.B10_AI.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.B2_ELLIESBIRTHDAY.SUBTITLE
+msgctxt "STRINGS.CODEX.B2_ELLIESBIRTHDAY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.B2_MEETTHEPILOT.SUBTITLE
+msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.B2_TEMPORALBOWUPDATE.SUBTITLE
+msgctxt "STRINGS.CODEX.B2_TEMPORALBOWUPDATE.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.B3_MOVEDRABBITS.SUBTITLE
+msgctxt "STRINGS.CODEX.B3_MOVEDRABBITS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.B3_MOVEDRACCOONS.SUBTITLE
+msgctxt "STRINGS.CODEX.B3_MOVEDRACCOONS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.B3_MOVEDRATS.SUBTITLE
+msgctxt "STRINGS.CODEX.B3_MOVEDRATS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.B3_RETEMPORALBOWUPDATE.SUBTITLE
+msgctxt "STRINGS.CODEX.B3_RETEMPORALBOWUPDATE.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.B4_MYPENS.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.B4_MYPENS.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"[REDACTED]\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"[REDACTED]\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.B4_MYPENS.SUBTITLE
+msgctxt "STRINGS.CODEX.B4_MYPENS.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.B4_REMYPENS.SUBTITLE
+msgctxt "STRINGS.CODEX.B4_REMYPENS.SUBTITLE"
+msgid "UNENCRYPTED"
+msgstr "ไม่​ได้​เข้ารหัส"
+
+#. STRINGS.CODEX.B4_REVISITEDNUMBERS.SUBTITLE
+msgctxt "STRINGS.CODEX.B4_REVISITEDNUMBERS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.B5_ANTS.SUBTITLE
+msgctxt "STRINGS.CODEX.B5_ANTS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.B50_MEMORYCHIP.SUBTITLE
+msgctxt "STRINGS.CODEX.B50_MEMORYCHIP.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.B51_ARTHISTORYREQUEST.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.B51_ARTHISTORYREQUEST.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Director Stern\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ผู้​อำนวย​กา​รส​เติร์น\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.B51_ARTHISTORYREQUEST.SUBTITLE
+msgctxt "STRINGS.CODEX.B51_ARTHISTORYREQUEST.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.B6_AICONTROL.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.B6_AICONTROL.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Director Stern\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ผู้​อำนวย​กา​รส​เติร์น\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.B6_AICONTROL.SUBTITLE
+msgctxt "STRINGS.CODEX.B6_AICONTROL.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.B6_TIMEMUSINGS.SUBTITLE
+msgctxt "STRINGS.CODEX.B6_TIMEMUSINGS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.B7_FRIENDLYEMAIL.BODY.SIGNATURE1
+msgctxt "STRINGS.CODEX.B7_FRIENDLYEMAIL.BODY.SIGNATURE1"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.B7_FRIENDLYEMAIL.SUBTITLE
+msgctxt "STRINGS.CODEX.B7_FRIENDLYEMAIL.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.B7_INSPACE.SUBTITLE
+msgctxt "STRINGS.CODEX.B7_INSPACE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
 #. STRINGS.CODEX.B7_INSPACE.TITLE
 msgctxt "STRINGS.CODEX.B7_INSPACE.TITLE"
 msgid "In Space"
 msgstr "อยู่​ใน​อวกาศ"
+
+#. STRINGS.CODEX.B7_TIMESARROWTHOUGHTS.SUBTITLE
+msgctxt "STRINGS.CODEX.B7_TIMESARROWTHOUGHTS.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.B8_MAGAZINEARTICLE.SUBTITLE
+msgctxt "STRINGS.CODEX.B8_MAGAZINEARTICLE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.B8_POLITEREQUEST.SUBTITLE
+msgctxt "STRINGS.CODEX.B8_POLITEREQUEST.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.B9_TELEPORTATION.SUBTITLE
+msgctxt "STRINGS.CODEX.B9_TELEPORTATION.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
 
 #. STRINGS.CODEX.BASICBOOSTER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.BASICBOOSTER.BODY.CONTAINER1"
@@ -27996,6 +30848,31 @@ msgstr "บูสเตอร์"
 msgctxt "STRINGS.CODEX.BLUE_GRASS.SUBTITLE"
 msgid "Plant"
 msgstr "พืช"
+
+#. STRINGS.CODEX.C01_EVIL.SUBTITLE
+msgctxt "STRINGS.CODEX.C01_EVIL.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.SUBTITLE
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: ONE"
+msgstr "ระดับ​การเข้ารหัส: หนึ่ง"
+
+#. STRINGS.CODEX.C7_FIRSTCOLONY.SUBTITLE
+msgctxt "STRINGS.CODEX.C7_FIRSTCOLONY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.C8_TIMESORDER.SUBTITLE
+msgctxt "STRINGS.CODEX.C8_TIMESORDER.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE"
@@ -28086,6 +30963,11 @@ msgstr "เปลือกไข่"
 msgctxt "STRINGS.CODEX.ELECTROBANK.TITLE"
 msgid "Power Banks"
 msgstr "พาวเวอร์​แบงก์"
+
+#. STRINGS.CODEX.EVACUATION.SUBTITLE
+msgctxt "STRINGS.CODEX.EVACUATION.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
 #. STRINGS.CODEX.FEATHER_FABRIC.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.FEATHER_FABRIC.BODY.CONTAINER1"
@@ -28195,10 +31077,170 @@ msgstr ""
 "\n"
 "ต้อง​กิน​ทุกวัน"
 
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
 #. STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.TITLE
 msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.TITLE"
 msgid "Glitch"
 msgstr "รวน"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER1
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER1"
+msgid ""
+"<smallcaps>To: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\n"
+"From: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ผู้​อำนวย​กา​รส​เติร์น</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\n"
+"จาก: <b>[REDACTED]</b></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER2
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER2"
+msgid ""
+"<smallcaps>To: <b>[REDACTED]</b>\n"
+"From: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[REDACTED]</b>\n"
+"จาก: <b>ผู้​อำนวย​กา​รส​เติร์น</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"-Director Stern\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"-ผู้​อำนวย​กา​รส​เติร์น\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_GEOTHERMALTESTING.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_GEOTHERMALTESTING.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.SUBTITLE"
+msgid "PUBLIC RELEASE"
+msgstr "เผยแพร่​สู่​สาธารณะ"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_ALLCOMINGBACK.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_ALLCOMINGBACK.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_EXPEDITION.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_EXPEDITION.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_FOREWORD.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_FOREWORD.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_INCOMINGASTEROID.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_INCOMINGASTEROID.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_JOURNAL_B824.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_JOURNAL_B824.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_SEEPAGE.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_SEEPAGE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC4_SURFACEPOI.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC4_SURFACEPOI.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_CAKEANDTEA.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_CAKEANDTEA.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_CEASEDESIST.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_CEASEDESIST.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_FRIDGENOTE.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_FRIDGENOTE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_HOAX.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_HOAX.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_PRINTANOMALY.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_PRINTANOMALY.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC5_RESEARCHPORTAL.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_RESEARCHPORTAL.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE
+msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
 #. STRINGS.CODEX.LIGHT.HEADER_1
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
@@ -28214,6 +31256,28 @@ msgstr "วิดีโอ: วงจรไฟฟ้า"
 msgctxt "STRINGS.CODEX.LOCKS.NEURALVACILLATOR"
 msgid "Neural Vacillator"
 msgstr "เครื่อง​แว​ซิ​ลเลเตอร์​ประสาท"
+
+#. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2
+msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2"
+msgid ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"<size=11>Information and Statistics Department\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"รัก​นะ จุ๊บ ๆ,\n"
+"ดร.โจนส์\n"
+"<size=11>ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.MISSINGNOTES.SUBTITLE
+msgctxt "STRINGS.CODEX.MISSINGNOTES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
 
 #. STRINGS.CODEX.MORALE.HEADER_1
 msgctxt "STRINGS.CODEX.MORALE.HEADER_1"
@@ -28235,6 +31299,11 @@ msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE"
 msgid "Recreation"
 msgstr "นันทนาการ"
 
+#. STRINGS.CODEX.MYSTERYAWARD.SUBTITLE
+msgctxt "STRINGS.CODEX.MYSTERYAWARD.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
 #. STRINGS.CODEX.OXYFERN.SUBTITLE
 msgctxt "STRINGS.CODEX.OXYFERN.SUBTITLE"
 msgid "Plant"
@@ -28249,6 +31318,11 @@ msgstr "สัตว์น้ำ"
 msgctxt "STRINGS.CODEX.PARROTFISH.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.PLANETARYECHOES.SUBTITLE
+msgctxt "STRINGS.CODEX.PLANETARYECHOES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
 
 #. STRINGS.CODEX.POLLINATORS.TITLE
 msgctxt "STRINGS.CODEX.POLLINATORS.TITLE"
@@ -28325,6 +31399,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE"
 msgid "Toilets"
 msgstr "ห้องน้ำ"
 
+#. STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE
+msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
 #. STRINGS.CODEX.SEAFAIRY.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAFAIRY.SUBTITLE"
 msgid "Aquatic Critter"
@@ -28350,15 +31429,35 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON"
 msgid "Close"
 msgstr "ปิด"
 
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.SUBTITLE"
+msgid "ENCRYPTION LEVEL: TWO"
+msgstr "ระดับ​การเข้ารหัส: สอง"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON"
 msgid "Close"
 msgstr "ปิด"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME"
 msgid "Ancient Specimen"
 msgstr "ตัวอย่าง​โบราณ"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.NAME"
@@ -28385,10 +31484,30 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK
 msgid "Work Errand"
 msgstr "งาน​ใช้​เครื่อง"
 
+#. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.HANDOFF.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.HANDOFF.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.UNLOCK_POPUP.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.UNLOCK_POPUP.BUTTON"
 msgid "Close"
 msgstr "ปิด"
+
+#. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.WHENIMGONE.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.WHENIMGONE.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.SUBTITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON"
@@ -28415,10 +31534,20 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.DROP_INVENTO
 msgid "Empty Building"
 msgstr "เท​สิ่งก่อสร้าง"
 
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UNSAFETRANSFER.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UNSAFETRANSFER.TITLE"
+msgid "ENCRYPTION LEVEL: THREE"
+msgstr "ระดับ​การเข้ารหัส: สาม"
+
 #. STRINGS.CODEX.STRESS.HEADER_1
 msgctxt "STRINGS.CODEX.STRESS.HEADER_1"
 msgid "Stress"
 msgstr "ความเครียด"
+
+#. STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE
+msgctxt "STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE"
+msgid "ENCRYPTION LEVEL: NONE"
+msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE"
@@ -63075,6 +66204,16 @@ msgstr "สาร​หล่อลื่น​เชิงกล​ขั้น
 msgctxt "STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.SUBHEADER"
 msgid "Mechanical Lubricant"
 msgstr "สาร​หล่อลื่น​เชิงกล"
+
+#. STRINGS.LORE.BUILDINGS.Desk.HEADER
+msgctxt "STRINGS.LORE.BUILDINGS.Desk.HEADER"
+msgid "Preliminary Calculations"
+msgstr "การคำนวณ​เบื้องต้น"
+
+#. STRINGS.LORE.BUILDINGS.PropLocker.HEADER
+msgctxt "STRINGS.LORE.BUILDINGS.PropLocker.HEADER"
+msgid "Casual Friday!"
+msgstr "วัน​ศุกร์​แต่งตัว​สบาย!"
 
 #. STRINGS.MISC.MONUMENT_COMPLETE.DESC
 msgctxt "STRINGS.MISC.MONUMENT_COMPLETE.DESC"
@@ -100042,6 +103181,22 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.CERESCLASSICSHATTERED.NAME"
 msgid "Blasted Ceres"
 msgstr "ซี​รี​ส​แหลกลาญ"
+
+#. STRINGS.WORLDS.PREHISTORICBASEGAME.DESCRIPTION
+msgctxt "STRINGS.WORLDS.PREHISTORICBASEGAME.DESCRIPTION"
+msgid ""
+"An endangered location with abundant food resources.\n"
+"\n"
+"<smallcaps>Relica's biodiversity makes reliable food production more attainable for new colonies. Construction materials and fuels are also ample. Surface defence must be prioritized to minimize damage from an incoming impactor asteroid.</smallcaps>"
+msgstr ""
+"ดาว​ใกล้​สูญพันธุ์​ที่​มี​แหล่ง​อาหาร​อุดมสมบูรณ์\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​เร​ลิ​กา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น วัสดุก่อสร้าง​และ​เชื้อเพลิง​ก็​มี​เหลือเฟือ ต้อง​รีบ​สร้าง​แนว​ป้องกัน​ผิว​ดาว​เพื่อ​ลด​ความเสียหาย​จาก​ดาวเคราะห์​น้อย​ที่​กำลัง​พุ่ง​มา</smallcaps>"
+
+#. STRINGS.WORLDS.PREHISTORICBASEGAME.NAME
+msgctxt "STRINGS.WORLDS.PREHISTORICBASEGAME.NAME"
+msgid "Relica"
+msgstr "เร​ลิ​กา"
 
 #. STRINGS.WORLDS.STRANGERICHSANDSTONE.NAME
 msgctxt "STRINGS.WORLDS.STRANGERICHSANDSTONE.NAME"
