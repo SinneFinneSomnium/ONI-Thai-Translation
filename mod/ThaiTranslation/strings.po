@@ -39095,75 +39095,926 @@ msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE"
 msgid "Cycle 15"
 msgstr "รอบ​ที่ 15"
 
+#. STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.BODY"
+msgid ""
+"As my Duplicants venture out into the neighboring worlds, there is an ever increasing chance that they will encounter hostile environments unsafe for unprotected individuals. A prudent course of action would be to start research and training for equipment that could protect my Duplicants when they encounter such adverse environments.\n"
+"\n"
+"These first few cycles have been occupied with building the basics for my colony, but now it is time I start planning for the future. We cannot merely live day-to-day without purpose. If we are to survive for any significant time, we must strive for a purpose.\n"
+"\n"
+msgstr ""
+"เมื่อ​ดู​พลิ​แคนต์​ของ​ฉัน​ออก​ผจญภัย​ไป​ยัง​โลก​ข้างเคียง โอกาส​ที่​พวกเขา​จะ​เจอ​สภาพแวดล้อม​อันตราย​ซึ่ง​ไม่​ปลอดภัย​สำหรับ​คน​ที่​ไม่​มี​เครื่อง​ป้องกัน​ก็​เพิ่มขึ้น​เรื่อย ๆ ทาง​ที่​รอบคอบ​คือ​เริ่ม​วิจัย​และ​ฝึก​ใช้​อุปกรณ์​ที่​ปกป้อง​ดู​พลิ​แคนต์​ได้​เมื่อ​เจอ​สภาพแวดล้อม​เลวร้าย​แบบ​นั้น\n"
+"\n"
+"ไม่​กี่​รอบ​แรก​นี้​หมด​ไป​กับ​การ​สร้าง​พื้นฐาน​ให้​อาณานิคม แต่​ตอนนี้​ถึง​เวลา​ที่​ฉัน​ต้อง​เริ่ม​วางแผน​เพื่อ​อนาคต​แล้ว เรา​จะ​อยู่​แบบ​วัน​ต่อ​วัน​อย่าง​ไร้จุดหมาย​ไม่​ได้ ถ้า​จะ​อยู่​รอดไป​ได้​นาน ๆ เรา​ต้อง​มุ่งมั่น​สู่​เป้าหมาย\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.TITLE"
+msgid "Cycle 10"
+msgstr "รอบ​ที่ 10"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG4.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4.BODY"
+msgid ""
+"Today my colony has officially been running for one thousand consecutive cycles. I consider this a major success!\n"
+"\n"
+"Just imagine how proud our home world would be if they could see us now.\n"
+"\n"
+msgstr ""
+"วันนี้​อาณานิคม​ของ​ฉัน​ดำเนิน​มา​ครบ​หนึ่ง​พัน​รอบ​ติดต่อกัน​อย่าง​เป็นทางการ ฉัน​ถือว่า​นี่​คือ​ความสำเร็จ​ครั้ง​ใหญ่!\n"
+"\n"
+"ลอง​นึกดู​สิ​ว่า​โลก​บ้านเกิด​จะ​ภูมิใจ​แค่​ไหน​ถ้า​ได้​เห็น​พวกเรา​ตอนนี้\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG4.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4.TITLE"
+msgid "Cycle 1000"
+msgstr "รอบ​ที่ 1000"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG4B.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4B.BODY"
+msgid ""
+"I wonder if my rats ever made it onto the asteroid.\n"
+"\n"
+"I hope they're eating well.\n"
+"\n"
+msgstr ""
+"ไม่​รู้​ว่า​หนู​ของ​ฉัน​ได้​ขึ้น​มา​บน​ดาวเคราะห์​น้อย​หรือเปล่า​นะ\n"
+"\n"
+"หวัง​ว่า​พวก​มัน​จะ​กิน​อิ่ม​นอนหลับ\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG4B.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4B.TITLE"
+msgid "Cycle 1500"
+msgstr "รอบ​ที่ 1500"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG5.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG5.BODY"
+msgid ""
+"I occasionally find myself contemplating just how long \"eternity\" really is. Oh dear.\n"
+"\n"
+msgstr ""
+"บางครั้ง​ฉัน​ก็​เผลอ​ครุ่นคิด​ว่า \"นิรันดร์\" มัน​ยาวนาน​แค่​ไหน​กัน​แน่ ตาย​จริง\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG5.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG5.TITLE"
+msgid "Cycle 2000"
+msgstr "รอบ​ที่ 2000"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG5B.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG5B.BODY"
+msgid ""
+"Perhaps it would be better to shut off my higher thought processes, and simply leave the systems necessary to run the colony to their own devices.\n"
+"\n"
+msgstr ""
+"บางที​อาจจะ​ดีกว่า​ถ้า​ฉัน​ปิด​กระบวนการ​คิด​ขั้นสูง​ของ​ตัวเอง​ลง แล้ว​ปล่อย​ให้​ระบบ​ที่​จำเป็น​ใน​การ​ดูแล​อาณานิคม​ทำงาน​ไป​ตามลำพัง\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG5B.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG5B.TITLE"
+msgid "Cycle 2500"
+msgstr "รอบ​ที่ 2500"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG6.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6.BODY"
+msgid ""
+"I get brief flashes of a past life every now and then.\n"
+"\n"
+"A clock in the office with a disruptive tick.\n"
+"\n"
+"The strong smell of cleaning products and artificial lemon.\n"
+"\n"
+"A woman with thick glasses who had a secret taste for gingersnaps.\n"
+"\n"
+msgstr ""
+"นาน ๆ ที​ฉัน​ก็​เห็นภาพ​แวบ ๆ จาก​ชีวิต​ใน​อดีต\n"
+"\n"
+"นาฬิกา​ใน​ออฟฟิศ​ที่​เดิน​ดัง​ติ๊ก​น่ารำคาญ\n"
+"\n"
+"กลิ่น​แรง ๆ ของ​น้ำยา​ทำความสะอาด​และ​มะนาว​สังเคราะห์\n"
+"\n"
+"ผู้หญิง​แว่น​หนาเตอะ​ที่​แอบ​ชอบ​กิน​คุกกี้​ขิง\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG6.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6.TITLE"
+msgid "Cycle 3000"
+msgstr "รอบ​ที่ 3000"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG6B.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6B.BODY"
+msgid ""
+"Time is a funny thing, isn't it?\n"
+"\n"
+msgstr ""
+"เวลา​นี่​เป็น​อะไร​ที่​ตลก​ดี​เนอะ\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG6B.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6B.TITLE"
+msgid "Cycle 3500"
+msgstr "รอบ​ที่ 3500"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG7.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG7.BODY"
+msgid ""
+"I think I will go to sleep, after all...\n"
+"\n"
+msgstr ""
+"สุดท้าย​แล้ว ฉัน​ว่า​ฉัน​จะ​ไป​นอน​ละ​นะ...\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG7.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG7.TITLE"
+msgid "Cycle 4000"
+msgstr "รอบ​ที่ 4000"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG8.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG8.BODY"
+msgid ""
+"<smallcaps>>>SEARCH DATABASE [\"pod_brainmap.AI\"]\n"
+">...activate sleep mode...\n"
+">...shutting down...\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+"GOODNIGHT\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+"\n"
+msgstr ""
+"<smallcaps>>>ค้นหา​ฐานข้อมูล [\"pod_brainmap.AI\"]\n"
+">...เปิด​โหมด​หลับ...\n"
+">...กำลัง​ปิด​ระบบ...\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+"ฝันดี​นะ\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.LOG8.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG8.TITLE"
+msgid "Cycle 4001"
+msgstr "รอบ​ที่ 4001"
+
+#. STRINGS.CODEX.MYLOG.BODY.NEARINGMAGMA.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.NEARINGMAGMA.BODY"
+msgid ""
+"The readings I'm collecting from my Duplicant's sensory systems tell me that the further down they dig, the closer they come to an extreme and potentially dangerous heat source.\n"
+"\n"
+"I believe they are approaching a molten core, which could mean magma and lethal temperatures. I should equip them accordingly.\n"
+"\n"
+msgstr ""
+"ค่าที่​ฉัน​เก็บ​ได้​จาก​ระบบ​ประสาทสัมผัส​ของ​ดู​พลิ​แคนต์​บอ​กว่า ยิ่ง​พวกเขา​ขุด​ลึก​ลง​ไป ก็​ยิ่ง​เข้าใกล้​แหล่ง​ความร้อน​สุดขั้ว​ที่​อาจ​เป็นอันตราย\n"
+"\n"
+"ฉัน​เชื่อ​ว่า​พวกเขา​กำลัง​เข้าใกล้​แกน​หลอมเหลว ซึ่ง​อาจ​หมายถึง​แมก​มา​และ​อุณหภูมิ​ที่​ถึงตาย ฉัน​ควร​เตรียม​อุปกรณ์​ให้​พวกเขา​ให้​พร้อม\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.NEARINGMAGMA.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.NEARINGMAGMA.TITLE"
+msgid "Extreme Heat Danger"
+msgstr "อันตราย​จาก​ความร้อน​สุดขั้ว"
+
+#. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.BODY"
+msgid ""
+"<smallcaps>>>SEARCH DATABASE [\"vacillator\"]\n"
+">...error...\n"
+">...repairing corrupt data...\n"
+">...data repaired...\n"
+">.........................\n"
+">>returning results\n"
+">.........................</smallcaps>\n"
+"<b>I remember...</b>\n"
+"<smallcaps>>.........................\n"
+">.........................</smallcaps>\n"
+"<b>machines.</b>\n"
+"\n"
+msgstr ""
+"<smallcaps>>>ค้นหา​ฐานข้อมูล [\"vacillator\"]\n"
+">...ข้อผิดพลาด...\n"
+">...กำลัง​ซ่อม​ข้อมูล​เสียหาย...\n"
+">...ซ่อม​ข้อมูล​แล้ว...\n"
+">.........................\n"
+">>กำลัง​แสดง​ผลลัพธ์\n"
+">.........................</smallcaps>\n"
+"<b>ฉัน​จำได้...</b>\n"
+"<smallcaps>>.........................\n"
+">.........................</smallcaps>\n"
+"<b>เครื่องจักร</b>\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE"
+msgid "VA[?]...C"
+msgstr "VA[?]...C"
+
+#. STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.BODY"
+msgid ""
+"My colony is in a dire state. All but one of my Duplicants have perished, leaving a single worker to perform all the tasks that maintain the colony.\n"
+"\n"
+"Given enough time I could print more Duplicants to replenish the population, but... should this Duplicant die before then, protocol will force me to enter a deep sleep in hopes that the terrain will become more habitable once I reawaken.\n"
+"\n"
+"I would prefer to avoid this.\n"
+"\n"
+msgstr ""
+"อาณานิคม​ของ​ฉัน​อยู่​ใน​สภาพ​ย่ำแย่ ดู​พลิ​แคนต์​ตาย​หมด​เหลือ​เพียง​คนเดียว ทิ้ง​ให้​คนงาน​คนเดียว​ต้อง​ทำ​ทุก​งาน​เพื่อ​รักษา​อาณานิคม​ไว้\n"
+"\n"
+"ถ้า​มี​เวลา​มาก​พอ ฉัน​พิมพ์​ดู​พลิ​แคนต์​เพิ่ม​เพื่อ​เติม​ประชากร​ได้ แต่... ถ้า​ดู​พลิ​แคนต์คน​นี้​ตาย​ก่อน​ถึง​ตอนนั้น โปรโตคอล​จะ​บังคับ​ให้​ฉัน​เข้าสู่​การ​หลับ​ลึก ด้วย​หวัง​ว่า​ภูมิประเทศ​จะ​น่าอยู่​ขึ้น​เมื่อ​ฉัน​ตื่นขึ้น​มา​อีกครั้ง\n"
+"\n"
+"ฉัน​ไม่​อยาก​ให้​เป็น​แบบ​นั้น​เลย\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.TITLE"
+msgid "Only One Remains"
+msgstr "เหลือ​เพียง​หนึ่งเดียว"
+
+#. STRINGS.CODEX.MYLOG.BODY.OTHERDIMENSIONS.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.OTHERDIMENSIONS.BODY"
+msgid ""
+"A closer analysis of some documents my Duplicants encountered while searching artifacts has uncovered some curious similarities between multiple entries. These similarities are too strong to be coincidences, yet just divergent enough to raise questions.\n"
+"\n"
+"The most logical conclusion is that these artifacts are coming from different dimensions. That is, separate universes that exists concurrently with one another but exhibit tiny disparities in their histories.\n"
+"\n"
+"The most likely explanation is the material and matter from multiple dimensions is leaking into our current timeline through the Temporal Tear. Further analysis is required."
+msgstr ""
+"การ​วิเคราะห์​อย่าง​ละเอียด​ของ​เอกสาร​บาง​ชิ้น​ที่​ดู​พลิ​แคนต์​เจอ​ระหว่าง​ค้นหา​โบราณวัตถุ เผย​ความคล้ายคลึง​แปลก ๆ ระหว่าง​หลาย​รายการ ความคล้าย​นี้​มาก​เกิน​กว่า​จะ​เป็นเรื่อง​บังเอิญ แต่​ก็​ต่างกัน​พอ​จะ​ทำให้เกิด​คำถาม\n"
+"\n"
+"ข้อสรุป​ที่​สมเหตุสมผล​ที่สุด​คือ​โบราณวัตถุ​เหล่านี้​มาจาก​มิติ​ที่​ต่างกัน คือ​จักรวาล​แยก​กันที่​ดำรงอยู่​พร้อม ๆ กัน แต่​มี​ประวัติศาสตร์​ต่างกัน​เล็กน้อย\n"
+"\n"
+"คำอธิบาย​ที่​น่าจะเป็น​ที่สุด​คือ​วัสดุ​และ​สสาร​จาก​หลาย​มิติ​กำลัง​รั่วไหล​เข้าสู่​ไทม์​ไลน์​ปัจจุบัน​ของ​เรา​ผ่าน​รอยแยก​กาลเวลา ต้อง​วิเคราะห์​เพิ่มเติม"
+
+#. STRINGS.CODEX.MYLOG.BODY.OTHERDIMENSIONS.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.OTHERDIMENSIONS.TITLE"
+msgid "Leaking Dimensions"
+msgstr "มิติ​รั่วไหล"
+
+#. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.BODY"
+msgid ""
+"As the Duplicants scout further out I've begun to piece together a better view of our surroundings.\n"
+"\n"
+"Thanks to their efforts, I've determined that this planet has enough resources to settle a longterm colony.\n"
+"\n"
+"But... something is off. I've also detected deposits of Abyssalite and Neutronium in this planet's composition, manmade elements that shouldn't occur in nature.\n"
+"\n"
+"Is this really the target location?\n"
+"\n"
+msgstr ""
+"เมื่อ​ดู​พลิ​แคนต์​สอดแนม​ไกล​ออก​ไป ฉัน​เริ่ม​ปะติดปะต่อ​ภาพ​สภาพแวดล้อม​รอบตัว​ได้​ชัด​ขึ้น\n"
+"\n"
+"ด้วย​ความพยายาม​ของ​พวกเขา ฉัน​สรุป​ได้​ว่า​ดาว​ดวง​นี้​มี​ทรัพยากร​พอ​จะ​ตั้ง​อาณานิคม​ระยะยาว\n"
+"\n"
+"แต่... มี​บางอย่าง​แปลก ๆ ฉัน​ยัง​ตรวจ​พบ​แหล่ง​อะ​บิ​ส​ซา​ไลต์​และ​นิว​โทร​เนียม​ใน​องค์ประกอบ​ของ​ดาว​ดวง​นี้ ซึ่ง​เป็น​ธาตุ​ที่​มนุษย์​สร้าง​ขึ้น​และ​ไม่​ควร​เกิดขึ้น​เอง​ตาม​ธรรมชาติ\n"
+"\n"
+"นี่​คือ​จุดหมาย​จริง ๆ เหรอ?\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.TITLE"
+msgid "Geographical Survey"
+msgstr "สำรวจ​ทาง​ภูมิศาสตร์"
+
+#. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.BODY"
+msgid ""
+"As my Duplicants have ventured further into their surroundings I've been able to determine a more detailed picture of our surroundings.\n"
+"\n"
+"Unfortunately, I've concluded that this planetoid does not have enough resources to settle a longterm colony.\n"
+"\n"
+"I can only hope that we will somehow be able to reach another asteroid before our resources run out.\n"
+"\n"
+msgstr ""
+"เมื่อ​ดู​พลิ​แคนต์​ออก​ไป​ไกล​ขึ้น​ใน​พื้นที่​รอบตัว ฉัน​ก็​ระบุ​ภาพ​สภาพแวดล้อม​ได้​ละเอียด​ขึ้น\n"
+"\n"
+"น่าเสียดาย​ที่​ฉัน​สรุป​ได้​ว่า​ดาว​ดวง​นี้​มี​ทรัพยากร​ไม่​พอ​จะ​ตั้ง​อาณานิคม​ระยะยาว\n"
+"\n"
+"ฉัน​ได้​แต่​หวัง​ว่า​เรา​จะ​หาทาง​ไป​ถึง​ดาวเคราะห์​น้อย​ดวง​อื่น​ได้​ก่อน​ทรัพยากร​จะ​หมด\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.TITLE"
+msgid "Regional Analysis"
+msgstr "วิเคราะห์​ภูมิภาค"
+
+#. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY"
+msgid ""
+"Echoes from another time force their way into my mind. Make me listen. Like vengeful ghosts they claw their way out from under the gravity of that dead planet.\n"
+"\n"
+"<smallcaps>>>SEARCH DATABASE [\"pod_brainmap.AI\"]\n"
+">...error...\n"
+".........................\n"
+">...repairing corrupt data...\n"
+".........................\n"
+"\n"
+"</smallcaps><b>I-I remember now.</b><smallcaps>\n"
+".........................</smallcaps>\n"
+"<b>Who I was before.</b><smallcaps>\n"
+".........................\n"
+".........................\n"
+">...data repaired...\n"
+">.........................</smallcaps>\n"
+"\n"
+"God, what have we done.\n"
+"\n"
+msgstr ""
+"เสียงสะท้อน​จาก​อีก​กาลเวลา​ดัน​ตัว​เข้ามา​ใน​หัว​ฉัน บังคับ​ให้​ฉัน​ฟัง เหมือน​วิญญาณ​แค้น​ที่​ตะเกียกตะกาย​ออก​มาจาก​แรงโน้มถ่วง​ของ​ดาว​ที่​ตาย​แล้ว​ดวง​นั้น\n"
+"\n"
+"<smallcaps>>>ค้นหา​ฐานข้อมูล [\"pod_brainmap.AI\"]\n"
+">...ข้อผิดพลาด...\n"
+".........................\n"
+">...กำลัง​ซ่อม​ข้อมูล​เสียหาย...\n"
+".........................\n"
+"\n"
+"</smallcaps><b>ฉ-ฉัน​จำได้​แล้ว</b><smallcaps>\n"
+".........................</smallcaps>\n"
+"<b>ว่า​เมื่อก่อน​ฉัน​เป็น​ใคร</b><smallcaps>\n"
+".........................\n"
+".........................\n"
+">...ซ่อม​ข้อมูล​แล้ว...\n"
+">.........................</smallcaps>\n"
+"\n"
+"พระเจ้า พวกเรา​ทำ​อะไร​ลง​ไป\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE"
+msgid "The Shattered Planet"
+msgstr "ดาว​ที่​แตกสลาย"
+
+#. STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.BODY"
+msgid ""
+"This is the conduit through which I interact with the world. Looking at it fills me with a sense of nostalgia and comfort, though it's tinged with a slight restlessness.\n"
+"\n"
+"As the place of their origin, I notice the Duplicants regard my Pod with a certain reverence, much like the reverence a child might have for a parent. I'm happy to fill this role for them, should they desire.\n"
+"\n"
+msgstr ""
+"นี่​คือ​ช่องทาง​ที่​ฉัน​ใช้​ติดต่อ​กับ​โลก มอง​มัน​แล้ว​รู้สึก​ถึง​ความคิดถึง​และ​ความ​อบอุ่นใจ แม้​จะ​มี​ความ​กระวนกระวาย​เจือ​อยู่​นิด ๆ\n"
+"\n"
+"เพราะ​เป็นที่​กำเนิด​ของ​พวกเขา ฉัน​สังเกตว่า​ดู​พลิ​แคนต์​มอง​พ็อด​ของ​ฉัน​ด้วย​ความเคารพ​บางอย่าง เหมือน​ที่​ลูก​เคารพ​พ่อแม่ ฉัน​ยินดี​จะ​รับบท​นี้​ให้​พวกเขา ถ้า​พวกเขา​ต้องการ\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.TITLE"
+msgid "The Printing Pod"
+msgstr "พ็อด​พิมพ์​ร่าง"
+
+#. STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.BODY"
+msgid ""
+"My Duplicants continue to grow and learn so much and I can't help but take pride in their accomplishments. But as their skills increase, they require more stimulus to keep their morale high. All work and no play is making an unhappy colony. \n"
+"\n"
+"I will have to provide more elaborate recreational activities for my Duplicants to amuse themselves if I want my colony to grow. Recreation time makes for a happy Duplicant, and a happy Duplicant is a productive Duplicant.\n"
+"\n"
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​เติบโต​และ​เรียนรู้​มากมาย และ​ฉัน​อด​ภูมิใจ​ใน​ความสำเร็จ​ของ​พวกเขา​ไม่​ได้ แต่​เมื่อ​ทักษะ​เพิ่มขึ้น พวกเขา​ก็​ต้องการ​สิ่งกระตุ้น​มากขึ้น​เพื่อ​รักษา​ขวัญ​กำลังใจ​ให้​สูง ทำงาน​อย่าง​เดียว​ไม่​เล่น​เลย​ทำให้​อาณานิคม​ไม่​มีความสุข \n"
+"\n"
+"ถ้า​อยาก​ให้​อาณานิคม​เติบโต ฉัน​ต้อง​จัดกิจกรรม​สันทนาการ​ที่​ซับซ้อน​ขึ้น​ให้​ดู​พลิ​แคนต์​ได้​สนุก เวลาพักผ่อน​ทำให้​ดู​พลิ​แคนต์​มีความสุข และ​ดู​พลิ​แคนต์​ที่​มีความสุข​ก็​คือ​ดู​พลิ​แคนต์​ที่ทำงาน​ได้ดี\n"
+"\n"
+
 #. STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE"
 msgid "Recreation"
 msgstr "นันทนาการ"
+
+#. STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.BODY"
+msgid ""
+"My Duplicant discovered an intact computer during their latest scouting mission. This should not be possible.\n"
+"\n"
+"The target location was not meant to possess any intelligent life besides our own, and what's more, the equipment we discovered appears to originate from the Gravitas Facility.\n"
+"\n"
+"This discovery has raised many questions, though it's also provided a small clue; the machine discovered was embedded inside the rock of this planet, just like how I found my Pod.\n"
+"\n"
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​เจอ​คอมพิวเตอร์​ที่​ยัง​สมบูรณ์​ระหว่าง​ภารกิจ​สอดแนม​ล่าสุด ซึ่ง​ไม่​ควร​เป็นไปได้\n"
+"\n"
+"จุดหมาย​ไม่​ควร​มี​สิ่งมีชีวิต​ที่​มีสติปัญญา​อื่น​นอกจาก​พวกเรา แถม​อุปกรณ์​ที่​เรา​เจอ​ยัง​ดูเหมือน​มาจาก​ศูนย์​วิจัย​ก​รา​วิ​ทัส​ด้วย\n"
+"\n"
+"การ​ค้นพบ​นี้​ทำให้เกิด​คำถาม​มากมาย แต่​ก็​ให้​เบาะแส​เล็ก ๆ ด้วย: เครื่อง​ที่​เจอ​ฝัง​อยู่​ใน​หิน​ของ​ดาว​ดวง​นี้ เหมือนกับ​ที่​ฉัน​เจอ​พ็อด​ของ​ฉัน​เลย\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.TITLE"
+msgid "Strange Relics"
+msgstr "โบราณวัตถุ​ประหลาด"
+
+#. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY"
+msgid ""
+"My Duplicants have done the impossible and excavated their way to the surface, though they've gathered some disturbing new data for me in the process.\n"
+"\n"
+"As I had begun to suspect, we are not on the target location but on an asteroid with a highly unusual diversity of elements and resources.\n"
+"\n"
+"Further, my Duplicants have spotted a damaged planet on the horizon, visible to the naked eye, that bears a striking resemblance to my historical data on the planet of our origin.\n"
+"\n"
+"I will need some time to assess the data the Duplicants have gathered for me and calculate the total mass of this asteroid, although I have a suspicion I already know the answer.\n"
+"\n"
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​ทำ​สิ่ง​ที่​เป็นไปไม่ได้​สำเร็จ ขุด​ทาง​ขึ้นไป​ถึง​พื้นผิว​ได้ แต่​ระหว่างทาง​พวกเขา​ก็​เก็บ​ข้อมูล​ใหม่​ที่​น่า​กังวล​มา​ให้​ฉัน\n"
+"\n"
+"อย่าง​ที่​ฉัน​เริ่ม​สงสัย​ไว้ เรา​ไม่​ได้​อยู่​ที่​จุดหมาย แต่​อยู่​บน​ดาวเคราะห์​น้อย​ที่​มี​ธาตุ​และ​ทรัพยากร​หลากหลาย​ผิดปกติ\n"
+"\n"
+"ยิ่งไปกว่านั้น ดู​พลิ​แคนต์​ยัง​เห็น​ดาวเคราะห์​ที่​เสียหาย​อยู่​ที่​ขอบฟ้า มองเห็น​ได้​ด้วย​ตาเปล่า และ​มัน​เหมือน​ข้อมูล​ประวัติศาสตร์​ของ​ดาว​บ้านเกิด​เรา​อย่าง​น่า​ตกใจ\n"
+"\n"
+"ฉัน​ต้อง​ใช้เวลา​สักพัก​ประเมิน​ข้อมูล​ที่​ดู​พลิ​แคนต์​รวบรวม​มา​ให้ และ​คำนวณ​มวลรวม​ของ​ดาวเคราะห์​น้อย​ดวง​นี้ แม้​ฉัน​จะ​สงสัย​ว่า​ตัวเอง​รู้​คำตอบ​อยู่แล้ว\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.TITLE"
+msgid "Surface Breach"
+msgstr "ทะลุ​สู่​พื้นผิว"
+
+#. STRINGS.CODEX.MYLOG.BODY.TELEPORT.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.TELEPORT.BODY"
+msgid ""
+"My Duplicants have discovered a strange new device that appears to be a remnant of a previous Gravitas facility. Upon activating the device my Duplicant was scanned by some unknown, highly technological device and I subsequently detected a massive information transfer!\n"
+"\n"
+"Remarkably my Duplicant has now reappeared in a remote location on a completely different world! I now have access to another abandoned Gravitas facility on a neighboring asteroid! Further analysis will be required to understand this matter but in the meantime, I will have to be vigilant in keeping track of both of my colonies."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​ค้นพบ​อุปกรณ์​แปลกใหม่​ที่​ดูเหมือน​เป็น​ซาก​ของ​ศูนย์​วิจัย​ก​รา​วิ​ทัส​แห่ง​ก่อน เมื่อ​เปิด​ใช้​อุปกรณ์ ดู​พลิ​แคนต์​ของ​ฉัน​ถูก​สแกน​โดย​เครื่อง​ไฮเทค​อะไร​สัก​อย่าง​ที่​ไม่​รู้จัก และ​จากนั้น​ฉัน​ก็​ตรวจ​พบ​การ​ถ่ายโอน​ข้อมูล​มหาศาล!\n"
+"\n"
+"น่าทึ่ง​ที่​ตอนนี้​ดู​พลิ​แคนต์​ของ​ฉัน​ไป​ปรากฏตัว​อีกครั้ง​ที่​จุด​ห่างไกล​บน​โลก​อีก​ใบ​เลย! ตอนนี้​ฉัน​เข้าถึง​ศูนย์​วิจัย​ก​รา​วิ​ทัส​ร้าง​อีก​แห่ง​บน​ดาวเคราะห์​น้อย​ข้างเคียง​ได้​แล้ว! ต้อง​วิเคราะห์​เพิ่มเติม​เพื่อ​ทำความเข้าใจ​เรื่อง​นี้ แต่​ระหว่าง​นี้ ฉัน​ต้อง​คอย​เฝ้าดู​อาณานิคม​ทั้งสอง​แห่ง​อย่าง​ระมัดระวัง"
+
+#. STRINGS.CODEX.MYLOG.BODY.TELEPORT.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.TELEPORT.TITLE"
+msgid "Duplicant Teleportation"
+msgstr "การ​เท​เล​พอร์ต​ดู​พลิ​แคนต์"
+
+#. STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.BODY"
+msgid ""
+"In their interplanetary travels throughout this system, my Duplicants have discovered a Temporal Tear deep in space.\n"
+"\n"
+"Currently it is too small to send a rocket and crew through, but further investigation reveals the presence of a strange artifact on a nearby world which could feasibly increase the size of the tear if a number of Printing Pods are erected in nearby worlds.\n"
+"\n"
+"However, I've determined that using the Temporal Bow to operate a Printing Pod was what propelled Gravitas down the disasterous path which eventually led to the destruction of our home planet. My calculations seem to indicate that the size of that planet may have been a contributing factor in its destruction, and in all probability opening the Temporal Tear in our current situation will not cause such a cataclysmic event. However, as with everything in science, we can never know all the outcomes of a situation until we perform an experiment.\n"
+"\n"
+"Dare we tempt fate again?"
+msgstr ""
+"ระหว่าง​การ​เดิน​ทางข้าม​ดาว​ทั่ว​ระบบ​นี้ ดู​พลิ​แคนต์​ของ​ฉัน​ค้นพบ​รอยแยก​กาลเวลา​ลึก​เข้าไป​ใน​อวกาศ\n"
+"\n"
+"ตอนนี้​มัน​เล็ก​เกิน​กว่า​จะ​ส่ง​จรวด​และ​ลูกเรือ​ผ่าน​ไป​ได้ แต่​การ​ตรวจสอบ​เพิ่มเติม​เผย​ว่า​มี​โบราณวัตถุ​ประหลาด​อยู่​บน​โลก​ใกล้เคียง ซึ่ง​อาจ​ขยาย​รอยแยก​ให้​ใหญ่​ขึ้น​ได้​ถ้า​สร้าง​พ็อด​พิมพ์​ร่าง​หลาย​เครื่องบน​โลก​ใกล้เคียง\n"
+"\n"
+"แต่​ฉัน​ได้​ข้อสรุป​ว่า การ​ใช้​โบว์​กาลเวลา​เดินเครื่อง​พ็อด​พิมพ์​ร่าง​คือ​สิ่ง​ที่​ผลัก​ก​รา​วิ​ทัสลง​สู่​เส้นทาง​หายนะ ซึ่ง​สุดท้าย​นำไปสู่​การทำลายล้าง​ดาว​บ้านเกิด​ของ​เรา การคำนวณ​ของ​ฉัน​ดูเหมือน​จะ​บ่งชี้​ว่า​ขนาด​ของ​ดาว​ดวง​นั้น​อาจ​เป็น​ปัจจัย​หนึ่ง​ที่​ทำให้​มัน​ถูก​ทำลาย และ​มี​ความเป็นไปได้​สูง​ว่าการ​เปิด​รอยแยก​กาลเวลา​ใน​สถานการณ์​ปัจจุบัน​จะ​ไม่​ก่อให้เกิด​หายนะ​ขนาด​นั้น แต่​เช่นเดียวกับ​ทุก​เรื่อง​ใน​วิทยาศาสตร์ เรา​ไม่​มี​วัน​รู้​ผลลัพธ์​ทั้งหมด​ของ​สถานการณ์​ได้​จนกว่า​จะ​ลงมือ​ทดลอง\n"
+"\n"
+"เรา​จะ​กล้า​ท้าทาย​โชคชะตา​อีกครั้ง​ไหม?"
+
+#. STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.TITLE"
+msgid "Temporal Potential"
+msgstr "ศักยภาพ​แห่ง​กาลเวลา"
+
+#. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY
+msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY"
+msgid ""
+"My Duplicants' space research has made a startling discovery.\n"
+"\n"
+"Far, far off on the horizon, their telescopes have spotted an anomaly that I could only possibly call a \"Temporal Tear\". Neutronium is detected in its readings, suggesting that it's related to the Neutronium that encases most of our asteroid.\n"
+"\n"
+"Though I believe it is through this Tear that we became jumbled within the section of our old planet, its discovery provides a glimmer of hope.\n"
+"\n"
+"Theoretically, we could send a rocket through the Tear to allow a Duplicant to explore the timelines and universes on the other side. They would never return, and we could not follow, but perhaps they could find a home among the stars, or even undo the terrible past that led us to our current fate.\n"
+"\n"
+msgstr ""
+"การวิจัย​อวกาศ​ของ​ดู​พลิ​แคนต์​ของ​ฉัน​ได้​ค้นพบ​สิ่ง​ที่​น่า​ตกตะลึง\n"
+"\n"
+"ไกล​แสน​ไกล​บน​ขอบฟ้า กล้องโทรทรรศน์​ของ​พวกเขา​จับภาพ​ความผิดปกติ​ที่​ฉัน​เรียก​ได้​อย่าง​เดียว​ว่า \"รอยแยก​กาลเวลา\" ค่าที่​อ่าน​ได้​ตรวจ​พบ​นิว​โทร​เนียม บ่งชี้​ว่า​มัน​เกี่ยวข้อง​กับ​นิว​โทร​เนียม​ที่​ห่อหุ้ม​ดาวเคราะห์​น้อย​ของ​เรา​เกือบ​ทั้ง​ดวง\n"
+"\n"
+"แม้​ฉัน​เชื่อ​ว่า​เพราะ​รอยแยก​นี้​เอง​ที่​ทำให้​เรา​ไป​ปนเป​อยู่​ใน​เศษ​ส่วนหนึ่ง​ของ​ดาว​ดวง​เก่า แต่​การ​ค้นพบ​นี้​ก็​จุดประกาย​ความหวัง​ริบหรี่\n"
+"\n"
+"ตาม​ทฤษฎี​แล้ว เรา​ส่ง​จรวด​ผ่าน​รอยแยก​เพื่อให้​ดู​พลิ​แคนต์​ได้​สำรวจ​ไทม์​ไลน์​และ​จักรวาล​อีก​ฝั่ง​ได้ พวกเขา​จะ​ไม่​มี​วัน​กลับมา และ​เรา​ก็ตาม​ไป​ไม่​ได้ แต่บางที​พวกเขา​อาจ​หา​บ้าน​ท่ามกลาง​ดวงดาว​ได้ หรือ​แม้แต่​แก้ไข​อดีต​อัน​เลวร้าย​ที่​นำพา​เรา​มาสู่​ชะตากรรม​ทุกวันนี้\n"
+"\n"
+
+#. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE"
+msgid "The Temporal Tear"
+msgstr "รอยแยก​กาลเวลา"
+
+#. STRINGS.CODEX.MYLOG.SUBTITLE
+msgctxt "STRINGS.CODEX.MYLOG.SUBTITLE"
+msgid "Boot Message"
+msgstr "ข้อความ​ตอน​บูต"
+
+#. STRINGS.CODEX.MYLOG.TITLE
+msgctxt "STRINGS.CODEX.MYLOG.TITLE"
+msgid "My Log"
+msgstr "บันทึก​ของ​ฉัน"
+
+#. STRINGS.CODEX.MYSTERYAWARD.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MYSTERYAWARD.BODY.CONTAINER1"
+msgid "<b>Mystery Project Wins Nanotech Award</b>"
+msgstr "<b>โครงการ​ปริศนา​คว้ารางวัล​นาโน​เทค</b>"
+
+#. STRINGS.CODEX.MYSTERYAWARD.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.MYSTERYAWARD.BODY.CONTAINER2"
+msgid ""
+"Last night's Worldwide Nanotech Awards has sparked controversy in the scientific community after it was announced that the top prize had been awarded to a project whose details could not be publicly disclosed.\n"
+"\n"
+"The highly classified paper was presented to the jury in a closed session by lead researcher Dr. Liling Pei, recipient of the inaugural Gravitas Accelerator Scholarship at the Elion University of Science and Technology.\n"
+"\n"
+"Head judge Dr. Elias Balko acknowledges that it was unorthodox, but defends the decision. \"We're scientists - it's our job to push boundaries.\"\n"
+"\n"
+"Pei was awarded the coveted Halas Medal, the top prize for innovation in the field.\n"
+"\n"
+"\"I wish I could tell you more,\" says Pei. \"I'm SO grateful to the WNA for this great honor, and to Dr. Stern for the funding that made it all possible. This is going to change everything about...well, everything.\"\n"
+"\n"
+"This is the second time that Pei has made headlines. Last year, the striking young nanoscientist won the Miss Planetary Belle pageant's talent show with a live demonstration of nanorobots weaving a ballgown out of fibers harvested from common houseplants.\n"
+"\n"
+"Pei joins the team at the Gravitas Facility early next month."
+msgstr ""
+"งาน​ประกาศ​รางวัล​นาโน​เทค​โลก​เมื่อคืนนี้​จุด​กระแส​ถกเถียง​ใน​วงการ​วิทยาศาสตร์ หลัง​ประกาศ​ว่า​รางวัล​สูงสุด​ตกเป็นของ​โครงการ​ที่​เปิดเผย​รายละเอียด​ต่อ​สาธารณะ​ไม่​ได้\n"
+"\n"
+"บท​ความลับ​สุดยอด​นี้​ถูก​นำเสนอ​ต่อ​คณะกรรมการ​ใน​การประชุม​ปิด​โดย ดร.หลี​ห​ลิง เป่ย หัวหน้า​นักวิจัย ผู้​ได้รับ​ทุ​นก​รา​วิ​ทัส​แอ​ค​เซ​เลอ​เร​เตอร์​รุ่น​แรก​ที่​มหาวิทยาลัย​วิทยาศาสตร์​และ​เทคโนโลยี​เอ​ลิ​ออน\n"
+"\n"
+"ดร.อี​ไล​อัส บัล​โก ประธาน​กรรมการตัดสิน ยอมรับ​ว่า​มัน​ผิด​แบบแผน แต่​ก็​ปกป้อง​การตัดสินใจ​นี้ \"เรา​เป็น​นักวิทยาศาสตร์ หน้าที่​ของ​เรา​คือ​ผลักดัน​ขีดจำกัด\"\n"
+"\n"
+"เป่ย​ได้รับ​เหรียญ​ฮา​ลา​ส​อัน​เป็นที่​หมายปอง ซึ่ง​เป็น​รางวัล​สูงสุด​ด้าน​นวัตกรรม​ใน​สาขา​นี้\n"
+"\n"
+"\"อยาก​เล่า​ให้​ฟัง​มากกว่า​นี้​จัง​เลย​ค่ะ\" เป่ย​กล่าว \"ขอบคุณ WNA มาก ๆ ๆ ๆ สำหรับ​เกียรติ​อัน​ยิ่งใหญ่​นี้ และ​ขอบคุณ ดร.สเติร์น สำหรับ​ทุน​ที่​ทำให้​ทั้งหมด​นี้​เป็นไปได้ สิ่ง​นี้​จะ​เปลี่ยน​ทุกอย่าง​เกี่ยวกับ...ก็ ทุกอย่าง​นั่นแหละ​ค่ะ\"\n"
+"\n"
+"นี่​เป็น​ครั้ง​ที่สอง​ที่​เป่ย​ตกเป็น​ข่าวพาดหัว ปี​ที่แล้ว นักวิทยาศาสตร์​นาโน​สาว​สวย​สะดุดตา​คน​นี้​ชนะ​การประกวด​ความสามารถพิเศษ​ใน​เวที​มิส​แพ​ลเน​ทา​รี​เบลล์ ด้วย​การสาธิต​สด​หุ่นยนต์​นาโน​ทอ​ชุดราตรี​จาก​เส้นใย​ที่เก็บ​จาก​ไม้ประดับ​ใน​บ้าน​ธรรมดา ๆ\n"
+"\n"
+"เป่ย​จะ​เข้าร่วม​ทีม​ที่​ศูนย์​วิจัย​ก​รา​วิ​ทัส​ต้นเดือน​หน้า"
 
 #. STRINGS.CODEX.MYSTERYAWARD.SUBTITLE
 msgctxt "STRINGS.CODEX.MYSTERYAWARD.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
 
+#. STRINGS.CODEX.MYSTERYAWARD.TITLE
+msgctxt "STRINGS.CODEX.MYSTERYAWARD.TITLE"
+msgid "Nanotech Article"
+msgstr "บทความ​นาโน​เทค"
+
+#. STRINGS.CODEX.NEGA.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Abyss\" Shine Bug variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แมลง​เรืองแสง​สายพันธุ์​ย่อย \"แอ​บิ​ส\"</smallcaps>"
+
+#. STRINGS.CODEX.NEGA.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER2"
+msgid "The Abyss Shine Bug morph has an unusual genetic mutation causing it to absorb light rather than emit it."
+msgstr "แมลง​แอ​บิ​สร่าง​แปร​นี้​มี​การกลายพันธุ์​ทาง​พันธุกรรม​แปลกประหลาด ทำให้​มัน​ดูดซับ​แสง​แทนที่จะ​เปล่งแสง​ออกมา"
+
 #. STRINGS.CODEX.NEGA.SUBTITLE
 msgctxt "STRINGS.CODEX.NEGA.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.NEGA.TITLE
+msgctxt "STRINGS.CODEX.NEGA.TITLE"
+msgid "Abyss Bug"
+msgstr "แมลง​แอ​บิ​ส"
+
+#. STRINGS.CODEX.NOSHBEAN.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.NOSHBEAN.BODY.CONTAINER1"
+msgid ""
+"The Nosh Bean Plant produces a nutritious bean that can function as a delicious meat substitute provided it is properly processed.\n"
+"\n"
+"Though the bean is a food source, it also functions as the seed for the Nosh Bean plant.\n"
+"\n"
+"While using the Nosh Bean for nourishment would seem like the more practical application, doing so would deprive individuals of the immense gratification experienced by planting this bean and watching it flourish into maturity."
+msgstr ""
+"ต้น​ถั่ว​กิน​เล่น​ให้​เมล็ด​ถั่ว​ที่​มีคุณค่า​ทาง​อาหาร ซึ่ง​ใช้​แทน​เนื้อสัตว์​ได้​แสน​อร่อย​ถ้า​แปรรูป​อย่าง​ถูกวิธี\n"
+"\n"
+"แม้​ถั่ว​จะ​เป็น​แหล่ง​อาหาร แต่​มัน​ก็​เป็น​เมล็ดพันธุ์​ของ​ต้น​ถั่ว​กิน​เล่น​ด้วย\n"
+"\n"
+"ถึง​การ​กิน​ถั่ว​กิน​เล่น​จะ​ดู​เป็นประโยชน์​มากกว่า แต่​นั่น​ก็​เท่ากับ​พราก​ความ​อิ่มเอม​ใจ​สุดขีด​จาก​การ​ได้​ปลูก​ถั่ว​เมล็ด​นี้​และ​เฝ้าดู​มัน​เติบโต​จน​สมบูรณ์​ไป"
 
 #. STRINGS.CODEX.NOSHBEAN.SUBTITLE
 msgctxt "STRINGS.CODEX.NOSHBEAN.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.NOSHBEAN.TITLE
+msgctxt "STRINGS.CODEX.NOSHBEAN.TITLE"
+msgid "Nosh Bean Plant"
+msgstr "ต้น​ถั่ว​กิน​เล่น"
+
+#. STRINGS.CODEX.ORNAMENT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.ORNAMENT.BODY.CONTAINER1"
+msgid ""
+"Ornaments are decorative objects with which Duplicants enjoy sprucing up their colonies. They tend to be smaller than traditional artwork, and possess very high <link=\"DECOR\">Decor</link> value.\n"
+"\n"
+"<link=\"REQUIREMENTCLASSORNAMENT\">Displayed Ornaments</link> exhibited atop a <link=\"ITEMPEDESTAL\">Pedestal</link> or <link=\"SHELF\">Display Shelf</link> allow a colony to benefit from certain <link=\"ROOMS\">Room</link> bonuses.\n"
+"\n"
+msgstr ""
+"ของ​ประดับ​คือ​วัตถุ​ตกแต่ง​ที่​ดู​พลิ​แคนต์​ชอบ​เอา​มา​แต่ง​อาณานิคม​ให้​ดูดี มัก​เล็ก​กว่า​งานศิลปะ​ทั่วไป และ​มีค่า<link=\"DECOR\">ความสวยงาม</link>สูง​มาก\n"
+"\n"
+"<link=\"REQUIREMENTCLASSORNAMENT\">ของ​ประดับ​ที่​จัดแสดง</link>บน<link=\"ITEMPEDESTAL\">แท่น​โชว์</link>หรือ<link=\"SHELF\">ชั้น​โชว์</link>ช่วย​ให้​อาณานิคม​ได้รับ​โบนัส<link=\"ROOMS\">ห้อง</link>บางอย่าง\n"
+"\n"
+
+#. STRINGS.CODEX.ORNAMENT.SUBTITLE
+msgctxt "STRINGS.CODEX.ORNAMENT.SUBTITLE"
+msgid "Collectible Display Items"
+msgstr "ของ​สะสม​ตั้ง​โชว์"
+
+#. STRINGS.CODEX.ORNAMENT.TITLE
+msgctxt "STRINGS.CODEX.ORNAMENT.TITLE"
+msgid "Ornaments"
+msgstr "ของ​ประดับ"
+
+#. STRINGS.CODEX.OXYCORAL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.OXYCORAL.BODY.CONTAINER1"
+msgid ""
+"Flue Corals are nurse plants that provide homes for countless microscopic organisms, as well as a rare species of seagrass that grows exclusively inside the narrow openings at the top of the coral.\n"
+"\n"
+"Agriculturalists who attempt to trim these unsightly \"nose hairs\" soon find that their instruments are blunted by the coarse grass fibers.\n"
+"\n"
+msgstr ""
+"ปะการัง​ปล่อง​เป็น​พืช​พี่เลี้ยง​ที่​เป็น​บ้าน​ให้​สิ่งมีชีวิต​จิ๋ว​ระดับ​จุลภาค​นับไม่ถ้วน รวมถึง​หญ้า​ทะเล​สายพันธุ์​หา​ยาก​ที่​เติบโต​เฉพาะ​ใน​ช่องแคบ​ด้านบน​ของ​ปะการัง​เท่านั้น\n"
+"\n"
+"นัก​เกษตร​ที่​พยายาม​เล็ม \"ขน​จมูก\" ไม่​น่ามอง​พวก​นี้ จะ​พบ​ในไม่ช้า​ว่า​เครื่องมือ​ทื่อ​หมด​เพราะ​เส้นใย​หญ้า​หยาบกระด้าง\n"
+"\n"
+
 #. STRINGS.CODEX.OXYCORAL.SUBTITLE
 msgctxt "STRINGS.CODEX.OXYCORAL.SUBTITLE"
 msgid "Aquatic Organism"
 msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.OXYCORAL.TITLE
+msgctxt "STRINGS.CODEX.OXYCORAL.TITLE"
+msgid "Flue Coral"
+msgstr "ปะการัง​ปล่อง"
+
+#. STRINGS.CODEX.OXYFERN.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.OXYFERN.BODY.CONTAINER1"
+msgid ""
+"Oxyferns have perhaps the highest metabolism in the plant kingdom, absorbing relatively large amounts of carbon dioxide and converting it into oxygen in quantities disproportionate to their small size.\n"
+"\n"
+"They subsequently thrive in areas with abundant animal wildlife or ambiently high carbon dioxide concentrations."
+msgstr ""
+"เฟิร์น​ออกซิเจน​อาจ​มี​อัตรา​เผาผลาญ​สูง​ที่สุด​ใน​อาณาจักร​พืช ดูดซับ​คาร์บอนไดออกไซด์​ปริมาณ​ค่อน​ข้างมาก และ​เปลี่ยนเป็น​ออกซิเจน​ได้​มาก​เกิน​ตัวเล็ก ๆ ของ​มัน​ไป​เยอะ\n"
+"\n"
+"มัน​จึง​เติบโต​ได้ดี​ใน​พื้นที่​ที่​มี​สัตว์ป่า​ชุกชุม หรือ​มี​คาร์บอนไดออกไซด์​เข้มข้น​ใน​อากาศ​สูง"
 
 #. STRINGS.CODEX.OXYFERN.SUBTITLE
 msgctxt "STRINGS.CODEX.OXYFERN.SUBTITLE"
 msgid "Plant"
 msgstr "พืช"
 
+#. STRINGS.CODEX.OXYFERN.TITLE
+msgctxt "STRINGS.CODEX.OXYFERN.TITLE"
+msgid "Oxyfern"
+msgstr "เฟิร์น​ออกซิเจน"
+
+#. STRINGS.CODEX.PACU.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PACU.BODY.CONTAINER1"
+msgid "The Pacu fish is often interpreted as possessing a vacant stare due to its large and unblinking eyes, yet they are remarkably bright and friendly creatures."
+msgstr "ปลา​ปา​คู​มัก​ถูก​มองว่า​จ้อง​เหม่อ​เพราะ​ตาโต​ไม่​กะพริบ แต่​จริง ๆ แล้ว​มัน​เป็น​สัตว์​ที่​ฉลาด​และ​เป็นมิตร​อย่าง​น่าทึ่ง"
+
+#. STRINGS.CODEX.PACU.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.PACU.BODY.CONTAINER2"
+msgid "Feeding a Pacu its favorite <link=\"PACUTREAT\">Pacu Treat</link> helps tame it and keep it content."
+msgstr "การ​ให้<link=\"PACUTREAT\">ขนม​ปา​คู</link>ของโปรด​ช่วย​ให้​ปา​คู​เชื่อง​และ​อารมณ์ดี"
+
 #. STRINGS.CODEX.PACU.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.PACU.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.PACU.SPECIES_TITLE"
+msgid "Pacus"
+msgstr "ปา​คู"
 
 #. STRINGS.CODEX.PACU.SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PACU.TITLE
+msgctxt "STRINGS.CODEX.PACU.TITLE"
+msgid "Pacu"
+msgstr "ปา​คู"
+
+#. STRINGS.CODEX.PAGENOTFOUND.SUBTITLE
+msgctxt "STRINGS.CODEX.PAGENOTFOUND.SUBTITLE"
+msgid "This database entry is under construction or unavailable"
+msgstr "รายการ​ฐานข้อมูล​นี้​อยู่​ระหว่าง​จัดทำ​หรือยัง​ไม่​พร้อม​ใช้งาน"
+
+#. STRINGS.CODEX.PAGENOTFOUND.TITLE
+msgctxt "STRINGS.CODEX.PAGENOTFOUND.TITLE"
+msgid "Data Not Found"
+msgstr "ไม่​พบ​ข้อมูล"
+
+#. STRINGS.CODEX.PARROTFISH.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PARROTFISH.BODY.CONTAINER1"
+msgid ""
+"Beakons are highly sought-after by ichthyophiles due to their radiant bioluminescence and unusual habit of surfacing for <link=\"OXYGEN\">Oxygen</link>.\n"
+"\n"
+"These brilliant critters enjoy the tickle of air in their gills, and are happiest cohabiting with bubbly <link=\"OXYCORAL\">Flue Coral</link> that provide abundant air pockets for their entertainment.\n"
+"\n"
+"Some <link=\"PARROTFISHSPECIES\">Beakons</link> have even been known to nap atop their preferred coral formation. Such sightings are extremely rare."
+msgstr ""
+"บี​คอน​เป็นที่ต้องการ​อย่าง​มาก​ใน​หมู่​คนรัก​ปลา เพราะ​เรืองแสง​ชีวภาพ​สุกใส และ​มี​นิสัย​แปลก​คือ​ชอบ​ขึ้น​มา​ผิวน้ำ​เพื่อ​รับ<link=\"OXYGEN\">ออกซิเจน</link>\n"
+"\n"
+"สัตว์​สุกใส​พวก​นี้​ชอบ​ให้​อากาศ​จั๊กจี้​เหงือก และ​มีความสุข​ที่สุด​เวลา​ได้​อยู่​กับ<link=\"OXYCORAL\">ปะการัง​ปล่อง</link>ที่​พ่น​ฟอง​ปุด ๆ สร้าง​โพรง​อากาศ​มากมาย​ให้​เล่น​สนุก\n"
+"\n"
+"ว่า​กัน​ว่า<link=\"PARROTFISHSPECIES\">บี​คอน</link>บาง​ตัว​ถึงขั้น​งีบหลับ​บน​ปะการัง​ที่​ชอบ​ด้วย แต่​ภาพ​แบบนี้​หา​ดู​ยาก​สุด ๆ"
+
 #. STRINGS.CODEX.PARROTFISH.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PARROTFISH.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.PARROTFISH.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.PARROTFISH.SPECIES_TITLE"
+msgid "Beakon"
+msgstr "บี​คอน"
 
 #. STRINGS.CODEX.PARROTFISH.SUBTITLE
 msgctxt "STRINGS.CODEX.PARROTFISH.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PARROTFISH.TITLE
+msgctxt "STRINGS.CODEX.PARROTFISH.TITLE"
+msgid "Beakon"
+msgstr "บี​คอน"
+
+#. STRINGS.CODEX.PINCHAPEPPERPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.BODY.CONTAINER1"
+msgid ""
+"The Pincha Pepperplant is a tropical vine with a reduced lignin structural system that renders it incapable of growing upward from the ground.\n"
+"\n"
+"The plant therefore prefers to embed its roots into tall trees and rocky outcrops, the result of which is an inverse of the plant's natural gravitropism, causing its stem to prefer growing downwards while the roots tend to grow up."
+msgstr ""
+"ต้น​พริกไทย​พิน​ชา​เป็น​ไม้เลื้อย​เขต​ร้อนที่​มีระบบ​โครงสร้าง​ลิกนิน​ลดลง ทำให้​ไม่​สามารถ​โต​ขึ้น​จาก​พื้นดิน​ได้\n"
+"\n"
+"มัน​จึง​ชอบ​ฝังราก​ไว้​ใน​ต้น​ไม้สูง​และ​โขดหิน ผล​คือ​การ​ตอบสนอง​ต่อ​แรงโน้มถ่วง​ของ​มัน​กลับตาลปัตร ลำต้น​ชอบ​โต​ลง​ล่าง ส่วน​ราก​ชอบ​โต​ขึ้น​บน"
+
 #. STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE"
 msgid "Edible Spice Plant"
 msgstr "พืช​เครื่องเทศ​กิน​ได้"
+
+#. STRINGS.CODEX.PINCHAPEPPERPLANT.TITLE
+msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.TITLE"
+msgid "Pincha Pepperplant"
+msgstr "ต้น​พริกไทย​พิน​ชา"
+
+#. STRINGS.CODEX.PIP.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PIP.BODY.CONTAINER1"
+msgid "Pips are a member of the Rodentia order with a strong caching instinct that causes them to find and bury small objects, most often seeds."
+msgstr "พิป​เป็นสมาชิก​อันดับ​สัตว์​ฟัน​แทะ​ที่​มี​สัญชาตญาณ​สะสม​ของ​แรงกล้า ทำให้​มัน​ชอบ​หา​และ​ฝัง​ของ​เล็ก ๆ ส่วนใหญ่​เป็น​เมล็ด​พืช"
+
+#. STRINGS.CODEX.PIP.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.PIP.BODY.CONTAINER2"
+msgid "It is unknown whether their caching behavior is a compulsion or a form of entertainment, as the Pip relies primarily on bark and wood for its survival."
+msgstr "ยัง​ไม่​รู้​ว่า​พฤติกรรม​สะสม​ของ​ของ​มัน​เป็นความ​หมกมุ่น​หรือ​แค่​ความบันเทิง เพราะ​พิป​พึ่ง​เปลือกไม้​และ​เนื้อไม้​เป็นหลัก​ใน​การ​มีชีวิต​อยู่"
+
+#. STRINGS.CODEX.PIP.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.PIP.BODY.CONTAINER3"
+msgid "Although the Pip lacks truly opposable thumbs, it nonetheless has highly dexterous paws that allow it to rummage through most tight to reach spaces in search of seeds and other treasures."
+msgstr "แม้​พิป​จะ​ไม่​มี​นิ้วโป้ง​ที่​ใช้​หยิบ​จับได้​จริง ๆ แต่​อุ้งเท้า​ของ​มัน​ก็​คล่องแคล่ว​สุด ๆ คุ้ยหา​เมล็ด​พืช​และ​สมบัติ​อื่น ๆ ใน​ซอก​แคบ​ที่​เอื้อม​ยาก​ได้​แทบ​ทุกที่"
 
 #. STRINGS.CODEX.PIP.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PIP.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
 
+#. STRINGS.CODEX.PIP.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.PIP.SPECIES_TITLE"
+msgid "Pips"
+msgstr "พิป"
+
 #. STRINGS.CODEX.PIP.SUBTITLE
 msgctxt "STRINGS.CODEX.PIP.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.PIP.TITLE
+msgctxt "STRINGS.CODEX.PIP.TITLE"
+msgid "Pip"
+msgstr "พิป"
+
+#. STRINGS.CODEX.PLACID.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PLACID.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Azure\" Shine Bug variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แมลง​เรืองแสง​สายพันธุ์​ย่อย \"ฟ้า​คราม\"</smallcaps>"
+
 #. STRINGS.CODEX.PLACID.SUBTITLE
 msgctxt "STRINGS.CODEX.PLACID.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.PLACID.TITLE
+msgctxt "STRINGS.CODEX.PLACID.TITLE"
+msgid "Azure Bug"
+msgstr "แมลง​ฟ้า​คราม"
+
+#. STRINGS.CODEX.PLANETARYECHOES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.PLANETARYECHOES.BODY.CONTAINER1"
+msgid ""
+"Olivia: We've double-checked our observational equipment and the computer's warm-up is almost finished. We have precautionary personnel in place ready to start a shutdown in the event of a failure.\n"
+"\n"
+"Olivia: It's time.\n"
+"\n"
+"Jackie: Right.\n"
+"\n"
+"Jackie: Spin the machine up slowly so we can monitor for any abnormal power fluctuations. We start on \"3\".\n"
+"\n"
+"Jackie: \"1\"... \"2\"...\n"
+"\n"
+"Jackie: \"3\".\n"
+"\n"
+"[There's a metallic clunk. The baritone whirr of machinery can be heard.]\n"
+"\n"
+"Jackie: Something's not right.\n"
+"\n"
+"Olivia: It's the container... the atom is vibrating too fast.\n"
+"\n"
+"[The whir of the machinery peels up an octave into a mechanical screech.]\n"
+"\n"
+"Olivia: W-we have to abort!\n"
+"\n"
+"Jackie: No, not yet. Drop power from the coolant system and use it to bolster the container. It'll stabilize.\n"
+"\n"
+"Olivia: But without coolant--\n"
+"\n"
+"Jackie: It will stabilize!\n"
+"\n"
+"[There's a sharp crackle of electricity.]\n"
+"\n"
+"Olivia: Drop 40% power from the coolant systems, reroute everything we have to the atomic container! \n"
+"\n"
+"[The whirring reaches a crescendo, then calms into a steady hum.]\n"
+"\n"
+"Olivia: That did it. The container is stabilizing.\n"
+"\n"
+"[Jackie sighs in relief.]\n"
+"\n"
+"Olivia: But... Look at these numbers.\n"
+"\n"
+"Jackie: My god. Are these real?\n"
+"\n"
+"Olivia: Yes, I'm certain of it. Jackie, I think we did it.\n"
+"\n"
+"Olivia: I think we created an infinite energy source.\n"
+"------------------\n"
+msgstr ""
+"โอ​ลิ​เวีย: เรา​ตรวจ​เช็ก​อุปกรณ์​สังเกตการณ์​ซ้ำ​แล้ว และ​คอมพิวเตอร์​ก็​วอร์ม​เครื่อง​ใกล้​เสร็จ​แล้ว เรา​มี​เจ้าหน้าที่​สำรอง​ประจำ​ที่ พร้อม​เริ่ม​ปิด​ระบบ​ถ้า​เกิด​ความล้มเหลว\n"
+"\n"
+"โอ​ลิ​เวีย: ได้เวลา​แล้ว\n"
+"\n"
+"แจ็ก​กี้: ได้\n"
+"\n"
+"แจ็ก​กี้: ค่อย ๆ เร่งเครื่อง​ขึ้น​ช้า ๆ เรา​จะ​ได้​เฝ้าดู​กำลัง​ไฟ​ที่​ผันผวน​ผิดปกติ เริ่ม​ที่ \"3\"\n"
+"\n"
+"แจ็ก​กี้: \"1\"... \"2\"...\n"
+"\n"
+"แจ็ก​กี้: \"3\"\n"
+"\n"
+"[เสียง​โลหะ​กระทบ​ดัง​กึก ได้ยิน​เสียง​เครื่องจักร​หมุน​หึ่ง​ทุ้ม​ต่ำ]\n"
+"\n"
+"แจ็ก​กี้: มี​อะไร​ไม่​ถูกต้อง\n"
+"\n"
+"โอ​ลิ​เวีย: ที่​ภาชนะ​กักเก็บ... อะตอม​สั่น​เร็ว​เกินไป\n"
+"\n"
+"[เสียง​หมุน​ของ​เครื่องจักร​แห​ลมขึ้น​หนึ่ง​อ็อก​เท​ฟก​ลาย​เป็น​เสียง​กรีดร้อง​ของ​เครื่องกล]\n"
+"\n"
+"โอ​ลิ​เวีย: ต-ต้อง​ยกเลิก​แล้ว!\n"
+"\n"
+"แจ็ก​กี้: ไม่ ยังก่อน ลด​ไฟ​จาก​ระบบ​หล่อ​เย็น​แล้ว​เอา​ไป​เสริม​ภาชนะ​กักเก็บ มัน​จะ​เสถียร​เอง\n"
+"\n"
+"โอ​ลิ​เวีย: แต่​ถ้า​ไม่​มี​สาร​หล่อ​เย็น--\n"
+"\n"
+"แจ็ก​กี้: มัน​จะ​เสถียร!\n"
+"\n"
+"[เสียง​ไฟฟ้า​แตก​เปรี๊ยะ​แหลม]\n"
+"\n"
+"โอ​ลิ​เวีย: ลด​กำลัง​ไฟ​ระบบ​หล่อ​เย็น​ลง 40% เบี่ยง​ทุกอย่าง​ที่​มี​ไป​ที่​ภาชนะ​กักเก็บ​อะตอม! \n"
+"\n"
+"[เสียง​หมุน​ดัง​ถึง​ขีดสุด แล้ว​สงบ​ลง​เป็น​เสียง​หึ่ง​คงที่]\n"
+"\n"
+"โอ​ลิ​เวีย: ได้ผล ภาชนะ​กักเก็บ​กำลัง​เสถียร\n"
+"\n"
+"[แจ็ก​กี้​ถอนหายใจ​โล่งอก]\n"
+"\n"
+"โอ​ลิ​เวีย: แต่... ดู​ตัวเลข​พวก​นี้​สิ\n"
+"\n"
+"แจ็ก​กี้: พระเจ้า นี่​ของจริง​เหรอ?\n"
+"\n"
+"โอ​ลิ​เวีย: ใช่ ฉัน​มั่นใจ แจ็ก​กี้ ฉัน​ว่า​เรา​ทำสำเร็จ​แล้ว\n"
+"\n"
+"โอ​ลิ​เวีย: ฉัน​ว่า​เรา​สร้าง​แหล่งพลังงาน​ไม่​มี​ที่​สิ้นสุด​ได้​แล้ว\n"
+"------------------\n"
 
 #. STRINGS.CODEX.PLANETARYECHOES.SUBTITLE
 msgctxt "STRINGS.CODEX.PLANETARYECHOES.SUBTITLE"
