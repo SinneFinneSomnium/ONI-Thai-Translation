@@ -40735,40 +40735,653 @@ msgstr ""
 "ในทางกลับกัน การสัมผัส​รังสี​จะ​ฆ่าเชื้อ<link=\"FOODPOISONING\">อาหาร​เป็นพิษ</link> <link=\"SLIMELUNG\">ปอด​เมือก</link> และ<link=\"ZOMBIESPORES\">สปอร์​ซอมบี้</link>บน​พื้นผิว​ได้ (รวมถึง​บน​ตัว​ดู​พลิ​แคนต์​ด้วย)\n"
 "\n"
 
+#. STRINGS.CODEX.RADIATION.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_3"
+msgid ""
+"A <link=\"NUCLEARREACTOR\">Research Reactor</link> will require <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> to run. Uranium can be enriched using a <link=\"URANIUMCENTRIFUGE\">Uranium Centrifuge</link>.\n"
+"\n"
+"Once supplied with <link=\"ENRICHEDURANIUM\">Enriched Uranium</link>, a <link=\"NUCLEARREACTOR\">Research Reactors</link> will create an enormous amount of <link=\"HEAT\">Heat</link> which can then be placed under a source of <link=\"WATER\">Water</link> to produce <link=\"STEAM\">Steam</link>and connected to a <link=\"STEAMTURBINE2\">Steam Turbine</link> to produce a considerable source of <link=\"POWER\">Power</link>.\n"
+"\n"
+msgstr ""
+"<link=\"NUCLEARREACTOR\">เครื่อง​ปฏิกรณ์​วิจัย</link>ต้อง​ใช้<link=\"ENRICHEDURANIUM\">ยูเรเนียม​เสริม​สมรรถนะ</link>ใน​การทำงาน เสริม​สมรรถนะ​ยูเรเนียม​ได้​ด้วย<link=\"URANIUMCENTRIFUGE\">เครื่อง​หมุน​เหวี่ยง​ยูเรเนียม</link>\n"
+"\n"
+"เมื่อ​ได้รับ<link=\"ENRICHEDURANIUM\">ยูเรเนียม​เสริม​สมรรถนะ</link>แล้ว <link=\"NUCLEARREACTOR\">เครื่อง​ปฏิกรณ์​วิจัย</link>จะ​สร้าง<link=\"HEAT\">ความร้อน</link>มหาศาล ซึ่ง​วาง​ไว้​ใต้​แหล่ง<link=\"WATER\">น้ำ</link>เพื่อ​ผลิต<link=\"STEAM\">ไอ​น้ำ</link>และ​ต่อ​กับ<link=\"STEAMTURBINE2\">กังหันไอน้ำ</link>เพื่อ​ผลิต<link=\"POWER\">พลังงาน</link>ได้​มากมาย\n"
+"\n"
+
+#. STRINGS.CODEX.RADIATION.PARAGRAPH_4
+msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_4"
+msgid ""
+"To learn more, see <link=\"MISCELLANEOUSTIPS19\">Tutorial: Radiation</link>.\n"
+"\n"
+msgstr ""
+"อยากรู้​เพิ่มเติม ดู<link=\"MISCELLANEOUSTIPS19\">บท​สอน: รังสี</link>\n"
+"\n"
+
+#. STRINGS.CODEX.RADIATION.TITLE
+msgctxt "STRINGS.CODEX.RADIATION.TITLE"
+msgid "<link=\"RADIATION\">Radiation</link>"
+msgstr "<link=\"RADIATION\">รังสี</link>"
+
+#. STRINGS.CODEX.RAPTOR.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.RAPTOR.BODY.CONTAINER1"
+msgid ""
+"For all their bluster, Rhexes are emotionally sensitive creatures that thrive on positive reinforcement, especially words of affirmation.\n"
+"\n"
+"These sightless apex predators have exceptionally acidic gastric juices that kill most known bacteria and toxins, enabling them to safely digest their prey. This protective mechanism renders them susceptible to chronic ulcers if food is not readily available.\n"
+"\n"
+"The Rhex's tailfeather can be shorn to harvest fibers for textile production. Rhexes don't mind this - some even enjoy it."
+msgstr ""
+"ถึง​จะ​ทำท่า​ขู่​ฟ่อ​ขนาด​ไหน เร็กซ์​ก็​เป็น​สัตว์​อ่อนไหว​ทาง​อารมณ์​ที่​เติบโต​ได้ดี​ด้วย​การ​เสริม​แรง​ทาง​บวก โดยเฉพาะ​คำพูด​ชื่นชม\n"
+"\n"
+"นัก​ล่า​สูงสุด​ตาบอด​พวก​นี้​มี​น้ำย่อย​ใน​กระเพาะ​เป็นกรด​จัด​ผิดปกติ ฆ่า​แบคทีเรีย​และ​สารพิษ​ที่​รู้จัก​ได้​เกือบ​หมด ทำให้​ย่อย​เหยื่อ​ได้​อย่าง​ปลอดภัย กลไก​ป้องกัน​นี้​ทำให้​มัน​เสี่ยง​เป็นแผล​ใน​กระเพาะ​เรื้อรัง​ถ้า​หาอาหาร​ไม่​ได้\n"
+"\n"
+"ตัด​ขน​หาง​ของ​เร็กซ์​เพื่อ​เก็บ​เส้นใย​ไป​ทอผ้า​ได้ เร็กซ์​ไม่​ว่า​อะไร​หรอก บาง​ตัว​ยัง​ชอบ​เสีย​ด้วยซ้ำ"
+
 #. STRINGS.CODEX.RAPTOR.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.RAPTOR.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.RAPTOR.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.RAPTOR.SPECIES_TITLE"
+msgid "Rhexes"
+msgstr "เร็กซ์"
+
+#. STRINGS.CODEX.RAPTOR.SUBTITLE
+msgctxt "STRINGS.CODEX.RAPTOR.SUBTITLE"
+msgid "Carnivorous Critter"
+msgstr "สัตว์กินเนื้อ"
+
+#. STRINGS.CODEX.RAPTOR.TITLE
+msgctxt "STRINGS.CODEX.RAPTOR.TITLE"
+msgid "Rhex"
+msgstr "เร็กซ์"
 
 #. STRINGS.CODEX.RESEARCH.HEADER_1
 msgctxt "STRINGS.CODEX.RESEARCH.HEADER_1"
 msgid "Research"
 msgstr "วิจัย"
 
+#. STRINGS.CODEX.RESEARCH.HEADER_2
+msgctxt "STRINGS.CODEX.RESEARCH.HEADER_2"
+msgid "Research Tasks"
+msgstr "งานวิจัย"
+
+#. STRINGS.CODEX.RESEARCH.HEADER_3
+msgctxt "STRINGS.CODEX.RESEARCH.HEADER_3"
+msgid "Research Types"
+msgstr "ประเภท​การวิจัย"
+
+#. STRINGS.CODEX.RESEARCH.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_1"
+msgid ""
+"Doing research unlocks new types of buildings for the colony. Duplicants can perform research at the <link=\"RESEARCHCENTER\">Research Station</link>.\n"
+"\n"
+msgstr ""
+"การวิจัย​จะ​ปลดล็อก​สิ่งก่อสร้าง​ประเภท​ใหม่​ให้​อาณานิคม ดู​พลิ​แคนต์​ทำ​วิจัย​ได้ที่<link=\"RESEARCHCENTER\">สถานี​วิจัย</link>\n"
+"\n"
+
+#. STRINGS.CODEX.RESEARCH.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_2"
+msgid ""
+"A selected research task is completed once enough research points have been generated at the colony's research stations. Duplicants with high 'Science' attribute scores will generate research points faster than Duplicants with lower scores.\n"
+"\n"
+msgstr ""
+"งานวิจัย​ที่​เลือก​ไว้​จะ​เสร็จ​เมื่อ​สถานี​วิจัย​ของ​อาณานิคม​สร้าง​แต้ม​วิจัย​ได้​มาก​พอ ดู​พลิ​แคนต์​ที่​มีค่า​คุณสมบัติ \"วิทยาศาสตร์\" สูง​จะ​สร้าง​แต้ม​วิจัย​ได้​เร็ว​กว่า​คน​ที่​ค่า​ต่ำกว่า\n"
+"\n"
+
+#. STRINGS.CODEX.RESEARCH.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_3"
+msgid ""
+"Advanced research tasks require special research stations to generate the proper kind of research points. These research stations often consume more advanced resources.\n"
+"\n"
+"Using higher-level research stations also requires Duplicants to have learned higher level research <link=\"ROLES\">skills</link>.\n"
+"\n"
+"Novice Research is performed at the <link=\"RESEARCHCENTER\">Research Station</link>\n"
+"Advanced Research is performed at the <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>\n"
+"Interstellar Research is performed at the <link=\"COSMICRESEARCHCENTER\">Virtual Planetarium</link>\n"
+"\n"
+msgstr ""
+"งานวิจัย​ขั้นสูง​ต้อง​ใช้​สถานี​วิจัย​พิเศษ​เพื่อ​สร้าง​แต้ม​วิจัย​ประเภท​ที่​ถูกต้อง สถานี​วิจัย​พวก​นี้​มัก​ใช้​ทรัพยากร​ขั้นสูง​กว่า\n"
+"\n"
+"การ​ใช้​สถานี​วิจัย​ระดับสูง​ยัง​ต้อง​ให้​ดู​พลิ​แคนต์​เรียน<link=\"ROLES\">ทักษะ</link>วิจัย​ระดับสูง​ด้วย\n"
+"\n"
+"การวิจัย​ขั้นต้น​ทำ​ที่<link=\"RESEARCHCENTER\">สถานี​วิจัย</link>\n"
+"การวิจัย​ขั้นสูง​ทำ​ที่<link=\"ADVANCEDRESEARCHCENTER\">ซูเปอร์​คอมพิวเตอร์</link>\n"
+"การวิจัย​ระหว่าง​ดวงดาว​ทำ​ที่<link=\"COSMICRESEARCHCENTER\">ท้องฟ้า​จำลอง​เสมือน</link>\n"
+"\n"
+
+#. STRINGS.CODEX.RESEARCH.TITLE
+msgctxt "STRINGS.CODEX.RESEARCH.TITLE"
+msgid "<link=\"RESEARCH\">Research</link>"
+msgstr "<link=\"RESEARCH\">การวิจัย</link>"
+
 #. STRINGS.CODEX.RESEARCHDLC1.HEADER_1
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_1"
 msgid "Research"
 msgstr "วิจัย"
+
+#. STRINGS.CODEX.RESEARCHDLC1.HEADER_2
+msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_2"
+msgid "Research Tasks"
+msgstr "งานวิจัย"
+
+#. STRINGS.CODEX.RESEARCHDLC1.HEADER_3
+msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_3"
+msgid "Research Types"
+msgstr "ประเภท​การวิจัย"
+
+#. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_1"
+msgid ""
+"Doing research unlocks new types of buildings for the colony. Duplicants can perform research at the <link=\"RESEARCHCENTER\">Research Station</link>.\n"
+"\n"
+msgstr ""
+"การวิจัย​จะ​ปลดล็อก​สิ่งก่อสร้าง​ประเภท​ใหม่​ให้​อาณานิคม ดู​พลิ​แคนต์​ทำ​วิจัย​ได้ที่<link=\"RESEARCHCENTER\">สถานี​วิจัย</link>\n"
+"\n"
+
+#. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_2"
+msgid ""
+"A selected research task is completed once enough research points have been generated at the colonies research stations. Duplicants with high 'Science' attribute scores will generate research points faster than Duplicants with lower scores.\n"
+"\n"
+msgstr ""
+"งานวิจัย​ที่​เลือก​ไว้​จะ​เสร็จ​เมื่อ​สถานี​วิจัย​ของ​อาณานิคม​สร้าง​แต้ม​วิจัย​ได้​มาก​พอ ดู​พลิ​แคนต์​ที่​มีค่า​คุณสมบัติ \"วิทยาศาสตร์\" สูง​จะ​สร้าง​แต้ม​วิจัย​ได้​เร็ว​กว่า​คน​ที่​ค่า​ต่ำกว่า\n"
+"\n"
+
+#. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3"
+msgid ""
+"Advanced research tasks require special research stations to generate the proper kind of research points. These research stations often consume more advanced resources.\n"
+"\n"
+"Using higher level research stations also requires Duplicants to have learned higher level research <link=\"ROLES\">skills</link>.\n"
+"\n"
+"Novice Research is performed at the <link=\"RESEARCHCENTER\">Research Station</link>\n"
+"Advanced Research is performed at the <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>\n"
+"Interstellar Research is performed at the <link=\"COSMICRESEARCHCENTER\">Virtual Planetarium</link>\n"
+"Applied Sciences Research is performed at the <link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link>\n"
+"Data Analysis Research is performed at the <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link>\n"
+"\n"
+msgstr ""
+"งานวิจัย​ขั้นสูง​ต้อง​ใช้​สถานี​วิจัย​พิเศษ​เพื่อ​สร้าง​แต้ม​วิจัย​ประเภท​ที่​ถูกต้อง สถานี​วิจัย​พวก​นี้​มัก​ใช้​ทรัพยากร​ขั้นสูง​กว่า\n"
+"\n"
+"การ​ใช้​สถานี​วิจัย​ระดับสูง​ยัง​ต้อง​ให้​ดู​พลิ​แคนต์​เรียน<link=\"ROLES\">ทักษะ</link>วิจัย​ระดับสูง​ด้วย\n"
+"\n"
+"การวิจัย​ขั้นต้น​ทำ​ที่<link=\"RESEARCHCENTER\">สถานี​วิจัย</link>\n"
+"การวิจัย​ขั้นสูง​ทำ​ที่<link=\"ADVANCEDRESEARCHCENTER\">ซูเปอร์​คอมพิวเตอร์</link>\n"
+"การวิจัย​ระหว่าง​ดวงดาว​ทำ​ที่<link=\"COSMICRESEARCHCENTER\">ท้องฟ้า​จำลอง​เสมือน</link>\n"
+"การวิจัย​วิทยาศาสตร์ประยุกต์​ทำ​ที่<link=\"NUCLEARRESEARCHCENTER\">เทอร์มินัล​ศึกษา​วัสดุ</link>\n"
+"การวิจัย​วิเคราะห์​ข้อมูล​ทำ​ที่<link=\"ORBITALRESEARCHCENTER\">แล็บ​เก็บ​ข้อมูล​วงโคจร</link>\n"
+"\n"
+
+#. STRINGS.CODEX.RESEARCHDLC1.TITLE
+msgctxt "STRINGS.CODEX.RESEARCHDLC1.TITLE"
+msgid "<link=\"RESEARCHDLC1\">Research</link>"
+msgstr "<link=\"RESEARCHDLC1\">การวิจัย</link>"
+
+#. STRINGS.CODEX.ROBOT_DESCRIPTORS.BATTERY.CAPACITY
+msgctxt "STRINGS.CODEX.ROBOT_DESCRIPTORS.BATTERY.CAPACITY"
+msgid "Battery capacity: <b>{0} J</b>"
+msgstr "ความจุ​แบตเตอรี่: <b>{0} J</b>"
+
+#. STRINGS.CODEX.ROBOT_DESCRIPTORS.STORAGE.CAPACITY
+msgctxt "STRINGS.CODEX.ROBOT_DESCRIPTORS.STORAGE.CAPACITY"
+msgid "Internal storage: <b>{0} kg</b>"
+msgstr "ที่เก็บ​ภายใน: <b>{0} kg</b>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.DESCRIPTION"
+msgid "Buildings that require plumbing in order to remove <link=\"DISEASE\">disease</link>-spreading germs from Duplicant bodies."
+msgstr "สิ่งก่อสร้าง​ที่​ต้อง​ต่อ​ประปา​เพื่อ​กำจัด​เชื้อโรค​ที่​แพร่<link=\"DISEASE\">โรค</link>ออกจาก​ตัว​ดู​พลิ​แคนต์"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.ROOMSREQUIRING"
+msgid "    • <link=\"PLUMBEDBATHROOM\">Washroom</link>"
+msgstr "    • <link=\"PLUMBEDBATHROOM\">ห้องน้ำ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.TITLE"
+msgid "Plumbed Wash Stations"
+msgstr "สถานี​ล้างมือ​แบบ​ต่อ​ประปา"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.CONFLICTINGROOMS
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.CONFLICTINGROOMS"
+msgid ""
+"    • <link=\"BEDROOM\">Luxury Barracks</link> (No <link=\"BED\">Cots</link>)\n"
+"    • <link=\"PRIVATE BEDROOM\">Private Bedroom</link> (No <link=\"BED\">Cots</link>)"
+msgstr ""
+"    • <link=\"BEDROOM\">ห้องนอน​รวม​หรู</link> (ไม่​มี<link=\"BED\">เตียง​พับ</link>)\n"
+"    • <link=\"PRIVATE BEDROOM\">ห้องนอน​ส่วนตัว</link> (ไม่​มี<link=\"BED\">เตียง​พับ</link>)"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.DESCRIPTION"
+msgid "Buildings that allow Duplicants to get much-needed rest. If a Duplicant is not assigned one, they will sleep on the floor."
+msgstr "สิ่งก่อสร้าง​ที่​ให้​ดู​พลิ​แคนต์​ได้​พักผ่อน​อย่าง​ที่​ต้องการ​มาก ถ้า​ดู​พลิ​แคนต์​ไม่​ได้​รับมอบหมาย​เตียง พวกเขา​จะ​นอน​บน​พื้น"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.ROOMSREQUIRING"
+msgid ""
+"    • <link=\"BARRACKS\">Barracks</link>\n"
+"    • <link=\"BEDROOM\">Luxury Barracks</link> (one or more <link=\"LUXURYBED\">Comfy Beds</link>)\n"
+"    • <link=\"PRIVATE BEDROOM\">Private Bedroom</link> (single <link=\"LUXURYBED\">Comfy Bed</link>)"
+msgstr ""
+"    • <link=\"BARRACKS\">ห้องนอน​รวม</link>\n"
+"    • <link=\"BEDROOM\">ห้องนอน​รวม​หรู</link> (มี<link=\"LUXURYBED\">เตียง​นุ่ม</link>ตั้งแต่​หนึ่ง​เตียง​ขึ้นไป)\n"
+"    • <link=\"PRIVATE BEDROOM\">ห้องนอน​ส่วนตัว</link> (มี<link=\"LUXURYBED\">เตียง​นุ่ม</link>เตียง​เดียว)"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.TITLE"
+msgid "<link=\"BEDTYPE\">Beds</link>"
+msgstr "<link=\"BEDTYPE\">เตียง</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.DESCRIPTION"
+msgid "Buildings designed to help sick Duplicants heal and minimize the spread of <link=\"DISEASE\">Disease</link>."
+msgstr "สิ่งก่อสร้าง​ที่​ออกแบบ​มา​ช่วย​ให้​ดู​พลิ​แคนต์​ที่​ป่วย​หาย​ดี​และ​ลด​การ​แพร่<link=\"DISEASE\">โรค</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.ROOMSREQUIRING"
+msgid "    • <link=\"HOSPITAL\">Hospital</link>"
+msgstr "    • <link=\"HOSPITAL\">โรงพยาบาล</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.TITLE"
+msgid "Medical Equipment"
+msgstr "อุปกรณ์การแพทย์"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.DESCRIPTION"
+msgid "Buildings that transform individual ingredients into delicious meals."
+msgstr "สิ่งก่อสร้าง​ที่​เปลี่ยน​วัตถุดิบ​แต่ละ​อย่าง​ให้​เป็น​อาหาร​แสน​อร่อย"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.ROOMSREQUIRING"
+msgid "    • <link=\"KITCHEN\">Kitchen</link>"
+msgstr "    • <link=\"KITCHEN\">ห้องครัว</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.TITLE"
+msgid "<link=\"COOKTOP\">Cooking Stations</link>"
+msgstr "<link=\"COOKTOP\">สถานี​ทำอาหาร</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.DESCRIPTION"
+msgid ""
+"Buildings that give the colony a valuable aesthetic boost, and allow Duplicants to express themselves creatively.\n"
+"\n"
+"Some decor buildings will only be counted as such if they have been appropriately fulfilled. For example, uncarved sculpting blocks and blank canvases do not contribute to a room's status."
+msgstr ""
+"สิ่งก่อสร้าง​ที่​ช่วย​เพิ่ม​ความสวยงาม​อัน​มีค่า​ให้​อาณานิคม และ​ให้​ดู​พลิ​แคนต์​ได้​แสดงออก​ทาง​ความคิดสร้างสรรค์\n"
+"\n"
+"สิ่งก่อสร้าง​ตกแต่ง​บางอย่าง​จะ​นับ​ก็ต่อเมื่อ​ทำ​เสร็จ​สมบูรณ์​แล้ว เช่น ก้อนหิน​แกะสลัก​ที่​ยัง​ไม่​ได้​แกะ​และ​ผืน​ผ้าใบ​เปล่า​จะ​ไม่​ช่วย​เรื่อง​สถานะ​ห้อง"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.ROOMSREQUIRING"
+msgid ""
+"    • <link=\"BEDROOM\">Luxury Barracks</link>\n"
+"    • <link=\"PRIVATE BEDROOM\">Private Bedroom</link>\n"
+"    • <link=\"GREATHALL\">Great Hall</link>\n"
+"    • <link=\"MASSAGECLINIC\">Massage Clinic</link>\n"
+"    • <link=\"RECROOM\">Recreation Room</link>"
+msgstr ""
+"    • <link=\"BEDROOM\">ห้องนอน​รวม​หรู</link>\n"
+"    • <link=\"PRIVATE BEDROOM\">ห้องนอน​ส่วนตัว</link>\n"
+"    • <link=\"GREATHALL\">ห้องโถง​ใหญ่</link>\n"
+"    • <link=\"MASSAGECLINIC\">คลินิก​นวด</link>\n"
+"    • <link=\"RECROOM\">ห้อง​สันทนาการ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.TITLE"
+msgid "<link=\"DECORATION\">Decor Buildings</link>"
+msgstr "<link=\"DECORATION\">สิ่งก่อสร้าง​ตกแต่ง</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.CONFLICTINGROOMS
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.CONFLICTINGROOMS"
+msgid "    • <link=\"GREATERHALL\">Banquet Hall</link> (No Mess Table)\n"
+msgstr "    • <link=\"GREATERHALL\">ห้อง​จัด​เลี้ยง</link> (ไม่​มี​โต๊ะอาหาร)\n"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.DESCRIPTION"
+msgid "Buildings that enable Duplicants to enjoy their meals at a dignified distance from the floor."
+msgstr "สิ่งก่อสร้าง​ที่​ให้​ดู​พลิ​แคนต์​ได้​ทานอาหาร​อย่าง​มีศักดิ์ศรี​ห่าง​จาก​พื้น"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.ROOMSREQUIRING"
+msgid ""
+"    • <link=\"MESSHALL\">Mess Hall</link>\n"
+"    • <link=\"GREATHALL\">Great Hall</link>\n"
+"    • <link=\"GREATERHALL\">Banquet Hall</link> (Communal Table)"
+msgstr ""
+"    • <link=\"MESSHALL\">ห้องอาหาร</link>\n"
+"    • <link=\"GREATHALL\">ห้องโถง​ใหญ่</link>\n"
+"    • <link=\"GREATERHALL\">ห้อง​จัด​เลี้ยง</link> (โต๊ะกินข้าว​รวม)"
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DININGTABLETYPE.TITLE"
 msgid "Dining Tables"
 msgstr "โต๊ะอาหาร"
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.DESCRIPTION"
+msgid "Buildings that give Duplicants a sanitary and dignified place to conduct essential \"business\"...and then flush away the evidence."
+msgstr "สิ่งก่อสร้าง​ที่​ให้​ดู​พลิ​แคนต์​มี​ที่​ทำ \"ธุระ\" สำคัญ​อย่าง​ถูกสุขลักษณะ​และ​มีศักดิ์ศรี...แล้ว​กด​น้ำทิ้ง​หลักฐาน​ไป"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.ROOMSREQUIRING"
+msgid "    • <link=\"PLUMBEDBATHROOM\">Washroom</link>"
+msgstr "    • <link=\"PLUMBEDBATHROOM\">ห้องน้ำ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.TITLE"
+msgid "<link=\"FLUSHTOILETTYPE\">Flush Toilets</link>"
+msgstr "<link=\"FLUSHTOILETTYPE\">ชักโครก</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.DESCRIPTION"
+msgid ""
+"Buildings that generate the <link=\"POWER\">Power</link> required to run machinery in my colony.\n"
+"\n"
+"Basic requirements can be met with an entry-level generator, but heavier-duty buildings are essential to colony development."
+msgstr ""
+"สิ่งก่อสร้าง​ที่​ผลิต<link=\"POWER\">พลังงาน</link>ที่​ใช้​เดิน​เครื่องจักร​ใน​อาณานิคม​ของ​ฉัน\n"
+"\n"
+"ความต้องการ​พื้นฐาน​ใช้​เครื่องปั่นไฟ​ระดับ​เริ่มต้น​ก็​พอ แต่​สิ่งก่อสร้าง​งานหนัก​กว่า​คือ​สิ่งจำเป็น​ต่อ​การพัฒนา​อาณานิคม"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.ROOMSREQUIRING"
+msgid "    • <link=\"POWERPLANT\">Power Plant</link>"
+msgstr "    • <link=\"POWERPLANT\">โรงไฟฟ้า</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.TITLE"
+msgid "<link=\"GENERATORTYPE\">Generators</link>"
+msgstr "<link=\"GENERATORTYPE\">เครื่องปั่นไฟ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.CONFLICTINGROOMS
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.CONFLICTINGROOMS"
+msgid ""
+"    • <link=\"LATRINE\">Latrine</link>\n"
+"    • <link=\"PLUMBEDBATHROOM\">Washroom</link>\n"
+"    • <link=\"BARRACKS\">Barracks</link>\n"
+"    • <link=\"BEDROOM\">Luxury Barracks</link>\n"
+"    • <link=\"PRIVATE BEDROOM\">Private Bedroom</link>\n"
+"    • <link=\"MESSHALL\">Mess Hall</link>\n"
+"    • <link=\"GREATHALL\">Great Hall</link>\n"
+"    • <link=\"MASSAGECLINIC\">Massage Clinic</link>\n"
+"    • <link=\"HOSPITAL\">Hospital</link>\n"
+"    • <link=\"LABORATORY\">Laboratory</link>\n"
+"    • <link=\"RECROOM\">Recreation Room</link>"
+msgstr ""
+"    • <link=\"LATRINE\">ห้องส้วม</link>\n"
+"    • <link=\"PLUMBEDBATHROOM\">ห้องน้ำ</link>\n"
+"    • <link=\"BARRACKS\">ห้องนอน​รวม</link>\n"
+"    • <link=\"BEDROOM\">ห้องนอน​รวม​หรู</link>\n"
+"    • <link=\"PRIVATE BEDROOM\">ห้องนอน​ส่วนตัว</link>\n"
+"    • <link=\"MESSHALL\">ห้องอาหาร</link>\n"
+"    • <link=\"GREATHALL\">ห้องโถง​ใหญ่</link>\n"
+"    • <link=\"MASSAGECLINIC\">คลินิก​นวด</link>\n"
+"    • <link=\"HOSPITAL\">โรงพยาบาล</link>\n"
+"    • <link=\"LABORATORY\">ห้อง​แล็บ</link>\n"
+"    • <link=\"RECROOM\">ห้อง​สันทนาการ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.DESCRIPTION"
+msgid "Buildings that generate power, manufacture equipment, refine resources, and provide other fundamental colony requirements."
+msgstr "สิ่งก่อสร้าง​ที่​ผลิต​พลังงาน ผลิต​อุปกรณ์ แปรรูป​ทรัพยากร และ​ตอบ​สนองความต้องการ​พื้นฐาน​อื่น ๆ ของ​อาณานิคม"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.TITLE"
+msgid "Industrial Machinery"
+msgstr "เครื่องจักร​อุตสาหกรรม"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.DESCRIPTION"
+msgid "Buildings that store perishable <link=\"FOOD\">Food</link> items at <link=\"HEAT\">temperatures</link> that to prevent spoilage."
+msgstr "สิ่งก่อสร้าง​ที่เก็บ<link=\"FOOD\">อาหาร</link>ที่​เน่า​เสียได้​ไว้​ที่<link=\"HEAT\">อุณหภูมิ</link>ที่​ช่วย​ไม่​ให้​เน่า"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.ROOMSREQUIRING"
+msgid "    • <link=\"ROOMSFOOD\">Kitchen</link>"
+msgstr "    • <link=\"ROOMSFOOD\">ห้องครัว</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.TITLE"
+msgid "Refrigerator"
+msgstr "ตู้เย็น"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.DESCRIPTION"
+msgid "Buildings that produce light, either by design or as a result of their primary operations."
+msgstr "สิ่งก่อสร้าง​ที่​ให้​แสงสว่าง ไม่​ว่า​จะ​ออกแบบ​มา​เพื่อ​การ​นั้น​หรือ​เป็น​ผลพลอยได้​จาก​การทำงาน​หลัก"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.ROOMSREQUIRING"
+msgid "    • <link=\"LABORATORY\">Laboratory</link>"
+msgstr "    • <link=\"LABORATORY\">ห้อง​แล็บ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.TITLE"
+msgid "<link=\"LIGHTSOURCE\">Light Sources</link>"
+msgstr "<link=\"LIGHTSOURCE\">แหล่งกำเนิด​แสง</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.NAME
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.NAME"
+msgid "<link=\"BUILDCATEGORYCATEGORY\">Category</link>"
+msgstr "<link=\"BUILDCATEGORYCATEGORY\">หมวดหมู่</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ORNAMENT.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ORNAMENT.DESCRIPTION"
+msgid ""
+"Ornaments are items with exceptionally high <link=\"DECOR\">Decor</link>, and must be displayed on a <link=\"ITEMPEDESTAL\">Pedestal</link> or <link=\"SHELF\">Display Shelf</link> in order to be counted toward a room's requirements.\n"
+"\n"
+"They can be obtained through exploration, excavation, and study. Some are admired in their original form, while others can be reworked or crafted by <link=\"ARTING1\">creative</link> Duplicants."
+msgstr ""
+"ของ​ประดับ​คือ​ไอเทม​ที่​มี<link=\"DECOR\">ความสวยงาม</link>สูง​เป็นพิเศษ และ​ต้อง​จัดแสดง​บน<link=\"ITEMPEDESTAL\">แท่น​โชว์</link>หรือ<link=\"SHELF\">ชั้น​โชว์</link>ถึง​จะ​นับ​เป็น​เงื่อนไข​ของ​ห้อง​ได้\n"
+"\n"
+"หา​ได้​จาก​การสำรวจ การ​ขุด และ​การศึกษา บาง​ชิ้น​สวย​ตั้งแต่​สภาพเดิม บาง​ชิ้น​ดู​พลิ​แคนต์​สาย<link=\"ARTING1\">สร้างสรรค์</link>เอา​ไป​ดัดแปลง​หรือ​ประดิษฐ์​ใหม่​ได้"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ORNAMENT.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ORNAMENT.ROOMSREQUIRING"
+msgid "    • <link=\"BANQUETHALL\">Banquet Hall</link>"
+msgstr "    • <link=\"BANQUETHALL\">ห้อง​จัด​เลี้ยง</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ORNAMENT.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ORNAMENT.TITLE"
+msgid "<link=\"ORNAMENTDISPLAYED\">Displayed Ornaments</link>"
+msgstr "<link=\"ORNAMENTDISPLAYED\">ของ​ประดับ​ที่​จัดแสดง</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.DESCRIPTION"
+msgid "Buildings that generate, manage or store the electrical power a colony needs to thrive and expand."
+msgstr "สิ่งก่อสร้าง​ที่​ผลิต จัดการ หรือ​เก็บ​พลังงานไฟฟ้า​ที่​อาณานิคม​ต้อง​ใช้​ใน​การ​เติบโต​และ​ขยายตัว"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.ROOMSREQUIRING"
+msgid "    • <link=\"POWERPLANT\">Power Plant</link>"
+msgstr "    • <link=\"POWERPLANT\">โรงไฟฟ้า</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.TITLE"
+msgid "<link=\"POWERBUILDING\">Power Buildings</link>"
+msgstr "<link=\"POWERBUILDING\">สิ่งก่อสร้าง​พลังงาน</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.DESCRIPTION"
+msgid "Buildings dedicated to <link=\"CREATURES\">Critter</link> husbandry."
+msgstr "สิ่งก่อสร้าง​สำหรับ​การ​เลี้ยง<link=\"CREATURES\">สัตว์</link>โดยเฉพาะ"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.ROOMSREQUIRING"
+msgid "    • <link=\"CREATUREPEN\">Stable</link>"
+msgstr "    • <link=\"CREATUREPEN\">คอก​สัตว์</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.TITLE"
+msgid "<link=\"RANCHSTATIONTYPE\">Ranching Buildings</link>"
+msgstr "<link=\"RANCHSTATIONTYPE\">สิ่งก่อสร้าง​เลี้ยงสัตว์</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.DESCRIPTION"
+msgid "Buildings that provide essential support for fragile Duplicant <link=\"MORALE\">Morale</link>."
+msgstr "สิ่งก่อสร้าง​ที่​ช่วย​ค้ำจุน<link=\"MORALE\">ขวัญ​กำลังใจ</link>อัน​เปราะบาง​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.ROOMSREQUIRING"
+msgid ""
+"    • <link=\"GREATHALL\">Great Hall</link> \n"
+"    • <link=\"RECROOM\">Recreation Room</link>"
+msgstr ""
+"    • <link=\"GREATHALL\">ห้องโถง​ใหญ่</link> \n"
+"    • <link=\"RECROOM\">ห้อง​สันทนาการ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.TITLE"
+msgid "Recreational Buildings"
+msgstr "สิ่งก่อสร้าง​สันทนาการ"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.DESCRIPTION"
+msgid "Buildings that must be built inside a rocket."
+msgstr "สิ่งก่อสร้าง​ที่​ต้อง​สร้าง​ภายใน​จรวด"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.TITLE"
+msgid "<link=\"ROCKETINTERIOR\">Rocket Interior</link>"
+msgstr "<link=\"ROCKETINTERIOR\">ภายใน​จรวด</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.DESCRIPTION"
+msgid "Buildings that allow Duplicants to learn about the world around them, and beyond."
+msgstr "สิ่งก่อสร้าง​ที่​ให้​ดู​พลิ​แคนต์​ได้​เรียนรู้​เกี่ยวกับ​โลก​รอบตัว​และ​ไกล​กว่า​นั้น"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.ROOMSREQUIRING"
+msgid "    • <link=\"LABORATORY\">Laboratory</link>"
+msgstr "    • <link=\"LABORATORY\">ห้อง​แล็บ</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.TITLE"
+msgid "Science Buildings"
+msgstr "สิ่งก่อสร้าง​วิทยาศาสตร์"
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.BUILDINGS_LIST_TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.BUILDINGS_LIST_TITLE"
 msgid "In this category:"
 msgstr "ใน​หมวด​นี้:"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.ROOMS_CONFLICT_LIST_TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.ROOMS_CONFLICT_LIST_TITLE"
+msgid "Conflicts with:"
+msgstr "ขัดแย้ง​กับ:"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.ROOMS_REQUIRED_LIST_TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SHARED.ROOMS_REQUIRED_LIST_TITLE"
+msgid "Required in:"
+msgstr "จำเป็น​สำหรับ:"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SUBMERGIBLE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SUBMERGIBLE.DESCRIPTION"
+msgid "Buildings that can operate while submerged in liquid without becoming flooded."
+msgstr "สิ่งก่อสร้าง​ที่ทำงาน​ได้​ขณะ​จม​อยู่​ใน​ของเหลว​โดย​ไม่​น้ำท่วม"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SUBMERGIBLE.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SUBMERGIBLE.TITLE"
+msgid "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Submergible</link>"
+msgstr "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">ทำงาน​ใต้​น้ำ​ได้</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.DESCRIPTION"
+msgid "Buildings that give Duplicants a sanitary and dignified place to conduct essential \"business.\""
+msgstr "สิ่งก่อสร้าง​ที่​ให้​ดู​พลิ​แคนต์​มี​ที่​ทำ \"ธุระ\" สำคัญ​อย่าง​ถูกสุขลักษณะ​และ​มีศักดิ์ศรี"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.ROOMSREQUIRING"
+msgid ""
+"    • <link=\"LATRINE\">Latrine</link>\n"
+"    • <link=\"HOSPITAL\">Hospital</link>"
+msgstr ""
+"    • <link=\"LATRINE\">ห้องส้วม</link>\n"
+"    • <link=\"HOSPITAL\">โรงพยาบาล</link>"
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE"
 msgid "Toilets"
 msgstr "ห้องน้ำ"
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.DESCRIPTION"
+msgid "Buildings that Duplicants will visit when they are suffering the effects of cold environments."
+msgstr "สิ่งก่อสร้าง​ที่​ดู​พลิ​แคนต์​จะ​ไปหา​เมื่อ​ทนทุกข์​จาก​สภาพแวดล้อม​หนาวเย็น"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE"
+msgid "<link=\"WARMINGSTATION\">Warming Stations</link>"
+msgstr "<link=\"WARMINGSTATION\">สถานี​อบอุ่น​ร่างกาย</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.DESCRIPTION
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.DESCRIPTION"
+msgid "Buildings that remove <link=\"DISEASE\">disease</link>-spreading germs from Duplicant bodies. Not all wash stations require plumbing."
+msgstr "สิ่งก่อสร้าง​ที่​กำจัด​เชื้อโรค​ที่​แพร่<link=\"DISEASE\">โรค</link>ออกจาก​ตัว​ดู​พลิ​แคนต์ ไม่​ใช่​ทุก​สถานี​ล้างมือ​ที่​ต้อง​ต่อ​ประปา"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.ROOMSREQUIRING"
+msgid "    • <link=\"LATRINE\">Latrine</link>"
+msgstr "    • <link=\"LATRINE\">ห้องส้วม</link>"
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.TITLE
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.TITLE"
+msgid "Wash Stations"
+msgstr "สถานี​ล้างมือ"
+
+#. STRINGS.CODEX.ROVER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.ROVER.BODY.CONTAINER1"
+msgid ""
+"The Rover is a planetary scout robot programmed to land on and mine Planetoids where sending a Duplicant would put them unneccessarily in danger.\n"
+"\n"
+"Rovers are programmed to be very pleasant and social when interacting with other beings. However, an unintended consequence of this programming is that the socialized robots tended to experience the same work slow-downs due to loneliness and low morale.\n"
+"\n"
+"To compensate for this, the Rover was programmed to have two distinct personalities it can switch between to have pleasant in-depth conversations with itself during long stints alone."
+msgstr ""
+"โร​เวอร์ (ยาน​สำรวจ) คือ​หุ่นยนต์​สอดแนม​ดาว​ที่​ถูก​โปรแกรม​ให้​ลง​จอด​และ​ขุด​บน​ดาว​ใน​ที่​ที่​การ​ส่ง​ดู​พลิ​แคนต์​ไป​จะ​เสี่ยงอันตราย​โดยไม่จำเป็น\n"
+"\n"
+"โร​เวอร์​ถูก​โปรแกรม​ให้​น่ารัก​และ​ช่าง​เข้าสังคม​มาก​เวลา​โต้ตอบ​กับ​สิ่งมีชีวิต​อื่น แต่​ผลข้างเคียง​ที่​ไม่​ได้​ตั้งใจ​ของ​โปรแกรม​นี้​คือ​หุ่นยนต์​ช่าง​สังคม​พวก​นี้​ทำงาน​ช้า​ลง​เพราะ​ความเหงา​และ​ขวัญ​กำลัง​ใจต่ำ​เหมือนกัน\n"
+"\n"
+"เพื่อ​แก้ปัญหา​นี้ โร​เวอร์​จึง​ถูก​โปรแกรม​ให้​มี​สอง​บุคลิก​ที่​สลับ​ไปมา​ได้ เอาไว้​คุย​กับ​ตัวเอง​แบบ​ลึกซึ้ง​เพลิน ๆ ระหว่าง​อยู่​คนเดียว​นาน ๆ"
+
+#. STRINGS.CODEX.ROVER.SUBTITLE
+msgctxt "STRINGS.CODEX.ROVER.SUBTITLE"
+msgid "Scouting Robot"
+msgstr "หุ่นยนต์​สอดแนม"
+
+#. STRINGS.CODEX.ROVER.TITLE
+msgctxt "STRINGS.CODEX.ROVER.TITLE"
+msgid "Rover"
+msgstr "โร​เวอร์"
+
+#. STRINGS.CODEX.ROYAL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.ROYAL.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Royal\" Shine Bug variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แมลง​เรืองแสง​สายพันธุ์​ย่อย \"ราชวงศ์\"</smallcaps>"
+
+#. STRINGS.CODEX.ROYAL.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.ROYAL.BODY.CONTAINER2"
+msgid "The Shine Bug can be pet anywhere else along its body, although it is advised that care still be taken due to the generally delicate nature of its exoskeleton."
+msgstr "แมลง​เรืองแสง​ให้​ลูบ​ได้​ทุก​ส่วน​ของ​ตัว​ที่​เหลือ แต่​ก็​ยัง​แนะนำ​ให้​ระวัง​หน่อย เพราะ​โครงร่าง​ภายนอก​ของ​มัน​บอบบาง"
+
 #. STRINGS.CODEX.ROYAL.SUBTITLE
 msgctxt "STRINGS.CODEX.ROYAL.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.ROYAL.TITLE
+msgctxt "STRINGS.CODEX.ROYAL.TITLE"
+msgid "Royal Bug"
+msgstr "แมลง​ราชวงศ์"
+
+#. STRINGS.CODEX.SAGE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SAGE.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Sage\" Hatch variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แฮตช์​สายพันธุ์​ย่อย \"เส​จ\"</smallcaps>"
 
 #. STRINGS.CODEX.SAGE.SUBTITLE
 msgctxt "STRINGS.CODEX.SAGE.SUBTITLE"
@@ -79563,6 +80176,11 @@ msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ROCKET"
 msgid "Rocket"
 msgstr "จรวด"
 
+#. STRINGS.NAMEGEN.ROCKET.NOUN.ROVER
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ROVER"
+msgid "Rover"
+msgstr "โร​เวอร์"
+
 #. STRINGS.NAMEGEN.WORLD.NO_DUPES_ON_PLANET
 msgctxt "STRINGS.NAMEGEN.WORLD.NO_DUPES_ON_PLANET"
 msgid "Nobody here..."
@@ -81389,6 +82007,16 @@ msgstr "<link=\"SPICEGRINDER\">เครื่อง​บด​เครื่�
 msgctxt "STRINGS.ROOMS.CRITERIA.SPICESTATION.NAME"
 msgid "<link=\"SPICEGRINDER\">Spice Grinder</link>"
 msgstr "<link=\"SPICEGRINDER\">เครื่อง​บด​เครื่องเทศ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Submergible</link>"
+msgstr "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">ทำงาน​ใต้​น้ำ​ได้</link>"
+
+#. STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.NAME"
+msgid "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Submergible</link>"
+msgstr "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">ทำงาน​ใต้​น้ำ​ได้</link>"
 
 #. STRINGS.ROOMS.DETAILS.ASSIGNED_TO.UNASSIGNED
 msgctxt "STRINGS.ROOMS.DETAILS.ASSIGNED_TO.UNASSIGNED"
