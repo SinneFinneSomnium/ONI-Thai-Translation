@@ -157,7 +157,7 @@
 1106	((Fe,Mn)WO<sub>4</sub>) วุลแฟรไมต์คือธาตุโลหะหนาแน่นในสถานะ<link="ELEMENTSSOLID">ของแข็ง</link>\n\nเป็นแหล่งของ<link="TUNGSTEN">ทังสเตน</link> และเหมาะกับการสร้างระบบ<link="POWER">พลังงาน</link>
 1107	<link="TESTELEMENT">ธาตุทดสอบ</link>
 1108	\nความจุความร้อนจำเพาะ: {SPECIFIC_HEAT_CAPACITY}\nการนำความร้อน: {THERMAL_CONDUCTIVITY}
-1109	ส่วนผสมของ<link="TOXICSAND">ดินปนเปื้อน</link>กับ<link="DIRTYWATER">น้ำปนเปื้อน</link>\n\nแยกกลับเป็นธาตุตั้งต้นได้ด้วย<link="SLUDGEPRESS">เครื่องบีบตะกอน</link>
+1109	ส่วนผสมของ<link="TOXICSAND">ดินปนเปื้อน</link>กับ<link="DIRTYWATER">น้ำปนเปื้อน</link>\n\nแยกกลับเป็นธาตุตั้งต้นได้ด้วย<link="SLUDGEPRESS">เครื่องอัดกากตะกอน</link>
 1110	<link="TOXICMUD">โคลนปนเปื้อน</link>
 1111	ดินปนเปื้อนคือของเสียชีวภาพที่ยังไม่ผ่านการแปรรูป\n\nค่อยๆ ปล่อย<link="CONTAMINATEDOXYGEN">ออกซิเจนปนเปื้อน</link>ออกมาเรื่อยๆ
 1112	<link="TOXICSAND">ดินปนเปื้อน</link>

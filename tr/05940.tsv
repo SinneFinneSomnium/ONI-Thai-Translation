@@ -8,7 +8,7 @@
 5947	<link="PLANTS">การดูแลพืชผล</link>
 5948	การใช้<link="GOURMETCOOKINGSTATION">เตาแก๊ส</link>
 5949	ระบุ<style="KKeyword">เมล็ดกลายพันธุ์</style>ได้ที่<link="GENETICANALYSISSTATION">เครื่องวิเคราะห์พฤกษศาสตร์</link>
-5950	การใช้<link="MISSILEFABRICATOR">เครื่องทำกระสุนบลาสต์</link>
+5950	การใช้<link="MISSILEFABRICATOR">เครื่องผลิตบลาสต์ช็อต</link>
 5951	การใช้<link="MISSIONCONTROL">สถานีควบคุมภารกิจ</link>
 5952	การใช้<link="ROCKETCONTROLSTATION">สถานีควบคุมจรวด</link>
 5953	การจูน<link="POWER">เครื่องปั่นไฟ</link>และการทำ<link="POWERSTATIONTOOLS">ไมโครชิป</link>
@@ -30,7 +30,7 @@
 5969	ชะลอความเสียหายต่อความทนทานของ<link="EQUIPMENT">ชุดเอ็กโซสูท</link>
 5970	ลดโทษจาก<link="EQUIPMENT">ชุดเอ็กโซสูท</link>
 5971	<link="ELECTROBANK">พาวเวอร์แบงก์</link>เพิ่มเติม
-5972	การใช้<link="GEOTUNER">จีโอจูนเนอร์</link>
+5972	การใช้<link="GEOTUNER">เครื่องจูนธรณี</link>
 5973	ภูมิคุ้มกัน<b>{0}</b>
 5974	ทน<style="KKeyword">ความหนาวรอบตัว</style>ได้มากขึ้นเมื่ออยู่ในของเหลว
 5975	ว่ายน้ำเร็วขึ้น
@@ -40,7 +40,7 @@
 5979	การใช้<link="NUCLEARRESEARCHCENTER">เทอร์มินัลศึกษาวัสดุ</link>
 5980	การใช้<link="DLC1COSMICRESEARCHCENTER">ท้องฟ้าจำลองเสมือน</link>
 5981	ทน<style="KKeyword">อาการระคายเคืองตา</style>จาก<style="KKeyword">น้ำเค็ม</style>ได้มากขึ้น
-5982	<link="LIQUIDGUNK">กังก์</link>สะสมช้าลง 10%
+5982	<link="LIQUIDGUNK">คราบเหนียว</link>สะสมช้าลง 10%
 5983	การฝึกงานพื้นฐาน
 5984	การฝึกงานเพิ่มเติม
 5985	{0} ให้ความสำคัญกับงานเหล่านี้: 

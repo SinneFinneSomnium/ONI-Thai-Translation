@@ -17642,7 +17642,7 @@ msgstr "แคปซูล​ส่ง​ลง​นักเดินทาง
 #. STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.DESC"
 msgid "Microtarget where your <link=\"RAILGUNPAYLOAD\">Interplanetary Payload</link> lands on a Planetoid surface."
-msgstr "เล็ง​จุด​ที่<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>จะ​ตกลง​บน​พื้นผิว​ดาวเคราะห์​น้อย​แบบ​แม่นยำ"
+msgstr "เล็ง​จุด​ที่<link=\"RAILGUNPAYLOAD\">พัสดุ​ข้าม​ดาว</link>จะ​ตกลง​บน​พื้นผิว​ดาวเคราะห์​น้อย​แบบ​แม่นยำ"
 
 #. STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.EFFECT"
@@ -17651,9 +17651,9 @@ msgid ""
 "\n"
 "<link=\"RAILGUNPAYLOAD\">Interplanetary Payloads</link> must be launched from a <link=\"RAILGUN\">Interplanetary Launcher</link>."
 msgstr ""
-"นำทาง<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>และ<link=\"ORBITALCARGOMODULE\">โมดูล​ขนส่ง​วงโคจร</link>ให้​ลง​จอด​ใกล้​ๆ\n"
+"นำทาง<link=\"RAILGUNPAYLOAD\">พัสดุ​ข้าม​ดาว</link>และ<link=\"ORBITALCARGOMODULE\">โมดูล​ขนส่ง​วงโคจร</link>ให้​ลง​จอด​ใกล้​ๆ\n"
 "\n"
-"<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>ต้อง​ยิง​จาก<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>"
+"<link=\"RAILGUNPAYLOAD\">พัสดุ​ข้าม​ดาว</link>ต้อง​ยิง​จาก<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.NAME"
@@ -22640,7 +22640,7 @@ msgid ""
 "\n"
 "This bouquet is designed to smell like freshly baked cookies."
 msgstr ""
-"ผลิต​โดย​บริษัท Home Staging Heroes Ltd. ตามคำสั่ง​ของ Gravitas Facility เพื่อ <i>\"ทำให้​อวกาศ​รู้สึก​เหมือน​บ้าน​มากขึ้น\"</i>\n"
+"ผลิต​โดย​บริษัท Home Staging Heroes Ltd. ตามคำสั่ง​ของ​ศูนย์​วิจัย​ก​รา​วิ​ทัส เพื่อ <i>\"ทำให้​อวกาศ​รู้สึก​เหมือน​บ้าน​มากขึ้น\"</i>\n"
 "\n"
 "ช่อดอกไม้​นี้​ออกแบบ​ให้​มี​กลิ่น​เหมือน​คุกกี้​อบ​ใหม่​ๆ"
 
@@ -24043,7 +24043,7 @@ msgstr "ทำให้​อาณานิคม​ใช้​พลังง
 #. STRINGS.BUILDINGS.PREFABS.REEFGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REEFGENERATOR.EFFECT"
 msgid "Converts the kinetic energy from a <link=\"SMALLREEFGEYSER\">Tidal Spring</link> below it into electrical <link=\"POWER\">Power</link>."
-msgstr "แปลง​พลังงานจลน์​จาก<link=\"SMALLREEFGEYSER\">น้ำพุ​ขึ้น​ลง</link>ที่อยู่​ด้านล่าง​เป็น<link=\"POWER\">พลังงาน</link>ไฟฟ้า"
+msgstr "แปลง​พลังงานจลน์​จาก<link=\"SMALLREEFGEYSER\">ตา​น้ำขึ้น​น้ำลง</link>ที่อยู่​ด้านล่าง​เป็น<link=\"POWER\">พลังงาน</link>ไฟฟ้า"
 
 #. STRINGS.BUILDINGS.PREFABS.REEFGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REEFGENERATOR.NAME"
@@ -34305,7 +34305,7 @@ msgstr ""
 "\n"
 "ดาว​ที่​ไม่​ได้​เชื่อม​กัน​ด้วย​เครื่อง​เท​เล​พอร์ต​เสบียง​ใช้​จรวด​ขน​ของ​ได้ ทั้ง​ด้วย​การ​ลง​จอด​บน<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> หรือ​ปล่อย<link=\"ORBITALCARGOMODULE\">โมดูล​สินค้า​วงโคจร</link>ลง​มาจาก​จรวด​ใน​วงโคจร\n"
 "\n"
-"นอกจากนี้<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>ยัง​ยิง<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>ที่​บรรจุ​ของ​เต็ม​ไป​ข้าม​อวกาศ​ได้ แต่​ต้อง​เปิด​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link> ส่วน<link=\"LANDINGBEACON\">บี​คอน​นำทาง</link>ช่วย​นำ​สัมภาระ​และ​โมดูล​วงโคจร​ให้​ลง​จอด​ตรงจุด​ที่​ต้องการ​บน​พื้นผิว​ดาว​ได้"
+"นอกจากนี้<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>ยัง​ยิง<link=\"RAILGUNPAYLOAD\">พัสดุ​ข้าม​ดาว</link>ที่​บรรจุ​ของ​เต็ม​ไป​ข้าม​อวกาศ​ได้ แต่​ต้อง​เปิด​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link> ส่วน<link=\"LANDINGBEACON\">บี​คอน​นำทาง</link>ช่วย​นำ​สัมภาระ​และ​โมดูล​วงโคจร​ให้​ลง​จอด​ตรงจุด​ที่​ต้องการ​บน​พื้นผิว​ดาว​ได้"
 
 #. STRINGS.CODEX.EXOBASES.TITLE
 msgctxt "STRINGS.CODEX.EXOBASES.TITLE"
@@ -34381,7 +34381,7 @@ msgid ""
 msgstr ""
 "ส่ง​ของ​ข้าม​โลก​ได้​ด้วย​เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) เสบียง​ที่​เชื่อม​กัน​ผ่าน​ท่อ<link=\"ELEMENTSGAS\">แก๊ส</link> <link=\"ELEMENTSLIQUID\">ของเหลว</link> และ<link=\"ELEMENTSSOLID\">ของแข็ง</link>\n"
 "\n"
-"ดาว​ที่​ไม่​ได้​เชื่อม​กัน​ด้วย​เครื่อง​เท​เล​พอร์ต​เสบียง​ใช้​จรวด​ขน​ของ​ได้ ทั้ง​ด้วย​การ​ลง​จอด​บน<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> หรือ​ปล่อย<link=\"ORBITALCARGOMODULE\">โมดูล​สินค้า​วงโคจร</link>ลง​มาจาก​จรวด​ใน​วงโคจร นอกจากนี้<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>ยัง​ยิง<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>ที่​บรรจุ​ของ​เต็ม​ไป​ข้าม​อวกาศ​ได้ แต่​ต้อง​เปิด​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link> ส่วน<link=\"LANDINGBEACON\">บี​คอน​นำทาง</link>ช่วย​นำ​สัมภาระ​และ​โมดูล​วงโคจร​ให้​ลง​จอด​ตรงจุด​ที่​ต้องการ​บน​พื้นผิว​ดาว​ได้"
+"ดาว​ที่​ไม่​ได้​เชื่อม​กัน​ด้วย​เครื่อง​เท​เล​พอร์ต​เสบียง​ใช้​จรวด​ขน​ของ​ได้ ทั้ง​ด้วย​การ​ลง​จอด​บน<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> หรือ​ปล่อย<link=\"ORBITALCARGOMODULE\">โมดูล​สินค้า​วงโคจร</link>ลง​มาจาก​จรวด​ใน​วงโคจร นอกจากนี้<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>ยัง​ยิง<link=\"RAILGUNPAYLOAD\">พัสดุ​ข้าม​ดาว</link>ที่​บรรจุ​ของ​เต็ม​ไป​ข้าม​อวกาศ​ได้ แต่​ต้อง​เปิด​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link> ส่วน<link=\"LANDINGBEACON\">บี​คอน​นำทาง</link>ช่วย​นำ​สัมภาระ​และ​โมดูล​วงโคจร​ให้​ลง​จอด​ตรงจุด​ที่​ต้องการ​บน​พื้นผิว​ดาว​ได้"
 
 #. STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_5
 msgctxt "STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_5"
@@ -72608,7 +72608,7 @@ msgid ""
 msgstr ""
 "ส่วนผสม​ของ<link=\"DIRT\">ดิน</link>กับ<link=\"WATER\">น้ำ</link>\n"
 "\n"
-"แยก​กลับเป็น​ธาตุ​ตั้งต้น​ได้​ด้วย<link=\"SLUDGEPRESS\">เครื่อง​บีบ​ตะกอน</link>"
+"แยก​กลับเป็น​ธาตุ​ตั้งต้น​ได้​ด้วย<link=\"SLUDGEPRESS\">เครื่อง​อัด​กาก​ตะกอน</link>"
 
 #. STRINGS.ELEMENTS.MUD.NAME
 msgctxt "STRINGS.ELEMENTS.MUD.NAME"
@@ -73733,7 +73733,7 @@ msgid ""
 msgstr ""
 "ส่วนผสม​ของ<link=\"TOXICSAND\">ดิน​ปนเปื้อน</link>กับ<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>\n"
 "\n"
-"แยก​กลับเป็น​ธาตุ​ตั้งต้น​ได้​ด้วย<link=\"SLUDGEPRESS\">เครื่อง​บีบ​ตะกอน</link>"
+"แยก​กลับเป็น​ธาตุ​ตั้งต้น​ได้​ด้วย<link=\"SLUDGEPRESS\">เครื่อง​อัด​กาก​ตะกอน</link>"
 
 #. STRINGS.ELEMENTS.TOXICMUD.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICMUD.NAME"
@@ -94269,7 +94269,7 @@ msgid ""
 msgstr ""
 "<link=\"SWAMPFORAGEPLANTPLANTED\">ผัก​หนองน้ำ</link>ให้​สารอาหาร​เพียงพอ​แก่​ดู​พลิ​แคนต์​ระหว่าง​ตั้ง​ฟาร์ม แต่​ปลูก​หรือ​ขยายพันธุ์​ไม่​ได้ ส่วน<link=\"SWAMPHARVESTPLANT\">ต้น​ถัง​บึง</link>เป็น​แหล่ง​สาร​อาหารหวาน ๆ ที่​ปลูก​ได้​ค่อนข้าง​ง่าย​ด้วย<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link> และ​ไม่ต้อง​ใช้​แสง​เพิ่ม\n"
 "\n"
-"โชคดี​ที่<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>มี​เพียบ​ใน​ไบโอ​ม​นี้ และ​ต้อง​ใช้<link=\"WATERPURIFIER\">ตะแกรง​กรอง​น้ำ</link>เปลี่ยน​ให้​เป็นน้ำ​ที่​ดู​พลิ​แคนต์​ดื่มได้ นอกจากนี้​ดู​พลิ​แคนต์​ยัง​ใช้<link=\"SLUDGEPRESS\">เครื่อง​บีบ​ตะกอน</link>กรอง​น้ำสะอาด​จาก<link=\"MUD\">โคลน</link>ได้​ด้วย (หมายเหตุ: แต่<link=\"TOXICMUD\">โคลน​ปนเปื้อน</link>ให้​น้ำสะอาด​ไม่​ได้​นะ)\n"
+"โชคดี​ที่<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>มี​เพียบ​ใน​ไบโอ​ม​นี้ และ​ต้อง​ใช้<link=\"WATERPURIFIER\">ตะแกรง​กรอง​น้ำ</link>เปลี่ยน​ให้​เป็นน้ำ​ที่​ดู​พลิ​แคนต์​ดื่มได้ นอกจากนี้​ดู​พลิ​แคนต์​ยัง​ใช้<link=\"SLUDGEPRESS\">เครื่อง​อัด​กาก​ตะกอน</link>กรอง​น้ำสะอาด​จาก<link=\"MUD\">โคลน</link>ได้​ด้วย (หมายเหตุ: แต่<link=\"TOXICMUD\">โคลน​ปนเปื้อน</link>ให้​น้ำสะอาด​ไม่​ได้​นะ)\n"
 "\n"
 "ใน​ระหว่าง​นี้ ไฟฟ้า​พื้นฐาน​หา​ได้​จาก<link=\"STATERPILLAR\">ปลั๊ก​สลัก</link>ผู้ผลิต​พลังงาน​ที่​อาศัย​อยู่​ใน​ไบโอ​ม​นี้\n"
 "\n"
@@ -95489,7 +95489,7 @@ msgstr "ระหว่าง​ปะทุ น้ำพุ​นี้​จ�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED_COUNT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED_COUNT"
 msgid "<b>{0}</b> of <b>{1}</b> Geotuners targeting this geyser are amplifying it"
-msgstr "จี​โอ​จูน​เนอร์ <b>{0}</b> จาก <b>{1}</b> ตัว​ที่​เล็ง​น้ำพุ​นี้​กำลัง​ขยาย​กำลัง​มัน​อยู่"
+msgstr "เครื่อง​จูน​ธรณี <b>{0}</b> จาก <b>{1}</b> ตัว​ที่​เล็ง​น้ำพุ​นี้​กำลัง​ขยาย​กำลัง​มัน​อยู่"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED_TOTAL
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED_TOTAL"
@@ -95661,7 +95661,7 @@ msgstr "ลด<style=\"KKeyword\">อุณหภูมิ</style>ของ<styl
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_BITS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_BITS"
 msgid "Sending an <style=\"KKeyword\">Automation Signal</style> with a higher <style=\"KKeyword\">Bit Depth</style> than the connected <style=\"KKeyword\">Logic Wire</style> can result in damage to the circuit"
-msgstr "การ​ส่ง<style=\"KKeyword\">สัญญาณ​อัตโนมัติ</style>ที่​มี<style=\"KKeyword\">ความลึก​บิต</style>สูง​กว่า<style=\"KKeyword\">สา​ยล​อ​จิก</style>ที่​ต่อ​อยู่​อาจ​ทำให้​วงจร​เสียหาย"
+msgstr "การ​ส่ง<style=\"KKeyword\">สัญญาณ​อัตโนมัติ</style>ที่​มี<style=\"KKeyword\">ความลึก​บิต</style>สูง​กว่า<style=\"KKeyword\">สาย​ระบบ​อัตโนมัติ</style>ที่​ต่อ​อยู่​อาจ​ทำให้​วงจร​เสียหาย"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE"
@@ -102580,7 +102580,7 @@ msgstr "ตัวเลือก​เกม"
 #. STRINGS.UI.FRONTEND.GAME_VERSION
 msgctxt "STRINGS.UI.FRONTEND.GAME_VERSION"
 msgid "Game Version: "
-msgstr "เวอร์ชัน​เกม:"
+msgstr "เวอร์ชัน​เกม: "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
@@ -111678,7 +111678,7 @@ msgstr ""
 "• <link=\"SMALLSCULPTURE\">ก้อนหิน​แกะสลัก</link>\n"
 "• <link=\"SCULPTURE\">ก้อนหิน​แกะสลัก​ขนาดใหญ่</link>\n"
 "• <link=\"ICESCULPTURE\">ก้อน​น้ำแข็ง</link>\n"
-"• <link=\"METALSCULPTURE\">ก้อน​โลหะ</link>\n"
+"• <link=\"METALSCULPTURE\">บล็อก​โลหะ</link>\n"
 "• <link=\"WOODSCULPTURE\">ก้อน​ไม้​แกะสลัก</link></indent>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ART_GREAT.DESCRIPTION
@@ -111719,7 +111719,7 @@ msgstr "การ​ใช้<link=\"ADVANCEDCRAFTINGTABLE\">สถานี​�
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DEEP_FRYER.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DEEP_FRYER.DESCRIPTION"
 msgid "<link=\"DEEPFRYER\">Deep Fryer</link> Usage"
-msgstr "การ​ใช้<link=\"DEEPFRYER\">หม้อ​ทอด​น้ำมัน​ท่วม</link>"
+msgstr "การ​ใช้<link=\"DEEPFRYER\">หม้อ​ทอด</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DEMOLISH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DEMOLISH.DESCRIPTION"
@@ -111799,7 +111799,7 @@ msgstr "ระบุ<style=\"KKeyword\">เมล็ด​กลายพัน�
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MAKE_MISSILES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MAKE_MISSILES.DESCRIPTION"
 msgid "<link=\"MISSILEFABRICATOR\">Blastshot Maker</link> Usage"
-msgstr "การ​ใช้<link=\"MISSILEFABRICATOR\">เครื่อง​ทำ​กระ​สุ​นบ​ลาสต์</link>"
+msgstr "การ​ใช้<link=\"MISSILEFABRICATOR\">เครื่อง​ผลิ​ตบ​ลาสต์​ช็อต</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MISSION_CONTROL.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MISSION_CONTROL.DESCRIPTION"
@@ -111909,7 +111909,7 @@ msgstr "<link=\"ELECTROBANK\">พาวเวอร์​แบงก์</link>�
 #. STRINGS.UI.ROLES_SCREEN.PERKS.GEYSER_TUNING.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.GEYSER_TUNING.DESCRIPTION"
 msgid "<link=\"GEOTUNER\">Geotuner</link> Usage"
-msgstr "การ​ใช้<link=\"GEOTUNER\">จี​โอ​จูน​เนอร์</link>"
+msgstr "การ​ใช้<link=\"GEOTUNER\">เครื่อง​จูน​ธรณี</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.IMMUNITY
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.IMMUNITY"
@@ -111959,7 +111959,7 @@ msgstr "ทน<style=\"KKeyword\">อา​การระคายเคือ�
 #. STRINGS.UI.ROLES_SCREEN.PERKS.REDUCED_GUNK_PRODUCTION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.REDUCED_GUNK_PRODUCTION.DESCRIPTION"
 msgid "10% Slower <link=\"LIQUIDGUNK\">Gunk</link> Buildup"
-msgstr "<link=\"LIQUIDGUNK\">กังก์</link>สะสม​ช้า​ลง 10%"
+msgstr "<link=\"LIQUIDGUNK\">คราบ​เหนียว</link>สะสม​ช้า​ลง 10%"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING"
@@ -119342,7 +119342,7 @@ msgstr "เลือก​จุด​ลง​จอด​แรก​ที่
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PAD_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PAD_DISABLED"
 msgid "<link=\"LAUNCHPAD\">Rocket Platform</link> is disabled"
-msgstr "<link=\"LAUNCHPAD\">ฐาน​จรวด</link>ถูก​ปิด​ใช้งาน"
+msgstr "<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link>ถูก​ปิด​ใช้งาน"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PATH_OBSTRUCTED
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PATH_OBSTRUCTED"
@@ -119367,7 +119367,7 @@ msgstr "ลง​จอด​ที่ {0} เมื่อ​จุด​ลง�
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE"
 msgid "Any <link=\"LAUNCHPAD\">Rocket Platform</link>"
-msgstr "<link=\"LAUNCHPAD\">ฐาน​จรวด</link>ไหน​ก็ได้"
+msgstr "<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link>ไหน​ก็ได้"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.LANDING_PLATFORM_LABEL
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.LANDING_PLATFORM_LABEL"
@@ -119503,7 +119503,7 @@ msgstr "ไม่​มีสิทธิ์"
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE"
 msgid "Interplanetary Payloads"
-msgstr "สัมภาระ​ข้าม​ดาว"
+msgstr "พัสดุ​ข้าม​ดาว"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER"
@@ -119892,7 +119892,7 @@ msgstr "<link=\"COOLVEST\">เสื้อกั๊ก​เย็น</link> ({0
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST"
 msgid "<link=\"FUNKYVEST\">Snazzy Suit</link> ({0})"
-msgstr "<link=\"FUNKYVEST\">ชุด​เท่​สุด​เก๋</link> ({0})"
+msgstr "<link=\"FUNKYVEST\">ชุด​เท่</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK"
@@ -120451,7 +120451,7 @@ msgstr "ควบคุม​ด้วย​ระบบ​อัตโนมั
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_AUTOMATION_CONTROLLED_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_AUTOMATION_CONTROLLED_TOOLTIP"
 msgid "This <link=\"LAUNCHPAD\">Rocket Platform</link>'s launch operation is controlled by automation signals"
-msgstr "การ​ปล่อย​จรวด​ของ<link=\"LAUNCHPAD\">ฐาน​จรวด</link>นี้​ถูก​ควบคุม​ด้วย​สัญญาณ​ระบบ​อัตโนมัติ"
+msgstr "การ​ปล่อย​จรวด​ของ<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link>นี้​ถูก​ควบคุม​ด้วย​สัญญาณ​ระบบ​อัตโนมัติ"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON"
@@ -120554,7 +120554,7 @@ msgstr "เรียก​นักบิน​มา​ที่​สถาน
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.TITLE"
 msgid "Rocket Platform"
-msgstr "ฐาน​จรวด"
+msgstr "ฐาน​ปล่อย​จรวด"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.WAITING_TO_LAND_PANEL
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.WAITING_TO_LAND_PANEL"

@@ -30,7 +30,7 @@
 4289	มีเชื้อ<style="KKeyword">{0}</style>ในสิ่งที่น้ำพุนี้พ่นออกมา
 4290	น้ำพุนี้จะพ่นเป็นเวลา <b>{0}</b> ในทุกๆ <b>{1}</b>
 4291	ระหว่างปะทุ น้ำพุนี้จะพ่น<style="KKeyword">{0}</style>ในอัตรา <style="produced">{1}</style> ที่<style="KKeyword">อุณหภูมิ</style> <b>{2}</b>
-4292	จีโอจูนเนอร์ <b>{0}</b> จาก <b>{1}</b> ตัวที่เล็งน้ำพุนี้กำลังขยายกำลังมันอยู่
+4292	เครื่องจูนธรณี <b>{0}</b> จาก <b>{1}</b> ตัวที่เล็งน้ำพุนี้กำลังขยายกำลังมันอยู่
 4293	จีโอจูนรวม: {0} {1}
 4294	จีโอจูนแล้ว 
 4295	น้ำพุนี้พ่น{element}เฉลี่ย {average} ตลอดอายุ\n\nนับรวมช่วงสงบด้วย
@@ -51,7 +51,7 @@
 4310	ของที่เก็บไว้จะค่อยๆ มี<style="KKeyword">อุณหภูมิ</style>ถึง <b>{0}</b>
 4311	สิ่งก่อสร้างนี้ละลาย<style="KKeyword">น้ำแข็ง</style> {0} เป็น<style="KKeyword">น้ำ</style>เย็น ({1}) {0}\n\nปริมาณ<style="KKeyword">ไม้</style>ที่ใช้ขึ้นกับอุณหภูมิเริ่มต้นของ<style="KKeyword">น้ำแข็ง</style>
 4312	ลด<style="KKeyword">อุณหภูมิ</style>ของ<style="KKeyword">ของเหลว</style>ในท่อลง <b>{0}</b>
-4313	การส่ง<style="KKeyword">สัญญาณอัตโนมัติ</style>ที่มี<style="KKeyword">ความลึกบิต</style>สูงกว่า<style="KKeyword">สายลอจิก</style>ที่ต่ออยู่อาจทำให้วงจรเสียหาย
+4313	การส่ง<style="KKeyword">สัญญาณอัตโนมัติ</style>ที่มี<style="KKeyword">ความลึกบิต</style>สูงกว่า<style="KKeyword">สายระบบอัตโนมัติ</style>ที่ต่ออยู่อาจทำให้วงจรเสียหาย
 4314	การดึง<style="KKeyword">วัตต์</style>เกินค่าสูงสุดที่รับได้อาจทำให้วงจรเสียหาย
 4315	ดูพลิแคนต์ได้<style="KKeyword">ขวัญกำลังใจ</style> <b>+{0}</b> และ<style="KKeyword">ความเครียด</style> <b>-{1}%</b> เมื่อโรย<style="KKeyword">คาเวียร์</style>บนอาหารที่<link="REQUIREMENTCLASSDININGTABLETYPE">โต๊ะกินข้าว</link>
 4316	ดูพลิแคนต์ได้<style="KKeyword">ขวัญกำลังใจ</style> <b>+{0}</b> เมื่อใส่<style="KKeyword">เกลือแกง</style>ในอาหารที่<link="REQUIREMENTCLASSDININGTABLETYPE">โต๊ะกินข้าว</link>

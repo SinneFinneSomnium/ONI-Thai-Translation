@@ -284,7 +284,7 @@
 5923	สร้าง<style="KKeyword">พ็อดพิมพ์ร่าง</style>เพื่อปลดล็อกเมนูนี้\n\n<style="KKeyword">พ็อดพิมพ์ร่าง</style>อยู่ใน<b>แท็บฐาน</b> {Hotkey/Plan1} ของเมนูสร้าง
 5924	การใช้<link="ADVANCEDRESEARCHCENTER">ซูเปอร์คอมพิวเตอร์</link>
 5925	การใช้<link="ADVANCEDDOCTORSTATION">คลินิกรักษาโรค</link>
-5926	สร้างงานศิลปะได้ด้วย:\n<indent=30px>• <link="CANVAS">ผ้าใบเปล่า</link>\n• <link="SMALLSCULPTURE">ก้อนหินแกะสลัก</link>\n• <link="SCULPTURE">ก้อนหินแกะสลักขนาดใหญ่</link>\n• <link="ICESCULPTURE">ก้อนน้ำแข็ง</link>\n• <link="METALSCULPTURE">ก้อนโลหะ</link>\n• <link="WOODSCULPTURE">ก้อนไม้แกะสลัก</link></indent>
+5926	สร้างงานศิลปะได้ด้วย:\n<indent=30px>• <link="CANVAS">ผ้าใบเปล่า</link>\n• <link="SMALLSCULPTURE">ก้อนหินแกะสลัก</link>\n• <link="SCULPTURE">ก้อนหินแกะสลักขนาดใหญ่</link>\n• <link="ICESCULPTURE">ก้อนน้ำแข็ง</link>\n• <link="METALSCULPTURE">บล็อกโลหะ</link>\n• <link="WOODSCULPTURE">ก้อนไม้แกะสลัก</link></indent>
 5927	คุณภาพงานศิลปะระดับ<style="KKeyword">ปรมาจารย์</style>
 5928	คุณภาพงานศิลปะระดับ<style="KKeyword">งั้นๆ</style>
 5929	คุณภาพงานศิลปะระดับ<style="KKeyword">หยาบๆ</style>
@@ -292,7 +292,7 @@
 5931	การใช้<link="CLUSTERTELESCOPEENCLOSED">กล้องโทรทรรศน์แบบปิด</link>
 5932	การใช้<link="APOTHECARY">ร้านขายยา</link>
 5933	การใช้<link="ADVANCEDCRAFTINGTABLE">สถานีบัดกรี</link>
-5934	การใช้<link="DEEPFRYER">หม้อทอดน้ำมันท่วม</link>
+5934	การใช้<link="DEEPFRYER">หม้อทอด</link>
 5935	รื้อสิ่งก่อสร้างของกราวิทัส
 5936	ขุด<link="KATAIRITE">อะบิสซาไลต์</link>
 5937	ขุด<link="CORIUM">คอเรียม</link>
