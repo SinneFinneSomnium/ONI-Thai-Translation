@@ -78452,15 +78452,280 @@ msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_INVALID_TOOLTIP
 msgid "A cake must be built for this event to take place."
 msgstr "ต้อง​สร้าง​เค้ก​ก่อน​อีเวนต์​นี้​ถึง​จะ​เกิดขึ้น​ได้"
 
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_NAME"
+msgid "Allow the party to happen"
+msgstr "ให้​ปาร์ตี้​เกิดขึ้น"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.CANCELED_NO_ROOM_DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.CANCELED_NO_ROOM_DESCRIPTION"
+msgid "The party was canceled because no Recreation Room was available."
+msgstr "ปาร์ตี้​ถูก​ยกเลิก เพราะ​ไม่​มี​ห้อง​สันทนาการ​ว่าง"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.CANCELED_NO_ROOM_TITLE
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.CANCELED_NO_ROOM_TITLE"
+msgid "Party Canceled"
+msgstr "ปาร์ตี้​ถูก​ยกเลิก"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.DESCRIPTION"
+msgid ""
+"THIS EVENT IS NOT WORKING\n"
+"{host} is throwing a birthday party for {dupe}. Make sure there is an available Recreation Room for the party.\n"
+"\n"
+"Social events are good for Duplicant morale. Rejecting this party will hurt {host} and {dupe}'s fragile ego."
+msgstr ""
+"อีเวนต์​นี้​ยัง​ใช้งาน​ไม่​ได้\n"
+"{host} กำลัง​จัด​ปาร์ตี้​วันเกิด​ให้ {dupe} ตรวจดู​ให้​แน่​ว่า​มี​ห้อง​สันทนาการ​ว่าง​สำหรับ​จัดงาน\n"
+"\n"
+"กิจกรรม​ทางสังคม​ดี​ต่อ​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์ ถ้า​ปฏิเสธ​ปาร์ตี้​นี้ อี​โก้​เปราะบาง​ของ {host} และ {dupe} จะ​บอบช้ำ"
+
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.NAME"
 msgid "Party"
 msgstr "ปาร์ตี้"
 
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.REJECT_OPTION_DESC
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.REJECT_OPTION_DESC"
+msgid "{host} and {dupe} gain {badEffect}"
+msgstr "{host} และ {dupe} ได้รับ {badEffect}"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.REJECT_OPTION_NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.REJECT_OPTION_NAME"
+msgid "Cancel the party"
+msgstr "ยกเลิก​ปาร์ตี้"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.UNDERWAY
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.UNDERWAY"
+msgid "Party Happening"
+msgstr "ปาร์ตี้​กำลัง​เริ่ม"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.UNDERWAY_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.UNDERWAY_TOOLTIP"
+msgid "There's a party going on"
+msgstr "มี​ปาร์ตี้​กำลัง​จัด​อยู่"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.DESCRIPTION"
+msgid ""
+"Our {plant} crops have been afflicted by a fungal sickness!\n"
+"\n"
+"I must get the Duplicants to uproot and compost the sick plants to save our farms."
+msgstr ""
+"พืชผล{plant}ของ​เรา​ติดโรค​เชื้อรา​แล้ว!\n"
+"\n"
+"ฉัน​ต้อง​ให้​ดู​พลิ​แคนต์​ถอน​พืช​ที่​ป่วย​ไป​ทำ​ปุ๋ยหมัก เพื่อ​รักษา​ฟาร์ม​ของ​เรา​ไว้"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.NAME"
+msgid "Plant Blight: {plant}"
+msgstr "โรค​พืช​ระบาด: {plant}"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.SUCCESS
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.SUCCESS"
+msgid "Blight Managed: {plant}"
+msgstr "จัดการ​โรค​พืช​แล้ว: {plant}"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.SUCCESS_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PLANT_BLIGHT.SUCCESS_TOOLTIP"
+msgid "All the blighted {plant} plants have been dealt with, halting the infection."
+msgstr "จัดการ{plant}ที่​ติดโรค​ทั้งหมด​แล้ว การ​ระบาด​หยุด​ลง"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SATELLITE_CRASH.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SATELLITE_CRASH.DESCRIPTION"
+msgid ""
+"Mysterious space junk has crashed into the surface.\n"
+"\n"
+"It may contain useful resources or information, but it may also be dangerous. Approach with caution."
+msgstr ""
+"ขยะ​อวกาศ​ปริศนา​พุ่งชน​พื้นผิว\n"
+"\n"
+"อาจ​มี​ทรัพยากร​หรือ​ข้อมูล​ที่​มีประโยชน์ แต่​ก็​อาจ​อันตราย​ด้วย เข้าใกล้​อย่าง​ระมัดระวัง"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SATELLITE_CRASH.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SATELLITE_CRASH.NAME"
+msgid "Satellite Crash"
+msgstr "ดาวเทียม​ตก"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SOLAR_FLARE.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SOLAR_FLARE.DESCRIPTION"
+msgid "A solar flare is headed this way"
+msgstr "เปลว​สุริยะ​กำลัง​พุ่ง​มา​ทาง​นี้"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SOLAR_FLARE.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.SOLAR_FLARE.NAME"
+msgid "Solar Storm"
+msgstr "พายุ​สุริยะ"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.BUTTON
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.BUTTON"
+msgid "See Destination"
+msgstr "ดู​จุดหมาย"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.DESCRIPTION"
+msgid ""
+"I've discovered a functioning teleportation device with a pre-programmed destination.\n"
+"\n"
+"It appears to go to another Planetoid, and I'm fairly certain there's a return device on the other end.\n"
+"\n"
+"I could send a Duplicant through safely if I desired."
+msgstr ""
+"ฉัน​ค้นพบ​อุปกรณ์​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) ที่​ยัง​ใช้งาน​ได้ และ​ตั้ง​โปรแกรม​จุดหมาย​ไว้​ล่วงหน้า​แล้ว\n"
+"\n"
+"ดูเหมือน​มัน​จะ​พา​ไป​ยัง​ดาว​อีก​ดวง และ​ฉัน​ค่อนข้าง​มั่นใจ​ว่า​ปลายทาง​มี​อุปกรณ์​สำหรับ​กลับมา​ด้วย\n"
+"\n"
+"ถ้า​ต้องการ ฉัน​ส่ง​ดู​พลิ​แคนต์​ผ่าน​ไป​ได้​อย่าง​ปลอดภัย"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.NAME"
+msgid "New Event: Personnel Teleporter"
+msgstr "อีเวนต์​ใหม่: เครื่อง​เท​เล​พอร์ต​บุคลากร"
+
+#. STRINGS.GAMEPLAY_EVENTS.LOCATIONS.COLONY_WIDE
+msgctxt "STRINGS.GAMEPLAY_EVENTS.LOCATIONS.COLONY_WIDE"
+msgid "Colonywide"
+msgstr "ทั่ว​อาณานิคม"
+
+#. STRINGS.GAMEPLAY_EVENTS.LOCATIONS.NONE_AVAILABLE
+msgctxt "STRINGS.GAMEPLAY_EVENTS.LOCATIONS.NONE_AVAILABLE"
+msgid "No location currently available"
+msgstr "ตอนนี้​ยัง​ไม่​มี​ตำแหน่ง​ให้​ใช้"
+
 #. STRINGS.GAMEPLAY_EVENTS.LOCATIONS.PRINTING_POD
 msgctxt "STRINGS.GAMEPLAY_EVENTS.LOCATIONS.PRINTING_POD"
 msgid "<link=\"HEADQUARTERS\">Printing Pod</link>"
 msgstr "<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง</link>"
+
+#. STRINGS.GAMEPLAY_EVENTS.LOCATIONS.SUN
+msgctxt "STRINGS.GAMEPLAY_EVENTS.LOCATIONS.SUN"
+msgid "The Sun"
+msgstr "ดวงอาทิตย์"
+
+#. STRINGS.GAMEPLAY_EVENTS.LOCATIONS.SURFACE
+msgctxt "STRINGS.GAMEPLAY_EVENTS.LOCATIONS.SURFACE"
+msgid "Planetary Surface"
+msgstr "พื้นผิว​ดาว"
+
+#. STRINGS.GAMEPLAY_EVENTS.TIMES.IN_CYCLES
+msgctxt "STRINGS.GAMEPLAY_EVENTS.TIMES.IN_CYCLES"
+msgid "In {0} cycles"
+msgstr "ใน​อีก {0} รอบ"
+
+#. STRINGS.GAMEPLAY_EVENTS.TIMES.NOW
+msgctxt "STRINGS.GAMEPLAY_EVENTS.TIMES.NOW"
+msgid "Right now"
+msgstr "ตอนนี้​เลย"
+
+#. STRINGS.GAMEPLAY_EVENTS.TIMES.UNKNOWN
+msgctxt "STRINGS.GAMEPLAY_EVENTS.TIMES.UNKNOWN"
+msgid "Sometime"
+msgstr "สักวันหนึ่ง"
+
+#. STRINGS.INPUT.ALT
+msgctxt "STRINGS.INPUT.ALT"
+msgid "Alt"
+msgstr "Alt"
+
+#. STRINGS.INPUT.BACKQUOTE
+msgctxt "STRINGS.INPUT.BACKQUOTE"
+msgid "Backquote"
+msgstr "Backquote"
+
+#. STRINGS.INPUT.BACKSPACE
+msgctxt "STRINGS.INPUT.BACKSPACE"
+msgid "Backspace"
+msgstr "Backspace"
+
+#. STRINGS.INPUT.CTRL
+msgctxt "STRINGS.INPUT.CTRL"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. STRINGS.INPUT.ENTER
+msgctxt "STRINGS.INPUT.ENTER"
+msgid "Enter"
+msgstr "Enter"
+
+#. STRINGS.INPUT.ESCAPE
+msgctxt "STRINGS.INPUT.ESCAPE"
+msgid "Escape"
+msgstr "Esc"
+
+#. STRINGS.INPUT.INSERT
+msgctxt "STRINGS.INPUT.INSERT"
+msgid "Insert"
+msgstr "Insert"
+
+#. STRINGS.INPUT.LEFT_ALT
+msgctxt "STRINGS.INPUT.LEFT_ALT"
+msgid "L-Alt"
+msgstr "L-Alt"
+
+#. STRINGS.INPUT.LEFT_CTRL
+msgctxt "STRINGS.INPUT.LEFT_CTRL"
+msgid "L-Ctrl"
+msgstr "L-Ctrl"
+
+#. STRINGS.INPUT.LEFT_SHIFT
+msgctxt "STRINGS.INPUT.LEFT_SHIFT"
+msgid "L-Shift"
+msgstr "L-Shift"
+
+#. STRINGS.INPUT.MOUSE
+msgctxt "STRINGS.INPUT.MOUSE"
+msgid "Mouse"
+msgstr "เมาส์"
+
+#. STRINGS.INPUT.MOUSE_SCROLL_DOWN
+msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
+msgid "Mouse Scroll Down"
+msgstr "เลื่อน​ล้อ​เมาส์​ลง"
+
+#. STRINGS.INPUT.MOUSE_SCROLL_UP
+msgctxt "STRINGS.INPUT.MOUSE_SCROLL_UP"
+msgid "Mouse Scroll Up"
+msgstr "เลื่อน​ล้อ​เมาส์​ขึ้น"
+
+#. STRINGS.INPUT.NUM
+msgctxt "STRINGS.INPUT.NUM"
+msgid "Num"
+msgstr "Num"
+
+#. STRINGS.INPUT.PERIOD
+msgctxt "STRINGS.INPUT.PERIOD"
+msgid "Period Key"
+msgstr "ปุ่ม​จุด"
+
+#. STRINGS.INPUT.RIGHT_ALT
+msgctxt "STRINGS.INPUT.RIGHT_ALT"
+msgid "R-Alt"
+msgstr "R-Alt"
+
+#. STRINGS.INPUT.RIGHT_CTRL
+msgctxt "STRINGS.INPUT.RIGHT_CTRL"
+msgid "R-Ctrl"
+msgstr "R-Ctrl"
+
+#. STRINGS.INPUT.RIGHT_SHIFT
+msgctxt "STRINGS.INPUT.RIGHT_SHIFT"
+msgid "R-Shift"
+msgstr "R-Shift"
+
+#. STRINGS.INPUT.SHIFT
+msgctxt "STRINGS.INPUT.SHIFT"
+msgid "Shift"
+msgstr "Shift"
+
+#. STRINGS.INPUT.SPACE
+msgctxt "STRINGS.INPUT.SPACE"
+msgid "Space"
+msgstr "Spacebar"
+
+#. STRINGS.INPUT.TAB
+msgctxt "STRINGS.INPUT.TAB"
+msgid "Tab"
+msgstr "Tab"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1"
@@ -82327,15 +82592,146 @@ msgctxt "STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.SUBHEADER"
 msgid "Mechanical Lubricant"
 msgstr "สาร​หล่อลื่น​เชิงกล"
 
+#. STRINGS.LORE.BUILDINGS.Desk.ENTRY
+msgctxt "STRINGS.LORE.BUILDINGS.Desk.ENTRY"
+msgid ""
+"TO: JSTERN@GRAVITASFACILITY.NOVA\n"
+"FROM: EJONES@GRAVITASFACILITY.NOVA\n"
+"SUBJECT: Preliminary Calculations\n"
+"\n"
+"Director,\n"
+"\n"
+"Even with dramatic optimization we can't make the sheer volume of resources required to sustain a colony seed fit for even a small interplanetary travel duration. We'll need to consider serious changes if this is going to work.\n"
+"\n"
+"E Jones\n"
+"Information and Statistics Department\n"
+"The Gravitas Facility"
+msgstr ""
+"ถึง: JSTERN@GRAVITASFACILITY.NOVA\n"
+"จาก: EJONES@GRAVITASFACILITY.NOVA\n"
+"เรื่อง: การคำนวณ​เบื้องต้น\n"
+"\n"
+"เรียน​ผู้อำนวยการ\n"
+"\n"
+"ต่อให้​ปรับ​ให้​เหมาะสม​ขั้น​สุด​แล้ว ปริมาณ​ทรัพยากร​มหาศาล​ที่​ต้อง​ใช้​หล่อเลี้ยง​เมล็ดพันธุ์​อาณานิคม ก็​ยัง​ยัด​ไม่​ลง​แม้​กับ​การ​เดิน​ทางข้าม​ดาว​ระยะสั้น ๆ ถ้า​จะ​ให้​แผน​นี้​เวิร์ก เรา​ต้อง​พิจารณา​เปลี่ยนแปลง​ครั้ง​ใหญ่\n"
+"\n"
+"อี. โจนส์\n"
+"ฝ่าย​ข้อมูล​และ​สถิติ\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส"
+
 #. STRINGS.LORE.BUILDINGS.Desk.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.Desk.HEADER"
 msgid "Preliminary Calculations"
 msgstr "การคำนวณ​เบื้องต้น"
 
+#. STRINGS.LORE.BUILDINGS.GeneShuffler.ENTRY
+msgctxt "STRINGS.LORE.BUILDINGS.GeneShuffler.ENTRY"
+msgid ""
+"\"--fascinating that memories are not already inherent in our subjects; however, none as of yet have shown signs of recognition when introduced to familiar stimuli.\"\n"
+"\n"
+"\"Refer to Experiment 7D.\"\n"
+"\"Refer to Experiment 7F.\"\n"
+"\n"
+"\"Memories <i>must</i> be embedded within the physical brainmaps of our subjects. The only question that remains is--\""
+msgstr ""
+"\"--น่าทึ่ง​ที่​ความทรงจำ​ไม่​ได้​ติด​ตัวผู้​ถูก​ทดลอง​มา​แต่แรก อย่างไรก็ตาม ยัง​ไม่​มี​ราย​ใด​แสดงอาการ​จด​จำได้​เมื่อ​ได้รับ​สิ่งเร้า​ที่​คุ้นเคย\"\n"
+"\n"
+"\"ดู​การทดลอง 7D\"\n"
+"\"ดู​การทดลอง 7F\"\n"
+"\n"
+"\"ความทรงจำ<i>ต้อง</i>ฝัง​อยู่​ใน​แผนที่​สมอง​ทางกายภาพ​ของ​ผู้​ถูก​ทดลอง คำถาม​เดียว​ที่​เหลือ​คือ--\""
+
+#. STRINGS.LORE.BUILDINGS.GeneShuffler.HEADER
+msgctxt "STRINGS.LORE.BUILDINGS.GeneShuffler.HEADER"
+msgid "LOG FRAGMENT RECOVERED"
+msgstr "กู้​คืน​เศษ​บันทึก​ได้"
+
+#. STRINGS.LORE.BUILDINGS.PropLocker.ENTRY
+msgctxt "STRINGS.LORE.BUILDINGS.PropLocker.ENTRY"
+msgid ""
+"To all employees;\n"
+"\n"
+"The facility is pleased to announced that starting this week, all Fridays will now be Casual Fridays!\n"
+"\n"
+"Please enjoy the clinically proven destressing benefits of casual attire by wearing your favorite shirt to the lab.\n"
+"\n"
+"NOTE: Any personnel found on facility premises without regulation fullbody protection will be put on immediate notice.\n"
+"\n"
+"Thank-you and have fun!\n"
+"-Admin"
+msgstr ""
+"ถึง​พนักงาน​ทุกคน\n"
+"\n"
+"ศูนย์​วิจัย​ยินดี​ประกาศ​ว่า​ตั้งแต่​สัปดาห์​นี้ ทุกวัน​ศุกร์​จะ​เป็น​วัน​ศุกร์​แต่งตัว​สบาย ๆ!\n"
+"\n"
+"เชิญ​เพลิดเพลิน​กับ​ประโยชน์​ด้าน​คลายเครียด​ของ​ชุดลำลอง​ที่​พิสูจน์​ทาง​คลินิก​แล้ว ด้วย​การ​ใส่​เสื้อ​ตัว​โปรด​มา​ที่​แล็บ\n"
+"\n"
+"หมายเหตุ: บุคลากร​ที่​ถูก​พบ​ใน​พื้นที่​ศูนย์​วิจัย​โดย​ไม่​สวม​ชุด​ป้องกัน​เต็มตัว​ตามระเบียบ จะ​ถูก​ตักเตือน​ทันที\n"
+"\n"
+"ขอบคุณ​และ​ขอให้​สนุก​นะ!\n"
+"-ฝ่าย​ธุรการ"
+
 #. STRINGS.LORE.BUILDINGS.PropLocker.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.PropLocker.HEADER"
 msgid "Casual Friday!"
 msgstr "วัน​ศุกร์​แต่งตัว​สบาย!"
+
+#. STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY
+msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY"
+msgid ""
+"FIRST LAW\n"
+"Energy can neither be created or destroyed, only change forms.\n"
+"\n"
+"SECOND LAW\n"
+"Entropy in an isolated system that is not in equilibrium tends to increase over time, approaching the maximum value at equilibrium.\n"
+"\n"
+"THIRD LAW\n"
+"Entropy in a system approaches a constant minimum as temperature approaches absolute zero.\n"
+"\n"
+"ZEROTH LAW\n"
+"If two thermodynamic systems are in thermal equilibrium with a third, then they are in thermal equilibrium with each other."
+msgstr ""
+"กฎ​ข้อ​ที่หนึ่ง\n"
+"พลังงาน​ไม่​สามารถ​สร้าง​ขึ้น​หรือ​ทำลาย​ได้ ทำได้​เพียง​เปลี่ยนรูป\n"
+"\n"
+"กฎ​ข้อ​ที่สอง\n"
+"เอนโทรปี​ใน​ระบบ​โดดเดี่ยว​ที่​ยัง​ไม่​อยู่​ใน​สมดุล​มีแนวโน้ม​เพิ่มขึ้น​ตามเวลา จน​เข้าใกล้​ค่าสูงสุด​เมื่อ​ถึง​สมดุล\n"
+"\n"
+"กฎ​ข้อ​ที่สาม\n"
+"เอนโทรปี​ของ​ระบบ​เข้าใกล้​ค่า​ต่ำสุด​คงที่ เมื่อ​อุณหภูมิ​เข้าใกล้​ศูนย์สัมบูรณ์\n"
+"\n"
+"กฎ​ข้อ​ที่​ศูนย์\n"
+"ถ้า​ระบบ​ทาง​อุณหพลศาสตร์​สอง​ระบบ​อยู่​ใน​สมดุล​ความร้อน​กับ​ระบบ​ที่สาม ทั้งสอง​ระบบ​ก็​อยู่​ใน​สมดุล​ความร้อน​ต่อกัน​ด้วย"
+
+#. STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY
+msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY"
+msgid "A powerful stench emanates from this locker."
+msgstr "กลิ่น​เหม็น​รุนแรง​โชย​ออก​มาจาก​ตู้​ล็อกเกอร์ (ตู้​เก็บ​ของ) นี้"
+
+#. STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.CONTAINER1
+msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.CONTAINER1"
+msgid ""
+"<smallcaps><b>Reminder to All Personnel!</b>\n"
+"From: <b>Admin</b><alpha=#AA><admin@gravitas.nova></color>\n"
+"TO: <b>All</b></smallcaps>\n"
+"------------------\n"
+"<indent=5%>\n"
+"To all employees;\n"
+"\n"
+"The Gravitas Facility does not officially host a \"Bring Your Child To Work Day\" office event. We ask that personnel please do not bring children into top secret research departments, and especially that they do not let said children play with the high velocity particle accelerators.\n"
+"\n"
+"We thank you for your understanding.</indent>"
+msgstr ""
+"<smallcaps><b>ประกาศ​เตือน​ถึง​บุคลากร​ทุกคน!</b>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b><alpha=#AA><admin@gravitas.nova></color>\n"
+"ถึง: <b>ทุกคน</b></smallcaps>\n"
+"------------------\n"
+"<indent=5%>\n"
+"ถึง​พนักงาน​ทุกคน\n"
+"\n"
+"ศูนย์​วิจัย​ก​รา​วิ​ทัส​ไม่​ได้​จัดกิจกรรม \"วัน​พา​ลูก​มา​ทำงาน\" อย่าง​เป็นทางการ ขอความร่วมมือ​บุคลากร​โปรด​อย่า​พา​เด็ก​เข้ามา​ใน​แผนก​วิจัย​ลับ​สุดยอด และ​ที่​สำคัญ​ที่สุด อย่า​ปล่อย​ให้​เด็ก​เล่น​เครื่อง​เร่ง​อนุภาค​ความเร็ว​สูง\n"
+"\n"
+"ขอบคุณ​ที่​เข้าใจ</indent>"
 
 #. STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.SIGNATURE1
 msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.SIGNATURE1"
@@ -82349,6 +82745,44 @@ msgstr ""
 "-ฝ่าย​ธุรการ\n"
 "<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
 "------------------\n"
+
+#. STRINGS.LORE.BUILDINGS.SET_OBJECT.SUBTITLE
+msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.SUBTITLE"
+msgid "SUBJECT: IMPORTANT"
+msgstr "เรื่อง: สำคัญ"
+
+#. STRINGS.LORE.BUILDINGS.SET_OBJECT.TITLE
+msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.TITLE"
+msgid "Reminder to Staff"
+msgstr "ประกาศ​เตือน​พนักงาน"
+
+#. STRINGS.LORE.BUILDINGS.VendingMachine.ENTRY
+msgctxt "STRINGS.LORE.BUILDINGS.VendingMachine.ENTRY"
+msgid ""
+"TO: ALL\n"
+"FROM: ADMIN@GRAVITASFACILITY.NOVA\n"
+"SUBJECT: Unattended Cultures\n"
+"\n"
+"For the health and safety of your fellow Facility employees, please do not store unlabeled bacterial cultures in the cafeteria fridge.\n"
+"Similarly, be advised that the cafeteria dishwasher is incapable of handling petri \"dishes\", despite the nomenclature.\n"
+"\n"
+"We thank you for your consideration.\n"
+"-The Gravitas Facility"
+msgstr ""
+"ถึง: ทุกคน\n"
+"จาก: ADMIN@GRAVITASFACILITY.NOVA\n"
+"เรื่อง: เชื้อ​เพาะเลี้ยง​ไร้​เจ้าของ\n"
+"\n"
+"เพื่อ​สุขภาพ​และ​ความปลอดภัย​ของ​เพื่อน​พนักงาน​ใน​ศูนย์​วิจัย โปรด​อย่า​เก็บ​เชื้อ​แบคทีเรีย​เพาะเลี้ยง​ที่​ไม่​ติด​ฉลาก​ไว้​ใน​ตู้เย็น​โรงอาหาร\n"
+"ในทำนองเดียวกัน ขอ​แจ้ง​ว่า​เครื่องล้างจาน​ของ​โรงอาหาร​ล้าง \"จาน\" เพาะเชื้อ​ไม่​ได้ ถึง​ชื่อ​จะ​เรียก​ว่า​จาน​ก็ตาม\n"
+"\n"
+"ขอบคุณ​ที่​ให้ความร่วมมือ\n"
+"-ศูนย์​วิจัย​ก​รา​วิ​ทัส"
+
+#. STRINGS.LORE.BUILDINGS.VendingMachine.HEADER
+msgctxt "STRINGS.LORE.BUILDINGS.VendingMachine.HEADER"
+msgid "NOTICE TO STAFF"
+msgstr "ประกาศ​ถึง​พนักงาน"
 
 #. STRINGS.MISC.MONUMENT_COMPLETE.DESC
 msgctxt "STRINGS.MISC.MONUMENT_COMPLETE.DESC"
@@ -85910,95 +86344,2446 @@ msgctxt "STRINGS.MISC.TUTORIAL.DONT_SHOW_AGAIN"
 msgid "Don't Show Again"
 msgstr "ไม่ต้อง​แสดง​อีก"
 
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC"
+msgid "Acidic"
+msgstr "กรด​กัด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY"
+msgid "Antigravity"
+msgstr "ไร้​แรงโน้มถ่วง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL"
+msgid "Beautiful"
+msgstr "แสน​สวย"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED"
+msgid "Besieged"
+msgstr "โดน​ล้อม"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS"
+msgid "Breathless"
+msgstr "หอบ​แฮ่​ก"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING"
+msgid "Burgeoning"
+msgstr "กำลัง​รุ่ง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING"
+msgid "Bustling"
+msgstr "คึกคัก"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CAPITULATING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CAPITULATING"
+msgid "Capitulating"
+msgstr "ยอมแพ้"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC"
+msgid "Chaotic"
+msgstr "โกลาหล"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLINICAL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLINICAL"
+msgid "Clinical"
+msgstr "ปลอดเชื้อ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE"
+msgid "Clone"
+msgstr "โคลน"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS"
+msgid "Contagious"
+msgstr "ติดต่อ​ง่าย"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL"
+msgid "Cool"
+msgstr "เท่ ๆ"
+
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING"
 msgid "Coughing"
 msgstr "กำลัง​ไอ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE"
+msgid "Cute"
+msgstr "น่ารัก"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS"
+msgid "Dangerous"
+msgstr "อันตราย"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST"
+msgid "Darkest"
+msgstr "มืดมิด​สุด ๆ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DATA
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DATA"
+msgid "Data"
+msgstr "ข้อมูล"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY"
+msgid "Deadly"
+msgstr "มรณะ"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH"
 msgid "Death"
 msgstr "ความตาย"
 
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE"
+msgid "Delicate"
+msgstr "บอบบาง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED"
+msgid "Diseased"
+msgstr "ป่วย​โรค"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED"
+msgid "Doomed"
+msgstr "ถึงคราว​ซวย"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY"
+msgid "Dorky"
+msgstr "เนิร์ด​เปิ่น"
+
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DUPLICANT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DUPLICANT"
 msgid "Duplicant"
 msgstr "ดู​พลิ​แคนต์"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ESOTERIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ESOTERIC"
+msgid "Esoteric"
+msgstr "ลึกลับ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING"
+msgid "Festering"
+msgstr "เน่า​เฟะ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE"
+msgid "Future"
+msgstr "แห่ง​อนาคต"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC"
+msgid "Galactic"
+msgstr "แห่ง​กาแล็กซี"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GENTLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GENTLE"
+msgid "Gentle"
+msgstr "อ่อนโยน"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOBSMACKED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOBSMACKED"
+msgid "Gobsmacked"
+msgstr "อึ้งกิมกี่"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN"
+msgid "Golden"
+msgstr "สี​ทอง"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT"
 msgid "Great"
 msgstr "เยี่ยม"
 
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY"
+msgid "Grimy"
+msgstr "มอมแมม"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS"
+msgid "Hapless"
+msgstr "ดวง​กุด"
+
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY"
 msgid "Happy"
 msgstr "มีความสุข"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY"
+msgid "Hardy"
+msgstr "ทรหด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP"
+msgid "Hip"
+msgstr "ฮิ​ป ๆ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL"
+msgid "Hopeful"
+msgstr "เปี่ยม​หวัง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC"
+msgid "Idyllic"
+msgstr "ร่มรื่น"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL"
+msgid "Ill"
+msgstr "ป่วยไข้"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE"
+msgid "Immune"
+msgstr "ภูมิคุ้มกัน​ดี"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE"
 msgid "Impenetrable"
 msgstr "ทะลวง​ไม่​ได้"
 
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE"
+msgid "Incredible"
+msgstr "สุด​เหลือเชื่อ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE"
+msgid "Inescapable"
+msgstr "หนี​ไม่​พ้น"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING"
+msgid "Inspiring"
+msgstr "สร้าง​แรงบันดาลใจ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC"
+msgid "Intergalactic"
+msgstr "ข้าม​กาแล็กซี"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE"
+msgid "Invisible"
+msgstr "ล่องหน"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC"
+msgid "Ironic"
+msgstr "ย้อน​แย้ง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE"
+msgid "Lamentable"
+msgstr "น่าเวทนา"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY"
+msgid "Leaky"
+msgstr "รั่ว​ซึม"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LIMPID
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LIMPID"
+msgid "Limpid"
+msgstr "ใสแจ๋ว"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST"
+msgid "Loveliest"
+msgstr "น่ารัก​ที่สุด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS"
+msgid "Luckless"
+msgstr "ไร้​โชค"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY"
+msgid "Lucky"
+msgstr "โชคดี"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR"
+msgid "Lunar"
+msgstr "แห่ง​ดวงจันทร์"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY"
+msgid "Luxury"
+msgstr "หรูหรา"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY"
+msgid "Merry"
+msgstr "ร่าเริง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY"
+msgid "Messy"
+msgstr "รกรุงรัง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY"
+msgid "Needy"
+msgstr "ขี้อ้อน"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC"
+msgid "Optimistic"
+msgstr "มองโลก​แง่ดี"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS"
+msgid "Outrageous"
+msgstr "สุด​พิลึก"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT"
+msgid "Perfect"
+msgstr "สมบูรณ์แบบ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED"
+msgid "Phlegm-Coated"
+msgstr "เคลือบ​เสมหะ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED"
+msgid "Plagued"
+msgstr "โรคระบาด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY"
+msgid "Plucky"
+msgstr "ใจกล้า"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS"
+msgid "Prosperous"
+msgstr "รุ่งเรือง"
+
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED"
 msgid "Quarantined"
 msgstr "ถูก​กักตัว"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL"
+msgid "Radical"
+msgstr "สุด​เร​ดิ​คัล"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE"
+msgid "Radioactive"
+msgstr "กัมมันตรังสี"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE"
+msgid "Ramshackle"
+msgstr "ซอมซ่อ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE"
+msgid "Regrettable"
+msgstr "น่าเสียใจ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY"
+msgid "Rocky"
+msgstr "หิน​ผา"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY"
+msgid "Rosy"
+msgstr "สีชมพู"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC"
+msgid "Rustic"
+msgstr "บ้าน​ทุ่ง"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC"
+msgid "Scientific"
+msgstr "เชิง​วิทยาศาสตร์"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SEPTIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SEPTIC"
+msgid "Septic"
+msgstr "ติดเชื้อ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE"
+msgid "Serene"
+msgstr "สงบเงียบ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING"
+msgid "Sneezing"
+msgstr "จาม​ไม่​หยุด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE"
+msgid "Space"
+msgstr "Spacebar"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING"
+msgid "Spacefaring"
+msgstr "ท่อง​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARCROSSED
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARCROSSED"
+msgid "Star-crossed"
+msgstr "ดวง​ไม่​สมพงศ์"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING"
 msgid "Starving"
 msgstr "หิวโซ"
 
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY"
+msgid "Sticky"
+msgstr "เหนียวหนึบ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STOIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STOIC"
+msgid "Stoic"
+msgstr "นิ่ง​สงบ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE"
+msgid "Suave"
+msgstr "ลุ​คดี"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN"
+msgid "Subterranean"
+msgstr "ใต้พิภพ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER"
+msgid "Super"
+msgstr "สุดยอด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER"
+msgid "Super Duper"
+msgstr "สุด​ยอดเยี่ยม​เลย"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY"
+msgid "Swanky"
+msgstr "หรู​เริ่ด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC"
+msgid "Systematic"
+msgstr "เป็นระบบ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL"
+msgid "Temporal"
+msgstr "แห่ง​กาลเวลา"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC"
+msgid "Tragic"
+msgstr "สุด​โศก"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL"
+msgid "Transdimensional"
+msgstr "ข้าม​มิติ"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA"
+msgid "Ultra"
+msgstr "อัลต​ร้า"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE"
+msgid "Uncomfortable"
+msgstr "อึดอัด"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND"
+msgid "Underground"
+msgstr "ใต้ดิน"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE"
+msgid "Unfortunate"
+msgstr "โชคร้าย"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE"
+msgid "Unstoppable"
+msgstr "หยุด​ไม่​อยู่"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL"
+msgid "Viral"
+msgstr "ไวรัล"
+
+#. STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY
+msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY"
+msgid "Yucky"
+msgstr "แหวะ"
+
+#. STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN
+msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN"
+msgid "The {adjective} {noun}"
+msgstr "{noun}{adjective}"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
+msgid "Abode"
+msgstr "รัง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ABYSS
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABYSS"
+msgid "Abyss"
+msgstr "ห้วง​ลึก"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS"
+msgid "Acropolis"
+msgstr "อะ​โค​ร​โป​ลิ​ส"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM"
+msgid "Antfarm"
+msgstr "ฟาร์ม​มด"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID"
+msgid "Asteroid"
+msgstr "ดาวเคราะห์​น้อย"
+
 #. STRINGS.NAMEGEN.COLONY.NOUN.BASE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BASE"
 msgid "Base"
 msgstr "พื้นฐาน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.BEYOND
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BEYOND"
+msgid "Beyond"
+msgstr "แดน​โพ้น"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE"
+msgid "Brigade"
+msgstr "กองพล"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.BUNKER
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BUNKER"
+msgid "Bunker"
+msgstr "บังเกอร์"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.BURROW
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BURROW"
+msgid "Burrow"
+msgstr "โพรง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CANTALOUPE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CANTALOUPE"
+msgid "Cantaloupe"
+msgstr "แคนตาลูป"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CAPITAL
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CAPITAL"
+msgid "Capital"
+msgstr "เมืองหลวง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CESSPOOL
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CESSPOOL"
+msgid "Cesspool"
+msgstr "บ่อ​เกรอะ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CITADEL
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CITADEL"
+msgid "Citadel"
+msgstr "ป้อมปราการ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CLUBHOUSE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CLUBHOUSE"
+msgid "Clubhouse"
+msgstr "คลับ​เฮาส์"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.COLONY
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COLONY"
+msgid "Colony"
+msgstr "อาณานิคม"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.COMET
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMET"
+msgid "Meteor"
+msgstr "อุกกาบาต"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE"
+msgid "Committee"
+msgstr "คณะกรรมการ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.COSMOS
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COSMOS"
+msgid "Cosmos"
+msgstr "จักรวาล"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD"
+msgid "Crashpad"
+msgstr "ที่​ซุก​หัวนอน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CRATER
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRATER"
+msgid "Crater"
+msgstr "หลุม​อุกกาบาต"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.CRAWLSPACE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRAWLSPACE"
+msgid "Crawlspace"
+msgstr "ใต้ถุน"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CREW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CREW"
 msgid "Crew"
 msgstr "ลูกเรือ"
 
+#. STRINGS.NAMEGEN.COLONY.NOUN.DEBACLE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DEBACLE"
+msgid "Debacle"
+msgstr "ความ​พังพินาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.DEPOT
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DEPOT"
+msgid "Depot"
+msgstr "คลังสินค้า"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION"
+msgid "Dimension"
+msgstr "มิติ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND"
+msgid "Dreamland"
+msgstr "แดน​ฝัน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.DUMP
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DUMP"
+msgid "Dump"
+msgstr "กอง​ขยะ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.DWELLING
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DWELLING"
+msgid "Dwelling"
+msgstr "ที่พำนัก"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.DYSTOPIA
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DYSTOPIA"
+msgid "Dystopia"
+msgstr "ดิส​โท​เปีย"
+
 #. STRINGS.NAMEGEN.COLONY.NOUN.ECLIPSE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ECLIPSE"
 msgid "Eclipse"
 msgstr "สุริยุปราคา"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.FACILITY
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FACILITY"
+msgid "Facility"
+msgstr "ศูนย์​วิจัย"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.FACTORY
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FACTORY"
+msgid "Factory"
+msgstr "โรงงาน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.FORTRESS
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FORTRESS"
+msgid "Fortress"
+msgstr "ป้อม​ปืน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.FRIENDS
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FRIENDS"
+msgid "Friends"
+msgstr "แก๊ง​เพื่อน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.GAGGLE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.GAGGLE"
+msgid "Gaggle"
+msgstr "ฝูง​ห่าน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.GALAXY
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.GALAXY"
+msgid "Galaxy"
+msgstr "กาแล็กซี"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.GANG
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.GANG"
+msgid "Gang"
+msgstr "แก๊ง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.HOME
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOME"
+msgid "Home"
+msgstr "บ้าน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.HOMESTEAD
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOMESTEAD"
+msgid "Homestead"
+msgstr "ไร่นา"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.HOSPITAL
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOSPITAL"
+msgid "Hospital"
+msgstr "โรงพยาบาล"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.HOVEL
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOVEL"
+msgid "Hovel"
+msgstr "กระท่อม​โทรม"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.LAB
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LAB"
+msgid "Lab"
+msgstr "แล็บ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.LABORATORY
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LABORATORY"
+msgid "Laboratory"
+msgstr "ห้องปฏิบัติการ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.LEAGUE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LEAGUE"
+msgid "League"
+msgstr "ลีก"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.MOONBASE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.MOONBASE"
+msgid "Moonbase"
+msgstr "ฐาน​บน​ดวงจันทร์"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ORBIT
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ORBIT"
+msgid "Orbit"
+msgstr "วงโคจร"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.OUTPOST
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.OUTPOST"
+msgid "Outpost"
+msgstr "ด่าน​หน้า"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.PANOPTICON
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PANOPTICON"
+msgid "Panopticon"
+msgstr "คุก​พา​โน​ปติ​คอน"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.PARADISE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PARADISE"
+msgid "Paradise"
+msgstr "สวรรค์"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.PHASE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PHASE"
+msgid "Phase"
+msgstr "เฟส"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.PIGPEN
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PIGPEN"
+msgid "Pigpen"
+msgstr "คอก​หมู"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.PIT
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PIT"
+msgid "Pit"
+msgstr "หลุม"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.PLANET
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PLANET"
+msgid "Planet"
+msgstr "ดาวเคราะห์"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.POTHOLE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.POTHOLE"
+msgid "Pothole"
+msgstr "หลุม​บ่อ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST"
+msgid "Rat's Nest"
+msgstr "รัง​หนู"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SANCTUARY
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SANCTUARY"
+msgid "Sanctuary"
+msgstr "สถาน​พักพิง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT"
+msgid "Settlement"
+msgstr "นิคม"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SEWER
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SEWER"
+msgid "Sewer"
+msgstr "ท่อ​น้ำทิ้ง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SHACK
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHACK"
+msgid "Shack"
+msgstr "เพิง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SHELTER
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHELTER"
+msgid "Shelter"
+msgstr "ที่หลบภัย"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACE_HUT
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACE_HUT"
+msgid "Space Hut"
+msgstr "กระท่อม​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACECAMP
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACECAMP"
+msgid "Spacecamp"
+msgstr "ค่าย​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACEJUNK
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEJUNK"
+msgid "Spacejunk"
+msgstr "ขยะ​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACEPAD
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEPAD"
+msgid "Spacepad"
+msgstr "ลาน​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACEPRISON
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEPRISON"
+msgid "Spaceprison"
+msgstr "คุก​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACEROCK
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEROCK"
+msgid "Spacerock"
+msgstr "หิน​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SPACESTATION
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACESTATION"
+msgid "Spacestation"
+msgstr "สถานี​อวกาศ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SUPERNOVA
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SUPERNOVA"
+msgid "Supernova"
+msgstr "ซูเปอร์​โนวา"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.SYSTEM
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SYSTEM"
+msgid "System"
+msgstr "ระบบ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.TIMELINE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TIMELINE"
+msgid "Timeline"
+msgstr "เส้น​เวลา"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.TRAINWRECK
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TRAINWRECK"
+msgid "Trainwreck"
+msgstr "รถไฟ​ตกราง"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL"
+msgid "Tunnel"
+msgstr "อุโมงค์"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA"
+msgid "Utopia"
+msgstr "ยูโทเปีย"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL"
+msgid "Abigail"
+msgstr "Abigail"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANDREA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANDREA"
+msgid "Andrea"
+msgstr "Andrea"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANITA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANITA"
+msgid "Anita"
+msgstr "Anita"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANNEMARIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANNEMARIE"
+msgid "Anne-Marie"
+msgstr "Anne-Marie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ARIODNE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ARIODNE"
+msgid "Ariodne"
+msgstr "Ariodne"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ASHLEY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ASHLEY"
+msgid "Ashley"
+msgstr "Ashley"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.BRIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.BRIE"
+msgid "Brie"
+msgstr "Brie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CATIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CATIE"
+msgid "Catie"
+msgstr "Catie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHARLIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHARLIE"
+msgid "Charlie"
+msgstr "Charlie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHEESE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHEESE"
+msgid "Cheese"
+msgstr "Cheese"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CRANDICE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CRANDICE"
+msgid "Crandice"
+msgstr "Crandice"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.DANA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.DANA"
+msgid "Dana"
+msgstr "Dana"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELAINE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELAINE"
+msgid "Elaine"
+msgstr "Elaine"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELASEBETE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELASEBETE"
+msgid "Elasebete"
+msgstr "Elasebete"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMILY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMILY"
+msgid "Emily"
+msgstr "Emily"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMMA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMMA"
+msgid "Emma"
+msgstr "Emma"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ERICA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ERICA"
+msgid "Erica"
+msgstr "Erica"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.FETA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.FETA"
+msgid "Feta"
+msgstr "Feta"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GENEVA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GENEVA"
+msgid "Geneva"
+msgstr "Geneva"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GISELDA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GISELDA"
+msgid "Giselda"
+msgstr "Giselda"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GRUNKTILDA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GRUNKTILDA"
+msgid "Grunktilda"
+msgstr "Grunktilda"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JADE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JADE"
+msgid "Jade"
+msgstr "Jade"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JANI
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JANI"
+msgid "Jani"
+msgstr "Jani"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNA"
+msgid "Jenna"
+msgstr "Jenna"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNY"
+msgid "Jenny"
+msgstr "Jenny"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELLY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELLY"
+msgid "Kelly"
+msgstr "Kelly"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELSEY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELSEY"
+msgid "Kelsey"
+msgstr "Kelsey"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KENDRA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KENDRA"
+msgid "Kendra"
+msgstr "Kendra"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KIERSTEN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KIERSTEN"
+msgid "Kiersten"
+msgstr "Kiersten"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LANNIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LANNIE"
+msgid "Lannie"
+msgstr "Lannie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LAURA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LAURA"
+msgid "Laura"
+msgstr "Laura"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA"
 msgid "Leira"
 msgstr "Leira"
 
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LILAH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LILAH"
+msgid "Lilah"
+msgstr "Lilah"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LORNA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LORNA"
+msgid "Lorna"
+msgstr "Lorna"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LUCY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LUCY"
+msgid "Lucy"
+msgstr "Lucy"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MAHA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MAHA"
+msgid "Maha"
+msgstr "Maha"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MARGARET
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MARGARET"
+msgid "Margaret"
+msgstr "Margaret"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MISH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MISH"
+msgid "Mish"
+msgstr "Mish"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MOZZARELLA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MOZZARELLA"
+msgid "Mozzarella"
+msgstr "Mozzarella"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NABIEAH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NABIEAH"
+msgid "Nabie-Ah"
+msgstr "Nabie-Ah"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NANA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NANA"
+msgid "Nana"
+msgstr "Nana"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NASIM
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NASIM"
+msgid "Nasim"
+msgstr "Nasim"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NICOLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NICOLE"
+msgid "Nicole"
+msgstr "Nicole"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ORDA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ORDA"
+msgid "Orda"
+msgstr "Orda"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PARENICA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PARENICA"
+msgid "Parenica"
+msgstr "Parenica"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PRISCILLA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PRISCILLA"
+msgid "Priscilla"
+msgstr "Priscilla"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RACHEL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RACHEL"
+msgid "Rachel"
+msgstr "Rachel"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RINALDINE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RINALDINE"
+msgid "Rinaldine"
+msgstr "Rinaldine"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SALAMURA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SALAMURA"
+msgid "Salamura"
+msgstr "Salamura"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SARAH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SARAH"
+msgid "Sarah"
+msgstr "Sarah"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SIMONE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SIMONE"
+msgid "Simone"
+msgstr "Simone"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.STEPH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.STEPH"
+msgid "Steph"
+msgstr "Steph"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SUN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SUN"
+msgid "Sun"
+msgstr "Sun"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.TONI
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.TONI"
+msgid "Toni"
+msgstr "Toni"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.VIVIAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.VIVIAN"
+msgid "Vivian"
+msgstr "Vivian"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WALANI
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WALANI"
+msgid "Walani"
+msgstr "Walani"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WENDY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WENDY"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WICKERBOTTOM
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WICKERBOTTOM"
+msgid "Wickerbottom"
+msgstr "Wickerbottom"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WIGFRID
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WIGFRID"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW"
+msgid "Willow"
+msgstr "Willow"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX"
+msgid "Alex"
+msgstr "Alex"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALIA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALIA"
+msgid "Alia"
+msgstr "Alia"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BEARDOO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BEARDOO"
+msgid "Beardoo"
+msgstr "Beardoo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BROOK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BROOK"
+msgid "Brook"
+msgstr "Brook"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BRYCE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BRYCE"
+msgid "Bryce"
+msgstr "Bryce"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CAMEMBERT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CAMEMBERT"
+msgid "Camembert"
+msgstr "Camembert"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHARLIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHARLIE"
+msgid "Charlie"
+msgstr "Charlie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHRIS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHRIS"
+msgid "Chris"
+msgstr "Chris"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.COREY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.COREY"
+msgid "Corey"
+msgstr "Corey"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CREMOSO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CREMOSO"
+msgid "Cremoso"
+msgstr "Cremoso"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.DANY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.DANY"
+msgid "Dany"
+msgstr "Dany"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ERIC
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ERIC"
+msgid "Eric"
+msgstr "Eric"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.EUGENE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.EUGENE"
+msgid "Eugene"
+msgstr "Eugene"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GEOFF
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GEOFF"
+msgid "Geoff"
+msgstr "Geoff"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GRAHAM
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GRAHAM"
+msgid "Graham"
+msgstr "Graham"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HINK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HINK"
+msgid "Hink"
+msgstr "Hink"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HUGO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HUGO"
+msgid "Hugo"
+msgstr "Hugo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.IAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.IAN"
+msgid "Ian"
+msgstr "Ian"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMBELL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMBELL"
+msgid "Jambell"
+msgstr "Jambell"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMIE"
+msgid "Jamie"
+msgstr "Jamie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAN"
+msgid "Jan"
+msgstr "Jan"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JARRETT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JARRETT"
+msgid "Jarrett"
+msgstr "Jarrett"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JASON
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JASON"
+msgid "Jason"
+msgstr "Jason"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JEFF
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JEFF"
+msgid "Jeff"
+msgstr "Jeff"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JOE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JOE"
+msgid "Joe"
+msgstr "Joe"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN"
+msgid "Ju-Lian"
+msgstr "Ju-Lian"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE"
+msgid "Kernle"
+msgstr "Kernle"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KEVIN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KEVIN"
+msgid "Kevin"
+msgstr "Kevin"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LAWRY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LAWRY"
+msgid "Lawry"
+msgstr "Lawry"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LOU
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LOU"
+msgid "Lou"
+msgstr "Lou"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LUCA
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LUCA"
+msgid "Luca"
+msgstr "Luca"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARK"
+msgid "Mark"
+msgstr "Mark"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARTY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARTY"
+msgid "Marty"
+msgstr "Marty"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MATT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MATT"
+msgid "Matt"
+msgstr "Matt"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAXWELL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAXWELL"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAY"
+msgid "May"
+msgstr "May"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MIKE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MIKE"
+msgid "Mike"
+msgstr "Mike"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MONTEREY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MONTEREY"
+msgid "Monterey"
+msgstr "Monterey"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PEPPERJACK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PEPPERJACK"
+msgid "Pepper Jack"
+msgstr "Pepper Jack"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PETER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PETER"
+msgid "Peter"
+msgstr "Peter"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RAGNAR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RAGNAR"
+msgid "Ragnar"
+msgstr "Ragnar"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REDWARD
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REDWARD"
+msgid "Redward"
+msgstr "Redward"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REGGIANITO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REGGIANITO"
+msgid "Reggianito"
+msgstr "Reggianito"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RICARDO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RICARDO"
+msgid "Ricardo"
+msgstr "Ricardo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SARDO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SARDO"
+msgid "Sardo"
+msgstr "Sardo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SCOTT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SCOTT"
+msgid "Scott"
+msgstr "Scott"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SLOTH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SLOTH"
+msgid "Sloth"
+msgstr "Sloth"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SOURDOUGH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SOURDOUGH"
+msgid "Sourdough"
+msgstr "Sourdough"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.STENLAY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.STENLAY"
+msgid "Stenlay"
+msgstr "Stenlay"
+
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TRAVALDO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TRAVALDO"
 msgid "Travaldo"
 msgstr "Travaldo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TYBO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TYBO"
+msgid "Tybo"
+msgstr "Tybo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VINCE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VINCE"
+msgid "Vince"
+msgstr "Vince"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VITO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VITO"
+msgid "Vito"
+msgstr "Vito"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WARLY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WARLY"
+msgid "Warly"
+msgstr "Warly"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WEBBER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WEBBER"
+msgid "Webber"
+msgstr "Webber"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WES
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WES"
+msgid "Wes"
+msgstr "Wes"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WILSON
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WILSON"
+msgid "Wilson"
+msgstr "Wilson"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOLFGANG
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOLFGANG"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOODIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOODIE"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.YOG
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.YOG"
+msgid "Yog"
+msgstr "Yog"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ACE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ACE"
+msgid "Ace"
+msgstr "Ace"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ANDERSON
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ANDERSON"
+msgid "Anderson"
+msgstr "Anderson"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AVERY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AVERY"
+msgid "Avery"
+msgstr "Avery"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AXEL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AXEL"
+msgid "Axel"
+msgstr "Axel"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AZPAF
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AZPAF"
+msgid "Azpaf"
+msgstr "Azpaf"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BABYFACE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BABYFACE"
+msgid "Babyface"
+msgstr "Babyface"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAILEY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAILEY"
+msgid "Bailey"
+msgstr "Bailey"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAO"
+msgid "Bao"
+msgstr "Bao"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLAIR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLAIR"
+msgid "Blair"
+msgstr "Blair"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLEU
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLEU"
+msgid "Bleu"
+msgstr "Bleu"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLUMP
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLUMP"
+msgid "Blump"
+msgstr "Blump"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BOBBIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BOBBIE"
+msgid "Bobbie"
+msgstr "Bobbie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BROOK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BROOK"
+msgid "Brook"
+msgstr "Brook"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMBLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMBLE"
+msgid "Brumble"
+msgstr "Brumble"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMPO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMPO"
+msgid "Brumpo"
+msgstr "Brumpo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY"
+msgid "Buddy"
+msgstr "Buddy"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL"
+msgid "Campbell"
+msgstr "Campbell"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHAN"
+msgid "Chan"
+msgstr "Chan"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHARLIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHARLIE"
+msgid "Charlie"
+msgstr "Charlie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CROMULUS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CROMULUS"
+msgid "Cromulus"
+msgstr "Cromulus"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUDMUFFIN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUDMUFFIN"
+msgid "Crudmuffin"
+msgstr "Crudmuffin"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUMB
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUMB"
+msgid "Crumb"
+msgstr "Crumb"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DANCER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DANCER"
+msgid "Dancer"
+msgstr "Dancer"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DAR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DAR"
+msgid "Dar"
+msgstr "Dar"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DUMPLING
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DUMPLING"
+msgid "Dumpling"
+msgstr "Dumpling"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FARAH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FARAH"
+msgid "Farah"
+msgstr "Farah"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FRIMBLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FRIMBLE"
+msgid "Frimble"
+msgstr "Frimble"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GEORGIE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GEORGIE"
+msgid "Georgie"
+msgstr "Georgie"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GREASY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GREASY"
+msgid "Greasy"
+msgstr "Greasy"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JORDAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JORDAN"
+msgid "Jordan"
+msgstr "Jordan"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUDE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUDE"
+msgid "Jude"
+msgstr "Jude"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUPITER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUPITER"
+msgid "Jupiter"
+msgstr "Jupiter"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KELSEY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KELSEY"
+msgid "Kelsey"
+msgstr "Kelsey"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KERRY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KERRY"
+msgid "Kerry"
+msgstr "Kerry"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KRIS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KRIS"
+msgid "Kris"
+msgstr "Kris"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LEE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LEE"
+msgid "Lee"
+msgstr "Lee"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOGAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOGAN"
+msgid "Logan"
+msgstr "Logan"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOVELACE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOVELACE"
+msgid "Lovelace"
+msgstr "Lovelace"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LUNK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LUNK"
+msgid "Lunk"
+msgstr "Lunk"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MARIBO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MARIBO"
+msgid "Maribo"
+msgstr "Maribo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MASON
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MASON"
+msgid "Mason"
+msgstr "Mason"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MONDSEER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MONDSEER"
+msgid "Mondseer"
+msgstr "Mondseer"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MOOSE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MOOSE"
+msgid "Moose"
+msgstr "Moose"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MUSCLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MUSCLE"
+msgid "Muscle"
+msgstr "Muscle"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.NACHO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.NACHO"
+msgid "Nacho"
+msgstr "Nacho"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ORION
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ORION"
+msgid "Orion"
+msgstr "Orion"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PARIS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PARIS"
+msgid "Paris"
+msgstr "Paris"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PAT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PAT"
+msgid "Pat"
+msgstr "Pat"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PEARSON
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PEARSON"
+msgid "Pearson"
+msgstr "Pearson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.QUINN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.QUINN"
 msgid "Quinn"
 msgstr "Quinn"
 
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.REESE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.REESE"
+msgid "Reese"
+msgstr "Reese"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.RILEY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.RILEY"
+msgid "Riley"
+msgstr "Riley"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ROBIN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ROBIN"
+msgid "Robin"
+msgstr "Robin"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SADSACK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SADSACK"
+msgid "Sadsack"
+msgstr "Sadsack"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCOUT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCOUT"
+msgid "Scout"
+msgstr "Scout"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCRUNGO
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCRUNGO"
+msgid "Scrungo"
+msgstr "Scrungo"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER"
+msgid "Seldemer"
+msgstr "Seldemer"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SKIDOOSH
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SKIDOOSH"
+msgid "Skidoosh"
+msgstr "Skidoosh"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SLAB
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SLAB"
+msgid "Slab"
+msgstr "Slab"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SNORT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SNORT"
+msgid "Snort"
+msgstr "Snort"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SPLUG
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SPLUG"
+msgid "Splug"
+msgstr "Splug"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STAR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STAR"
+msgid "Star"
+msgstr "Star"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STILTON
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STILTON"
+msgid "Stilton"
+msgstr "Stilton"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SUNSHINE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SUNSHINE"
+msgid "Sunshine"
+msgstr "Sunshine"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TAYLOR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TAYLOR"
+msgid "Taylor"
+msgstr "Taylor"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TRUCK
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TRUCK"
+msgid "Truck"
+msgstr "Truck"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER"
+msgid "Tucker"
+msgstr "Tucker"
+
+#. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP"
+msgid "Wemp"
+msgstr "Wemp"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.DUCHESS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.DUCHESS"
+msgid "Duchess"
+msgstr "Duchess"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.MS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.MS"
+msgid "Ms."
+msgstr "Ms."
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.OL_WOMAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.OL_WOMAN"
+msgid "Ol' Woman"
+msgstr "Ol' Woman"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.PRINCESS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.PRINCESS"
+msgid "Princess"
+msgstr "Princess"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.QUEEN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.QUEEN"
+msgid "Queen"
+msgstr "Queen"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.DUKE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.DUKE"
+msgid "Duke"
+msgstr "Duke"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.KING
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.KING"
+msgid "King"
+msgstr "King"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.MR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.MR"
+msgid "Mr."
+msgstr "Mr."
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.OL_MAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.OL_MAN"
+msgid "Ol' Man"
+msgstr "Ol' Man"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.PRINCE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.PRINCE"
+msgid "Prince"
+msgstr "Prince"
+
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BIG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BIG"
 msgid "Big"
 msgstr "ใหญ่"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BONES
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BONES"
+msgid "Bones"
+msgstr "Bones"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BUSINESS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BUSINESS"
+msgid "Business"
+msgstr "Business"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.CAPTAIN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.CAPTAIN"
+msgid "Captain"
+msgstr "Captain"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.COLONEL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.COLONEL"
+msgid "Colonel"
+msgstr "Colonel"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DASTARDLY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DASTARDLY"
+msgid "Dastardly"
+msgstr "Dastardly"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DJ
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DJ"
+msgid "DJ"
+msgstr "DJ"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DORKY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DORKY"
+msgid "Dorky"
+msgstr "เนิร์ด​เปิ่น"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DR"
+msgid "Dr."
+msgstr "Dr."
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL"
 msgid "Evil"
 msgstr "ตัว​ร้าย"
 
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.FUNKY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.FUNKY"
+msgid "Funky"
+msgstr "Funky"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.GOOD_OL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.GOOD_OL"
+msgid "Good Ol'"
+msgstr "Good Ol'"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.LIL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.LIL"
+msgid "Lil"
+msgstr "Lil"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.LOVABLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.LOVABLE"
+msgid "Lovable"
+msgstr "Lovable"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.MX
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.MX"
+msgid "Mx."
+msgstr "Mx."
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.OLD
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.OLD"
+msgid "Old"
+msgstr "Old"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PEPPY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PEPPY"
+msgid "Peppy"
+msgstr "Peppy"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.POWERFUL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.POWERFUL"
+msgid "Powerful"
+msgstr "Powerful"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PROFESSOR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PROFESSOR"
+msgid "Professor"
+msgstr "Professor"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.SLICKITY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.SLICKITY"
+msgid "Slickity"
+msgstr "Slickity"
+
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.TINY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.TINY"
 msgid "Tiny"
 msgstr "จิ๋ว"
 
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.UNSTOPPABLE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.UNSTOPPABLE"
+msgid "Unstoppable"
+msgstr "หยุด​ไม่​อยู่"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WILD_OL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WILD_OL"
+msgid "Wild Ol'"
+msgstr "Wild Ol'"
+
+#. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WUNDER
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WUNDER"
+msgid "Wunder"
+msgstr "Wunder"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.FEMALE.THE_BOSS
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.FEMALE.THE_BOSS"
+msgid "\"The Boss\""
+msgstr "\"The Boss\""
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.FEMALE.THE_DUDETTE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.FEMALE.THE_DUDETTE"
+msgid "\"The Dudette\""
+msgstr "\"The Dudette\""
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_COMPANY_MAN
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_COMPANY_MAN"
+msgid "\"The Company Man\""
+msgstr "\"The Company Man\""
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_DUDE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_DUDE"
+msgid "\"The Dude\""
+msgstr "\"The Dude\""
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.ESQ
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.ESQ"
+msgid "Esq."
+msgstr "Esq."
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.JR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.JR"
+msgid "Jr."
+msgstr "Jr."
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.MCCOOL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.MCCOOL"
+msgid "McCool"
+msgstr "McCool"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.SR
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.SR"
+msgid "Sr."
+msgstr "Sr."
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.STRONG
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.STRONG"
+msgid "Strong"
+msgstr "Strong"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BAD
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BAD"
+msgid "The Bad"
+msgstr "The Bad"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BEEFY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BEEFY"
+msgid "The Beefy"
+msgstr "The Beefy"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_CHOSEN_ONE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_CHOSEN_ONE"
+msgid "The Chosen One"
+msgstr "The Chosen One"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_EVIL
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_EVIL"
+msgid "The Evil"
+msgstr "The Evil"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GOOD
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GOOD"
+msgid "The Good"
+msgstr "The Good"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GREAT
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GREAT"
+msgid "The Great"
+msgstr "The Great"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UGLY
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UGLY"
+msgid "The Ugly"
+msgstr "The Ugly"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UNDEFEATED
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UNDEFEATED"
+msgid "The Undefeated"
+msgstr "The Undefeated"
+
+#. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UNFORTUNATE
+msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UNFORTUNATE"
+msgid "The Unfortunate"
+msgstr "The Unfortunate"
+
+#. STRINGS.NAMEGEN.GEYSER_IDS.IDs
+msgctxt "STRINGS.NAMEGEN.GEYSER_IDS.IDs"
+msgid ""
+"\n"
+"HW\n"
+"GQ\n"
+"NA\n"
+"TH\n"
+"ZL\n"
+"EV\n"
+"SK\n"
+"FP\n"
+"NJ\n"
+"RA\n"
+"UO\n"
+"XE"
+msgstr ""
+"\n"
+"HW\n"
+"GQ\n"
+"NA\n"
+"TH\n"
+"ZL\n"
+"EV\n"
+"SK\n"
+"FP\n"
+"NJ\n"
+"RA\n"
+"UO\n"
+"XE"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.ALL_GOOD_THINGS
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.ALL_GOOD_THINGS"
+msgid "All good things must come to an end."
+msgstr "สิ่ง​ดี ๆ ย่อม​มี​วัน​จบ​ลง"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.ASHES_TO_ASHES_STARDUST_TO_STARDUST
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.ASHES_TO_ASHES_STARDUST_TO_STARDUST"
+msgid "Ashes to ashes, stardust to stardust."
+msgstr "เถ้า​คืน​สู่​เถ้า ละออง​ดาว​คืน​สู่​ละออง​ดาว"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.FREE_FROM_THE_CLUTCHES_OF_TIME
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.FREE_FROM_THE_CLUTCHES_OF_TIME"
+msgid "Free from the clutches of time."
+msgstr "หลุดพ้น​จาก​พันธนาการ​ของ​กาลเวลา"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME"
+msgid "\"Go on without me.\""
+msgstr "\"ไป​ต่อ​เถอะ ไม่ต้อง​ห่วง​ฉัน\""
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN"
+msgid "Gone, but not forgotten."
+msgstr "จากไป​แต่​ไม่​ถูก​ลืม"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.MAY_THEY_KNOW_PEACE
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.MAY_THEY_KNOW_PEACE"
+msgid "May they know peace."
+msgstr "ขอ​ให้ได้​พบ​ความสงบ"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.NEVER_ANOTHER_LIKE_THEM_UNTIL_WE_PRINT_ANOTHER_LIKE_THEM
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.NEVER_ANOTHER_LIKE_THEM_UNTIL_WE_PRINT_ANOTHER_LIKE_THEM"
+msgid "Never another like them. Until we print another like them."
+msgstr "ไม่​มี​ใคร​เหมือน​อีกแล้ว จนกว่า​เรา​จะ​พิมพ์​คน​เหมือน​ออกมา​ใหม่"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.NOW_WELL_NEVER_KNOW_WHERE_THEY_BURIED_THE_TREASURE
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.NOW_WELL_NEVER_KNOW_WHERE_THEY_BURIED_THE_TREASURE"
+msgid "Now we'll never know where they buried the treasure."
+msgstr "ทีนี้​เรา​จะ​ไม่​มี​วัน​รู้​แล้ว​ว่า​เขา​ฝัง​สมบัติ​ไว้​ตรงไหน"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.TAKE_ALL_THEIR_STUFF_ITS_WHAT_THEY_WOULD_HAVE_WANTED
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.TAKE_ALL_THEIR_STUFF_ITS_WHAT_THEY_WOULD_HAVE_WANTED"
+msgid "Take all their stuff. It's what they would have wanted."
+msgstr "เอา​ของ​เขา​ไป​ให้​หมด​เลย เขา​คง​อยาก​ให้​เป็น​แบบ​นั้น"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.THANK_GOODNESS_THEY_WERE_STARTING_TO_SMELL
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.THANK_GOODNESS_THEY_WERE_STARTING_TO_SMELL"
+msgid "Thank goodness. They were starting to smell."
+msgstr "ค่อยยังชั่ว เริ่ม​จะ​เหม็น​แล้ว​พอดี"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.THEY_DIED_DOING_WHAT_THEY_LOVED
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.THEY_DIED_DOING_WHAT_THEY_LOVED"
+msgid "They died doing what they loved."
+msgstr "จากไป​ขณะ​ทำ​สิ่ง​ที่รัก"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.TO_DIG_TO_MUSH_NO_MORE
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.TO_DIG_TO_MUSH_NO_MORE"
+msgid "To dig, to mush, no more."
+msgstr "ไม่ต้อง​ขุด ไม่ต้อง​กิน​ข้าวต้ม​โคลน​อีกต่อไป"
+
+#. STRINGS.NAMEGEN.GRAVE.EPITAPHS.WHERE_ONE_ADVENTURE_ENDS_ANOTHER_BEGINS
+msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.WHERE_ONE_ADVENTURE_ENDS_ANOTHER_BEGINS"
+msgid "Where one adventure ends, another begins."
+msgstr "ที่ใด​การผจญภัย​หนึ่ง​จบ​ลง ที่นั่น​อีก​การผจญภัย​เริ่มต้น"
+
+#. STRINGS.NAMEGEN.GRAVE.PETITAPHS.BELOVED_PET
+msgctxt "STRINGS.NAMEGEN.GRAVE.PETITAPHS.BELOVED_PET"
+msgid "Beloved pet and friend."
+msgstr "สัตว์เลี้ยง​และ​เพื่อน​ผู้​เป็น​ที่รัก"
+
+#. STRINGS.NAMEGEN.GRAVE.PETITAPHS.FARM
+msgctxt "STRINGS.NAMEGEN.GRAVE.PETITAPHS.FARM"
+msgid "Gone to the farm in the sky."
+msgstr "ไป​อยู่​ฟาร์ม​บน​ฟ้า​แล้ว"
+
+#. STRINGS.NAMEGEN.GRAVE.PETITAPHS.GOOD_BOY
+msgctxt "STRINGS.NAMEGEN.GRAVE.PETITAPHS.GOOD_BOY"
+msgid "They were the goodest boy."
+msgstr "เป็น​เด็กดี​ที่สุด​ใน​โลก​เลย"
+
+#. STRINGS.NAMEGEN.GRAVE.PETITAPHS.GOOD_GIRL
+msgctxt "STRINGS.NAMEGEN.GRAVE.PETITAPHS.GOOD_GIRL"
+msgid "They were the goodest girl."
+msgstr "เป็น​เด็กดี​ที่สุด​ใน​โลก​เลย​จ้ะ"
+
+#. STRINGS.NAMEGEN.LAUNCHPAD.FORMAT
+msgctxt "STRINGS.NAMEGEN.LAUNCHPAD.FORMAT"
+msgid "Rocket Platform {Name}"
+msgstr "ฐาน​ปล่อย​จรวด {Name}"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ADAPTABLE
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ADAPTABLE"
+msgid "Adaptable"
+msgstr "Adaptable"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ARDENT
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ARDENT"
+msgid "Ardent"
+msgstr "Ardent"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.BOLD
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.BOLD"
+msgid "Bold"
+msgstr "Bold"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.BRAVE
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.BRAVE"
+msgid "Brave"
+msgstr "Brave"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.CURIOUS
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.CURIOUS"
+msgid "Curious"
+msgstr "Curious"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DARING
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DARING"
+msgid "Daring"
+msgstr "Daring"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DAZZLING
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DAZZLING"
+msgid "Dazzling"
+msgstr "Dazzling"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DEFENSIVE
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DEFENSIVE"
+msgid "Defensive"
+msgstr "Defensive"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EJECTED
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EJECTED"
+msgid "Ejected"
+msgstr "Ejected"
+
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPERIMENTAL
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPERIMENTAL"
 msgid "Experimental"
 msgstr "ทดลอง"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPLORATORY
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPLORATORY"
+msgid "Exploratory"
+msgstr "Exploratory"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.GALLANT
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.GALLANT"
+msgid "Gallant"
+msgstr "Gallant"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.GENESIS
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.GENESIS"
+msgid "Genesis"
+msgstr "Genesis"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INSPIRING
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INSPIRING"
+msgid "Inspiring"
+msgstr "สร้าง​แรงบันดาลใจ"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERGALACTIC
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERGALACTIC"
+msgid "Intergalactic"
+msgstr "ข้าม​กาแล็กซี"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERSTELLAR
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERSTELLAR"
+msgid "Interstellar"
+msgstr "Interstellar"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.KEEN
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.KEEN"
+msgid "Keen"
+msgstr "Keen"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.LOGISTICAL
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.LOGISTICAL"
+msgid "Logistical"
+msgstr "Logistical"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.NEON
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.NEON"
+msgid "Neon"
+msgstr "Neon"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.NOBLE
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.NOBLE"
+msgid "Noble"
+msgstr "Noble"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.OPERATIONAL
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.OPERATIONAL"
+msgid "Operational"
+msgstr "Operational"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ORBITAL
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ORBITAL"
+msgid "Orbital"
+msgstr "Orbital"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PEACE
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PEACE"
+msgid "Peace"
+msgstr "Peace"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PROGRESS
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PROGRESS"
+msgid "Progress"
+msgstr "Progress"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.RECON
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.RECON"
+msgid "Recon"
+msgstr "Recon"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.RESOLUTE
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.RESOLUTE"
+msgid "Resolute"
+msgstr "Resolute"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.SCIENTIFIC
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.SCIENTIFIC"
+msgid "Scientific"
+msgstr "เชิง​วิทยาศาสตร์"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.STEADFAST
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.STEADFAST"
+msgid "Steadfast"
+msgstr "Steadfast"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.SURVERY
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.SURVERY"
+msgid "Survey"
+msgstr "Survey"
+
+#. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.WANDERING
+msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.WANDERING"
+msgid "Wandering"
+msgstr "Wandering"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.ADEOS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ADEOS"
+msgid "Adeos"
+msgstr "Adeos"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.APOLLO
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.APOLLO"
+msgid "Apollo"
+msgstr "Apollo"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.ARTEMIS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ARTEMIS"
+msgid "Artemis"
+msgstr "Artemis"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.BEAUTY
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.BEAUTY"
+msgid "Beauty"
+msgstr "Beauty"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.CALIPSO
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.CALIPSO"
+msgid "Calipso"
+msgstr "Calipso"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.CALPANA
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.CALPANA"
+msgid "Calpana"
+msgstr "Calpana"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.EOS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.EOS"
+msgid "Eos"
+msgstr "Eos"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.EXPLORER
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.EXPLORER"
+msgid "Explorer"
+msgstr "Explorer"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.GEMINI
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.GEMINI"
+msgid "Gemini"
+msgstr "Gemini"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.HELIOS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.HELIOS"
+msgid "Helios"
+msgstr "Helios"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.HOPE
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.HOPE"
+msgid "Hope"
+msgstr "Hope"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.JUPITER
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.JUPITER"
+msgid "Jupiter"
+msgstr "Jupiter"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.KNOWLEDGE
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.KNOWLEDGE"
+msgid "Knowledge"
+msgstr "Knowledge"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.MARS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.MARS"
+msgid "Mars"
+msgstr "Mars"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.MIR
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.MIR"
+msgid "Mir"
+msgstr "Mir"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.NEPTUNE
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.NEPTUNE"
+msgid "Neptune"
+msgstr "Neptune"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.PLUTO
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.PLUTO"
+msgid "Pluto"
+msgstr "Pluto"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.PROTOTYPE
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.PROTOTYPE"
+msgid "Prototype"
+msgstr "Prototype"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.ROCKET
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ROCKET"
@@ -86010,15 +88795,861 @@ msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ROVER"
 msgid "Rover"
 msgstr "โร​เวอร์"
 
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SAT
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SAT"
+msgid "SAT"
+msgstr "SAT"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SATURN
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SATURN"
+msgid "Saturn"
+msgstr "Saturn"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SELENE
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SELENE"
+msgid "Selene"
+msgstr "Selene"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SKYLAB
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SKYLAB"
+msgid "Skylab"
+msgstr "Skylab"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SOL
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SOL"
+msgid "Sol"
+msgstr "Sol"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SPACESHIP
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SPACESHIP"
+msgid "Spaceship"
+msgstr "Spaceship"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SPACESTATION
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SPACESTATION"
+msgid "Space Station"
+msgstr "Space Station"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.SPUTNIK
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SPUTNIK"
+msgid "Sputnik"
+msgstr "Sputnik"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.URANUS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.URANUS"
+msgid "Uranus"
+msgstr "Uranus"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.VENESAT
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VENESAT"
+msgid "Venesat"
+msgstr "Venesat"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.VENUS
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VENUS"
+msgid "Venus"
+msgstr "Venus"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.VESSEL
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VESSEL"
+msgid "Vessel"
+msgstr "Vessel"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.VGER
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VGER"
+msgid "V'ger"
+msgstr "V'ger"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.VIRGO
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VIRGO"
+msgid "Virgo"
+msgstr "Virgo"
+
+#. STRINGS.NAMEGEN.ROCKET.NOUN.WANDERER
+msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.WANDERER"
+msgid "Wanderer"
+msgstr "Wanderer"
+
+#. STRINGS.NAMEGEN.ROCKET.PREFIX.OL
+msgctxt "STRINGS.NAMEGEN.ROCKET.PREFIX.OL"
+msgid "Ol'"
+msgstr "Ol'"
+
+#. STRINGS.NAMEGEN.ROCKET.PREFIX.SPIRITOF
+msgctxt "STRINGS.NAMEGEN.ROCKET.PREFIX.SPIRITOF"
+msgid "Spirit of"
+msgstr "Spirit of"
+
+#. STRINGS.NAMEGEN.ROCKET.PREFIX.THE
+msgctxt "STRINGS.NAMEGEN.ROCKET.PREFIX.THE"
+msgid "The"
+msgstr "The"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.II
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.II"
+msgid "II"
+msgstr "II"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.III
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.III"
+msgid "III"
+msgstr "III"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.IV
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.IV"
+msgid "IV"
+msgstr "IV"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.IX
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.IX"
+msgid "IX"
+msgstr "IX"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.LI
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.LI"
+msgid "LI"
+msgstr "LI"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.LV
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.LV"
+msgid "LV"
+msgstr "LV"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.VI
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.VI"
+msgid "VI"
+msgstr "VI"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.VII
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.VII"
+msgid "VII"
+msgstr "VII"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XC
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XC"
+msgid "XC"
+msgstr "XC"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XI
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XI"
+msgid "XI"
+msgstr "XI"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XIV
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XIV"
+msgid "XIV"
+msgstr "XIV"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XL
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XL"
+msgid "XL"
+msgstr "XL"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XLI
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XLI"
+msgid "XLI"
+msgstr "XLI"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XV
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XV"
+msgid "XV"
+msgstr "XV"
+
+#. STRINGS.NAMEGEN.ROCKET.SUFFIX.XVI
+msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XVI"
+msgid "XVI"
+msgstr "XVI"
+
 #. STRINGS.NAMEGEN.WORLD.NO_DUPES_ON_PLANET
 msgctxt "STRINGS.NAMEGEN.WORLD.NO_DUPES_ON_PLANET"
 msgid "Nobody here..."
 msgstr "ไม่​มี​ใคร​อยู่​ที่นี่​เลย..."
 
+#. STRINGS.NAMEGEN.WORLD.NO_DUPES_ON_PLANET_TOOLTIP
+msgctxt "STRINGS.NAMEGEN.WORLD.NO_DUPES_ON_PLANET_TOOLTIP"
+msgid "There are no Duplicants on this Planetoid"
+msgstr "ไม่​มี​ดู​พลิ​แคนต์​อยู่​บน​ดาว​ดวง​นี้"
+
+#. STRINGS.NAMEGEN.WORLD.PLANETOID_PREFIX
+msgctxt "STRINGS.NAMEGEN.WORLD.PLANETOID_PREFIX"
+msgid "Planetoid: "
+msgstr "ดาว: "
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.AQUATIC
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.AQUATIC"
+msgid ""
+"Marit\n"
+"Naut\n"
+"Submar\n"
+"Immers\n"
+"Deep\n"
+"Coral\n"
+"Tidal\n"
+"Shor\n"
+"Seas\n"
+"Sunk\n"
+"Nav\n"
+"Reef\n"
+"Beach\n"
+"Subaqu\n"
+msgstr ""
+"Marit\n"
+"Naut\n"
+"Submar\n"
+"Immers\n"
+"Deep\n"
+"Coral\n"
+"Tidal\n"
+"Shor\n"
+"Seas\n"
+"Sunk\n"
+"Nav\n"
+"Reef\n"
+"Beach\n"
+"Subaqu\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.CERES
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.CERES"
+msgid ""
+"Wintr\n"
+"Polar\n"
+"Subzer\n"
+"Impass\n"
+"Glac\n"
+"Blust\n"
+"Gelid\n"
+"Cryo\n"
+"Icicl\n"
+"Slush\n"
+"Sleet\n"
+"Hail\n"
+"Shivrr\n"
+msgstr ""
+"Wintr\n"
+"Polar\n"
+"Subzer\n"
+"Impass\n"
+"Glac\n"
+"Blust\n"
+"Gelid\n"
+"Cryo\n"
+"Icicl\n"
+"Slush\n"
+"Sleet\n"
+"Hail\n"
+"Shivrr\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.FLIPPED
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.FLIPPED"
+msgid ""
+"Revers\n"
+"Inver\n"
+"Err\n"
+"Flipp\n"
+"Upsid\n"
+"Bottom\n"
+"Retr\n"
+"Contr\n"
+"Jumbel\n"
+"Discor\n"
+"Awr\n"
+"Abnorm\n"
+msgstr ""
+"Revers\n"
+"Inver\n"
+"Err\n"
+"Flipp\n"
+"Upsid\n"
+"Bottom\n"
+"Retr\n"
+"Contr\n"
+"Jumbel\n"
+"Discor\n"
+"Awr\n"
+"Abnorm\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.FOREST
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.FOREST"
+msgid ""
+"Veget\n"
+"Leaf\n"
+"Wood\n"
+"Topiar\n"
+"Timber\n"
+"Shrub\n"
+"Herb\n"
+"Grow\n"
+"Verd\n"
+"Sylv\n"
+"Abund\n"
+"Arbor\n"
+"Twig\n"
+"Canop\n"
+"Perenn\n"
+"Lush\n"
+"Root\n"
+"Sap\n"
+"Cultiv\n"
+"Bark\n"
+msgstr ""
+"Veget\n"
+"Leaf\n"
+"Wood\n"
+"Topiar\n"
+"Timber\n"
+"Shrub\n"
+"Herb\n"
+"Grow\n"
+"Verd\n"
+"Sylv\n"
+"Abund\n"
+"Arbor\n"
+"Twig\n"
+"Canop\n"
+"Perenn\n"
+"Lush\n"
+"Root\n"
+"Sap\n"
+"Cultiv\n"
+"Bark\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.GENERIC
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.GENERIC"
+msgid ""
+"Sol\n"
+"Lun\n"
+"Orb\n"
+"Cosm\n"
+"Glob\n"
+"Star\n"
+"Zolt\n"
+"Takar\n"
+"Beep\n"
+"Boop\n"
+"Zap\n"
+"Zow\n"
+"Grav\n"
+"Ab\n"
+"Ad\n"
+"Ar\n"
+"Ashk\n"
+"Ban\n"
+"Bubbl\n"
+"Burt\n"
+"Camil\n"
+"Catal\n"
+"Devon\n"
+"Ell\n"
+"Frank\n"
+"Goss\n"
+"Har\n"
+"Hass\n"
+"Jean\n"
+"Josh\n"
+"Leir\n"
+"Lia\n"
+"Lind\n"
+"Mav\n"
+"Mar\n"
+"Max\n"
+"Meep\n"
+"Mim\n"
+"Nail\n"
+"Nik\n"
+"Nis\n"
+"Ott\n"
+"Ren\n"
+"Row\n"
+"Rub\n"
+"Stink\n"
+"Trav\n"
+"Turn\n"
+"Jorg\n"
+"Pei\n"
+"Stev\n"
+"Qui\n"
+"Amar\n"
+"Freyj\n"
+"Gizm\n"
+"Edw\n"
+"Chip\n"
+msgstr ""
+"Sol\n"
+"Lun\n"
+"Orb\n"
+"Cosm\n"
+"Glob\n"
+"Star\n"
+"Zolt\n"
+"Takar\n"
+"Beep\n"
+"Boop\n"
+"Zap\n"
+"Zow\n"
+"Grav\n"
+"Ab\n"
+"Ad\n"
+"Ar\n"
+"Ashk\n"
+"Ban\n"
+"Bubbl\n"
+"Burt\n"
+"Camil\n"
+"Catal\n"
+"Devon\n"
+"Ell\n"
+"Frank\n"
+"Goss\n"
+"Har\n"
+"Hass\n"
+"Jean\n"
+"Josh\n"
+"Leir\n"
+"Lia\n"
+"Lind\n"
+"Mav\n"
+"Mar\n"
+"Max\n"
+"Meep\n"
+"Mim\n"
+"Nail\n"
+"Nik\n"
+"Nis\n"
+"Ott\n"
+"Ren\n"
+"Row\n"
+"Rub\n"
+"Stink\n"
+"Trav\n"
+"Turn\n"
+"Jorg\n"
+"Pei\n"
+"Stev\n"
+"Qui\n"
+"Amar\n"
+"Freyj\n"
+"Gizm\n"
+"Edw\n"
+"Chip\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.MAGMA
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.MAGMA"
+msgid ""
+"Fier\n"
+"Magm\n"
+"Toast\n"
+"Scorch\n"
+"Burn\n"
+"Obsid\n"
+"Lav\n"
+"Melt\n"
+"Hot\n"
+"Sweltr\n"
+"Blist\n"
+"Flam\n"
+"Therm\n"
+"Combust\n"
+"Cauter\n"
+"Torch\n"
+"Stok\n"
+"Char\n"
+msgstr ""
+"Fier\n"
+"Magm\n"
+"Toast\n"
+"Scorch\n"
+"Burn\n"
+"Obsid\n"
+"Lav\n"
+"Melt\n"
+"Hot\n"
+"Sweltr\n"
+"Blist\n"
+"Flam\n"
+"Therm\n"
+"Combust\n"
+"Cauter\n"
+"Torch\n"
+"Stok\n"
+"Char\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.MOO
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.MOO"
+msgid ""
+"Moom\n"
+"Gas\n"
+"Udder\n"
+"Heffer\n"
+"Belch\n"
+"Calf\n"
+"Cud\n"
+"Gass\n"
+"Methan\n"
+"Bull\n"
+msgstr ""
+"Moom\n"
+"Gas\n"
+"Udder\n"
+"Heffer\n"
+"Belch\n"
+"Calf\n"
+"Cud\n"
+"Gass\n"
+"Methan\n"
+"Bull\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.OILY
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.OILY"
+msgid ""
+"Greas\n"
+"Slick\n"
+"Oil\n"
+"Petr\n"
+"Fuel\n"
+"Combust\n"
+"Greas\n"
+"Crud\n"
+"Viscous\n"
+"Pitch\n"
+msgstr ""
+"Greas\n"
+"Slick\n"
+"Oil\n"
+"Petr\n"
+"Fuel\n"
+"Combust\n"
+"Greas\n"
+"Crud\n"
+"Viscous\n"
+"Pitch\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.PREHISTORIC
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.PREHISTORIC"
+msgid ""
+"Primor\n"
+"Paleo\n"
+"Dino\n"
+"Cret\n"
+"Foss\n"
+"Fern\n"
+"Claw\n"
+"Saur\n"
+"Bront\n"
+"Arc\n"
+"Jur\n"
+"Antiq\n"
+"Neol\n"
+"Pter\n"
+"Camb\n"
+msgstr ""
+"Primor\n"
+"Paleo\n"
+"Dino\n"
+"Cret\n"
+"Foss\n"
+"Fern\n"
+"Claw\n"
+"Saur\n"
+"Bront\n"
+"Arc\n"
+"Jur\n"
+"Antiq\n"
+"Neol\n"
+"Pter\n"
+"Camb\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.RADIOACTIVE
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.RADIOACTIVE"
+msgid ""
+"Rad\n"
+"Contam\n"
+"Hazard\n"
+"Glow\n"
+"Tox\n"
+"Irrad\n"
+"Radioact\n"
+"Atom\n"
+"Zap\n"
+"Nucl\n"
+"Fusion\n"
+"Ray\n"
+msgstr ""
+"Rad\n"
+"Contam\n"
+"Hazard\n"
+"Glow\n"
+"Tox\n"
+"Irrad\n"
+"Radioact\n"
+"Atom\n"
+"Zap\n"
+"Nucl\n"
+"Fusion\n"
+"Ray\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.REGOLITH
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.REGOLITH"
+msgid ""
+"Filt\n"
+"Regol\n"
+"Siev\n"
+"Sift\n"
+"Meteor\n"
+"Sand\n"
+"Rock\n"
+"Dust\n"
+"Sedim\n"
+"Silt\n"
+msgstr ""
+"Filt\n"
+"Regol\n"
+"Siev\n"
+"Sift\n"
+"Meteor\n"
+"Sand\n"
+"Rock\n"
+"Dust\n"
+"Sedim\n"
+"Silt\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.SULFUR
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.SULFUR"
+msgid ""
+"Sulph\n"
+"Sulf\n"
+"Brim\n"
+"Brimston\n"
+"Yell\n"
+"Egg\n"
+msgstr ""
+"Sulph\n"
+"Sulf\n"
+"Brim\n"
+"Brimston\n"
+"Yell\n"
+"Egg\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.SWAMP
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.SWAMP"
+msgid ""
+"Goop\n"
+"Mud\n"
+"Muck\n"
+"Gross\n"
+"Stink\n"
+"Smell\n"
+"Yuck\n"
+"Reek\n"
+"Blag\n"
+"Sogg\n"
+"Dripp\n"
+"Ugh\n"
+"Pustul\n"
+"Ick\n"
+"Curd\n"
+"Slop\n"
+"Phlegm\n"
+"Gurg\n"
+"Smear\n"
+"Ooz\n"
+msgstr ""
+"Goop\n"
+"Mud\n"
+"Muck\n"
+"Gross\n"
+"Stink\n"
+"Smell\n"
+"Yuck\n"
+"Reek\n"
+"Blag\n"
+"Sogg\n"
+"Dripp\n"
+"Ugh\n"
+"Pustul\n"
+"Ick\n"
+"Curd\n"
+"Slop\n"
+"Phlegm\n"
+"Gurg\n"
+"Smear\n"
+"Ooz\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.TERRA
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.TERRA"
+msgid ""
+"Earth\n"
+"Fertil\n"
+"Soil\n"
+"Beaut\n"
+"Equ\n"
+"Pleth\n"
+"Idyll\n"
+"Halcy\n"
+"Pastor\n"
+"Allur\n"
+"Flor\n"
+"Nutril\n"
+"Viv\n"
+"Perseph\n"
+"Sanct\n"
+"Exquis\n"
+"Haven\n"
+"Paix\n"
+"Bloom\n"
+"Vital\n"
+msgstr ""
+"Earth\n"
+"Fertil\n"
+"Soil\n"
+"Beaut\n"
+"Equ\n"
+"Pleth\n"
+"Idyll\n"
+"Halcy\n"
+"Pastor\n"
+"Allur\n"
+"Flor\n"
+"Nutril\n"
+"Viv\n"
+"Perseph\n"
+"Sanct\n"
+"Exquis\n"
+"Haven\n"
+"Paix\n"
+"Bloom\n"
+"Vital\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.TUNDRA
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.TUNDRA"
+msgid ""
+"Brr'\n"
+"Snow\n"
+"Tundr\n"
+"Blizz\n"
+"Freez\n"
+"Chill\n"
+"Frig\n"
+"Froid\n"
+"Cold\n"
+"Frost\n"
+msgstr ""
+"Brr'\n"
+"Snow\n"
+"Tundr\n"
+"Blizz\n"
+"Freez\n"
+"Chill\n"
+"Frig\n"
+"Froid\n"
+"Cold\n"
+"Frost\n"
+
+#. STRINGS.NAMEGEN.WORLD.ROOTS.WATER
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.WATER"
+msgid ""
+"Wat\n"
+"Damp\n"
+"Moist\n"
+"Drench\n"
+"Aytch Tew\n"
+"Hydr\n"
+"Flood\n"
+"Irrig\n"
+"Soaker\n"
+"Drip\n"
+"Bath\n"
+"Splash\n"
+"Liqu\n"
+"Humid\n"
+"Puddl\n"
+"Buoy\n"
+"Aqu\n"
+msgstr ""
+"Wat\n"
+"Damp\n"
+"Moist\n"
+"Drench\n"
+"Aytch Tew\n"
+"Hydr\n"
+"Flood\n"
+"Irrig\n"
+"Soaker\n"
+"Drip\n"
+"Bath\n"
+"Splash\n"
+"Liqu\n"
+"Humid\n"
+"Puddl\n"
+"Buoy\n"
+"Aqu\n"
+
+#. STRINGS.NAMEGEN.WORLD.SPACECRAFT_PREFIX
+msgctxt "STRINGS.NAMEGEN.WORLD.SPACECRAFT_PREFIX"
+msgid "Spacecraft: "
+msgstr "ยานอวกาศ: "
+
+#. STRINGS.NAMEGEN.WORLD.SUFFIXES.GENERICLIST
+msgctxt "STRINGS.NAMEGEN.WORLD.SUFFIXES.GENERICLIST"
+msgid ""
+"oni\n"
+"ini\n"
+"ani\n"
+"ona\n"
+"ina\n"
+"ino\n"
+"ano\n"
+"alin\n"
+"elin\n"
+"olin\n"
+"ial\n"
+"iol\n"
+"iel\n"
+"ela\n"
+"ila\n"
+"ola\n"
+"era\n"
+"ora\n"
+"ato\n"
+"ito\n"
+"ilios\n"
+"ista\n"
+"azon\n"
+"ibo\n"
+msgstr ""
+"oni\n"
+"ini\n"
+"ani\n"
+"ona\n"
+"ina\n"
+"ino\n"
+"ano\n"
+"alin\n"
+"elin\n"
+"olin\n"
+"ial\n"
+"iol\n"
+"iel\n"
+"ela\n"
+"ila\n"
+"ola\n"
+"era\n"
+"ora\n"
+"ato\n"
+"ito\n"
+"ilios\n"
+"ista\n"
+"azon\n"
+"ibo\n"
+
 #. STRINGS.NAMEGEN.WORLD.UNKNOWN_WORLD
 msgctxt "STRINGS.NAMEGEN.WORLD.UNKNOWN_WORLD"
 msgid "Unknown"
 msgstr "ไม่​รู้จัก"
+
+#. STRINGS.NAMEGEN.WORLD.WORLDDIVIDER_TOOLTIP
+msgctxt "STRINGS.NAMEGEN.WORLD.WORLDDIVIDER_TOOLTIP"
+msgid "Duplicants on the Planetoid {0}"
+msgstr "ดู​พลิ​แคนต์บน​ดาว {0}"
 
 #. STRINGS.RESEARCH.MESSAGING.DLC.DLC_CONTENT
 msgctxt "STRINGS.RESEARCH.MESSAGING.DLC.DLC_CONTENT"
@@ -87707,25 +91338,353 @@ msgctxt "STRINGS.RESEARCH.TYPES.ORBITAL.RECIPEDESC"
 msgid "Unlocks out-of-this-world technologies."
 msgstr "ปลดล็อก​เทคโนโลยี​นอก​โลก"
 
+#. STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.NAME
+msgctxt "STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.NAME"
+msgid "Rechargeable Battery Drain"
+msgstr "การ​สิ้นเปลือง​แบตเตอรี่​ชาร์จ​ได้"
+
+#. STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.TOOLTIP
+msgctxt "STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.TOOLTIP"
+msgid "The rate at which battery life is depleted"
+msgstr "อัตรา​ที่​แบตเตอรี่​หมด​ลง"
+
+#. STRINGS.ROBOTS.CATEGORY_NAME
+msgctxt "STRINGS.ROBOTS.CATEGORY_NAME"
+msgid "Robots"
+msgstr "หุ่นยนต์"
+
+#. STRINGS.ROBOTS.MODELS.FLYDO.DESC
+msgctxt "STRINGS.ROBOTS.MODELS.FLYDO.DESC"
+msgid ""
+"A programmable delivery robot.\n"
+"\n"
+"Picks up <link=\"ELEMENTSSOLID\">Solid</link> objects for delivery to selected destinations."
+msgstr ""
+"หุ่นยนต์​ขนส่ง​ที่ตั้ง​โปรแกรม​ได้\n"
+"\n"
+"เก็บ​วัตถุ<link=\"ELEMENTSSOLID\">ของแข็ง</link>ไป​ส่ง​ยัง​จุดหมาย​ที่​เลือก​ไว้"
+
+#. STRINGS.ROBOTS.MODELS.FLYDO.NAME
+msgctxt "STRINGS.ROBOTS.MODELS.FLYDO.NAME"
+msgid "<link=\"FETCHDRONE\">Flydo</link>"
+msgstr "<link=\"FETCHDRONE\">ฟ​ลาย​โด</link>"
+
+#. STRINGS.ROBOTS.MODELS.MORB.CODEX_DESC
+msgctxt "STRINGS.ROBOTS.MODELS.MORB.CODEX_DESC"
+msgid ""
+"The pathogen-fueled guidebot is designed to maximize a colony's chances of surviving in hostile environments by meeting three core outcomes:\n"
+"\n"
+"1. Filtration and removal of toxins from environment;\n"
+"2. Safe disposal of filtered toxins through conversion into usable biofuel;\n"
+"3. Creation of geo-exploration equipment for colony expansion with minimal colonist endangerment.\n"
+"\n"
+"The elements aggregated during this process may result in the unintentional spread of contaminants. Specialized training required for safe handling."
+msgstr ""
+"ไกด์​บอ​ท​พลัง​เชื้อโรค​ตัว​นี้​ออกแบบ​มา​เพื่อ​เพิ่ม​โอกาส​รอด​ของ​อาณานิคม​ใน​สภาพแวดล้อม​สุด​โหด ด้วย​เป้าหมายหลัก​สาม​ข้อ:\n"
+"\n"
+"1. กรอง​และ​กำจัด​สารพิษ​ออกจาก​สิ่งแวดล้อม\n"
+"2. กำจัด​สารพิษ​ที่​กรอง​ได้​อย่าง​ปลอดภัย​ด้วย​การ​แปลง​เป็น​เชื้อเพลิง​ชีวภาพ​ที่​ใช้งาน​ได้\n"
+"3. สร้าง​อุปกรณ์​สำรวจ​ธรณี​เพื่อ​ขยาย​อาณานิคม โดย​ให้​ผู้​ตั้ง​อาณานิคม​เสี่ยงอันตราย​น้อยที่สุด\n"
+"\n"
+"ธาตุ​ที่​สะสม​ระหว่าง​กระบวนการ​นี้​อาจ​ทำให้​สารปนเปื้อน​แพร่กระจาย​โดยไม่ตั้งใจ ต้อง​ผ่าน​การ​ฝึก​เฉพาะทาง​เพื่อ​จัดการ​อย่าง​ปลอดภัย"
+
+#. STRINGS.ROBOTS.MODELS.MORB.DESC
+msgctxt "STRINGS.ROBOTS.MODELS.MORB.DESC"
+msgid ""
+"A Pathogen-Fueled Extravehicular Geo-Exploratory Guidebot (model Y), aka \"P.E.G.G.Y.\"\n"
+"\n"
+"It can be assigned basic building tasks and digging duties in hazardous environments."
+msgstr ""
+"ไกด์​บอ​ท​สำรวจ​ธรณี​นอก​ยาน​พลัง​เชื้อโรค (รุ่น Y) หรือ \"P.E.G.G.Y.\"\n"
+"\n"
+"มอบหมาย​งานก่อสร้าง​พื้นฐาน​และ​งาน​ขุด​ใน​สภาพแวดล้อม​อันต​รายได้"
+
+#. STRINGS.ROBOTS.MODELS.MORB.NAME
+msgctxt "STRINGS.ROBOTS.MODELS.MORB.NAME"
+msgid "<link=\"STORYTRAITMORBROVER\">Biobot</link>"
+msgstr "<link=\"STORYTRAITMORBROVER\">ไบโอ​บอ​ท</link>"
+
+#. STRINGS.ROBOTS.MODELS.SCOUT.DESC
+msgctxt "STRINGS.ROBOTS.MODELS.SCOUT.DESC"
+msgid "A curious bot that can remotely explore new Planetoid locations."
+msgstr "บอ​ท​ขี้สงสัย​ที่​สำรวจ​ดาว​ดวง​ใหม่​จาก​ระยะไกล​ได้"
+
 #. STRINGS.ROBOTS.MODELS.SCOUT.NAME
 msgctxt "STRINGS.ROBOTS.MODELS.SCOUT.NAME"
 msgid "<link=\"SCOUTROVER\">Rover</link>"
 msgstr "<link=\"SCOUTROVER\">โร​เวอร์</link>"
+
+#. STRINGS.ROBOTS.MODELS.SWEEPBOT.DESC
+msgctxt "STRINGS.ROBOTS.MODELS.SWEEPBOT.DESC"
+msgid ""
+"An automated sweeping robot.\n"
+"\n"
+"Sweeps up <link=\"ELEMENTSSOLID\">Solid</link> debris and <link=\"ELEMENTSLIQUID\">Liquid</link> spills and stores the material back in its <link=\"SWEEPBOTSTATION\">Sweepy Dock</link>."
+msgstr ""
+"หุ่นยนต์​กวาด​พื้น​อัตโนมัติ\n"
+"\n"
+"กวาด​เศษ<link=\"ELEMENTSSOLID\">ของแข็ง</link>และ​คราบ<link=\"ELEMENTSLIQUID\">ของเหลว</link>ที่หก แล้ว​นำ​วัสดุ​กลับ​ไป​เก็บ​ใน<link=\"SWEEPBOTSTATION\">แท่น​จอด​ส​วี​ป​ปี้</link>"
+
+#. STRINGS.ROBOTS.MODELS.SWEEPBOT.NAME
+msgctxt "STRINGS.ROBOTS.MODELS.SWEEPBOT.NAME"
+msgid "<link=\"SWEEPY\">Sweepy</link>"
+msgstr "<link=\"SWEEPY\">ส​วี​ป​ปี้</link>"
+
+#. STRINGS.ROBOTS.STATS.INTERNALBATTERY.NAME
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALBATTERY.NAME"
+msgid "Rechargeable Battery"
+msgstr "แบตเตอรี่​ชาร์จ​ได้"
+
+#. STRINGS.ROBOTS.STATS.INTERNALBATTERY.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALBATTERY.TOOLTIP"
+msgid "When this bot's battery runs out it must temporarily stop working to go recharge"
+msgstr "เมื่อ​แบต​ของ​บอ​ท​ตัว​นี้​หมด มัน​ต้อง​หยุดงาน​ชั่วคราว​เพื่อ​ไป​ชาร์จ"
+
+#. STRINGS.ROBOTS.STATS.INTERNALBIOBATTERY.NAME
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALBIOBATTERY.NAME"
+msgid "Biofuel"
+msgstr "เชื้อเพลิง​ชีวภาพ"
+
+#. STRINGS.ROBOTS.STATS.INTERNALBIOBATTERY.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALBIOBATTERY.TOOLTIP"
+msgid "This bot will shut down permanently when its biofuel runs out"
+msgstr "บอ​ท​ตัว​นี้​จะ​ดับ​ถาวร​เมื่อ​เชื้อเพลิง​ชีวภาพ​หมด"
+
+#. STRINGS.ROBOTS.STATS.INTERNALCHEMICALBATTERY.NAME
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALCHEMICALBATTERY.NAME"
+msgid "Chemical Battery"
+msgstr "แบตเตอรี่​เคมี"
+
+#. STRINGS.ROBOTS.STATS.INTERNALCHEMICALBATTERY.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALCHEMICALBATTERY.TOOLTIP"
+msgid "This bot will shut down permanently when its battery runs out"
+msgstr "บอ​ท​ตัว​นี้​จะ​ดับ​ถาวร​เมื่อ​แบตเตอรี่​หมด"
+
+#. STRINGS.ROBOTS.STATS.INTERNALELECTROBANK.NAME
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALELECTROBANK.NAME"
+msgid "Power Bank"
+msgstr "พาวเวอร์​แบงก์"
+
+#. STRINGS.ROBOTS.STATS.INTERNALELECTROBANK.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATS.INTERNALELECTROBANK.TOOLTIP"
+msgid "When this bot's <style=\"KKeyword\">Power Bank</style> runs out, it will stop working until a fully charged one is delivered"
+msgstr "เมื่อ<style=\"KKeyword\">พาวเวอร์​แบงก์</style>ของ​บอ​ท​ตัว​นี้​หมด มัน​จะ​หยุด​ทำงาน​จนกว่า​จะ​มี​คน​ส่ง​ก้อน​ที่​ชาร์จ​เต็ม​มา​ให้"
+
+#. STRINGS.ROBOTS.STATUSITEMS.CANTREACHSTATION.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.CANTREACHSTATION.DESC"
+msgid "Obstacles are preventing {0} from heading home"
+msgstr "มี​สิ่งกีดขวาง​ทำให้ {0} กลับบ้าน​ไม่​ได้"
 
 #. STRINGS.ROBOTS.STATUSITEMS.CANTREACHSTATION.NAME
 msgctxt "STRINGS.ROBOTS.STATUSITEMS.CANTREACHSTATION.NAME"
 msgid "Unreachable Dock"
 msgstr "แท่น​ที่​ไป​ไม่​ถึง"
 
+#. STRINGS.ROBOTS.STATUSITEMS.CANTREACHSTATION.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.CANTREACHSTATION.TOOLTIP"
+msgid "Obstacles are preventing {0} from heading home"
+msgstr "มี​สิ่งกีดขวาง​ทำให้ {0} กลับบ้าน​ไม่​ได้"
+
+#. STRINGS.ROBOTS.STATUSITEMS.CHARGING.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.CHARGING.DESC"
+msgid "{0} is recharging its battery"
+msgstr "{0} กำลัง​ชาร์จ​แบตเตอรี่"
+
 #. STRINGS.ROBOTS.STATUSITEMS.CHARGING.NAME
 msgctxt "STRINGS.ROBOTS.STATUSITEMS.CHARGING.NAME"
 msgid "Charging"
 msgstr "กำลัง​ชาร์จ"
 
+#. STRINGS.ROBOTS.STATUSITEMS.CHARGING.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.CHARGING.TOOLTIP"
+msgid "{0} is recharging its battery"
+msgstr "{0} กำลัง​ชาร์จ​แบตเตอรี่"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DEADBATTERY.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DEADBATTERY.DESC"
+msgid ""
+"RIP {0}\n"
+"\n"
+"{0}'s battery has been depleted and cannot be recharged"
+msgstr ""
+"RIP {0}\n"
+"\n"
+"แบตเตอรี่​ของ {0} หมด​แล้ว​และ​ชาร์จ​ใหม่​ไม่​ได้"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DEADBATTERY.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DEADBATTERY.NAME"
+msgid "Shut Down"
+msgstr "ดับ​แล้ว"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DEADBATTERY.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DEADBATTERY.TOOLTIP"
+msgid ""
+"RIP {0}\n"
+"\n"
+"{0}'s battery has been depleted and cannot be recharged"
+msgstr ""
+"RIP {0}\n"
+"\n"
+"แบตเตอรี่​ของ {0} หมด​แล้ว​และ​ชาร์จ​ใหม่​ไม่​ได้"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.DESC"
+msgid ""
+"{0}'s battery has been depleted\n"
+"\n"
+"{0} will resume function when a new battery has been delivered"
+msgstr ""
+"แบตเตอรี่​ของ {0} หมด​แล้ว\n"
+"\n"
+"{0} จะ​กลับมา​ทำงาน​เมื่อ​มี​คน​ส่ง​แบตเตอรี่​ก้อน​ใหม่​มา​ให้"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.NAME"
+msgid "Shut Down"
+msgstr "ดับ​แล้ว"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.TOOLTIP"
+msgid ""
+"{0}'s battery has been depleted\n"
+"\n"
+"{0} will resume function when a new battery has been delivered"
+msgstr ""
+"แบตเตอรี่​ของ {0} หมด​แล้ว\n"
+"\n"
+"{0} จะ​กลับมา​ทำงาน​เมื่อ​มี​คน​ส่ง​แบตเตอรี่​ก้อน​ใหม่​มา​ให้"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DUSTBINFULL.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DUSTBINFULL.DESC"
+msgid "{0} must return to its dock to unload"
+msgstr "{0} ต้อง​กลับ​แท่น​จอด​เพื่อ​เท​ของ​ออก"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DUSTBINFULL.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DUSTBINFULL.NAME"
+msgid "Dust Bin Full"
+msgstr "ถัง​เก็บ​ฝุ่น​เต็ม"
+
+#. STRINGS.ROBOTS.STATUSITEMS.DUSTBINFULL.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.DUSTBINFULL.TOOLTIP"
+msgid "{0} must return to its dock to unload"
+msgstr "{0} ต้อง​กลับ​แท่น​จอด​เพื่อ​เท​ของ​ออก"
+
+#. STRINGS.ROBOTS.STATUSITEMS.LOWBATTERY.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.LOWBATTERY.DESC"
+msgid "{0}'s battery is low and needs to recharge"
+msgstr "แบตเตอรี่​ของ {0} ใกล้​หมด ต้อง​ไป​ชาร์จ"
+
+#. STRINGS.ROBOTS.STATUSITEMS.LOWBATTERY.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.LOWBATTERY.NAME"
+msgid "Low Battery"
+msgstr "แบต​ใกล้​หมด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.LOWBATTERY.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.LOWBATTERY.TOOLTIP"
+msgid "{0}'s battery is low and needs to recharge"
+msgstr "แบตเตอรี่​ของ {0} ใกล้​หมด ต้อง​ไป​ชาร์จ"
+
+#. STRINGS.ROBOTS.STATUSITEMS.LOWBATTERYNOCHARGE.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.LOWBATTERYNOCHARGE.DESC"
+msgid ""
+"{0}'s battery is low\n"
+"\n"
+"The internal battery cannot be recharged and this robot will cease functioning after it is depleted."
+msgstr ""
+"แบตเตอรี่​ของ {0} ใกล้​หมด\n"
+"\n"
+"แบตเตอรี่​ภายใน​ชาร์จ​ใหม่​ไม่​ได้ และ​หุ่นยนต์​ตัว​นี้​จะ​หยุด​ทำงาน​เมื่อ​แบต​หมด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.LOWBATTERYNOCHARGE.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.LOWBATTERYNOCHARGE.NAME"
+msgid "Low Battery"
+msgstr "แบต​ใกล้​หมด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.LOWBATTERYNOCHARGE.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.LOWBATTERYNOCHARGE.TOOLTIP"
+msgid ""
+"{0}'s battery is low\n"
+"\n"
+"The internal battery cannot be recharged and this robot will cease functioning after it is depleted."
+msgstr ""
+"แบตเตอรี่​ของ {0} ใกล้​หมด\n"
+"\n"
+"แบตเตอรี่​ภายใน​ชาร์จ​ใหม่​ไม่​ได้ และ​หุ่นยนต์​ตัว​นี้​จะ​หยุด​ทำงาน​เมื่อ​แบต​หมด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.MOVINGTOCHARGESTATION.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.MOVINGTOCHARGESTATION.DESC"
+msgid "{0} is on its way home to recharge"
+msgstr "{0} กำลัง​กลับบ้าน​ไป​ชาร์จ​แบต"
+
+#. STRINGS.ROBOTS.STATUSITEMS.MOVINGTOCHARGESTATION.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.MOVINGTOCHARGESTATION.NAME"
+msgid "Traveling to Dock"
+msgstr "กำลัง​ไป​แท่น​จอด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.MOVINGTOCHARGESTATION.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.MOVINGTOCHARGESTATION.TOOLTIP"
+msgid "{0} is on its way home to recharge"
+msgstr "{0} กำลัง​กลับบ้าน​ไป​ชาร์จ​แบต"
+
+#. STRINGS.ROBOTS.STATUSITEMS.REACTNEGATIVE.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.REACTNEGATIVE.DESC"
+msgid "This bot saw something upsetting"
+msgstr "บอ​ท​ตัว​นี้​เห็น​อะไร​บางอย่าง​ที่​ชวน​หงุดหงิด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.REACTNEGATIVE.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.REACTNEGATIVE.NAME"
+msgid "Bothered Reaction"
+msgstr "ปฏิกิริยา​หงุดหงิด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.REACTNEGATIVE.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.REACTNEGATIVE.TOOLTIP"
+msgid "This bot saw something upsetting"
+msgstr "บอ​ท​ตัว​นี้​เห็น​อะไร​บางอย่าง​ที่​ชวน​หงุดหงิด"
+
+#. STRINGS.ROBOTS.STATUSITEMS.REACTPOSITIVE.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.REACTPOSITIVE.DESC"
+msgid "This bot saw something nice!"
+msgstr "บอ​ท​ตัว​นี้​เห็น​อะไร​ดี ๆ!"
+
+#. STRINGS.ROBOTS.STATUSITEMS.REACTPOSITIVE.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.REACTPOSITIVE.NAME"
+msgid "Happy Reaction"
+msgstr "ปฏิกิริยา​ดีใจ"
+
+#. STRINGS.ROBOTS.STATUSITEMS.REACTPOSITIVE.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.REACTPOSITIVE.TOOLTIP"
+msgid "This bot saw something nice!"
+msgstr "บอ​ท​ตัว​นี้​เห็น​อะไร​ดี ๆ!"
+
+#. STRINGS.ROBOTS.STATUSITEMS.UNLOADINGSTORAGE.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.UNLOADINGSTORAGE.DESC"
+msgid "{0} is emptying out its dust bin"
+msgstr "{0} กำลัง​เท​ถัง​เก็บ​ฝุ่น"
+
+#. STRINGS.ROBOTS.STATUSITEMS.UNLOADINGSTORAGE.NAME
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.UNLOADINGSTORAGE.NAME"
+msgid "Unloading"
+msgstr "กำลัง​เท​ของ"
+
+#. STRINGS.ROBOTS.STATUSITEMS.UNLOADINGSTORAGE.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.UNLOADINGSTORAGE.TOOLTIP"
+msgid "{0} is emptying out its dust bin"
+msgstr "{0} กำลัง​เท​ถัง​เก็บ​ฝุ่น"
+
+#. STRINGS.ROBOTS.STATUSITEMS.WORKING.DESC
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.WORKING.DESC"
+msgid "{0} is working diligently. Great job, {0}!"
+msgstr "{0} กำลัง​ทำงาน​อย่าง​ขยันขันแข็ง เก่ง​มาก {0}!"
+
 #. STRINGS.ROBOTS.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.ROBOTS.STATUSITEMS.WORKING.NAME"
 msgid "Working"
 msgstr "กำลัง​ทำงาน"
+
+#. STRINGS.ROBOTS.STATUSITEMS.WORKING.TOOLTIP
+msgctxt "STRINGS.ROBOTS.STATUSITEMS.WORKING.TOOLTIP"
+msgid "{0} is working diligently. Great job, {0}!"
+msgstr "{0} กำลัง​ทำงาน​อย่าง​ขยันขันแข็ง เก่ง​มาก {0}!"
 
 #. STRINGS.ROOMS.CATEGORY.AGRICULTURAL.NAME
 msgctxt "STRINGS.ROOMS.CATEGORY.AGRICULTURAL.NAME"
@@ -87757,6 +91716,11 @@ msgctxt "STRINGS.ROOMS.CATEGORY.NONE.NAME"
 msgid "None"
 msgstr "ไม่​มี"
 
+#. STRINGS.ROOMS.CATEGORY.PARK.NAME
+msgctxt "STRINGS.ROOMS.CATEGORY.PARK.NAME"
+msgid "Parks"
+msgstr "สวนสาธารณะ"
+
 #. STRINGS.ROOMS.CATEGORY.RECREATION.NAME
 msgctxt "STRINGS.ROOMS.CATEGORY.RECREATION.NAME"
 msgid "Recreation"
@@ -87772,65 +91736,799 @@ msgctxt "STRINGS.ROOMS.CATEGORY.SLEEP.NAME"
 msgid "Sleep"
 msgstr "นอน"
 
+#. STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSWASHSTATION\">Plumbed wash station</link>"
+msgstr "<link=\"REQUIREMENTCLASSWASHSTATION\">สถานี​ล้างมือ​แบบ​ต่อ​ท่อ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.DESCRIPTION"
+msgid "Requires one or more Sinks, Hand Sanitizers, or Showers"
+msgstr "ต้อง​มี​ซิงก์​ล้างมือ (อ่าง​ล้างมือ) เจล​ล้างมือ หรือ​ฝักบัว​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.NAME"
+msgid "<link=\"REQUIREMENTCLASSWASHSTATION\">Plumbed wash station</link>"
+msgstr "<link=\"REQUIREMENTCLASSWASHSTATION\">สถานี​ล้างมือ​แบบ​ต่อ​ท่อ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BED_SINGLE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BED_SINGLE.CONFLICT_DESCRIPTION"
+msgid "Single <link=\"REQUIREMENTCLASSBEDTYPE\">beds</link>"
+msgstr "<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>เดี่ยว"
+
+#. STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION"
+msgid "Must have no more than one Cot or Comfy Bed"
+msgstr "ต้อง​มี​เตียง​พับ​หรือ​เตียง​นุ่ม​ไม่​เกิน​หนึ่ง​เตียง"
+
+#. STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME"
+msgid "Single <link=\"REQUIREMENTCLASSBEDTYPE\">beds</link>"
+msgstr "<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>เดี่ยว"
+
+#. STRINGS.ROOMS.CRITERIA.BEDTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BEDTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSBEDTYPE\">Beds</link>"
+msgstr "<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BEDTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BEDTYPE.DESCRIPTION"
+msgid "Requires two or more Cots or Comfy Beds"
+msgstr "ต้อง​มี​เตียง​พับ​หรือ​เตียง​นุ่ม​ตั้งแต่​สอง​เตียง​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.BEDTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.BEDTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSBEDTYPE\">Beds</link>"
+msgstr "<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSBIONICGUNKEMPTIER\">Gunk Extractor</link>"
+msgstr "<link=\"REQUIREMENTCLASSBIONICGUNKEMPTIER\">เครื่อง​ดูด​คราบ​เหนียว</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.DESCRIPTION"
+msgid "Requires one or more Gunk Extractors"
+msgstr "ต้อง​มี​เครื่อง​ดูด​คราบ​เหนียว​อย่าง​น้อย​หนึ่ง​เครื่อง"
+
+#. STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.NAME"
+msgid "<link=\"REQUIREMENTCLASSBIONICGUNKEMPTIER\">Gunk Extractor</link>"
+msgstr "<link=\"REQUIREMENTCLASSBIONICGUNKEMPTIER\">เครื่อง​ดูด​คราบ​เหนียว</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSBIONICLUBRICATION\">Lubrication Station</link>"
+msgstr "<link=\"REQUIREMENTCLASSBIONICLUBRICATION\">สถานี​หล่อลื่น</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.DESCRIPTION"
+msgid "Requires one or more Lubrication Stations"
+msgstr "ต้อง​มี​สถานี​หล่อลื่น​อย่าง​น้อย​หนึ่ง​แห่ง"
+
+#. STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.NAME"
+msgid "<link=\"REQUIREMENTCLASSBIONICLUBRICATION\">Lubrication Station</link>"
+msgstr "<link=\"REQUIREMENTCLASSBIONICLUBRICATION\">สถานี​หล่อลื่น</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.CONFLICT_DESCRIPTION"
+msgid "<link=\"GROUPBIONICUPKEEP\">Bionic service station</link>"
+msgstr "<link=\"GROUPBIONICUPKEEP\">สถานี​บริการ​ไบโอ​นิ​ก</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.DESCRIPTION"
+msgid "Requires at least one Lubrication Station and one Gunk Extractor"
+msgstr "ต้อง​มี​สถานี​หล่อลื่น​และ​เครื่อง​ดูด​คราบ​เหนียว​อย่าง​ละ​อย่าง​น้อย​หนึ่ง"
+
+#. STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.NAME"
+msgid "<link=\"GROUPBIONICUPKEEP\">Bionic service station</link>"
+msgstr "<link=\"GROUPBIONICUPKEEP\">สถานี​บริการ​ไบโอ​นิ​ก</link>"
+
+#. STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.CONFLICT_DESCRIPTION"
+msgid "Positive <link=\"REQUIREMENTCLASSDECORATION\">decor</link>"
+msgstr "<link=\"REQUIREMENTCLASSDECORATION\">ความสวยงาม</link>เป็น​บวก"
+
+#. STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.DESCRIPTION"
+msgid "Requires at least one building with positive decor"
+msgstr "ต้อง​มี​สิ่งก่อสร้าง​ที่​ให้​ความสวยงาม​เป็น​บวก​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME"
+msgid "Positive <link=\"REQUIREMENTCLASSDECORATION\">decor</link>"
+msgstr "<link=\"REQUIREMENTCLASSDECORATION\">ความสวยงาม</link>เป็น​บวก"
+
+#. STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.CONFLICT_DESCRIPTION"
+msgid "Minimum height: {0} tiles"
+msgstr "ความสูง​ขั้นต่ำ: {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.DESCRIPTION"
+msgid "Must have a ceiling height of at least {0} tiles"
+msgstr "เพดาน​ต้อง​สูง​อย่าง​น้อย {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.NAME"
+msgid "Minimum height: {0} tiles"
+msgstr "ความสูง​ขั้นต่ำ: {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.CLINIC.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.CLINIC.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSCLINIC\">Medical equipment</link>"
+msgstr "<link=\"REQUIREMENTCLASSCLINIC\">อุปกรณ์การแพทย์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.CLINIC.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.CLINIC.DESCRIPTION"
+msgid "Requires one or more Sick Bays or Disease Clinics"
+msgstr "ต้อง​มี​ห้อง​พยาบาล​หรือ​คลินิก​รักษาโรค​อย่าง​น้อย​หนึ่ง​แห่ง"
+
+#. STRINGS.ROOMS.CRITERIA.CLINIC.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.CLINIC.NAME"
+msgid "<link=\"REQUIREMENTCLASSCLINIC\">Medical equipment</link>"
+msgstr "<link=\"REQUIREMENTCLASSCLINIC\">อุปกรณ์การแพทย์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.COOKTOP.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.COOKTOP.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSCOOKTOP\">Cooking station</link>"
+msgstr "<link=\"REQUIREMENTCLASSCOOKTOP\">สถานี​ทำอาหาร</link>"
+
+#. STRINGS.ROOMS.CRITERIA.COOKTOP.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.COOKTOP.DESCRIPTION"
+msgid "Requires a single Electric Grill or Gas Range"
+msgstr "ต้อง​มี​เตา​ย่าง​ไฟฟ้า​หรือ​เตาแก๊ส​เพียง​เครื่อง​เดียว"
+
+#. STRINGS.ROOMS.CRITERIA.COOKTOP.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.COOKTOP.NAME"
+msgid "<link=\"REQUIREMENTCLASSCOOKTOP\">Cooking station</link>"
+msgstr "<link=\"REQUIREMENTCLASSCOOKTOP\">สถานี​ทำอาหาร</link>"
+
 #. STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.CONFLICT_DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.CONFLICT_DESCRIPTION"
 msgid "<link=\"CREATUREFEEDER\">Critter Feeder</link>"
 msgstr "<link=\"CREATUREFEEDER\">เครื่อง​ให้​อาหารสัตว์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.DESCRIPTION"
+msgid "Requires a single Critter Feeder"
+msgstr "ต้อง​มี​เครื่อง​ให้​อาหารสัตว์​เพียง​เครื่อง​เดียว"
 
 #. STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME"
 msgid "<link=\"CREATUREFEEDER\">Critter Feeder</link>"
 msgstr "<link=\"CREATUREFEEDER\">เครื่อง​ให้​อาหารสัตว์</link>"
 
+#. STRINGS.ROOMS.CRITERIA.CRITERIA_FAILED.MISSING_BUILDING
+msgctxt "STRINGS.ROOMS.CRITERIA.CRITERIA_FAILED.MISSING_BUILDING"
+msgid "Missing {0}"
+msgstr "ขาด{0}"
+
+#. STRINGS.ROOMS.CRITERIA.DECORATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DECORATION.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSDECORATION\">Decor building</link>"
+msgstr "<link=\"REQUIREMENTCLASSDECORATION\">สิ่งก่อสร้าง​ตกแต่ง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.DECORATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.DECORATION.NAME"
+msgid "<link=\"REQUIREMENTCLASSDECORATION\">Decor building</link>"
+msgstr "<link=\"REQUIREMENTCLASSDECORATION\">สิ่งก่อสร้าง​ตกแต่ง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSDECORATION\">Decor building</link> ({0})"
+msgstr "<link=\"REQUIREMENTCLASSDECORATION\">สิ่งก่อสร้าง​ตกแต่ง</link> ({0})"
+
+#. STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.DESCRIPTION"
+msgid "Requires {0} or more Decor buildings"
+msgstr "ต้อง​มี​สิ่งก่อสร้าง​ตกแต่ง {0} ชิ้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.NAME"
+msgid "<link=\"REQUIREMENTCLASSDECORATION\">Decor building</link> ({0})"
+msgstr "<link=\"REQUIREMENTCLASSDECORATION\">สิ่งก่อสร้าง​ตกแต่ง</link> ({0})"
+
+#. STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.CONFLICT_DESCRIPTION"
+msgid "<link=\"MASSAGETABLE\">De-Stressing Building</link>"
+msgstr "<link=\"MASSAGETABLE\">สิ่งก่อสร้าง​คลายเครียด</link>"
+
+#. STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.DESCRIPTION"
+msgid "Requires one or more De-Stressing buildings"
+msgstr "ต้อง​มี​สิ่งก่อสร้าง​คลายเครียด​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.NAME"
+msgid "<link=\"MASSAGETABLE\">De-Stressing Building</link>"
+msgstr "<link=\"MASSAGETABLE\">สิ่งก่อสร้าง​คลายเครียด</link>"
+
+#. STRINGS.ROOMS.CRITERIA.DININGTABLETYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DININGTABLETYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSDININGTABLETYPE\">Dining Table</link>"
+msgstr "<link=\"REQUIREMENTCLASSDININGTABLETYPE\">โต๊ะกินข้าว</link>"
+
+#. STRINGS.ROOMS.CRITERIA.DININGTABLETYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.DININGTABLETYPE.DESCRIPTION"
+msgid "Requires a single Mess Table or Communal Table"
+msgstr "ต้อง​มี​โต๊ะอาหาร​หรือ​โต๊ะกินข้าว​รวม​เพียง​ตัว​เดียว"
+
+#. STRINGS.ROOMS.CRITERIA.DININGTABLETYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.DININGTABLETYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSDININGTABLETYPE\">Dining Table</link>"
+msgstr "<link=\"REQUIREMENTCLASSDININGTABLETYPE\">โต๊ะกินข้าว</link>"
+
+#. STRINGS.ROOMS.CRITERIA.FARMBUILDING.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.FARMBUILDING.CONFLICT_DESCRIPTION"
+msgid "<link=\"FARMBUILDING\">Farm Building</link>"
+msgstr "<link=\"FARMBUILDING\">สิ่งก่อสร้าง​ฟาร์ม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.FARMBUILDING.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.FARMBUILDING.NAME"
+msgid "<link=\"FARMBUILDING\">Farm Building</link>"
+msgstr "<link=\"FARMBUILDING\">สิ่งก่อสร้าง​ฟาร์ม</link>"
+
 #. STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.CONFLICT_DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.CONFLICT_DESCRIPTION"
 msgid "<link=\"FARMSTATION\">Farm Station</link>"
 msgstr "<link=\"FARMSTATION\">สถานี​ฟาร์ม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.DESCRIPTION"
+msgid "Requires a single Farm Station"
+msgstr "ต้อง​มี​สถานี​ฟาร์ม​เพียง​แห่ง​เดียว"
 
 #. STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.NAME"
 msgid "<link=\"FARMSTATION\">Farm Station</link>"
 msgstr "<link=\"FARMSTATION\">สถานี​ฟาร์ม</link>"
 
+#. STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSFLUSHTOILETTYPE\">Flush Toilet</link>"
+msgstr "<link=\"REQUIREMENTCLASSFLUSHTOILETTYPE\">ชักโครก</link>"
+
+#. STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.DESCRIPTION"
+msgid "Requires one or more Lavatories"
+msgstr "ต้อง​มี​ส้วมชักโครก​อย่าง​น้อย​หนึ่ง​แห่ง"
+
+#. STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSFLUSHTOILETTYPE\">Flush Toilet</link>"
+msgstr "<link=\"REQUIREMENTCLASSFLUSHTOILETTYPE\">ชักโครก</link>"
+
+#. STRINGS.ROOMS.CRITERIA.FOOD_BOX.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.FOOD_BOX.CONFLICT_DESCRIPTION"
+msgid "Food storage"
+msgstr "ที่เก็บ​อาหาร"
+
+#. STRINGS.ROOMS.CRITERIA.FOOD_BOX.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.FOOD_BOX.DESCRIPTION"
+msgid "Requires one or more Ration Boxes or Refrigerators"
+msgstr "ต้อง​มี​กล่อง​เสบียง​หรือ​ตู้เย็น​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.FOOD_BOX.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.FOOD_BOX.NAME"
+msgid "Food storage"
+msgstr "ที่เก็บ​อาหาร"
+
+#. STRINGS.ROOMS.CRITERIA.GENERATORTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.GENERATORTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSGENERATORTYPE\">Generator</link>"
+msgstr "<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.GENERATORTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.GENERATORTYPE.DESCRIPTION"
+msgid "Generates electrical power"
+msgstr "ผลิต​พลังงานไฟฟ้า"
+
+#. STRINGS.ROOMS.CRITERIA.GENERATORTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.GENERATORTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSGENERATORTYPE\">Generator</link>"
+msgstr "<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.HAS_BED.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.HAS_BED.CONFLICT_DESCRIPTION"
+msgid "One or more <link=\"REQUIREMENTCLASSBEDTYPE\">beds</link>"
+msgstr "<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>หนึ่ง​เตียง​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.HAS_BED.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.HAS_BED.DESCRIPTION"
+msgid "Requires at least one Cot or Comfy Bed"
+msgstr "ต้อง​มี​เตียง​พับ​หรือ​เตียง​นุ่ม​อย่าง​น้อย​หนึ่ง​เตียง"
+
+#. STRINGS.ROOMS.CRITERIA.HAS_BED.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.HAS_BED.NAME"
+msgid "One or more <link=\"REQUIREMENTCLASSBEDTYPE\">beds</link>"
+msgstr "<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>หนึ่ง​เตียง​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.CONFLICT_DESCRIPTION"
+msgid "One or more <link=\"LUXURYBED\">Comfy Beds</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​นุ่ม</link>หนึ่ง​เตียง​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.DESCRIPTION"
+msgid "Requires at least one Comfy Bed"
+msgstr "ต้อง​มี​เตียง​นุ่ม​อย่าง​น้อย​หนึ่ง​เตียง"
+
+#. STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.NAME"
+msgid "One or more <link=\"LUXURYBED\">Comfy Beds</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​นุ่ม</link>หนึ่ง​เตียง​ขึ้นไป"
+
 #. STRINGS.ROOMS.CRITERIA.HEADER
 msgctxt "STRINGS.ROOMS.CRITERIA.HEADER"
 msgid "<b>Requirements:</b>"
 msgstr "<b>ข้อกำหนด:</b>"
+
+#. STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSGENERATORTYPE\">Heavy-duty generator</link>"
+msgstr "<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ​งานหนัก</link>"
+
+#. STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.DESCRIPTION"
+msgid "For big power needs"
+msgstr "สำหรับ​ความต้องการ​ไฟฟ้า​มหาศาล"
+
+#. STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSGENERATORTYPE\">Heavy-duty generator</link>"
+msgstr "<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ​งานหนัก</link>"
+
+#. STRINGS.ROOMS.CRITERIA.IN_CODE_ERROR
+msgctxt "STRINGS.ROOMS.CRITERIA.IN_CODE_ERROR"
+msgid "String Key Not Found: {0}"
+msgstr "ไม่​พบ​คีย์​ข้อความ: {0}"
+
+#. STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">Industrial machinery</link>"
+msgstr "<link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">เครื่องจักร​อุตสาหกรรม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.NAME"
+msgid "<link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">Industrial machinery</link>"
+msgstr "<link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">เครื่องจักร​อุตสาหกรรม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.CONFLICT_DESCRIPTION"
+msgid "Has backwall tiles"
+msgstr "มี​แผ่น​ผนัง​หลัง"
+
+#. STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.DESCRIPTION"
+msgid "Must be covered in backwall tiles"
+msgstr "ต้อง​ปู​แผ่น​ผนัง​หลัง​ให้​ทั่ว"
+
+#. STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.NAME"
+msgid "Has backwall tiles"
+msgstr "มี​แผ่น​ผนัง​หลัง"
+
+#. STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.CONFLICT_DESCRIPTION"
+msgid "<link=\"KITCHENREFRIGERATOR\">Refrigerator</link>"
+msgstr "<link=\"KITCHENREFRIGERATOR\">ตู้เย็น</link>"
+
+#. STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.DESCRIPTION"
+msgid "Requires a single Refrigerator or Mini Fridge"
+msgstr "ต้อง​มี​ตู้เย็น​หรือ​ตู้เย็น​มินิ​เพียง​เครื่อง​เดียว"
+
+#. STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.NAME"
+msgid "<link=\"KITCHENREFRIGERATOR\">Refrigerator</link>"
+msgstr "<link=\"KITCHENREFRIGERATOR\">ตู้เย็น</link>"
+
+#. STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSGENERATORTYPE\">Basic generator</link>"
+msgstr "<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ​พื้นฐาน</link>"
+
+#. STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.DESCRIPTION"
+msgid "For basic power needs"
+msgstr "สำหรับ​ความต้องการ​ไฟฟ้า​พื้นฐาน"
+
+#. STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSGENERATORTYPE\">Basic generator</link>"
+msgstr "<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ​พื้นฐาน</link>"
+
+#. STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSLIGHTSOURCE\">Light source</link>"
+msgstr "<link=\"REQUIREMENTCLASSLIGHTSOURCE\">แหล่ง​แสง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.DESCRIPTION"
+msgid "Requires one or more light sources"
+msgstr "ต้อง​มี​แหล่ง​แสง​อย่าง​น้อย​หนึ่ง​แหล่ง"
+
+#. STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.NAME"
+msgid "<link=\"REQUIREMENTCLASSLIGHTSOURCE\">Light source</link>"
+msgstr "<link=\"REQUIREMENTCLASSLIGHTSOURCE\">แหล่ง​แสง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.CONFLICT_DESCRIPTION"
+msgid "Single <link=\"LUXURYBED\">Comfy Bed</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​นุ่ม</link>เดี่ยว"
+
+#. STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.DESCRIPTION"
+msgid "Must have no more than one Comfy Bed"
+msgstr "ต้อง​มี​เตียง​นุ่ม​ไม่​เกิน​หนึ่ง​เตียง"
+
+#. STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.NAME"
+msgid "Single <link=\"LUXURYBED\">Comfy Bed</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​นุ่ม</link>เดี่ยว"
+
+#. STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.CONFLICT_DESCRIPTION"
+msgid "Mechanics Station"
+msgstr "สถานี​ช่างกล"
+
+#. STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.DESCRIPTION"
+msgid "Requires requires one or more Mechanics Stations"
+msgstr "ต้อง​มี​สถานี​ช่างกล​อย่าง​น้อย​หนึ่ง​แห่ง"
+
+#. STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.NAME"
+msgid "Mechanics Station"
+msgstr "สถานี​ช่างกล"
 
 #. STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.CONFLICT_DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.CONFLICT_DESCRIPTION"
 msgid "<link=\"MASSAGETABLE\">Massage Table</link>"
 msgstr "<link=\"MASSAGETABLE\">เตียง​นวด</link>"
 
+#. STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.DESCRIPTION"
+msgid "Requires one or more Massage Tables"
+msgstr "ต้อง​มี​เตียง​นวด​อย่าง​น้อย​หนึ่ง​เตียง"
+
 #. STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.NAME"
 msgid "<link=\"MASSAGETABLE\">Massage Table</link>"
 msgstr "<link=\"MASSAGETABLE\">เตียง​นวด</link>"
+
+#. STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.CONFLICT_DESCRIPTION"
+msgid "Maximum size: {0} tiles"
+msgstr "ขนาด​สูงสุด: {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.DESCRIPTION"
+msgid "Must have an area no larger than {0} tiles"
+msgstr "พื้นที่​ต้อง​ไม่​เกิน {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.NAME"
+msgid "Maximum size: {0} tiles"
+msgstr "ขนาด​สูงสุด: {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.CONFLICT_DESCRIPTION"
+msgid "<link=\"DININGTABLE\">Mess Tables</link>"
+msgstr "<link=\"DININGTABLE\">โต๊ะอาหาร</link>"
+
+#. STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.DESCRIPTION"
+msgid "Requires two or more Mess Tables"
+msgstr "ต้อง​มี​โต๊ะอาหาร​ตั้งแต่​สอง​ตัว​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.NAME"
+msgid "<link=\"DININGTABLE\">Mess Tables</link>"
+msgstr "<link=\"DININGTABLE\">โต๊ะอาหาร</link>"
+
+#. STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.CONFLICT_DESCRIPTION"
+msgid "Minimum size: {0} tiles"
+msgstr "ขนาด​ขั้นต่ำ: {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.DESCRIPTION"
+msgid "Must have an area of at least {0} tiles"
+msgstr "พื้นที่​ต้อง​มี​อย่าง​น้อย {0} ช่อง"
+
+#. STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.NAME"
+msgid "Minimum size: {0} tiles"
+msgstr "ขนาด​ขั้นต่ำ: {0} ช่อง"
 
 #. STRINGS.ROOMS.CRITERIA.MULTI_MINION_DINING_TABLE.CONFLICT_DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MULTI_MINION_DINING_TABLE.CONFLICT_DESCRIPTION"
 msgid "<link=\"MULTIMINIONDININGTABLE\">Communal Table</link>"
 msgstr "<link=\"MULTIMINIONDININGTABLE\">โต๊ะกินข้าว​รวม</link>"
 
+#. STRINGS.ROOMS.CRITERIA.MULTI_MINION_DINING_TABLE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.MULTI_MINION_DINING_TABLE.DESCRIPTION"
+msgid "Requires a Communal Table"
+msgstr "ต้อง​มี​โต๊ะกินข้าว​รวม"
+
 #. STRINGS.ROOMS.CRITERIA.MULTI_MINION_DINING_TABLE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.MULTI_MINION_DINING_TABLE.NAME"
 msgid "<link=\"MULTIMINIONDININGTABLE\">Communal Table</link>"
 msgstr "<link=\"MULTIMINIONDININGTABLE\">โต๊ะกินข้าว​รวม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NEUTRAL_TYPE
+msgctxt "STRINGS.ROOMS.CRITERIA.NEUTRAL_TYPE"
+msgid "Enclosed by wall tile"
+msgstr "ล้อม​ด้วย​แผ่น​ผนัง"
+
+#. STRINGS.ROOMS.CRITERIA.NO_BASIC_MESS_STATIONS.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_BASIC_MESS_STATIONS.CONFLICT_DESCRIPTION"
+msgid "No <link=\"DININGTABLE\">Mess Table</link>"
+msgstr "ไม่​มี<link=\"DININGTABLE\">โต๊ะอาหาร</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_BASIC_MESS_STATIONS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_BASIC_MESS_STATIONS.DESCRIPTION"
+msgid "Cannot contain a Mess Table"
+msgstr "ห้าม​มี​โต๊ะอาหาร"
+
+#. STRINGS.ROOMS.CRITERIA.NO_BASIC_MESS_STATIONS.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_BASIC_MESS_STATIONS.NAME"
+msgid "No <link=\"DININGTABLE\">Mess Table</link>"
+msgstr "ไม่​มี<link=\"DININGTABLE\">โต๊ะอาหาร</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_COTS.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_COTS.CONFLICT_DESCRIPTION"
+msgid "No <link=\"BED\">Cots</link>"
+msgstr "ไม่​มี<link=\"BED\">เตียง​พับ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_COTS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_COTS.DESCRIPTION"
+msgid "Room cannot contain a Cot"
+msgstr "ห้อง​นี้​ห้าม​มี​เตียง​พับ"
+
+#. STRINGS.ROOMS.CRITERIA.NO_COTS.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_COTS.NAME"
+msgid "No <link=\"BED\">Cots</link>"
+msgstr "ไม่​มี<link=\"BED\">เตียง​พับ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.CONFLICT_DESCRIPTION"
+msgid "No <link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">industrial machinery</link>"
+msgstr "ไม่​มี<link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">เครื่องจักร​อุตสาหกรรม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.DESCRIPTION"
+msgid "Cannot contain any building labeled Industrial Machinery"
+msgstr "ห้าม​มี​สิ่งก่อสร้าง​ที่​ติดป้าย​เครื่องจักร​อุตสาหกรรม"
+
+#. STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.NAME"
+msgid "No <link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">industrial machinery</link>"
+msgstr "ไม่​มี<link=\"REQUIREMENTCLASSINDUSTRIALMACHINERY\">เครื่องจักร​อุตสาหกรรม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.CONFLICT_DESCRIPTION"
+msgid "No <link=\"LUXURYBED\">Comfy Beds</link>"
+msgstr "ไม่​มี<link=\"LUXURYBED\">เตียง​นุ่ม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.DESCRIPTION"
+msgid "Room cannot contain a Comfy Bed"
+msgstr "ห้อง​นี้​ห้าม​มี​เตียง​นุ่ม"
+
+#. STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.NAME"
+msgid "No <link=\"LUXURYBED\">Comfy Beds</link>"
+msgstr "ไม่​มี<link=\"LUXURYBED\">เตียง​นุ่ม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.CONFLICT_DESCRIPTION"
+msgid "No <link=\"DININGTABLE\">dining tables</link>"
+msgstr "ไม่​มี<link=\"DININGTABLE\">โต๊ะกินข้าว</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.DESCRIPTION"
+msgid "Cannot contain a Mess Table or Communal Table"
+msgstr "ห้าม​มี​โต๊ะอาหาร​หรือ​โต๊ะกินข้าว​รวม"
+
+#. STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.NAME"
+msgid "No <link=\"DININGTABLE\">dining tables</link>"
+msgstr "ไม่​มี<link=\"DININGTABLE\">โต๊ะกินข้าว</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.CONFLICT_DESCRIPTION"
+msgid "No <link=\"OUTHOUSE\">Outhouses</link>"
+msgstr "ไม่​มี<link=\"OUTHOUSE\">ส้วมหลุม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.DESCRIPTION"
+msgid "Cannot contain basic Outhouses"
+msgstr "ห้าม​มี​ส้วมหลุม​แบบ​พื้นฐาน"
+
+#. STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.NAME"
+msgid "No <link=\"OUTHOUSE\">Outhouses</link>"
+msgstr "ไม่​มี<link=\"OUTHOUSE\">ส้วมหลุม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.NO_TYPE_CONFLICTS
+msgctxt "STRINGS.ROOMS.CRITERIA.NO_TYPE_CONFLICTS"
+msgid "Remove conflicting buildings"
+msgstr "รื้อ​สิ่งก่อสร้าง​ที่​ขัดกัน​ออก"
+
+#. STRINGS.ROOMS.CRITERIA.ORNAMENT.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.ORNAMENT.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSORNAMENT\">Displayed Ornament</link>"
+msgstr "<link=\"REQUIREMENTCLASSORNAMENT\">ของ​ประดับ​ที่​จัดแสดง</link>"
+
+#. STRINGS.ROOMS.CRITERIA.ORNAMENT.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.ORNAMENT.DESCRIPTION"
+msgid "Requires an ornament displayed on a <link=\"ITEMPEDESTAL\">Pedestal</link> or <link=\"SHELF\">Display Shelf</link>"
+msgstr "ต้อง​มี​ของ​ประดับ​วาง​โชว์​บน<link=\"ITEMPEDESTAL\">แท่น​โชว์</link>หรือ<link=\"SHELF\">ชั้น​โชว์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.ORNAMENT.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.ORNAMENT.NAME"
+msgid "<link=\"REQUIREMENTCLASSORNAMENT\">Displayed Ornament</link>"
+msgstr "<link=\"REQUIREMENTCLASSORNAMENT\">ของ​ประดับ​ที่​จัดแสดง</link>"
 
 #. STRINGS.ROOMS.CRITERIA.PARK.CONFLICT_DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.PARK.CONFLICT_DESCRIPTION"
 msgid "<link=\"PARKSIGN\">Park Sign</link>"
 msgstr "<link=\"PARKSIGN\">ป้าย​สวนสาธารณะ</link>"
 
+#. STRINGS.ROOMS.CRITERIA.PARK.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.PARK.DESCRIPTION"
+msgid "Requires one or more Park Signs"
+msgstr "ต้อง​มี​ป้าย​สวนสาธารณะ​อย่าง​น้อย​หนึ่ง​ป้าย"
+
 #. STRINGS.ROOMS.CRITERIA.PARK.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.PARK.NAME"
 msgid "<link=\"PARKSIGN\">Park Sign</link>"
 msgstr "<link=\"PARKSIGN\">ป้าย​สวนสาธารณะ</link>"
 
+#. STRINGS.ROOMS.CRITERIA.POSSIBLE_TYPES_HEADER
+msgctxt "STRINGS.ROOMS.CRITERIA.POSSIBLE_TYPES_HEADER"
+msgid "Possible Room Types"
+msgstr "ประเภท​ห้อง​ที่​เป็นไปได้"
+
+#. STRINGS.ROOMS.CRITERIA.POWERBUILDING.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.POWERBUILDING.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSPOWERBUILDING\">Power building</link>"
+msgstr "<link=\"REQUIREMENTCLASSPOWERBUILDING\">สิ่งก่อสร้าง​ด้าน​พลังงาน</link>"
+
+#. STRINGS.ROOMS.CRITERIA.POWERBUILDING.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.POWERBUILDING.DESCRIPTION"
+msgid "Buildings that generate, store, or manage power"
+msgstr "สิ่งก่อสร้าง​ที่​ผลิต เก็บ หรือ​จัดการ​พลังงาน"
+
+#. STRINGS.ROOMS.CRITERIA.POWERBUILDING.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.POWERBUILDING.NAME"
+msgid "<link=\"REQUIREMENTCLASSPOWERBUILDING\">Power building</link>"
+msgstr "<link=\"REQUIREMENTCLASSPOWERBUILDING\">สิ่งก่อสร้าง​ด้าน​พลังงาน</link>"
+
+#. STRINGS.ROOMS.CRITERIA.POWERPLANT.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.POWERPLANT.CONFLICT_DESCRIPTION"
+msgid "Heavy-Duty Generator and two or more Power buildings"
+msgstr "เครื่องปั่นไฟ​งานหนัก และ​สิ่งก่อสร้าง​ด้าน​พลังงาน​สอง​ชิ้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.POWERPLANT.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.POWERPLANT.DESCRIPTION"
+msgid "Requires a Heavy-Duty Generator and two or more Power Buildings"
+msgstr "ต้อง​มี​เครื่องปั่นไฟ​งานหนัก และ​สิ่งก่อสร้าง​ด้าน​พลังงาน​สอง​ชิ้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.POWERPLANT.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.POWERPLANT.NAME"
+msgid ""
+"<link=\"REQUIREMENTCLASSGENERATORTYPE\">Heavy-Duty Generator</link>\n"
+"    • Two or more <link=\"REQUIREMENTCLASSPOWERBUILDING\">Power Buildings</link>"
+msgstr ""
+"<link=\"REQUIREMENTCLASSGENERATORTYPE\">เครื่องปั่นไฟ​งานหนัก</link>\n"
+"    • <link=\"REQUIREMENTCLASSPOWERBUILDING\">สิ่งก่อสร้าง​ด้าน​พลังงาน</link>สอง​ชิ้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSRANCHSTATIONTYPE\">Ranching building</link>"
+msgstr "<link=\"REQUIREMENTCLASSRANCHSTATIONTYPE\">สิ่งก่อสร้าง​เลี้ยงสัตว์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.DESCRIPTION"
+msgid "Requires a single Grooming Station, Critter Condo, Critter Fountain, Shearing Station or Milking Station"
+msgstr "ต้อง​มี​สถานี​แปรง​ขน คอนโด​สัตว์ น้ำพุ​สัตว์ สถานี​ตัด​ขน หรือ​สถานี​รีดนม เพียง​ชิ้น​เดียว"
+
+#. STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSRANCHSTATIONTYPE\">Ranching building</link>"
+msgstr "<link=\"REQUIREMENTCLASSRANCHSTATIONTYPE\">สิ่งก่อสร้าง​เลี้ยงสัตว์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.RECBUILDING.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.RECBUILDING.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSRECBUILDING\">Recreational building</link>"
+msgstr "<link=\"REQUIREMENTCLASSRECBUILDING\">สิ่งก่อสร้าง​นันทนาการ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.RECBUILDING.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.RECBUILDING.DESCRIPTION"
+msgid "Requires one or more recreational buildings"
+msgstr "ต้อง​มี​สิ่งก่อสร้าง​นันทนาการ​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.RECBUILDING.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.RECBUILDING.NAME"
+msgid "<link=\"REQUIREMENTCLASSRECBUILDING\">Recreational building</link>"
+msgstr "<link=\"REQUIREMENTCLASSRECBUILDING\">สิ่งก่อสร้าง​นันทนาการ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSRESEARCHSTATION\">Research station</link>"
+msgstr "<link=\"REQUIREMENTCLASSRESEARCHSTATION\">สถานี​วิจัย</link>"
+
+#. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION"
+msgid "Requires one or more Research Stations or Super Computers"
+msgstr "ต้อง​มี​สถานี​วิจัย​หรือ​ซูเปอร์​คอมพิวเตอร์​อย่าง​น้อย​หนึ่ง​เครื่อง"
+
+#. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.NAME"
+msgid "<link=\"REQUIREMENTCLASSRESEARCHSTATION\">Research station</link>"
+msgstr "<link=\"REQUIREMENTCLASSRESEARCHSTATION\">สถานี​วิจัย</link>"
+
+#. STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSROCKETINTERIOR\">Rocket interior</link>"
+msgstr "<link=\"REQUIREMENTCLASSROCKETINTERIOR\">ภายใน​จรวด</link>"
+
+#. STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.DESCRIPTION"
+msgid "Must be built inside a rocket"
+msgstr "ต้อง​สร้าง​ภายใน​จรวด"
+
+#. STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.NAME"
+msgid "<link=\"REQUIREMENTCLASSROCKETINTERIOR\">Rocket interior</link>"
+msgstr "<link=\"REQUIREMENTCLASSROCKETINTERIOR\">ภายใน​จรวด</link>"
+
+#. STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.CONFLICT_DESCRIPTION"
+msgid "Two <link=\"REQUIREMENTCLASSSCIENCEBUILDING\">science buildings</link>"
+msgstr "<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">สิ่งก่อสร้าง​วิทยาศาสตร์</link>สอง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.DESCRIPTION"
+msgid "Requires two or more science buildings"
+msgstr "ต้อง​มี​สิ่งก่อสร้าง​วิทยาศาสตร์​สอง​ชิ้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.NAME"
+msgid "Two <link=\"REQUIREMENTCLASSSCIENCEBUILDING\">science buildings</link>"
+msgstr "<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">สิ่งก่อสร้าง​วิทยาศาสตร์</link>สอง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">Science building</link>"
+msgstr "<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">สิ่งก่อสร้าง​วิทยาศาสตร์</link>"
+
+#. STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.DESCRIPTION"
+msgid "Requires one or more science buildings"
+msgstr "ต้อง​มี​สิ่งก่อสร้าง​วิทยาศาสตร์​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.NAME"
+msgid "<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">Science building</link>"
+msgstr "<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">สิ่งก่อสร้าง​วิทยาศาสตร์</link>"
+
 #. STRINGS.ROOMS.CRITERIA.SPICESTATION.CONFLICT_DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.SPICESTATION.CONFLICT_DESCRIPTION"
 msgid "<link=\"SPICEGRINDER\">Spice Grinder</link>"
 msgstr "<link=\"SPICEGRINDER\">เครื่อง​บด​เครื่องเทศ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.SPICESTATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SPICESTATION.DESCRIPTION"
+msgid "Requires a single Spice Grinder"
+msgstr "ต้อง​มี​เครื่อง​บด​เครื่องเทศ​เพียง​เครื่อง​เดียว"
 
 #. STRINGS.ROOMS.CRITERIA.SPICESTATION.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.SPICESTATION.NAME"
@@ -87842,110 +92540,893 @@ msgctxt "STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.CONFLICT_DESCRIPTION"
 msgid "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Submergible</link>"
 msgstr "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">ทำงาน​ใต้​น้ำ​ได้</link>"
 
+#. STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.DESCRIPTION"
+msgid "Can operate while submerged in liquid"
+msgstr "ทำงาน​ได้​แม้​จม​อยู่​ใน​ของเหลว"
+
 #. STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.NAME"
 msgid "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Submergible</link>"
 msgstr "<link=\"REQUIREMENTCLASSSUBMERGIBLE\">ทำงาน​ใต้​น้ำ​ได้</link>"
+
+#. STRINGS.ROOMS.CRITERIA.TOILETTYPE.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.TOILETTYPE.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSTOILETTYPE\">Toilet</link>"
+msgstr "<link=\"REQUIREMENTCLASSTOILETTYPE\">ส้วม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.TOILETTYPE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.TOILETTYPE.DESCRIPTION"
+msgid "Requires one or more Outhouses or Lavatories"
+msgstr "ต้อง​มี​ส้วมหลุม​หรือ​ส้วมชักโครก​อย่าง​น้อย​หนึ่ง​แห่ง"
+
+#. STRINGS.ROOMS.CRITERIA.TOILETTYPE.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.TOILETTYPE.NAME"
+msgid "<link=\"REQUIREMENTCLASSTOILETTYPE\">Toilet</link>"
+msgstr "<link=\"REQUIREMENTCLASSTOILETTYPE\">ส้วม</link>"
+
+#. STRINGS.ROOMS.CRITERIA.WARMINGSTATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WARMINGSTATION.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSWARMINGSTATION\">Warming station</link>"
+msgstr "<link=\"REQUIREMENTCLASSWARMINGSTATION\">สถานี​อบอุ่น​ร่างกาย</link>"
+
+#. STRINGS.ROOMS.CRITERIA.WARMINGSTATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WARMINGSTATION.DESCRIPTION"
+msgid "Raises the ambient temperature"
+msgstr "เพิ่ม​อุณหภูมิ​รอบข้าง"
+
+#. STRINGS.ROOMS.CRITERIA.WARMINGSTATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.WARMINGSTATION.NAME"
+msgid "<link=\"REQUIREMENTCLASSWARMINGSTATION\">Warming station</link>"
+msgstr "<link=\"REQUIREMENTCLASSWARMINGSTATION\">สถานี​อบอุ่น​ร่างกาย</link>"
+
+#. STRINGS.ROOMS.CRITERIA.WASHSTATION.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WASHSTATION.CONFLICT_DESCRIPTION"
+msgid "<link=\"REQUIREMENTCLASSWASHSTATION\">Wash station</link>"
+msgstr "<link=\"REQUIREMENTCLASSWASHSTATION\">สถานี​ล้างมือ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.WASHSTATION.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WASHSTATION.DESCRIPTION"
+msgid "Requires one or more Wash Basins, Sinks, Hand Sanitizers, or Showers"
+msgstr "ต้อง​มี​อ่าง​ล้างมือ ซิงก์​ล้างมือ เจล​ล้างมือ หรือ​ฝักบัว​อย่าง​น้อย​หนึ่ง​ชิ้น"
+
+#. STRINGS.ROOMS.CRITERIA.WASHSTATION.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.WASHSTATION.NAME"
+msgid "<link=\"REQUIREMENTCLASSWASHSTATION\">Wash station</link>"
+msgstr "<link=\"REQUIREMENTCLASSWASHSTATION\">สถานี​ล้างมือ</link>"
+
+#. STRINGS.ROOMS.CRITERIA.WILDANIMAL.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMAL.CONFLICT_DESCRIPTION"
+msgid "Wildlife"
+msgstr "สัตว์ป่า"
+
+#. STRINGS.ROOMS.CRITERIA.WILDANIMAL.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMAL.DESCRIPTION"
+msgid "Requires at least one wild critter"
+msgstr "ต้อง​มี​สัตว์ป่า​อย่าง​น้อย​หนึ่ง​ตัว"
+
+#. STRINGS.ROOMS.CRITERIA.WILDANIMAL.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMAL.NAME"
+msgid "Wildlife"
+msgstr "สัตว์ป่า"
+
+#. STRINGS.ROOMS.CRITERIA.WILDANIMALS.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMALS.CONFLICT_DESCRIPTION"
+msgid "More wildlife"
+msgstr "สัตว์ป่า​เพิ่มขึ้น"
+
+#. STRINGS.ROOMS.CRITERIA.WILDANIMALS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMALS.DESCRIPTION"
+msgid "Requires two or more wild critters"
+msgstr "ต้อง​มี​สัตว์ป่า​สอง​ตัว​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.WILDANIMALS.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMALS.NAME"
+msgid "More wildlife"
+msgstr "สัตว์ป่า​เพิ่มขึ้น"
+
+#. STRINGS.ROOMS.CRITERIA.WILDPLANT.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANT.CONFLICT_DESCRIPTION"
+msgid "Two wild plants"
+msgstr "พืช​ป่า​สอง​ต้น"
+
+#. STRINGS.ROOMS.CRITERIA.WILDPLANT.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANT.DESCRIPTION"
+msgid "Requires two or more wild plants"
+msgstr "ต้อง​มี​พืช​ป่า​สอง​ต้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.WILDPLANT.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANT.NAME"
+msgid "Two wild plants"
+msgstr "พืช​ป่า​สอง​ต้น"
+
+#. STRINGS.ROOMS.CRITERIA.WILDPLANTS.CONFLICT_DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANTS.CONFLICT_DESCRIPTION"
+msgid "Four wild plants"
+msgstr "พืช​ป่า​สี่​ต้น"
+
+#. STRINGS.ROOMS.CRITERIA.WILDPLANTS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANTS.DESCRIPTION"
+msgid "Requires four or more wild plants"
+msgstr "ต้อง​มี​พืช​ป่า​สี่​ต้น​ขึ้นไป"
+
+#. STRINGS.ROOMS.CRITERIA.WILDPLANTS.NAME
+msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANTS.NAME"
+msgid "Four wild plants"
+msgstr "พืช​ป่า​สี่​ต้น"
+
+#. STRINGS.ROOMS.DETAILS.ASSIGNED_TO.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.ASSIGNED_TO.NAME"
+msgid ""
+"<b>Assignments:</b>\n"
+"{0}"
+msgstr ""
+"<b>การมอบหมาย:</b>\n"
+"{0}"
 
 #. STRINGS.ROOMS.DETAILS.ASSIGNED_TO.UNASSIGNED
 msgctxt "STRINGS.ROOMS.DETAILS.ASSIGNED_TO.UNASSIGNED"
 msgid "Unassigned"
 msgstr "ยัง​ไม่​มอบหมาย"
 
+#. STRINGS.ROOMS.DETAILS.AVERAGE_ATMO_MASS.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.AVERAGE_ATMO_MASS.NAME"
+msgid "Average air pressure: {0}"
+msgstr "ความดัน​อากาศ​เฉลี่ย: {0}"
+
 #. STRINGS.ROOMS.DETAILS.AVERAGE_TEMPERATURE.NAME
 msgctxt "STRINGS.ROOMS.DETAILS.AVERAGE_TEMPERATURE.NAME"
 msgid "Average temperature: {0}"
 msgstr "อุณหภูมิ​เฉลี่ย: {0}"
+
+#. STRINGS.ROOMS.DETAILS.BUILDING_COUNT.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.BUILDING_COUNT.NAME"
+msgid "Buildings: {0}"
+msgstr "สิ่งก่อสร้าง: {0}"
+
+#. STRINGS.ROOMS.DETAILS.CREATURE_COUNT.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.CREATURE_COUNT.NAME"
+msgid "Critters: {0}"
+msgstr "สัตว์: {0}"
+
+#. STRINGS.ROOMS.DETAILS.HEADER
+msgctxt "STRINGS.ROOMS.DETAILS.HEADER"
+msgid "Room Details"
+msgstr "รายละเอียด​ห้อง"
+
+#. STRINGS.ROOMS.DETAILS.ORNAMENT_COUNT.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.ORNAMENT_COUNT.NAME"
+msgid "Displayed ornaments: {0}"
+msgstr "ของ​ประดับ​ที่​จัดแสดง: {0}"
+
+#. STRINGS.ROOMS.DETAILS.PLANT_COUNT.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.PLANT_COUNT.NAME"
+msgid "Plants: {0}"
+msgstr "พืช: {0}"
+
+#. STRINGS.ROOMS.DETAILS.SIZE.NAME
+msgctxt "STRINGS.ROOMS.DETAILS.SIZE.NAME"
+msgid "Room size: {0} Tiles"
+msgstr "ขนาด​ห้อง: {0} ช่อง"
 
 #. STRINGS.ROOMS.EFFECTS.HEADER
 msgctxt "STRINGS.ROOMS.EFFECTS.HEADER"
 msgid "<b>Effects:</b>"
 msgstr "<b>ผล:</b>"
 
+#. STRINGS.ROOMS.TYPES.BANQUETHALL.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.BANQUETHALL.DESCRIPTION"
+msgid ""
+"An exquisite place for communal dining.\n"
+"\n"
+"Eating in a Banquet Hall will dramatically improve Duplicants' Morale."
+msgstr ""
+"สถาน​ที่สุด​หรู​สำหรับ​กินข้าว​ร่วมกัน\n"
+"\n"
+"การ​กินใน​ห้อง​จัด​เลี้ยง​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​อย่าง​มหาศาล"
+
+#. STRINGS.ROOMS.TYPES.BANQUETHALL.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.BANQUETHALL.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
+
 #. STRINGS.ROOMS.TYPES.BANQUETHALL.NAME
 msgctxt "STRINGS.ROOMS.TYPES.BANQUETHALL.NAME"
 msgid "Banquet Hall"
 msgstr "ห้อง​จัด​เลี้ยง"
+
+#. STRINGS.ROOMS.TYPES.BANQUETHALL.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.BANQUETHALL.TOOLTIP"
+msgid "Eating in a Banquet Hall will dramatically improve Duplicants' Morale"
+msgstr "การ​กินใน​ห้อง​จัด​เลี้ยง​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​อย่าง​มหาศาล"
+
+#. STRINGS.ROOMS.TYPES.BARRACKS.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.BARRACKS.DESCRIPTION"
+msgid ""
+"A basic communal sleeping area for up-and-coming colonies.\n"
+"\n"
+"Sleeping in Barracks will improve Duplicants' Morale."
+msgstr ""
+"ที่นอน​รวม​พื้นฐาน​สำหรับ​อาณานิคม​ที่​กำลัง​ตั้งตัว\n"
+"\n"
+"การ​นอน​ใน​ห้องนอน​รวม​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.BARRACKS.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.BARRACKS.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
 
 #. STRINGS.ROOMS.TYPES.BARRACKS.NAME
 msgctxt "STRINGS.ROOMS.TYPES.BARRACKS.NAME"
 msgid "Barracks"
 msgstr "ห้องนอน​รวม"
 
+#. STRINGS.ROOMS.TYPES.BARRACKS.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.BARRACKS.TOOLTIP"
+msgid "Sleeping in Barracks will improve Duplicants' Morale"
+msgstr "การ​นอน​ใน​ห้องนอน​รวม​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.BEDROOM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.BEDROOM.DESCRIPTION"
+msgid ""
+"An upscale communal sleeping area full of things that greatly enhance quality of rest for occupants.\n"
+"\n"
+"Sleeping in a Luxury Barracks will improve Duplicants' Morale."
+msgstr ""
+"ที่นอน​รวม​ระดับ​หรู เต็มไปด้วย​ของ​ที่​ช่วย​ให้​ผู้​พัก​นอนหลับ​ได้​ดีขึ้น​มาก\n"
+"\n"
+"การ​นอน​ใน​ห้องนอน​รวม​หรู​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.BEDROOM.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.BEDROOM.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
+
 #. STRINGS.ROOMS.TYPES.BEDROOM.NAME
 msgctxt "STRINGS.ROOMS.TYPES.BEDROOM.NAME"
 msgid "Luxury Barracks"
 msgstr "ห้องนอน​รวม​หรู"
+
+#. STRINGS.ROOMS.TYPES.BEDROOM.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.BEDROOM.TOOLTIP"
+msgid "Sleeping in a Luxury Barracks will improve Duplicants' Morale"
+msgstr "การ​นอน​ใน​ห้องนอน​รวม​หรู​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.CONFLICTED
+msgctxt "STRINGS.ROOMS.TYPES.CONFLICTED"
+msgid "Conflicted Room"
+msgstr "ห้อง​ขัดแย้ง"
+
+#. STRINGS.ROOMS.TYPES.CREATUREPEN.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.DESCRIPTION"
+msgid ""
+"Critters don't mind it here, as long as things don't get too crowded.\n"
+"\n"
+"Stabled critters can be tended to in order to improve their happiness, hasten their domestication and increase their production.\n"
+"\n"
+"Enables the use of Grooming Stations, Shearing Stations, Critter Condos, Critter Fountains and Milking Stations."
+msgstr ""
+"สัตว์​ไม่​ว่า​อะไร​กับ​ที่นี่ ตราบใดที่​ไม่​แออัด​เกินไป\n"
+"\n"
+"สัตว์​ใน​คอก​จะ​ได้รับ​การ​ดูแล​เพื่อให้​มีความสุข​ขึ้น เชื่อง​เร็ว​ขึ้น และ​ผลิต​ได้​มากขึ้น\n"
+"\n"
+"เปิด​ให้​ใช้​สถานี​แปรง​ขน สถานี​ตัด​ขน คอนโด​สัตว์ น้ำพุ​สัตว์ และ​สถานี​รีดนม"
+
+#. STRINGS.ROOMS.TYPES.CREATUREPEN.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.EFFECT"
+msgid "- Critter taming and mood bonus"
+msgstr "- โบนัส​การ​ฝึก​ให้​เชื่อง​และ​อารมณ์​ของ​สัตว์"
 
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.NAME
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.NAME"
 msgid "Stable"
 msgstr "เสถียร"
 
+#. STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP"
+msgid "A stable enables both land-based and aquatic Grooming Station, Critter Condo, Critter Fountain, Shearing Station and Milking Station use"
+msgstr "คอก​สัตว์​เปิด​ให้​ใช้​สถานี​แปรง​ขน คอนโด​สัตว์ น้ำพุ​สัตว์ สถานี​ตัด​ขน และ​สถานี​รีดนม ทั้ง​แบบ​บน​บก​และ​ใน​น้ำ"
+
+#. STRINGS.ROOMS.TYPES.FARM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.FARM.DESCRIPTION"
+msgid ""
+"An enclosed agricultural space best utilized by Duplicants with Crop Tending skills.\n"
+"\n"
+"Crops grown within a Greenhouse can be tended with Farm Station fertilizer to increase their growth speed."
+msgstr ""
+"พื้นที่​เกษตร​แบบ​ปิด​ที่​ดู​พลิ​แคนต์​ผู้​มี​ทักษะ​ดูแล​พืชผล​ใช้ได้​เต็ม​ประสิทธิภาพ​ที่สุด\n"
+"\n"
+"พืชผล​ที่​ปลูก​ใน​เรือนกระจก​บำรุง​ด้วย​ปุ๋ย​จาก​สถานี​ฟาร์ม​ได้ เพื่อ​เร่ง​การ​เติบโต"
+
+#. STRINGS.ROOMS.TYPES.FARM.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.FARM.EFFECT"
+msgid "- Enables Farm Station use"
+msgstr "- เปิด​ให้​ใช้​สถานี​ฟาร์ม"
+
+#. STRINGS.ROOMS.TYPES.FARM.NAME
+msgctxt "STRINGS.ROOMS.TYPES.FARM.NAME"
+msgid "Greenhouse"
+msgstr "เรือนกระจก"
+
+#. STRINGS.ROOMS.TYPES.FARM.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.FARM.TOOLTIP"
+msgid "Crops grown within a Greenhouse can be tended with Farm Station fertilizer to increase their growth speed"
+msgstr "พืชผล​ที่​ปลูก​ใน​เรือนกระจก​บำรุง​ด้วย​ปุ๋ย​จาก​สถานี​ฟาร์ม​ได้ เพื่อ​เร่ง​การ​เติบโต"
+
+#. STRINGS.ROOMS.TYPES.GREATHALL.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.GREATHALL.DESCRIPTION"
+msgid ""
+"A great place to eat, with great decor. Great!\n"
+"\n"
+"Eating in a Great Hall will improve Duplicants' Morale."
+msgstr ""
+"ที่​กินข้าว​สุด​เลิศ ความสวยงาม​ก็​เลิศ เลิศ​ไป​หมด!\n"
+"\n"
+"การ​กินใน​ห้องโถง​ใหญ่​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.GREATHALL.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.GREATHALL.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
+
 #. STRINGS.ROOMS.TYPES.GREATHALL.NAME
 msgctxt "STRINGS.ROOMS.TYPES.GREATHALL.NAME"
 msgid "Great Hall"
 msgstr "ห้องโถง​ใหญ่"
+
+#. STRINGS.ROOMS.TYPES.GREATHALL.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.GREATHALL.TOOLTIP"
+msgid "Eating in a Great Hall will significantly improve Duplicants' Morale"
+msgstr "การ​กินใน​ห้องโถง​ใหญ่​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​อย่าง​มาก"
+
+#. STRINGS.ROOMS.TYPES.HOSPITAL.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.DESCRIPTION"
+msgid ""
+"A dedicated medical facility that helps minimize recovery time.\n"
+"\n"
+"Sick Duplicants assigned to medical buildings located within a Hospital are also less likely to spread Disease."
+msgstr ""
+"สถานพยาบาล​เฉพาะทาง​ที่​ช่วย​ลด​เวลา​พักฟื้น\n"
+"\n"
+"ดู​พลิ​แคนต์​ป่วย​ที่​ถูก​มอบหมาย​ให้​ใช้​สิ่งก่อสร้าง​การแพทย์​ใน​โรงพยาบาล จะ​แพร่​โรค​น้อยลง​ด้วย"
+
+#. STRINGS.ROOMS.TYPES.HOSPITAL.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.EFFECT"
+msgid "- Quarantine sick Duplicants"
+msgstr "- กัก​โรค​ดู​พลิ​แคนต์​ที่​ป่วย"
+
+#. STRINGS.ROOMS.TYPES.HOSPITAL.NAME
+msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.NAME"
+msgid "Hospital"
+msgstr "โรงพยาบาล"
+
+#. STRINGS.ROOMS.TYPES.HOSPITAL.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.TOOLTIP"
+msgid "Sick Duplicants assigned to medical buildings located within a Hospital are less likely to spread Disease"
+msgstr "ดู​พลิ​แคนต์​ป่วย​ที่​ถูก​มอบหมาย​ให้​ใช้​สิ่งก่อสร้าง​การแพทย์​ใน​โรงพยาบาล จะ​แพร่​โรค​น้อยลง"
+
+#. STRINGS.ROOMS.TYPES.KITCHEN.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.KITCHEN.DESCRIPTION"
+msgid ""
+"A cooking area equipped to take meals to the next level.\n"
+"\n"
+"Adding ingredients from a Spice Grinder to foods cooked on an Electric Grill or Gas Range provides a variety of positive benefits."
+msgstr ""
+"พื้นที่​ทำอาหาร​ที่​อุปกรณ์​ครบ พา​เมนู​ขึ้น​อีก​ระดับ\n"
+"\n"
+"การ​เติม​ส่วนผสม​จาก​เครื่อง​บด​เครื่องเทศ​ลง​ใน​อาหาร​ที่​ปรุง​บน​เตา​ย่าง​ไฟฟ้า​หรือ​เตาแก๊ส ให้​ประโยชน์​ดี ๆ หลากหลาย"
+
+#. STRINGS.ROOMS.TYPES.KITCHEN.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.KITCHEN.EFFECT"
+msgid "- Enables Spice Grinder use"
+msgstr "- เปิด​ให้​ใช้​เครื่อง​บด​เครื่องเทศ"
+
+#. STRINGS.ROOMS.TYPES.KITCHEN.NAME
+msgctxt "STRINGS.ROOMS.TYPES.KITCHEN.NAME"
+msgid "Kitchen"
+msgstr "ห้องครัว"
+
+#. STRINGS.ROOMS.TYPES.KITCHEN.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.KITCHEN.TOOLTIP"
+msgid "Using a Spice Grinder in a Kitchen adds benefits to foods cooked on Electric Grill or Gas Range"
+msgstr "การ​ใช้​เครื่อง​บด​เครื่องเทศ​ใน​ห้องครัว​จะ​เพิ่ม​ประโยชน์​ให้อาหาร​ที่​ปรุง​บน​เตา​ย่าง​ไฟฟ้า​หรือ​เตาแก๊ส"
+
+#. STRINGS.ROOMS.TYPES.LABORATORY.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.LABORATORY.DESCRIPTION"
+msgid ""
+"Where wild hypotheses meet rigorous scientific experimentation.\n"
+"\n"
+"Science stations built in a Laboratory function more efficiently.\n"
+"\n"
+"A Laboratory enables the use of the Geotuner and the Mission Control Station."
+msgstr ""
+"ที่​ซึ่ง​สมมติฐาน​สุด​บรรเจิด​พบ​กับ​การทดลอง​ทางวิทยาศาสตร์​อัน​เข้มงวด\n"
+"\n"
+"สถานี​วิทยาศาสตร์​ที่​สร้าง​ใน​ห้อง​แล็บ​ทำงาน​ได้​มีประสิทธิภาพ​กว่า\n"
+"\n"
+"ห้อง​แล็บ​เปิด​ให้​ใช้​เครื่อง​จูน​ธรณี​และ​สถานี​ควบคุม​ภารกิจ"
+
+#. STRINGS.ROOMS.TYPES.LABORATORY.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.LABORATORY.EFFECT"
+msgid "- Efficiency bonus"
+msgstr "- โบนัส​ประสิทธิภาพ"
+
+#. STRINGS.ROOMS.TYPES.LABORATORY.NAME
+msgctxt "STRINGS.ROOMS.TYPES.LABORATORY.NAME"
+msgid "Laboratory"
+msgstr "ห้องปฏิบัติการ"
+
+#. STRINGS.ROOMS.TYPES.LABORATORY.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.LABORATORY.TOOLTIP"
+msgid ""
+"Science buildings built in a Laboratory function more efficiently\n"
+"\n"
+"A Laboratory enables Geotuner and Mission Control Station use"
+msgstr ""
+"สิ่งก่อสร้าง​วิทยาศาสตร์​ที่​สร้าง​ใน​ห้อง​แล็บ​ทำงาน​ได้​มีประสิทธิภาพ​กว่า\n"
+"\n"
+"ห้อง​แล็บ​เปิด​ให้​ใช้​เครื่อง​จูน​ธรณี​และ​สถานี​ควบคุม​ภารกิจ"
+
+#. STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION"
+msgid ""
+"It's a step up from doing one's business in full view of the rest of the colony.\n"
+"\n"
+"Using a toilet in an enclosed room will improve Duplicants' Morale."
+msgstr ""
+"ดีกว่า​การ​ทำ​ธุระ​ต่อหน้า​คน​ทั้ง​อาณานิคม​ขึ้น​มา​หน่อย\n"
+"\n"
+"การ​ใช้​ส้วม​ใน​ห้อง​ปิด​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.LATRINE.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.LATRINE.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
 
 #. STRINGS.ROOMS.TYPES.LATRINE.NAME
 msgctxt "STRINGS.ROOMS.TYPES.LATRINE.NAME"
 msgid "Latrine"
 msgstr "ห้องส้วม"
 
+#. STRINGS.ROOMS.TYPES.LATRINE.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.LATRINE.TOOLTIP"
+msgid "Using a toilet in an enclosed room will improve Duplicants' Morale"
+msgstr "การ​ใช้​ส้วม​ใน​ห้อง​ปิด​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.MACHINE_SHOP.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.MACHINE_SHOP.DESCRIPTION"
+msgid ""
+"It smells like elbow grease.\n"
+"\n"
+"Duplicants working in a Machine Shop can maintain buildings and increase their production speed."
+msgstr ""
+"กลิ่น​หยาดเหงื่อ​แรงงาน​ลอย​ฟุ้ง\n"
+"\n"
+"ดู​พลิ​แคนต์​ที่ทำงาน​ใน​โรง​ซ่อม​เครื่อง​บำรุงรักษา​สิ่งก่อสร้าง​และ​เพิ่ม​ความเร็ว​การผลิต​ได้"
+
+#. STRINGS.ROOMS.TYPES.MACHINE_SHOP.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.MACHINE_SHOP.EFFECT"
+msgid "- Increased fabrication efficiency"
+msgstr "- เพิ่มประสิทธิภาพ​การผลิต"
+
 #. STRINGS.ROOMS.TYPES.MACHINE_SHOP.NAME
 msgctxt "STRINGS.ROOMS.TYPES.MACHINE_SHOP.NAME"
 msgid "Machine Shop"
 msgstr "โรง​ซ่อม​เครื่อง"
+
+#. STRINGS.ROOMS.TYPES.MACHINE_SHOP.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.MACHINE_SHOP.TOOLTIP"
+msgid "Duplicants working in a Machine Shop can maintain buildings and increase their production speed"
+msgstr "ดู​พลิ​แคนต์​ที่ทำงาน​ใน​โรง​ซ่อม​เครื่อง​บำรุงรักษา​สิ่งก่อสร้าง​และ​เพิ่ม​ความเร็ว​การผลิต​ได้"
+
+#. STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.DESCRIPTION"
+msgid ""
+"A soothing space with a very relaxing ambience, especially when well-decorated.\n"
+"\n"
+"Receiving massages at a Massage Clinic will significantly improve Stress reduction."
+msgstr ""
+"พื้นที่​ผ่อนคลาย​บรรยากาศ​สบาย ๆ ยิ่ง​ตกแต่ง​สวย​ยิ่ง​ชิล\n"
+"\n"
+"การ​นวด​ที่​คลินิก​นวด​จะ​ช่วย​ลด​ความเครียด​ได้​ดีขึ้น​มาก"
+
+#. STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.EFFECT"
+msgid "- Massage stress relief bonus"
+msgstr "- โบนัส​คลายเครียด​จาก​การ​นวด"
+
+#. STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.NAME
+msgctxt "STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.NAME"
+msgid "Massage Clinic"
+msgstr "คลินิก​นวด"
+
+#. STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.TOOLTIP"
+msgid "Receiving massages at a Massage Clinic will significantly improve Stress reduction"
+msgstr "การ​นวด​ที่​คลินิก​นวด​จะ​ช่วย​ลด​ความเครียด​ได้​ดีขึ้น​มาก"
+
+#. STRINGS.ROOMS.TYPES.MESSHALL.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.DESCRIPTION"
+msgid ""
+"A simple dining room setup that's easy to improve upon.\n"
+"\n"
+"Eating at a mess table in a Mess Hall will increase Duplicants' Morale."
+msgstr ""
+"ห้องกินข้าว​แบบ​เรียบง่าย ต่อยอด​ได้​ไม่​ยาก\n"
+"\n"
+"การ​กินที่​โต๊ะอาหาร​ใน​ห้องอาหาร​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.MESSHALL.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
 
 #. STRINGS.ROOMS.TYPES.MESSHALL.NAME
 msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.NAME"
 msgid "Mess Hall"
 msgstr "ห้องอาหาร"
 
+#. STRINGS.ROOMS.TYPES.MESSHALL.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.TOOLTIP"
+msgid "Eating at a Mess Table in a Mess Hall will improve Duplicants' Morale"
+msgstr "การ​กินที่​โต๊ะอาหาร​ใน​ห้องอาหาร​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.NATURERESERVE.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.NATURERESERVE.DESCRIPTION"
+msgid ""
+"A lot of greenery goes an even longer way.\n"
+"\n"
+"Passing through a Nature Reserve will grant higher Morale bonuses to Duplicants than a Park."
+msgstr ""
+"เขียวขจี​เยอะ ๆ ยิ่ง​ได้ผล​ไป​ไกล\n"
+"\n"
+"การ​เดินผ่าน​เขต​อนุรักษ์​ธรรมชาติ​จะ​ให้​โบนัส​ขวัญ​กำลังใจ​แก่​ดู​พลิ​แคนต์​มากกว่า​สวนสาธารณะ"
+
+#. STRINGS.ROOMS.TYPES.NATURERESERVE.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.NATURERESERVE.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
+
 #. STRINGS.ROOMS.TYPES.NATURERESERVE.NAME
 msgctxt "STRINGS.ROOMS.TYPES.NATURERESERVE.NAME"
 msgid "Nature Reserve"
 msgstr "เขต​อนุรักษ์​ธรรมชาติ"
+
+#. STRINGS.ROOMS.TYPES.NATURERESERVE.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.NATURERESERVE.TOOLTIP"
+msgid "A Nature Reserve will grant higher Morale bonuses to Duplicants than a Park"
+msgstr "เขต​อนุรักษ์​ธรรมชาติ​ให้​โบนัส​ขวัญ​กำลังใจ​แก่​ดู​พลิ​แคนต์​มากกว่า​สวนสาธารณะ"
+
+#. STRINGS.ROOMS.TYPES.NEUTRAL.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.DESCRIPTION"
+msgid "An enclosed space with plenty of potential and no dedicated use."
+msgstr "พื้นที่​ปิด​ที่​มี​ศักยภาพ​เพียบ แต่​ยัง​ไม่​มี​หน้าที่​เฉพาะ"
+
+#. STRINGS.ROOMS.TYPES.NEUTRAL.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.EFFECT"
+msgid "- No effect"
+msgstr "- ไม่​มีผล"
+
+#. STRINGS.ROOMS.TYPES.NEUTRAL.NAME
+msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.NAME"
+msgid "Miscellaneous Room"
+msgstr "ห้อง​เบ็ดเตล็ด"
+
+#. STRINGS.ROOMS.TYPES.NEUTRAL.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.TOOLTIP"
+msgid "This area has walls and doors but no dedicated use"
+msgstr "พื้นที่​นี้​มี​ผนัง​และ​ประตู แต่​ยัง​ไม่​มี​หน้าที่​เฉพาะ"
+
+#. STRINGS.ROOMS.TYPES.PARK.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.PARK.DESCRIPTION"
+msgid ""
+"A little greenery goes a long way.\n"
+"\n"
+"Passing through natural spaces throughout the day will raise the Morale of Duplicants."
+msgstr ""
+"เขียวขจี​นิดเดียว​ก็​ได้ผล​ไป​ไกล\n"
+"\n"
+"การ​เดินผ่าน​พื้นที่​ธรรมชาติ​ระหว่าง​วัน​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.PARK.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.PARK.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
 
 #. STRINGS.ROOMS.TYPES.PARK.NAME
 msgctxt "STRINGS.ROOMS.TYPES.PARK.NAME"
 msgid "Park"
 msgstr "สวนสาธารณะ"
 
+#. STRINGS.ROOMS.TYPES.PARK.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.PARK.TOOLTIP"
+msgid "Passing through natural spaces throughout the day will raise the Morale of Duplicants"
+msgstr "การ​เดินผ่าน​พื้นที่​ธรรมชาติ​ระหว่าง​วัน​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.DESCRIPTION"
+msgid ""
+"A sanctuary of personal hygiene.\n"
+"\n"
+"Using a fully plumbed Washroom will improve Duplicants' Morale."
+msgstr ""
+"วิหาร​แห่ง​สุขอนามัย​ส่วนตัว\n"
+"\n"
+"การ​ใช้​ห้องน้ำ​ที่​ต่อ​ท่อ​ครบ​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
+
 #. STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.NAME
 msgctxt "STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.NAME"
 msgid "Washroom"
 msgstr "ห้องน้ำ"
+
+#. STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.PLUMBEDBATHROOM.TOOLTIP"
+msgid "Using a fully plumbed Washroom will improve Duplicants' Morale"
+msgstr "การ​ใช้​ห้องน้ำ​ที่​ต่อ​ท่อ​ครบ​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.ROOMS.TYPES.POWER_PLANT.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.POWER_PLANT.DESCRIPTION"
+msgid ""
+"The perfect place for Duplicants to flex their Electrical Engineering skills.\n"
+"\n"
+"Heavy-duty generators built within a Power Plant can be tuned up using microchips from power control stations to improve their <link=\"POWER\">Power</link> production."
+msgstr ""
+"ที่​เหมาะเหม็ง​ให้​ดู​พลิ​แคนต์​โชว์​ทักษะ​วิศวกรรมไฟฟ้า\n"
+"\n"
+"เครื่องปั่นไฟ​งานหนัก​ที่​สร้าง​ใน​โรงไฟฟ้า​จูน​ได้​ด้วย​ไมโคร​ชิป​จาก​สถานี​ควบคุม​พลังงาน เพื่อ​เพิ่ม​การผลิต<link=\"POWER\">พลังงาน</link>"
+
+#. STRINGS.ROOMS.TYPES.POWER_PLANT.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.POWER_PLANT.EFFECT"
+msgid "- Enables <link=\"POWERSTATIONTOOLS\">Microchip</link> tune-ups on heavy-duty generators"
+msgstr "- เปิด​ให้​จูน​เครื่องปั่นไฟ​งานหนัก​ด้วย<link=\"POWERSTATIONTOOLS\">ไมโคร​ชิป</link>"
+
+#. STRINGS.ROOMS.TYPES.POWER_PLANT.NAME
+msgctxt "STRINGS.ROOMS.TYPES.POWER_PLANT.NAME"
+msgid "Power Plant"
+msgstr "โรงไฟฟ้า"
+
+#. STRINGS.ROOMS.TYPES.POWER_PLANT.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.POWER_PLANT.TOOLTIP"
+msgid "Heavy-duty generators built in a Power Plant can be tuned up using microchips from Power Control Stations to improve their Power production"
+msgstr "เครื่องปั่นไฟ​งานหนัก​ที่​สร้าง​ใน​โรงไฟฟ้า​จูน​ได้​ด้วย​ไมโคร​ชิป​จาก​สถานี​ควบคุม​พลังงาน เพื่อ​เพิ่ม​การผลิต​พลังงาน"
+
+#. STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.DESCRIPTION"
+msgid ""
+"Finally, a place to truly be alone with one's thoughts.\n"
+"\n"
+"Duplicants relieve even more Stress when using the toilet in a Private Bathroom than in a Latrine."
+msgstr ""
+"ในที่สุด​ก็​มี​ที่​ให้​อยู่​ตามลำพัง​กับ​ความคิด​ตัวเอง​จริง ๆ\n"
+"\n"
+"ดู​พลิ​แคนต์​จะ​คลายเครียด​ได้​มากกว่า​เมื่อ​ใช้​ส้วม​ใน​ห้องน้ำ​ส่วนตัว เทียบ​กับ​ใน​ห้องส้วม"
+
+#. STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.EFFECT"
+msgid "- Stress relief bonus"
+msgstr "- โบนัส​คลายเครียด"
+
+#. STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.NAME
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.NAME"
+msgid "Private Bathroom"
+msgstr "ห้องน้ำ​ส่วนตัว"
+
+#. STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.TOOLTIP"
+msgid "Duplicants relieve even more stress when using the toilet in a Private Bathroom than in a Latrine"
+msgstr "ดู​พลิ​แคนต์​จะ​คลายเครียด​ได้​มากกว่า​เมื่อ​ใช้​ส้วม​ใน​ห้องน้ำ​ส่วนตัว เทียบ​กับ​ใน​ห้องส้วม"
+
+#. STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.DESCRIPTION"
+msgid ""
+"A comfortable, roommate-free retreat where tired Duplicants can get uninterrupted rest.\n"
+"\n"
+"Sleeping in a Private Bedroom will greatly improve Duplicants' Morale."
+msgstr ""
+"ที่พัก​สบาย ๆ ไร้​รูม​เมท ให้​ดู​พลิ​แคนต์​ที่​เหนื่อยล้า​ได้​พักผ่อน​ไม่​มี​ใคร​กวน\n"
+"\n"
+"การ​นอน​ใน​ห้องนอน​ส่วนตัว​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​อย่าง​มาก"
+
+#. STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
 
 #. STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.NAME
 msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.NAME"
 msgid "Private Bedroom"
 msgstr "ห้องนอน​ส่วนตัว"
 
+#. STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.TOOLTIP"
+msgid "Sleeping in a Private Bedroom will greatly improve Duplicants' Morale"
+msgstr "การ​นอน​ใน​ห้องนอน​ส่วนตัว​จะ​เพิ่ม​ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์​อย่าง​มาก"
+
+#. STRINGS.ROOMS.TYPES.REC_ROOM.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.REC_ROOM.DESCRIPTION"
+msgid ""
+"Where Duplicants go to mingle with off-duty peers and indulge in a little R&R.\n"
+"\n"
+"Scheduled Downtime will further improve Morale for Duplicants visiting a Recreation Room."
+msgstr ""
+"ที่​ที่​ดู​พลิ​แคนต์​มา​สังสรรค์​กับ​เพื่อน​นอกเวลา​งาน และ​พักผ่อนหย่อนใจ​สักหน่อย\n"
+"\n"
+"เวลาว่าง​ตาม​ตาราง​จะ​ยิ่ง​เพิ่ม​ขวัญ​กำลังใจ​ให้​ดู​พลิ​แคนต์​ที่มา​ห้อง​สันทนาการ"
+
+#. STRINGS.ROOMS.TYPES.REC_ROOM.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.REC_ROOM.EFFECT"
+msgid "- Morale bonus"
+msgstr "- โบนัส​ขวัญ​กำลังใจ"
+
+#. STRINGS.ROOMS.TYPES.REC_ROOM.NAME
+msgctxt "STRINGS.ROOMS.TYPES.REC_ROOM.NAME"
+msgid "Recreation Room"
+msgstr "ห้อง​สันทนาการ"
+
+#. STRINGS.ROOMS.TYPES.REC_ROOM.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.REC_ROOM.TOOLTIP"
+msgid "Scheduled Downtime will further improve Morale for Duplicants visiting a Recreation Room"
+msgstr "เวลาว่าง​ตาม​ตาราง​จะ​ยิ่ง​เพิ่ม​ขวัญ​กำลังใจ​ให้​ดู​พลิ​แคนต์​ที่มา​ห้อง​สันทนาการ"
+
+#. STRINGS.SEARCH_TERMS.ARTWORK
+msgctxt "STRINGS.SEARCH_TERMS.ARTWORK"
+msgid "Artwork, Art, Painting, Artist"
+msgstr "งานศิลปะ, ศิลปะ, ภาพวาด, ศิลปิน, Artwork, Art, Painting, Artist"
+
+#. STRINGS.SEARCH_TERMS.ATMOSUIT
+msgctxt "STRINGS.SEARCH_TERMS.ATMOSUIT"
+msgid "Atmo Suit, Atmosuit, Jet Suit, Jetsuit"
+msgstr "ชุด​อัต​โม, ชุด​เจ็ต, Atmo Suit, Atmosuit, Jet Suit, Jetsuit"
+
+#. STRINGS.SEARCH_TERMS.AUTOMATION
+msgctxt "STRINGS.SEARCH_TERMS.AUTOMATION"
+msgid "Automation, Logic"
+msgstr "ระบบ​อัตโนมัติ, ลอ​จิก, Automation, Logic"
+
 #. STRINGS.SEARCH_TERMS.BATTERY
 msgctxt "STRINGS.SEARCH_TERMS.BATTERY"
 msgid "Battery"
 msgstr "แบตเตอรี่"
+
+#. STRINGS.SEARCH_TERMS.BED
+msgctxt "STRINGS.SEARCH_TERMS.BED"
+msgid "Bed, Cot"
+msgstr "เตียง, เตียง​พับ, Bed, Cot"
+
+#. STRINGS.SEARCH_TERMS.BIONIC
+msgctxt "STRINGS.SEARCH_TERMS.BIONIC"
+msgid "Bionic"
+msgstr "ไบโอ​นิ​ก, Bionic"
+
+#. STRINGS.SEARCH_TERMS.CO2
+msgctxt "STRINGS.SEARCH_TERMS.CO2"
+msgid "CO2, Carbon Dioxide"
+msgstr "CO2, คาร์บอนไดออกไซด์, Carbon Dioxide"
+
+#. STRINGS.SEARCH_TERMS.CRITTER
+msgctxt "STRINGS.SEARCH_TERMS.CRITTER"
+msgid "Critter, Creature, Animal, Pet"
+msgstr "สัตว์, สิ่งมีชีวิต, สัตว์เลี้ยง, Critter, Creature, Animal, Pet"
+
+#. STRINGS.SEARCH_TERMS.DECOR
+msgctxt "STRINGS.SEARCH_TERMS.DECOR"
+msgid "Decor, Decor Item"
+msgstr "ความสวยงาม, ของ​ตกแต่ง, Decor, Decor Item"
+
+#. STRINGS.SEARCH_TERMS.DINING
+msgctxt "STRINGS.SEARCH_TERMS.DINING"
+msgid "Dine, Dining, Table"
+msgstr "กินข้าว, โต๊ะอาหาร, โต๊ะ, Dine, Dining, Table"
+
+#. STRINGS.SEARCH_TERMS.DINOSAUR
+msgctxt "STRINGS.SEARCH_TERMS.DINOSAUR"
+msgid "Dinosaur, Fossil"
+msgstr "ไดโนเสาร์, ฟอสซิล, Dinosaur, Fossil"
+
+#. STRINGS.SEARCH_TERMS.FARM
+msgctxt "STRINGS.SEARCH_TERMS.FARM"
+msgid "Farm, Farming"
+msgstr "ฟาร์ม, การเกษตร, ปลูก, Farm, Farming"
+
+#. STRINGS.SEARCH_TERMS.FILTER
+msgctxt "STRINGS.SEARCH_TERMS.FILTER"
+msgid "Filter, Filtration"
+msgstr "กรอง, การกรอง, Filter, Filtration"
+
+#. STRINGS.SEARCH_TERMS.FOOD
+msgctxt "STRINGS.SEARCH_TERMS.FOOD"
+msgid "Food, Cooking"
+msgstr "อาหาร, ทำอาหาร, Food, Cooking"
+
+#. STRINGS.SEARCH_TERMS.FRIDGE
+msgctxt "STRINGS.SEARCH_TERMS.FRIDGE"
+msgid "Fridge, Refrigerator"
+msgstr "ตู้เย็น, Fridge, Refrigerator"
+
+#. STRINGS.SEARCH_TERMS.GENERATOR
+msgctxt "STRINGS.SEARCH_TERMS.GENERATOR"
+msgid "Generator"
+msgstr "เครื่องปั่นไฟ, Generator"
 
 #. STRINGS.SEARCH_TERMS.GLASS
 msgctxt "STRINGS.SEARCH_TERMS.GLASS"
 msgid "Glass"
 msgstr "แก้ว"
 
+#. STRINGS.SEARCH_TERMS.LUMBER
+msgctxt "STRINGS.SEARCH_TERMS.LUMBER"
+msgid "Lumber"
+msgstr "ไม้, Lumber"
+
+#. STRINGS.SEARCH_TERMS.MEDICINE
+msgctxt "STRINGS.SEARCH_TERMS.MEDICINE"
+msgid "Medicine, Medical"
+msgstr "ยา, การแพทย์, Medicine, Medical"
+
 #. STRINGS.SEARCH_TERMS.METAL
 msgctxt "STRINGS.SEARCH_TERMS.METAL"
 msgid "Metal"
 msgstr "โลหะ"
+
+#. STRINGS.SEARCH_TERMS.MISSILE
+msgctxt "STRINGS.SEARCH_TERMS.MISSILE"
+msgid "Missile"
+msgstr "ขีปนาวุธ, Missile"
 
 #. STRINGS.SEARCH_TERMS.MORALE
 msgctxt "STRINGS.SEARCH_TERMS.MORALE"
 msgid "Morale"
 msgstr "ขวัญ​กำลังใจ"
 
+#. STRINGS.SEARCH_TERMS.ORNAMENTDISPLAYED
+msgctxt "STRINGS.SEARCH_TERMS.ORNAMENTDISPLAYED"
+msgid "Ornament, Decoration, Artifact, Keepsake"
+msgstr "ของ​ประดับ, ของ​ตกแต่ง, โบราณวัตถุ, ของที่ระลึก, Ornament, Decoration, Artifact, Keepsake"
+
+#. STRINGS.SEARCH_TERMS.OXYGEN
+msgctxt "STRINGS.SEARCH_TERMS.OXYGEN"
+msgid "Oxygen, Air"
+msgstr "ออกซิเจน, อากาศ, Oxygen, Air"
+
 #. STRINGS.SEARCH_TERMS.POWER
 msgctxt "STRINGS.SEARCH_TERMS.POWER"
 msgid "Power"
 msgstr "พลังงาน"
+
+#. STRINGS.SEARCH_TERMS.RANCHING
+msgctxt "STRINGS.SEARCH_TERMS.RANCHING"
+msgid "Ranching, Ranch"
+msgstr "เลี้ยงสัตว์, ปศุสัตว์, Ranching, Ranch"
+
+#. STRINGS.SEARCH_TERMS.RESEARCH
+msgctxt "STRINGS.SEARCH_TERMS.RESEARCH"
+msgid "Research, Science"
+msgstr "วิจัย, วิทยาศาสตร์, Research, Science"
+
+#. STRINGS.SEARCH_TERMS.ROBOT
+msgctxt "STRINGS.SEARCH_TERMS.ROBOT"
+msgid "Robot"
+msgstr "หุ่นยนต์, บอ​ท, Robot"
+
+#. STRINGS.SEARCH_TERMS.ROCKET
+msgctxt "STRINGS.SEARCH_TERMS.ROCKET"
+msgid "Rocket, Rocketry"
+msgstr "จรวด, Rocket, Rocketry"
+
+#. STRINGS.SEARCH_TERMS.SINK
+msgctxt "STRINGS.SEARCH_TERMS.SINK"
+msgid "Sink, Wash"
+msgstr "ซิงก์, ล้าง, ล้างมือ, Sink, Wash"
+
+#. STRINGS.SEARCH_TERMS.STATUE
+msgctxt "STRINGS.SEARCH_TERMS.STATUE"
+msgid "Statue, Sculpture"
+msgstr "รูปปั้น, ประติมากรรม, Statue, Sculpture"
 
 #. STRINGS.SEARCH_TERMS.STEAM
 msgctxt "STRINGS.SEARCH_TERMS.STEAM"
@@ -87957,20 +93438,135 @@ msgctxt "STRINGS.SEARCH_TERMS.STORAGE"
 msgid "Storage"
 msgstr "เก็บ​ของ"
 
+#. STRINGS.SEARCH_TERMS.SUPPRESSED
+msgctxt "STRINGS.SEARCH_TERMS.SUPPRESSED"
+msgid "the, but, for"
+msgstr "the, but, for"
+
 #. STRINGS.SEARCH_TERMS.TILE
 msgctxt "STRINGS.SEARCH_TERMS.TILE"
 msgid "Tile"
 msgstr "แผ่น​พื้น"
+
+#. STRINGS.SEARCH_TERMS.TOILET
+msgctxt "STRINGS.SEARCH_TERMS.TOILET"
+msgid "Toilet, Lavatory"
+msgstr "ส้วม, ชักโครก, ห้องน้ำ, Toilet, Lavatory"
 
 #. STRINGS.SEARCH_TERMS.TRANSPORT
 msgctxt "STRINGS.SEARCH_TERMS.TRANSPORT"
 msgid "Transport"
 msgstr "การขนส่ง"
 
+#. STRINGS.SEARCH_TERMS.WATER
+msgctxt "STRINGS.SEARCH_TERMS.WATER"
+msgid "Water, H2O"
+msgstr "น้ำ, H2O, Water"
+
+#. STRINGS.SEARCH_TERMS.WIRE
+msgctxt "STRINGS.SEARCH_TERMS.WIRE"
+msgid "Wire, Wiring, Cables"
+msgstr "สายไฟ, เดิน​สายไฟ, Wire, Wiring, Cables"
+
+#. STRINGS.STICKERNAMES.STICKER_A
+msgctxt "STRINGS.STICKERNAMES.STICKER_A"
+msgid "Blossoms"
+msgstr "ดอกไม้​บาน"
+
+#. STRINGS.STICKERNAMES.STICKER_B
+msgctxt "STRINGS.STICKERNAMES.STICKER_B"
+msgid "Love Bombs"
+msgstr "ระเบิด​รัก"
+
+#. STRINGS.STICKERNAMES.STICKER_C
+msgctxt "STRINGS.STICKERNAMES.STICKER_C"
+msgid "Good Feels"
+msgstr "ฟี​ล​ดี"
+
+#. STRINGS.STICKERNAMES.STICKER_D
+msgctxt "STRINGS.STICKERNAMES.STICKER_D"
+msgid "Adequate Job!"
+msgstr "ทำงาน​พอใช้ได้!"
+
+#. STRINGS.STICKERNAMES.STICKER_E
+msgctxt "STRINGS.STICKERNAMES.STICKER_E"
+msgid "Stars"
+msgstr "ดวงดาว"
+
+#. STRINGS.STICKERNAMES.STICKER_F
+msgctxt "STRINGS.STICKERNAMES.STICKER_F"
+msgid "Red Balloons"
+msgstr "ลูกโป่ง​แดง"
+
+#. STRINGS.STICKERNAMES.STICKER_G
+msgctxt "STRINGS.STICKERNAMES.STICKER_G"
+msgid "Bubblies"
+msgstr "ฟอง​ฟู่"
+
+#. STRINGS.STICKERNAMES.STICKER_H
+msgctxt "STRINGS.STICKERNAMES.STICKER_H"
+msgid "Yolks"
+msgstr "ไข่แดง"
+
+#. STRINGS.STICKERNAMES.STICKER_MERMAID
+msgctxt "STRINGS.STICKERNAMES.STICKER_MERMAID"
+msgid "Mermaids"
+msgstr "นาง​เงือก"
+
+#. STRINGS.STICKERNAMES.STICKER_MUSHROOM
+msgctxt "STRINGS.STICKERNAMES.STICKER_MUSHROOM"
+msgid "Fungi"
+msgstr "เห็ด​รา"
+
+#. STRINGS.STICKERNAMES.STICKER_PAPERPLANE
+msgctxt "STRINGS.STICKERNAMES.STICKER_PAPERPLANE"
+msgid "Paper Planes"
+msgstr "เครื่องบิน​กระดาษ"
+
+#. STRINGS.STICKERNAMES.STICKER_PLANT
+msgctxt "STRINGS.STICKERNAMES.STICKER_PLANT"
+msgid "Leafies"
+msgstr "ใบไม้​น้อย"
+
+#. STRINGS.STICKERNAMES.STICKER_PLANTPOT
+msgctxt "STRINGS.STICKERNAMES.STICKER_PLANTPOT"
+msgid "Jumping Joyas"
+msgstr "โจ​ยา​กระโดด"
+
+#. STRINGS.STICKERNAMES.STICKER_ROCKET
+msgctxt "STRINGS.STICKERNAMES.STICKER_ROCKET"
+msgid "Rock-Its"
+msgstr "จรวด​ร็อก"
+
+#. STRINGS.STICKERNAMES.STICKER_SPACEPET
+msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET"
+msgid "Morb Bots"
+msgstr "มอร์บบอท"
+
+#. STRINGS.STICKERNAMES.STICKER_SPACEPET2
+msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET2"
+msgid "Puft Bubbles"
+msgstr "ฟอง​พัฟต์"
+
+#. STRINGS.STICKERNAMES.STICKER_SPACEPET3
+msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET3"
+msgid "Pacu Bubbles"
+msgstr "ฟอง​ปา​คู"
+
+#. STRINGS.STICKERNAMES.STICKER_SPACEPET4
+msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET4"
+msgid "Pip Bots"
+msgstr "พิปบอท"
+
 #. STRINGS.STICKERNAMES.STICKER_SPACEPET5
 msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET5"
 msgid "Slicksters"
 msgstr "ส​ลิ​กสเตอร์"
+
+#. STRINGS.STICKERNAMES.STICKER_UNICORN
+msgctxt "STRINGS.STICKERNAMES.STICKER_UNICORN"
+msgid "Unicorns"
+msgstr "ยูนิคอร์น"
 
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
