@@ -3610,10 +3610,104 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Errand"
 msgstr "งาน​รื้อถอน"
 
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
+msgid "Building will be deconstructed once a Duplicant is available"
+msgstr "สิ่งก่อสร้าง​จะ​ถูก​รื้อถอน​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGDEMOLITION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDEMOLITION.NAME"
+msgid "Demolition Errand"
+msgstr "งาน​ทุบ​ทิ้ง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGDEMOLITION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDEMOLITION.TOOLTIP"
+msgid "Object will be permanently demolished once a Duplicant is available"
+msgstr "วัตถุ​จะ​ถูก​ทุบ​ทิ้ง​ถาวร​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
+msgid "Fishing Errand"
+msgstr "งาน​ตกปลา"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP"
+msgid "Spot will be fished once a Duplicant is available"
+msgstr "จุด​นี้​จะ​ถูก​ตกปลา​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
+msgid "Harvest Errand"
+msgstr "งาน​เก็บเกี่ยว"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
+msgid "Plant will be harvested once a Duplicant is available"
+msgstr "พืช​จะ​ถูก​เก็บเกี่ยว​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME"
+msgid "Repair Errand"
+msgstr "งาน​ซ่อมแซม"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP"
+msgid ""
+"Building will be repaired once a Duplicant is available\n"
+"Received damage from {DamageInfo}"
+msgstr ""
+"สิ่งก่อสร้าง​จะ​ถูก​ซ่อม​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง\n"
+"ได้รับ​ความเสียหาย​จาก {DamageInfo}"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
+msgid "Settings Errand"
+msgstr "งาน​ปรับ​การ​ตั้งค่า"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
+msgid "Settings will be changed once a Duplicant is available"
+msgstr "การ​ตั้งค่า​จะ​ถูก​เปลี่ยน​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
+msgid "Uproot Errand"
+msgstr "งาน​ถอนราก"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
+msgid "Plant will be uprooted once a Duplicant is available"
+msgstr "พืช​จะ​ถูก​ถอนราก​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
+msgid "Work Errand"
+msgstr "งาน​ใช้​เครื่อง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP"
+msgid "Building will be operated once a Duplicant is available"
+msgstr "สิ่งก่อสร้าง​จะ​ถูก​ใช้งาน​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PILOTNEEDED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PILOTNEEDED.NAME"
+msgid "Switching to Autopilot"
+msgstr "กำลัง​สลับ​เป็นระบบ​นำร่อง​อัตโนมัติ"
+
+#. STRINGS.BUILDING.STATUSITEMS.PILOTNEEDED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PILOTNEEDED.TOOLTIP"
+msgid "Autopilot will engage in {timeRemaining} if a Duplicant pilot does not assume control"
+msgstr "ระบบ​นำร่อง​อัตโนมัติ​จะ​เริ่ม​ทำงาน​ใน​อีก {timeRemaining} ถ้า​ไม่​มี​ดู​พลิ​แคนต์​นักบิน​มา​รับช่วง​ควบคุม"
+
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.NAME"
 msgid "Contents: {Contents}"
 msgstr "บรรจุ: {Contents}"
+
+#. STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP"
+msgid "This pipe is delivering {Contents}"
+msgstr "ท่อ​นี้​กำลัง​ส่ง {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS"
@@ -3625,40 +3719,428 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY"
 msgid "Empty"
 msgstr "ว่าง"
 
+#. STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.NAME"
+msgid "High Melt Risk"
+msgstr "เสี่ยง​ละลาย​สูง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.TOOLTIP"
+msgid "This pipe is in danger of melting at the current <style=\"KKeyword\">Temperature</style>"
+msgstr "ท่อ​นี้​เสี่ยง​จะ​ละลาย​ที่<style=\"KKeyword\">อุณหภูมิ</style>ปัจจุบัน"
+
+#. STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.NAME"
+msgid "Pending Toggle on Unpause"
+msgstr "รอ​สลับ​เมื่อ​เลิก​หยุด​เวลา"
+
+#. STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.TOOLTIP"
+msgid "This will be toggled when time is unpaused"
+msgstr "จะ​สลับ​เมื่อ​เวลา​กลับมา​เดิน​ต่อ"
+
+#. STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.NAME"
+msgid "Recharging Power Bank: {0}"
+msgstr "กำลัง​ชาร์จ​พาวเวอร์​แบงก์: {0}"
+
+#. STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.TOOLTIP"
+msgid ""
+"This building is currently charging a <style=\"KKeyword\">Power Bank</style> at {0}\n"
+"\n"
+"The <style=\"KKeyword\">Power Bank</style> will be dropped once charging is complete"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​กำลัง​ชาร์จ<style=\"KKeyword\">พาวเวอร์​แบงก์</style>ที่ {0}\n"
+"\n"
+"<style=\"KKeyword\">พาวเวอร์​แบงก์</style>จะ​ถู​กวาง​ลง​เมื่อ​ชาร์จ​เสร็จ"
+
+#. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME"
+msgid "Function Suspended"
+msgstr "ระงับ​การทำงาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
+msgid ""
+"This building has been toggled off\n"
+"Press <style=\"KKeyword\">Enable Building</style> {Hotkey/ToggleEnabled} to resume its use"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​ถูก​ปิด​อยู่\n"
+"กด<style=\"KKeyword\">เปิด​สิ่งก่อสร้าง</style> {Hotkey/ToggleEnabled} เพื่อ​ใช้งาน​ต่อ"
+
+#. STRINGS.BUILDING.STATUSITEMS.POWERLOOPDETECTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERLOOPDETECTED.NAME"
+msgid "Power Loop Detected"
+msgstr "ตรวจ​พบ​วงจร​ไฟ​วน​ลูป"
+
+#. STRINGS.BUILDING.STATUSITEMS.POWERLOOPDETECTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERLOOPDETECTED.TOOLTIP"
+msgid "A <style=\"KKeyword\">Transformer's</style> <style=\"KKeyword\">Power Output</style> has been connected back to its own <style=\"KKeyword\">Input</style>"
+msgstr "<style=\"KKeyword\">พลังงาน​ขาออก</style>ของ<style=\"KKeyword\">หม้อแปลง</style>ถูก​ต่อ​วน​กลับ​เข้า<style=\"KKeyword\">ขาเข้า</style>ของ​ตัวเอง"
+
+#. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
+msgid "Max Gas Pressure"
+msgstr "แรงดัน​ก๊าซ​เต็ม​ขีด"
+
+#. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.TOOLTIP"
+msgid ""
+"High ambient <style=\"KKeyword\">Gas Pressure</style> is preventing this building from emitting gas\n"
+"\n"
+"Reduce pressure by pumping <style=\"KKeyword\">Gas</style> away or clearing more space"
+msgstr ""
+"<style=\"KKeyword\">แรงดัน​ก๊าซ</style>รอบ ๆ สูง​จน​สิ่งก่อสร้าง​นี้​ปล่อย​ก๊าซ​ไม่​ได้\n"
+"\n"
+"ลด​แรงดัน​ด้วย​การสูบ<style=\"KKeyword\">ก๊าซ</style>ออก​ไป​หรือ​เคลียร์พื้นที่​เพิ่ม"
+
+#. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME"
+msgid "Average Flow Rate: {FlowRate}"
+msgstr "อัตรา​ไหล​เฉลี่ย: {FlowRate}"
+
+#. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP"
+msgid "This building is pumping an average volume of <style=\"produced\">{FlowRate}</style>"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​สูบ​เฉลี่ย <style=\"produced\">{FlowRate}</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME"
+msgid "Liquid Available: {Liquids}"
+msgstr "ของเหลว​ที่​มี: {Liquids}"
+
+#. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.TOOLTIP"
+msgid "This pumping station has access to: {Liquids}"
+msgstr "สถานี​สูบ​นี้​เข้าถึง: {Liquids}"
+
+#. STRINGS.BUILDING.STATUSITEMS.RADIATOR_ENERGY_CURRENT_EMISSION_RATE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RADIATOR_ENERGY_CURRENT_EMISSION_RATE.NAME"
+msgid "Currently Emitting: {ENERGY_RATE}"
+msgstr "กำลัง​ปล่อย: {ENERGY_RATE}"
+
+#. STRINGS.BUILDING.STATUSITEMS.RADIATOR_ENERGY_CURRENT_EMISSION_RATE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RADIATOR_ENERGY_CURRENT_EMISSION_RATE.TOOLTIP"
+msgid "Currently Emitting: {ENERGY_RATE}"
+msgstr "กำลัง​ปล่อย: {ENERGY_RATE}"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.NAME"
+msgid "No Delivery Destination"
+msgstr "ไม่​มี​ปลายทาง​ส่ง"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP"
+msgid "A delivery destination has not been set"
+msgstr "ยัง​ไม่​ได้​ตั้ง​ปลาย​ทางการ​ส่ง"
+
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME"
 msgid "Launch Path Blocked"
 msgstr "เส้นทาง​ปล่อย​ถูก​บัง"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP"
+msgid ""
+"There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>\n"
+"\n"
+"This launcher requires a clear path to launch payloads"
+msgstr ""
+"มี​สิ่งกีดขวาง​ใน​วิถี​การ​ยิง​ของ<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>นี้\n"
+"\n"
+"เครื่อง​ยิง​นี้​ต้อง​มี​เส้นทาง​โล่ง​จึง​จะ​ยิง​พัสดุ​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME"
+msgid "Cleaning Rails: {timeleft}"
+msgstr "กำลัง​ทำความสะอาด​ราง: {timeleft}"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.TOOLTIP"
+msgid "This building automatically performs routine maintenance every {x} launches"
+msgstr "สิ่งก่อสร้าง​นี้​จะ​บำรุงรักษา​ตัวเอง​ทุก {x} ครั้ง​ที่​ยิง"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.NAME"
+msgid "Ready To Unpack"
+msgstr "พร้อม​แกะ​ห่อ"
+
+#. STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.TOOLTIP"
+msgid ""
+"This payload has reached its destination and is ready to be unloaded\n"
+"\n"
+"It can be marked for unpacking manually, or automatically unpacked on arrival using a <link=\"RAILGUNPAYLOADOPENER\">Payload Opener</link>"
+msgstr ""
+"พัสดุ​นี้​ถึง​ปลายทาง​แล้ว​และ​พร้อม​ขน​ลง\n"
+"\n"
+"จะ​สั่ง​แกะ​ห่อ​เอง​ก็ได้ หรือ​ให้​แกะ​อัตโนมัติ​เมื่อ​มาถึง​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link>"
+
+#. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
+msgid "Storing: {Stored}"
+msgstr "กำลัง​เก็บ: {Stored}"
+
+#. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
+msgid "This box contains <b>{Stored}</b> of <style=\"KKeyword\">Food</style>"
+msgstr "กล่อง​นี้​มี<style=\"KKeyword\">อาหาร</style>อยู่ <b>{Stored}</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.NAME"
+msgid "Reactor Meltdown"
+msgstr "เตา​ปฏิกรณ์​หลอมละลาย"
+
+#. STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.TOOLTIP"
+msgid "This reactor is spilling dangerous radioactive waste and cannot be stopped"
+msgstr "เตา​ปฏิกรณ์​นี้​กำลัง​ทะลัก​กาก​กัมมันตรังสี​อันตราย​ออกมา​และ​หยุด​ไม่​ได้​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.NAME"
+msgid "Refuel Disabled"
+msgstr "ปิด​การ​เติม​เชื้อเพลิง"
+
+#. STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP"
+msgid "This building will not be refueled once its active fuel has been consumed"
+msgstr "สิ่งก่อสร้าง​นี้​จะ​ไม่​ถูก​เติม​เชื้อเพลิง​อีก​เมื่อ​เชื้อเพลิง​ที่​ใช้​อยู่​หมด"
+
+#. STRINGS.BUILDING.STATUSITEMS.REEFGENERATORIDLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REEFGENERATORIDLE.NAME"
+msgid "Awaiting flow"
+msgstr "รอ​การ​ไหล"
+
+#. STRINGS.BUILDING.STATUSITEMS.REEFGENERATORIDLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REEFGENERATORIDLE.TOOLTIP"
+msgid "This generator will resume working during the geyser's next <style=\"KKeyword\">Liquid</style> emission cycle"
+msgstr "เครื่อง​กำเนิด​ไฟ​นี้​จะ​กลับมา​ทำงาน​ใน​รอบ​ปล่อย<style=\"KKeyword\">ของเหลว</style>รอบ​ถัดไป​ของ​น้ำพุ"
+
+#. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME"
+msgid "Releasing Pressure"
+msgstr "กำลัง​ระบาย​แรงดัน"
+
+#. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP"
+msgid "Pressure buildup is being safely released"
+msgstr "แรงดัน​ที่​สะสม​กำลัง​ถู​กระบาย​ออก​อย่าง​ปลอดภัย"
+
+#. STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.NAME"
+msgid "Assembling Remote Worker"
+msgstr "กำลัง​ประกอบ​คนงาน​ระยะไกล"
+
+#. STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.TOOLTIP"
+msgid "This building is currently assembling a remote worker drone"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​ประกอบ​โดรน​คนงาน​ระยะไกล"
 
 #. STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.NAME"
 msgid "No Dock Assigned"
 msgstr "ยัง​ไม่​ได้​ผูก​แท่น"
 
+#. STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.TOOLTIP"
+msgid "This building must be assigned a <style=\"KKeyword\">Remote Worker Dock</style> in order to function"
+msgstr "สิ่งก่อสร้าง​นี้​ต้อง​ผูก​กับ<style=\"KKeyword\">ท่า​จอด​คนงาน​ระยะไกล</style>จึง​จะ​ทำงาน​ได้"
+
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.NAME"
 msgid "Skill-Required Operation"
 msgstr "งาน​ที่​ต้อง​ใช้​ทักษะ"
+
+#. STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP"
+msgid "Only Duplicants with the {Skills} Skill can operate this building"
+msgstr "เฉพาะ​ดู​พลิ​แคนต์​ที่​มี​ทักษะ {Skills} เท่านั้น​ที่​ใช้​สิ่งก่อสร้าง​นี้​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP_DLC3
+msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP_DLC3"
+msgid "Only Duplicants with the {Skills} Skill or {Boosters} can operate this building"
+msgstr "เฉพาะ​ดู​พลิ​แคนต์​ที่​มี​ทักษะ {Skills} หรือ {Boosters} เท่านั้น​ที่​ใช้​สิ่งก่อสร้าง​นี้​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
+msgid "Current <link=\"TECH\">Research</link>: {Tech}"
+msgstr "<link=\"TECH\">งานวิจัย</link>ปัจจุบัน: {Tech}"
+
+#. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
+msgid "Research produced at this station will be invested in {Tech}"
+msgstr "ผลวิจัย​จาก​สถานี​นี้​จะ​ถูก​ลงทุน​ไป​ที่ {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.NAME"
 msgid "Idle"
 msgstr "ว่างงาน"
 
+#. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.TOOLTIP"
+msgid "This port is idle because there is no rocket on the connected <style=\"KKeyword\">Rocket Platform</style>"
+msgstr "พอร์ต​นี้​ว่างงาน​เพราะ​ไม่​มี​จรวด​อยู่​บน<style=\"KKeyword\">ฐาน​ปล่อย​จรวด</style>ที่​ต่อ​อยู่"
+
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.NAME"
 msgid "Cargo Transfer Complete"
 msgstr "ขนถ่ายสินค้า​เสร็จ​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.TOOLTIP"
+msgid "The connected rocket has either reached max capacity for this resource type, or lacks appropriate storage modules"
+msgstr "จรวด​ที่​ต่อ​อยู่​เก็บ​ทรัพยากร​ชนิด​นี้​เต็ม​แล้ว หรือไม่​มี​โมดูล​เก็บ​ของ​ที่​เหมาะสม"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME"
+msgid "Loading Rocket"
+msgstr "กำลัง​บรรจุ​ขึ้น​จรวด"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP"
+msgid "Resources are being loaded from the local network into the rocket's storage"
+msgstr "กำลัง​บรรจุ​ทรัพยากร​จาก​เครือข่าย​ใน​พื้นที่​ขึ้น​ที่เก็บ​ของ​จรวด"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.NAME"
+msgid "Unloading Rocket"
+msgstr "กำลัง​ขน​ลง​จาก​จรวด"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.TOOLTIP"
+msgid "Resources are being unloaded from the rocket into the local network"
+msgstr "กำลัง​ขน​ทรัพยากร​จาก​จรวด​ลง​เครือข่าย​ใน​พื้นที่"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.NAME"
+msgid "Unloading Cargo"
+msgstr "กำลัง​ขน​สินค้า​ลง"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.TOOLTIP"
+msgid ""
+"Rocket cargo is being unloaded into the <style=\"KKeyword\">Rocket Platform</style>\n"
+"\n"
+"Loading of new cargo will begin once unloading is complete"
+msgstr ""
+"กำลัง​ขน​สินค้า​จาก​จรวด​ลง<style=\"KKeyword\">ฐาน​ปล่อย​จรวด</style>\n"
+"\n"
+"จะ​เริ่ม​บรรจุ​สินค้า​ใหม่​เมื่อ​ขน​ลง​เสร็จ"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.NAME"
+msgid "Loading Cargo"
+msgstr "กำลัง​บรรจุ​สินค้า"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.TOOLTIP"
+msgid ""
+"Cargo is being loaded onto the rocket from the <style=\"KKeyword\">Rocket Platform</style>\n"
+"\n"
+"Rocket cargo will be ready for launch once loading is complete"
+msgstr ""
+"กำลัง​บรรจุ​สินค้า​จาก<style=\"KKeyword\">ฐาน​ปล่อย​จรวด</style>ขึ้น​จรวด\n"
+"\n"
+"สินค้า​ใน​จรวด​จะ​พร้อม​ปล่อย​เมื่อ​บรรจุ​เสร็จ"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.NAME"
+msgid "Platform Ready"
+msgstr "ฐาน​พร้อม"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.TOOLTIP"
+msgid "All cargo operations are complete"
+msgstr "จัดการ​สินค้า​เสร็จ​หมด​แล้ว"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.NAME"
 msgid "Launch Checklist Incomplete"
 msgstr "เช็ก​ลิสต์​ก่อน​ปล่อย​ยัง​ไม่​ครบ"
 
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.TOOLTIP"
+msgid ""
+"Critical launch tasks uncompleted\n"
+"\n"
+"Refer to the Launch Checklist in the status panel"
+msgstr ""
+"ยัง​ทำงาน​สำคัญ​ก่อน​ปล่อย​ไม่​ครบ\n"
+"\n"
+"ดู​เช็ก​ลิสต์ (รายการ​ตรวจสอบ) ก่อน​ปล่อย​ใน​แผง​สถานะ"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.NAME"
+msgid "Parent Rocket: {0}"
+msgstr "จรวด​แม่: {0}"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.TOOLTIP"
+msgid "This module belongs to the rocket: <style=\"KKeyword\">{0}</style>"
+msgstr "โมดูล​นี้​เป็น​ของ​จรวด: <style=\"KKeyword\">{0}</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.NAME"
+msgid "Low Clearance: {distance} Tiles"
+msgstr "ระยะ​เพดาน​ต่ำ: {distance} ช่อง"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.TOOLTIP"
+msgid "Tall rockets may not be able to land on this <style=\"KKeyword\">Rocket Platform</style>"
+msgstr "จรวด​ที่สูง​เกินไป​อาจ​ลง​จอด​บน<style=\"KKeyword\">ฐาน​ปล่อย​จรวด</style>นี้​ไม่​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.NAME"
+msgid "Access: Restricted"
+msgstr "การ​เข้าถึง: จำกัด"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.TOOLTIP"
+msgid ""
+"This building cannot be operated while restricted, though it can be filled\n"
+"\n"
+"Controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
+msgstr ""
+"ใช้งาน​สิ่งก่อสร้าง​นี้​ไม่​ได้​ระหว่าง​ถูก​จำกัด แต่​ยัง​เติม​ของ​ได้\n"
+"\n"
+"ควบคุม​โดย<link=\"ROCKETCONTROLSTATION\">สถานี​ควบคุม​จรวด</link>"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.NAME"
+msgid "Access: Not Restricted"
+msgstr "การ​เข้าถึง: ไม่​จำกัด"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.TOOLTIP"
+msgid ""
+"This building's operation is not restricted\n"
+"\n"
+"Controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
+msgstr ""
+"การใช้งาน​สิ่งก่อสร้าง​นี้​ไม่​ถูก​จำกัด\n"
+"\n"
+"ควบคุม​โดย<link=\"ROCKETCONTROLSTATION\">สถานี​ควบคุม​จรวด</link>"
+
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETSTRANDED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETSTRANDED.NAME"
 msgid "Stranded"
 msgstr "ติดค้าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.ROCKETSTRANDED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETSTRANDED.TOOLTIP"
+msgid "This rocket has run out of fuel and cannot move"
+msgstr "จรวด​ลำ​นี้​น้ำมัน​หมดเกลี้ยง​และ​ขยับ​ไม่​ได้​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.SKILL_POINTS_AVAILABLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SKILL_POINTS_AVAILABLE.NAME"
+msgid "Skill Points Available"
+msgstr "มี​แต้ม​ทักษะ​ให้​ใช้"
+
+#. STRINGS.BUILDING.STATUSITEMS.SKILL_POINTS_AVAILABLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SKILL_POINTS_AVAILABLE.TOOLTIP"
+msgid "A Duplicant has <style=\"KKeyword\">Skill Points</style> available"
+msgstr "ดู​พลิ​แคนต์คน​หนึ่ง​มี<style=\"KKeyword\">แต้ม​ทักษะ</style>รอ​ใช้​อยู่"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLARPANELWATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLARPANELWATTAGE.NAME"
@@ -3670,55 +4152,765 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLARPANELWATTAGE.TOOLTIP"
 msgid "This panel is generating <style=\"produced\">{Wattage}</style> of <style=\"KKeyword\">Power</style>"
 msgstr "แผง​นี้​กำลังผลิต<style=\"KKeyword\">พลังงาน</style> <style=\"produced\">{Wattage}</style>"
 
+#. STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.NAME"
+msgid "Conveyor Rail Blocked"
+msgstr "ราง​ลำเลียง​อุดตัน"
+
+#. STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.TOOLTIP"
+msgid "Output <style=\"KKeyword\">Conveyor Rail</style> is blocked"
+msgstr "<style=\"KKeyword\">ราง​ลำเลียง</style>ขาออก​อุดตัน"
+
+#. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME"
+msgid "Conveyor Rail Backup"
+msgstr "ราง​ลำเลียง​ติดขัด"
+
+#. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP"
+msgid ""
+"This <style=\"KKeyword\">Conveyor Rail</style> cannot carry anymore material\n"
+"\n"
+"Remove material from the <style=\"KKeyword\">Conveyor Receptacle</style> to free space for more objects"
+msgstr ""
+"<style=\"KKeyword\">ราง​ลำเลียง</style>นี้​รับ​วัสดุ​เพิ่ม​ไม่​ไหว​แล้ว\n"
+"\n"
+"เอา​วัสดุ​ออกจาก<style=\"KKeyword\">ถาด​รับ​ปลาย​ราง</style>เพื่อ​เปิด​ที่​ให้​ของ​ชิ้น​อื่น"
+
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.NAME"
 msgid "No Line of Sight"
 msgstr "ไม่​มี​แนว​สายตา"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP"
+msgid ""
+"This building has no view of space\n"
+"\n"
+"To properly function, this building requires an unblocked view of space\n"
+"    • Efficiency: <b>{VISIBILITY}</b>"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​มองไม่เห็น​อวกาศ\n"
+"\n"
+"สิ่งก่อสร้าง​นี้​ต้อง​มองเห็น​อวกาศ​โดย​ไม่​มี​อะไร​บัง​จึง​จะ​ทำงาน​ได้​ถูกต้อง\n"
+"    • ประสิทธิภาพ: <b>{VISIBILITY}</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME"
+msgid "Reduced Visibility"
+msgstr "ทัศนวิสัย​ลดลง"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP"
+msgid ""
+"This building has a partially obstructed view of space\n"
+"\n"
+"To operate at maximum speed, this building requires an unblocked view of space\n"
+"    • Efficiency: <b>{VISIBILITY}</b>"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​มองเห็น​อวกาศ​ได้​แค่​บางส่วน\n"
+"\n"
+"สิ่งก่อสร้าง​นี้​ต้อง​มองเห็น​อวกาศ​โดย​ไม่​มี​อะไร​บัง​จึง​จะ​ทำงาน​เต็ม​ความเร็ว\n"
+"    • ประสิทธิภาพ: <b>{VISIBILITY}</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME"
+msgid "Spacecraft ready to land"
+msgstr "ยานอวกาศ​พร้อม​ลง​จอด"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NOTIFICATION
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NOTIFICATION"
+msgid "Space mission complete"
+msgstr "ภารกิจ​อวกาศ​เสร็จสิ้น"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NOTIFICATION_TOOLTIP"
+msgid "Spacecrafts have completed their missions"
+msgstr "ยานอวกาศ​ทำ​ภารกิจ​เสร็จ​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.TOOLTIP"
+msgid "A spacecraft is ready to land"
+msgstr "ยานอวกาศ​ลำ​หนึ่ง​พร้อม​ลง​จอด"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACEPOIHARVESTING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACEPOIHARVESTING.NAME"
+msgid "Drilling {0}: {1}"
+msgstr "กำลัง​เจาะ {0}: {1}"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPACEPOIHARVESTING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACEPOIHARVESTING.TOOLTIP"
+msgid ""
+"This <style=\"KKeyword\">Drillcone</style> is breaking up space debris into harvestable resources\n"
+"\n"
+"Harvestable resources can be retrieved by a a rocket equipped with a <style=\"KKeyword\">Cargo Bay</style> module"
+msgstr ""
+"<style=\"KKeyword\">หัว​สว่าน</style>นี้​กำลัง​ทุบ​เศษ​ซาก​อวกาศ​ให้​กลายเป็น​ทรัพยากร​ที่เก็บ​ได้\n"
+"\n"
+"เก็บ​ทรัพยากร​ได้​ด้วย​จรวด​ที่​ติด<style=\"KKeyword\">ช่อง​เก็บ​สินค้า</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME"
+msgid "Contents: {0}"
+msgstr "บรรจุ: {0}"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.NAME"
+msgid "Spice Grinder accepts mutant seeds"
+msgstr "เครื่อง​บด​เครื่องเทศ​รับ​เมล็ด​กลายพันธุ์"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.TOOLTIP"
+msgid "This spice grinder is allowed to use <style=\"KKeyword\">Mutant Seeds</style> as recipe ingredients"
+msgstr "เครื่อง​บด​เครื่องเทศ​นี้​ใช้<style=\"KKeyword\">เมล็ด​กลายพันธุ์</style>เป็น​วัตถุดิบ​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERNOSPICE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERNOSPICE.NAME"
+msgid "No Spice Selected"
+msgstr "ยัง​ไม่​ได้​เลือก​เครื่องเทศ"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERNOSPICE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERNOSPICE.TOOLTIP"
 msgid "Select a recipe to begin fabrication"
 msgstr "เลือก​สูตร​เพื่อ​เริ่ม​ผลิต"
 
+#. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
+msgid "Storing: {Stored} / {Capacity} {Units}"
+msgstr "กำลัง​เก็บ: {Stored} / {Capacity} {Units}"
+
+#. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP"
+msgid "This container is storing <b>{Stored}{Units}</b> of a maximum <b>{Capacity}{Units}</b>"
+msgstr "ภาชนะ​นี้​เก็บ​อยู่ <b>{Stored}{Units}</b> จาก​สูงสุด <b>{Capacity}{Units}</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.STORAGEUNREACHABLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGEUNREACHABLE.NAME"
+msgid "Unreachable Storage"
+msgstr "ที่เก็บ​เข้า​ไม่​ถึง"
+
+#. STRINGS.BUILDING.STATUSITEMS.STORAGEUNREACHABLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGEUNREACHABLE.TOOLTIP"
+msgid "Duplicants cannot reach this storage unit"
+msgstr "ดู​พลิ​แคนต์​เดิน​ไป​ถึง​ที่เก็บ​นี้​ไม่​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME"
+msgid "Charge Available: {0}/{1}"
+msgstr "ประจุ​ที่​มี: {0}/{1}"
+
+#. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP"
+msgid ""
+"This building has <b>{0}</b> of stored <style=\"KKeyword\">Power</style>\n"
+"\n"
+"It consumes <style=\"consumed\">{2}</style> per use"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​มี<style=\"KKeyword\">พลังงาน</style>สำรอง​อยู่ <b>{0}</b>\n"
+"\n"
+"ใช้ <style=\"consumed\">{2}</style> ต่อ​ครั้ง"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME"
+msgid "Current Status: Charging Suit"
+msgstr "สถานะ: กำลัง​ชาร์จ​ชุด"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP"
+msgid "This <style=\"KKeyword\">Suit</style> is docked and refueling"
+msgstr "<style=\"KKeyword\">ชุด</style>นี้​จอด​อยู่​และ​กำลัง​เติม​เชื้อเพลิง"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME"
+msgid "Current Status: Full Fueled"
+msgstr "สถานะ: เติมเต็ม​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP"
+msgid "This suit is fully refueled and ready for use"
+msgstr "ชุด​นี้​เติมเต็ม​แล้ว​และ​พร้อม​ใช้งาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME"
+msgid "Current Status: Needs Configuration"
+msgstr "สถานะ: ต้อง​ตั้งค่า"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP"
+msgid "Set this dock to store a suit or leave it empty"
+msgstr "ตั้ง​ให้​แท่น​นี้​เก็บ​ชุด​ไว้ หรือ​ปล่อย​ว่าง​ไว้"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_COOLANT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_COOLANT.NAME"
+msgid "Current Status: No Coolant"
+msgstr "สถานะ: ไม่​มี​น้ำ​หล่อ​เย็น"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_COOLANT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_COOLANT.TOOLTIP"
+msgid "This dock does not contain enough <link=\"WATER\">Water</link> to refill a <style=\"KKeyword\">Suit</style>"
+msgstr "แท่น​นี้​มี<link=\"WATER\">น้ำ</link>ไม่​พอ​เติม<style=\"KKeyword\">ชุด</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_FUEL.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_FUEL.NAME"
+msgid "Current Status: No Fuel"
+msgstr "สถานะ: ไม่​มี​เชื้อเพลิง"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_FUEL.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_FUEL.TOOLTIP"
+msgid "This dock does not contain enough <link=\"PETROLEUM\">Petroleum</link> to refill a <style=\"KKeyword\">Suit</style>"
+msgstr "แท่น​นี้​มี<link=\"PETROLEUM\">ปิโตรเลียม</link>ไม่​พอ​เติม<style=\"KKeyword\">ชุด</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME"
+msgid "Current Status: No Oxygen"
+msgstr "สถานะ: ไม่​มี​ออกซิเจน"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP"
+msgid "This dock does not contain enough <link=\"OXYGEN\">Oxygen</link> to refill a <style=\"KKeyword\">Suit</style>"
+msgstr "แท่น​นี้​มี<link=\"OXYGEN\">ออกซิเจน</link>ไม่​พอ​เติม<style=\"KKeyword\">ชุด</style>"
+
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME"
 msgid "Current Status: Offline"
 msgstr "สถานะ​ปัจจุบัน: ออฟไลน์"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP"
+msgid "This dock requires <style=\"KKeyword\">Power</style>"
+msgstr "แท่น​นี้​ต้อง​ใช้<style=\"KKeyword\">พลังงาน</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME"
+msgid "Current Status: Empty"
+msgstr "สถานะ: ว่างเปล่า"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP"
+msgid "This dock is ready to receive a <style=\"KKeyword\">Suit</style>, either by manual delivery or from a Duplicant returning the suit they're wearing"
+msgstr "แท่น​นี้​พร้อม​รับ<style=\"KKeyword\">ชุด</style> จะ​ให้​คน​เอา​มา​ส่ง หรือ​ให้​ดู​พลิ​แคนต์​ที่​ใส่​อยู่​ถอด​คืน​ก็ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME"
+msgid "Current Status: Awaiting Delivery"
+msgstr "สถานะ: รอ​ส่ง​ของ"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP"
+msgid "Waiting for a Duplicant to deliver a <style=\"KKeyword\">Suit</style>"
+msgstr "รอ​ดู​พลิ​แคนต์​เอา<style=\"KKeyword\">ชุด</style>มา​ส่ง"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME"
+msgid "Not Configured"
+msgstr "ยัง​ไม่​ได้​ตั้งค่า"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.TOOLTIP"
+msgid "Dock settings not configured"
+msgstr "ยัง​ไม่​ได้​ตั้งค่า​แท่น"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME"
+msgid "Clearance: Always Permitted"
+msgstr "สิทธิ์​ผ่าน: อนุญาต​เสมอ"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.TOOLTIP"
+msgid ""
+"Suited Duplicants may pass even if there is no room to store their <style=\"KKeyword\">Suits</style>\n"
+"\n"
+"When all available docks are full, Duplicants will unequip their <style=\"KKeyword\">Suits</style> and drop them on the floor"
+msgstr ""
+"ดู​พลิ​แคนต์​ที่​ใส่​ชุด​ผ่าน​ได้​แม้​ไม่​มี​ที่เก็บ<style=\"KKeyword\">ชุด</style>\n"
+"\n"
+"ถ้า​แท่น​เต็ม​หมด ดู​พลิ​แคนต์​จะ​ถอด<style=\"KKeyword\">ชุด</style>ทิ้ง​ไว้​บน​พื้น (มารยาท​แย่​สุด ๆ)"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME"
+msgid "Clearance: Vacancy Only"
+msgstr "สิทธิ์​ผ่าน: เมื่อ​มี​ที่ว่าง​เท่านั้น"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP"
+msgid "Suited Duplicants may pass only if there is room in a <style=\"KKeyword\">Dock</style> to store their <style=\"KKeyword\">Suit</style>"
+msgstr "ดู​พลิ​แคนต์​ที่​ใส่​ชุด​ผ่าน​ได้​เฉพาะ​เมื่อ​มี<style=\"KKeyword\">แท่น</style>ว่าง​ให้​เก็บ<style=\"KKeyword\">ชุด</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME"
+msgid "Invalid Checkpoint"
+msgstr "ด่าน​ตรวจ​ไม่​ถูกต้อง"
+
+#. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.TOOLTIP"
+msgid ""
+"This building has been built on the wrong side of a <link=\"CHECKPOINT\">Duplicant Checkpoint</link>\n"
+"\n"
+"Docks must be placed beside a <link=\"CHECKPOINT\">Duplicant Checkpoint</link>, opposite the side the checkpoint faces"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​สร้าง​ผิด​ฝั่ง​ของ<link=\"CHECKPOINT\">ด่าน​ตรวจดู​พลิ​แคนต์</link>\n"
+"\n"
+"ต้อง​วาง​แท่น​ไว้​ข้าง<link=\"CHECKPOINT\">ด่าน​ตรวจดู​พลิ​แคนต์</link> ฝั่ง​ตรงข้าม​กับ​ทิศ​ที่​ด่าน​หันไป"
+
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME"
+msgid "Active"
+msgstr "ทำงาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP"
+msgid "This switch is currently toggled <b>On</b>"
+msgstr "สวิตช์​นี้​ถูก​สลับ​เป็น<b>เปิด</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME"
 msgid "Inactive"
 msgstr "ไม่​ทำงาน"
 
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP"
+msgid "This switch is currently toggled <b>Off</b>"
+msgstr "สวิตช์​นี้​ถูก​สลับ​เป็น<b>ปิด</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTINSUFFICIENT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTINSUFFICIENT.NAME"
+msgid "Insufficient Tanning Light"
+msgstr "แสง​อาบแดด​ไม่​พอ"
+
+#. STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTINSUFFICIENT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTINSUFFICIENT.TOOLTIP"
+msgid "The <link=\"LIGHT\">Light</link> here is not bright enough for that Sunny Day feeling"
+msgstr "<link=\"LIGHT\">แสง</link>ตรงนี้​ไม่​สว่าง​พอให้​ฟี​ล​วัน​แดด​จ้า"
+
+#. STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTSUFFICIENT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTSUFFICIENT.NAME"
+msgid "Tanning Light Available"
+msgstr "มี​แสง​อาบแดด"
+
+#. STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTSUFFICIENT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TANNINGLIGHTSUFFICIENT.TOOLTIP"
+msgid "There is sufficient <link=\"LIGHT\">Light</link> here to create pleasing skin crisping"
+msgstr "<link=\"LIGHT\">แสง</link>ตรงนี้​พอ​จะ​ย่าง​ผิว​ให้​กรอบ​กำลังดี"
+
+#. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.NAME"
+msgid "Babbling to no one."
+msgstr "พึมพำ​คนเดียว"
+
+#. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.TOOLTIP"
+msgid "{Duplicant} just needed to vent to into the void."
+msgstr "{Duplicant} แค่​อยาก​ระบาย​ใส่​ความว่างเปล่า"
+
+#. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO"
+msgid "Talking to {Duplicant} on {Asteroid}"
+msgstr "คุย​กับ {Duplicant} บน {Asteroid}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO_NUM
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO_NUM"
+msgid "Talking to {0} friends."
+msgstr "คุย​กับ​เพื่อน {0} คน"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.NAME"
+msgid "Too few Printing Pods {progress}"
+msgstr "พ็อด​พิมพ์​ร่าง​ไม่​พอ {progress}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.TOOLTIP"
+msgid "To open the Temporal Tear, this device relies on a network of activated Printing Pods {progress}"
+msgstr "การ​จะ​เปิด​รอยแยก​กาลเวลา อุปกรณ์​นี้​ต้อง​พึ่ง​เครือข่าย​พ็อด​พิมพ์​ร่าง​ที่​เปิด​ใช้งาน​แล้ว {progress}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME"
+msgid "Line of Sight: Obstructed"
+msgstr "แนว​สายตา: ถูก​บัง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.TOOLTIP"
+msgid "This device needs a clear view of space to operate"
+msgstr "อุปกรณ์​นี้​ต้อง​มองเห็น​อวกาศ​ชัด ๆ จึง​จะ​ทำงาน​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME"
+msgid "Temporal Tear not revealed"
+msgstr "ยัง​ไม่​พบ​รอยแยก​กาลเวลา"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP"
+msgid "This machine is meant to target something in space, but the target has not yet been revealed"
+msgstr "เครื่อง​นี้​มี​ไว้​เล็ง​เป้าหมาย​ใน​อวกาศ แต่​ยัง​ไม่​พบ​เป้าหมาย"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.NAME"
+msgid "Charging Progress: {progress}"
+msgstr "ความคืบหน้า​การ​ชาร์จ: {progress}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP"
+msgid ""
+"This device must be charged with a high number of Radbolts\n"
+"\n"
+"Operation can commence once this device is fully charged"
+msgstr ""
+"อุปกรณ์​นี้​ต้อง​ชาร์จ​ด้วย​เร​ด​โบ​ลต์ (ลำ​อนุภาค​รังสี) จำนวนมาก\n"
+"\n"
+"เริ่ม​ทำงาน​ได้​เมื่อ​ชาร์จ​เต็ม"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION"
+msgid "Temporal Tear Opener fully charged"
+msgstr "เครื่อง​เปิด​รอยแยก​กาลเวลา​ชาร์จ​เต็ม​แล้ว"
+
+#. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION_TOOLTIP"
+msgid "Push the red button to activate"
+msgstr "กดปุ่ม​แดง​เพื่อ​เปิด​ใช้งาน (กด​เลย รู้​ว่า​อยาก​กด)"
+
+#. STRINGS.BUILDING.STATUSITEMS.TINKERING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.NAME"
+msgid "Tinkering: {0}"
+msgstr "กำลัง​ประดิษฐ์: {0}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
+msgid "This Duplicant is creating {0} to use somewhere else"
+msgstr "ดู​พลิ​แคนต์คน​นี้​กำลัง​สร้าง {0} ไว้​ใช้​ที่อื่น"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
+msgid "{FlushesRemaining} \"Visits\" Remaining"
+msgstr "เหลือ \"การเยือน\" อีก {FlushesRemaining} ครั้ง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
+msgid "{FlushesRemaining} more Duplicants can use this amenity before it requires maintenance"
+msgstr "ดู​พลิ​แคนต์​ใช้​สิ่งอำนวยความสะดวก​นี้​ได้​อีก {FlushesRemaining} คน​ก่อน​ต้อง​บำรุงรักษา"
+
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
 msgid "Requires Emptying"
 msgstr "ต้อง​เท​ออก"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
+msgid ""
+"This amenity cannot be used while full\n"
+"\n"
+"Emptying it will produce <link=\"TOXICSAND\">Polluted Dirt</link>"
+msgstr ""
+"ใช้​สิ่งอำนวยความสะดวก​นี้​ไม่​ได้​ระหว่าง​เต็ม\n"
+"\n"
+"การ​เท​ออกจะ​ได้<link=\"TOXICSAND\">ดิน​ปนเปื้อน</link>"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.NAME"
+msgid "Unreachable restroom"
+msgstr "ห้องน้ำ​เข้า​ไม่​ถึง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP"
+msgid "Recuperating Duplicants must have <style=\"KKeyword\">Toilets</style> available within <b>{0}</b> cells"
+msgstr "ดู​พลิ​แคนต์​ที่​กำลัง​พักฟื้น​ต้อง​มี<style=\"KKeyword\">ห้องน้ำ</style>อยู่​ภายใน <b>{0}</b> ช่อง"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME"
 msgid "Too Cold"
 msgstr "เย็น​เกินไป"
 
+#. STRINGS.BUILDING.STATUSITEMS.TOO_COLD.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.TOOLTIP"
+msgid "Either this building or its surrounding environment is too cold to operate"
+msgstr "สิ่งก่อสร้าง​นี้​หรือ​สภาพแวดล้อม​รอบ ๆ เย็น​เกิน​กว่า​จะ​ทำงาน​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NAME"
+msgid "Top Priority"
+msgstr "ความสำคัญ​สูงสุด"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NOTIFICATION_NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NOTIFICATION_NAME"
+msgid "Yellow Alert"
+msgstr "เตือนภัย​สีเหลือง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NOTIFICATION_TOOLTIP"
+msgid "The following errands have been set to <style=\"KKeyword\">Top Priority</style>:"
+msgstr "งาน​ต่อไปนี้​ถูก​ตั้ง​เป็น<style=\"KKeyword\">ความสำคัญ​สูงสุด</style>:"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.TOOLTIP"
+msgid ""
+"This errand has been set to <style=\"KKeyword\">Top Priority</style>\n"
+"\n"
+"The colony will be in <style=\"KKeyword\">Yellow Alert</style> until this task is completed"
+msgstr ""
+"งาน​นี้​ถูก​ตั้ง​เป็น<style=\"KKeyword\">ความสำคัญ​สูงสุด</style>\n"
+"\n"
+"อาณานิคม​จะ​อยู่​ใน​สถานะ<style=\"KKeyword\">เตือนภัย​สีเหลือง</style>จนกว่า​งาน​นี้​จะ​เสร็จ"
+
+#. STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.NAME"
+msgid "Smooth Ride Ready"
+msgstr "พร้อม​ไถล​ลื่น​ปรื๊ด"
+
+#. STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.TOOLTIP"
+msgid ""
+"This building is stocked with speed-boosting <link=\"MILKFAT\">Brackwax</link>\n"
+"\n"
+"{0} per use ({1} remaining)"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​มี<link=\"MILKFAT\">แบร็กแวกซ์</link>เร่งความเร็ว​อยู่\n"
+"\n"
+"{0} ต่อ​ครั้ง (เหลือ {1})"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.NAME"
+msgid "Active"
+msgstr "ทำงาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP"
+msgid "This turbine is running at <b>{0}RPM</b>"
+msgstr "กังหัน​นี้​หมุน​อยู่​ที่ <b>{0}RPM</b>"
+
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE_WATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE_WATTAGE.NAME"
 msgid "Current Wattage: {Wattage}"
 msgstr "กำลัง​วัตต์​ตอนนี้: {Wattage}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE_WATTAGE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE_WATTAGE.TOOLTIP"
+msgid ""
+"This turbine is generating <style=\"produced\">{Wattage}</style> of <style=\"KKeyword\">Power</style>\n"
+"\n"
+"It is running at <b>{Efficiency}</b> of full capacity\n"
+"\n"
+"Increase {Src_Element} <style=\"KKeyword\">Mass</style> and <style=\"KKeyword\">Temperature</style> to improve output"
+msgstr ""
+"กังหัน​นี้​กำลังผลิต<style=\"KKeyword\">พลังงาน</style> <style=\"produced\">{Wattage}</style>\n"
+"\n"
+"ทำงาน​อยู่​ที่ <b>{Efficiency}</b> ของ​กำลัง​เต็ม\n"
+"\n"
+"เพิ่ม<style=\"KKeyword\">มวล</style>และ<style=\"KKeyword\">อุณหภูมิ</style>ของ {Src_Element} เพื่อให้​ผลิต​ได้​มากขึ้น"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.NAME"
+msgid "All Inputs Blocked"
+msgstr "ช่อง​รับ​ทั้งหมด​ถูก​บัง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.TOOLTIP"
+msgid ""
+"This turbine's <style=\"KKeyword\">Input Vents</style> are blocked, so it can't intake any <link=\"STEAM\">Steam</link>.\n"
+"\n"
+"The <style=\"KKeyword\">Input Vents</style> are located directly below the foundation <style=\"KKeyword\">Tile</style> this building is resting on."
+msgstr ""
+"<style=\"KKeyword\">ช่อง​รับ​ไอ</style>ของ​กังหัน​นี้​ถูก​บัง เลย​ดูด<link=\"STEAM\">ไอ​น้ำ</link>เข้า​ไม่​ได้\n"
+"\n"
+"<style=\"KKeyword\">ช่อง​รับ​ไอ</style>อยู่​ใต้<style=\"KKeyword\">แผ่น​พื้น</style>ฐาน​ที่​สิ่งก่อสร้าง​นี้​ตั้งอยู่​พอดี"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME"
 msgid "Output Blocked"
 msgstr "ทางออก​อุดตัน"
 
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP"
+msgid "A blocked <style=\"KKeyword\">Output</style> has stopped this turbine from functioning"
+msgstr "<style=\"KKeyword\">ทางออก</style>ที่​อุดตัน​ทำให้​กังหัน​นี้​หยุด​ทำงาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME"
+msgid "Not Enough {Src_Element}"
+msgstr "{Src_Element} ไม่​พอ"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
+msgid "The {Src_Element} present below this turbine must be at least <b>{Min_Mass}</b> in order to turn the turbine"
+msgstr "{Src_Element} ใต้​กังหัน​นี้​ต้อง​มี​อย่าง​น้อย <b>{Min_Mass}</b> จึง​จะ​หมุน​กังหัน​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME"
+msgid "{Src_Element} Temperature Below {Active_Temperature}"
+msgstr "อุณหภูมิ {Src_Element} ต่ำกว่า {Active_Temperature}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
+msgid "This turbine requires {Src_Element} that is a minimum of <b>{Active_Temperature}</b> in order to produce power"
+msgstr "กังหัน​นี้​ต้อง​ใช้ {Src_Element} ที่​อุณหภูมิ​อย่าง​น้อย <b>{Active_Temperature}</b> จึง​จะ​ผลิต​พลังงาน​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.NAME"
+msgid "{Blocked}/{Total} Inputs Blocked"
+msgstr "ช่อง​รับ​ถูก​บัง {Blocked}/{Total}"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.TOOLTIP"
+msgid "<b>{Blocked}</b> of this turbine's <b>{Total}</b> inputs have been blocked, resulting in reduced throughput"
+msgstr "ช่อง​รับ <b>{Blocked}</b> จาก <b>{Total}</b> ช่อง​ของ​กังหัน​นี้​ถูก​บัง ทำให้​ปริมาณ​ที่​ผ่าน​ได้​ลดลง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
+msgid "Spinning Up"
+msgstr "กำลัง​เร่ง​รอบ"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
+msgid ""
+"This turbine is currently spinning up\n"
+"\n"
+"Spinning up allows a turbine to continue running for a short period if the pressure it needs to run becomes unavailable"
+msgstr ""
+"กังหัน​นี้​กำลัง​เร่ง​รอบ\n"
+"\n"
+"การ​เร่ง​รอบ​ทำให้​กังหัน​หมุน​ต่อ​ได้​อีก​พัก​หนึ่ง​ถ้า​แรงดัน​ที่​ต้อง​ใช้​หาย​ไป"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.NAME"
+msgid "Turbine Too Hot"
+msgstr "กังหัน​ร้อน​เกินไป"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.TOOLTIP"
+msgid "This turbine must be below <b>{Overheat_Temperature}</b> to properly process {Src_Element} into {Dest_Element}"
+msgstr "กังหัน​นี้​ต้อง​เย็น​กว่า <b>{Overheat_Temperature}</b> จึง​จะ​แปลง {Src_Element} เป็น {Dest_Element} ได้​ถูกต้อง"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBOMODE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBOMODE.NAME"
+msgid "Turbo Mode On"
+msgstr "เปิด​โหมด​เทอร์โบ"
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBOMODE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBOMODE.TOOLTIP"
+msgid ""
+"This building is operating at maximum power\n"
+"\n"
+"    • Power consumption: <b>{0}</b>\n"
+"    • Heat production: <b>{1}</b>\n"
+"    • Boiling the surrounding liquid"
+msgstr ""
+"สิ่งก่อสร้าง​นี้​ทำงาน​เต็มกำลัง​สุด ๆ\n"
+"\n"
+"    • การ​ใช้​พลังงาน: <b>{0}</b>\n"
+"    • การผลิต​ความร้อน: <b>{1}</b>\n"
+"    • ต้ม​ของเหลว​รอบ ๆ ให้​เดือด"
+
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
 msgid "Unassigned"
 msgstr "ยัง​ไม่​มอบหมาย"
 
+#. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP"
+msgid "Assign a Duplicant to use this amenity"
+msgstr "กำหนด​ดู​พลิ​แคนต์​ให้​ใช้​สิ่งอำนวยความสะดวก​นี้"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME"
+msgid "Under Construction"
+msgstr "กำลัง​ก่อสร้าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
+msgid "This building is currently being built"
+msgstr "สิ่งก่อสร้าง​นี้​กำลัง​ถูก​สร้าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
+msgid "Construction Errand"
+msgstr "งานก่อสร้าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
+msgid "Building will be constructed once a Duplicant is available"
+msgstr "สิ่งก่อสร้าง​จะ​ถูก​สร้าง​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME"
+msgid "Low Air Pressure"
+msgstr "ความดัน​อากาศ​ต่ำ"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
+msgid "A minimum atmospheric pressure of <b>{TargetPressure}</b> is needed for this building to operate"
+msgstr "สิ่งก่อสร้าง​นี้​ต้อง​มี​ความดัน​บรรยากาศ​อย่าง​น้อย <b>{TargetPressure}</b> จึง​จะ​ทำงาน​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLACTIVE.NAME"
+msgid "Drilling"
+msgstr "กำลัง​ขุดเจาะ"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLACTIVE.TOOLTIP"
+msgid ""
+"Unblocking an underwater vent\n"
+"\n"
+"Debris will be harvestable when drilling is complete"
+msgstr ""
+"กำลัง​ขุด​เปิดช่อง​พ่น​ใต้​น้ำ\n"
+"\n"
+"เก็บ​เศษ​ซาก​ได้​เมื่อ​ขุดเจาะ​เสร็จ"
+
 #. STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLIDLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLIDLE.NAME"
 msgid "Idle"
 msgstr "ว่างงาน"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLIDLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERWATERDRILLIDLE.TOOLTIP"
+msgid ""
+"This drill is on standby\n"
+"\n"
+"It will become active when the underwater vent is blocked"
+msgstr ""
+"สว่าน​นี้​อยู่​ใน​โหมด​สแตนด์​บาย\n"
+"\n"
+"จะ​เริ่ม​ทำงาน​เมื่อ​ช่อง​พ่น​ใต้​น้ำ​ถูก​อุด"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
+msgid "Out of Order"
+msgstr "ใช้งาน​ไม่​ได้"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
+msgid "This amenity requires maintenance"
+msgstr "สิ่งอำนวยความสะดวก​นี้​ต้อง​บำรุงรักษา"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.NAME"
+msgid "Out of Order: Gunk"
+msgstr "ใช้งาน​ไม่​ได้: คราบ​เหนียว"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.TOOLTIP"
+msgid ""
+"Someone dumped <link=\"LIQUIDGUNK\">Gunk</link> here instead of in a <link=\"GUNKEMPTIER\">Gunk Extractor</link>\n"
+"\n"
+"This amenity requires maintenance"
+msgstr ""
+"มี​ใคร​สัก​คน​เท<link=\"LIQUIDGUNK\">คราบ​เหนียว</link>ทิ้ง​ที่นี่​แทนที่จะ​เท​ใน<link=\"GUNKEMPTIER\">เครื่อง​ดูด​คราบ​เหนียว</link>\n"
+"\n"
+"สิ่งอำนวยความสะดวก​นี้​ต้อง​บำรุงรักษา"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
+msgid "Max Flow Rate: {MaxFlow}"
+msgstr "อัตรา​ไหล​สูงสุด: {MaxFlow}"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP"
+msgid "This valve is allowing flow at a volume of <b>{MaxFlow}</b>"
+msgstr "วาล์ว​นี้​ปล่อย​ให้​ไหล​ที่​ปริมาณ <b>{MaxFlow}</b>"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
+msgid "Requested Flow Rate: {QueuedMaxFlow}"
+msgstr "อัตรา​ไหล​ที่​ขอ: {QueuedMaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME"
@@ -21299,6 +22491,11 @@ msgstr "    • ถูก​ฝัง​จม"
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.NAME"
 msgid "Entombed"
 msgstr "ถูก​ฝัง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.NAME"
+msgid "Work Errand"
+msgstr "งาน​ใช้​เครื่อง"
 
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.UNLOCK_POPUP.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.UNLOCK_POPUP.BUTTON"
@@ -55191,6 +56388,16 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
 msgstr "กำลัง​พักฟื้น"
 
+#. STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.NAME"
+msgid "Reactor Meltdown"
+msgstr "เตา​ปฏิกรณ์​หลอมละลาย"
+
+#. STRINGS.MISC.NOTIFICATIONS.YELLOWALERT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.YELLOWALERT.NAME"
+msgid "Yellow Alert"
+msgstr "เตือนภัย​สีเหลือง"
+
 #. STRINGS.MISC.PLACERS.DIGPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.DIGPLACER.NAME"
 msgid "Dig"
@@ -55225,6 +56432,26 @@ msgstr "เล็กน้อย"
 msgctxt "STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.NAME"
 msgid "Awaiting Delivery"
 msgstr "รอ​การ​ส่ง"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
+msgid "Harvest Errand"
+msgstr "งาน​เก็บเกี่ยว"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
+msgid "Plant will be harvested once a Duplicant is available"
+msgstr "พืช​จะ​ถูก​เก็บเกี่ยว​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
+msgid "Uproot Errand"
+msgstr "งาน​ถอนราก"
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
+msgid "Plant will be uprooted once a Duplicant is available"
+msgstr "พืช​จะ​ถูก​ถอนราก​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
