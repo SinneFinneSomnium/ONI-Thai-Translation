@@ -45793,45 +45793,1542 @@ msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.UTILIZE
 msgid "Complete Inaugural Run"
 msgstr "เดินเครื่อง​รอบ​ปฐมฤกษ์"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_NAME"
+msgid "Geo Vent Entombed"
+msgstr "ช่อง​ระบาย​ธรณี​ถูก​ฝัง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_TOOLTIP"
+msgid ""
+"One or more connected geo vents are currently entombed\n"
+"\n"
+"All connected geo vents must be available in order for this building to function\n"
+"\n"
+"Click here to show this vent"
+msgstr ""
+"ช่อง​ระบาย​ธรณี​ที่​เชื่อมต่อ​อยู่​อย่าง​น้อย​หนึ่ง​ช่อง​ถูก​ฝัง​อยู่\n"
+"\n"
+"ช่อง​ระบาย​ธรณี​ที่​เชื่อมต่อ​ทุก​ช่อง​ต้อง​พร้อม​ใช้งาน สิ่งก่อสร้าง​นี้​ถึง​จะ​ทำงาน​ได้\n"
+"\n"
+"คลิก​ที่นี่​เพื่อ​แสดง​ช่อง​ระบาย​นี้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_NAME"
+msgid "No Geo Vents Connected"
+msgstr "ไม่​มี​ช่อง​ระบาย​ธรณี​เชื่อมต่อ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_TOOLTIP"
+msgid "This building must be connected to at least one geo vent in order to function"
+msgstr "สิ่งก่อสร้าง​นี้​ต้อง​เชื่อมต่อ​กับ​ช่อง​ระบาย​ธรณี​อย่าง​น้อย​หนึ่ง​ช่อง​ถึง​จะ​ทำงาน​ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_NAME"
+msgid "Geo Vent Unavailable"
+msgstr "ช่อง​ระบาย​ธรณี​ใช้งาน​ไม่​ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_TOOLTIP"
+msgid ""
+"One or more connected geo vents are currently unavailable\n"
+"\n"
+"All connected geo vents must be ready in order for this building to function\n"
+"\n"
+"Click here to show this vent"
+msgstr ""
+"ช่อง​ระบาย​ธรณี​ที่​เชื่อมต่อ​อยู่​อย่าง​น้อย​หนึ่ง​ช่อง​ใช้งาน​ไม่​ได้​ใน​ตอนนี้\n"
+"\n"
+"ช่อง​ระบาย​ธรณี​ที่​เชื่อมต่อ​ทุก​ช่อง​ต้อง​พร้อม สิ่งก่อสร้าง​นี้​ถึง​จะ​ทำงาน​ได้\n"
+"\n"
+"คลิก​ที่นี่​เพื่อ​แสดง​ช่อง​ระบาย​นี้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_NAME"
+msgid "Offline"
+msgstr "ออฟไลน์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_TOOLTIP"
+msgid "This building's plumbing must be reconnected before it can receive materials"
+msgstr "ต้อง​ต่อ​ระบบ​ท่อ​ของ​สิ่งก่อสร้าง​นี้​ใหม่​ก่อน​ถึง​จะ​รับ​วัสดุ​ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDING_RECONNECTION_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDING_RECONNECTION_NAME"
+msgid "Pending Reconnect"
+msgstr "รอ​ต่อ​ใหม่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDING_RECONNECTION_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDING_RECONNECTION_TOOLTIP"
+msgid "Waiting for a Duplicant to reconnect the plumbing"
+msgstr "รอ​ดู​พลิ​แคนต์​มา​ต่อ​ระบบ​ท่อ​ใหม่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_NAME"
+msgid "Pressure: {Amount}"
+msgstr "ความดัน: {Amount}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_TOOLTIP"
+msgid ""
+"When pressure reaches {Threshold}, this building's contents will be heated and pumped out to connected geo vents\n"
+"\n"
+"Current pressure: {Amount}/{Threshold}"
+msgstr ""
+"เมื่อ​ความดัน​ถึง {Threshold} ของ​ใน​สิ่งก่อสร้าง​นี้​จะ​ถูก​ทำให้​ร้อน​แล้ว​สูบ​ออก​ไป​ยัง​ช่อง​ระบาย​ธรณี​ที่​เชื่อมต่อ​อยู่\n"
+"\n"
+"ความดัน​ปัจจุบัน: {Amount}/{Threshold}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_NAME"
+msgid "Liquid Temperature: {Temp}"
+msgstr "อุณหภูมิ​ของเหลว: {Temp}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_TOOLTIP"
+msgid ""
+"The average <style=\"KKeyword\">Temperature</style> of <style=\"KKeyword\">Liquids</style> stored in this building is {Temp}\n"
+"\n"
+"The initial input <style=\"KKeyword\">Temperature</style> determines the type of materials emitted"
+msgstr ""
+"<style=\"KKeyword\">อุณหภูมิ</style>เฉลี่ย​ของ<style=\"KKeyword\">ของเหลว</style>ที่เก็บ​ใน​สิ่งก่อสร้าง​นี้​คือ {Temp}\n"
+"\n"
+"<style=\"KKeyword\">อุณหภูมิ</style>ขาเข้า​ตอนแรก​เป็น​ตัวกำหนด​ประเภท​วัสดุ​ที่​ปล่อย​ออกมา"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_NAME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_NAME"
 msgid "Blocked"
 msgstr "ถูก​บัง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_TOOLTIP"
+msgid "A <style=\"KKeyword\">Pipe</style> has been obstructed and is preventing <style=\"KKeyword\">Liquids</style> or <style=\"KKeyword\">Gases</style> from flowing to this geo vent"
+msgstr "<style=\"KKeyword\">ท่อ</style>อุดตัน​และ​ขวาง​ไม่​ให้<style=\"KKeyword\">ของเหลว</style>หรือ<style=\"KKeyword\">แก๊ส</style>ไหล​ไป​ยัง​ช่อง​ระบาย​ธรณี​นี้"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_NAME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_NAME"
 msgid "Disconnected"
 msgstr "ไม่​ได้​เชื่อมต่อ"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_TOOLTIP"
+msgid ""
+"This geo vent is disconnected from the geothermal heat pump\n"
+"\n"
+"It cannot recieve material in its current state"
+msgstr ""
+"ช่อง​ระบาย​ธรณี​นี้​ถูก​ตัด​การ​เชื่อมต่อ​จาก​ปั๊ม​ความร้อน​ใต้พิภพ\n"
+"\n"
+"รับ​วัสดุ​ใน​สภาพ​ปัจจุบัน​ไม่​ได้"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_NAME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_NAME"
 msgid "Overpressure"
 msgstr "แรงดัน​เกิน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_TOOLTIP"
+msgid ""
+"High <style=\"KKeyword\">Liquid</style> or <style=\"KKeyword\">Gas</style> pressure in this area is preventing further emissions\n"
+"\n"
+"Reduce pressure by pumping <style=\"KKeyword\">Liquids</style> or <style=\"KKeyword\">Gases</style> away or clearing more space\n"
+"\n"
+"Click here to show this vent"
+msgstr ""
+"ความดัน<style=\"KKeyword\">ของเหลว</style>หรือ<style=\"KKeyword\">แก๊ส</style>สูง​ใน​บริเวณ​นี้​ทำให้​ปล่อย​ต่อ​ไม่​ได้\n"
+"\n"
+"ลด​ความดัน​ด้วย​การสูบ<style=\"KKeyword\">ของเหลว</style>หรือ<style=\"KKeyword\">แก๊ส</style>ออก​ไป หรือ​เคลียร์พื้นที่​เพิ่ม\n"
+"\n"
+"คลิก​ที่นี่​เพื่อ​แสดง​ช่อง​ระบาย​นี้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.PENDING_REVEAL_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.PENDING_REVEAL_NAME"
+msgid "Pending Uncover"
+msgstr "รอ​เปิด"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.PENDING_REVEAL_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.PENDING_REVEAL_TOOLTIP"
+msgid "A Duplicant will be by shortly to remove this grimy old tarp"
+msgstr "เดี๋ยว​จะ​มี​ดู​พลิ​แคนต์​มา​เอา​ผ้าใบ​เก่า​เกรอะกรัง​นี่​ออก"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_NAME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_NAME"
 msgid "Blocked"
 msgstr "ถูก​บัง"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_TOOLTIP"
+msgid ""
+"This geo vent is currently obstructed by a <style=\"KKeyword\">Lead</style> mass\n"
+"\n"
+"It will become usable once the obstruction has been cleared by piping in liquids hot enough to melt it"
+msgstr ""
+"ช่อง​ระบาย​ธรณี​นี้​ถูก​ก้อน<style=\"KKeyword\">ตะกั่ว</style>อุด​อยู่\n"
+"\n"
+"จะ​ใช้งาน​ได้​เมื่อ​เคลียร์​สิ่ง​อุดตัน​ด้วย​การ​ต่อ​ท่อ​ปล่อย​ของเหลว​ที่​ร้อน​พอ​จะ​หลอม​มัน​ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.READY_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.READY_NAME"
+msgid "Ready"
+msgstr "พร้อม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.READY_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.READY_TOOLTIP"
+msgid "This geo vent is ready to recieve materials"
+msgstr "ช่อง​ระบาย​ธรณี​นี้​พร้อม​รับ​วัสดุ​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_NAME"
+msgid "Venting: {Quantity} remaining"
+msgstr "กำลัง​ระบาย: เหลือ {Quantity}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_TOOLTIP"
+msgid ""
+"This geo vent is currently emitting materials\n"
+"\n"
+"It has {Quantity} of materials left to emit before this process is complete"
+msgstr ""
+"ช่อง​ระบาย​ธรณี​นี้​กำลัง​ปล่อย​วัสดุ​ออกมา\n"
+"\n"
+"ยัง​เหลือ​วัสดุ {Quantity} ที่​ต้อง​ปล่อย​ก่อน​กระบวนการ​นี้​จะ​เสร็จ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_BODY"
+msgid ""
+"We've blasted Demolior into oblivion! My colony is safe for now.\n"
+"\n"
+"Among the impactor's remains, I've identified several useful resources as well as a small, familiar object... How did such a thing find its way onto an uninhabited asteroid? I have always hoped that other worlds existed... Perhaps they do, and we are more alike than I ever imagined.\n"
+"\n"
+"There is so much we have yet to discover.\n"
+msgstr ""
+"เรา​ระเบิด​เดโม​ลิ​ออร์จน​แหลกลาญ​แล้ว! อาณานิคม​ของ​ฉัน​ปลอดภัย​ไป​ก่อน\n"
+"\n"
+"ท่ามกลาง​ซาก​ของ​วัตถุ​ที่​พุ่งชน ฉัน​ระบุ​ทรัพยากร​ที่​มีประโยชน์​ได้​หลายอย่าง รวมถึง​วัตถุ​เล็ก ๆ ที่​คุ้นตา... ของ​แบบนี้​มา​อยู่​บน​ดาวเคราะห์​น้อย​ไร้​ผู้คน​ได้​ยังไง? ฉัน​หวัง​มา​ตลอด​ว่า​โลก​อื่น​มี​อยู่​จริง... บางที​พวกเขา​อาจ​มี​อยู่ และ​เรา​อาจ​เหมือนกัน​มากกว่า​ที่​ฉัน​เคย​นึก​ภาพ​ไว้\n"
+"\n"
+"ยังมี​อีก​มากมาย​ที่​เรา​ต้อง​ค้นพบ\n"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_TITLE"
+msgid "OUR BEST SHOT"
+msgstr "นัด​เด็ด​ของ​เรา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.NAME"
+msgid "Blast Line of Defense"
+msgstr "ระเบิด​แนว​ป้องกัน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.REQUIREMENT_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.REQUIREMENT_DESCRIPTION"
+msgid "Destroyed Demolior before it arrived: {0}/{1}"
+msgstr "ทำลาย​เดโม​ลิ​ออร์​ก่อน​มัน​มาถึง: {0}/{1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.REQUIREMENT_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.REQUIREMENT_NAME"
+msgid "Destroy Demolior asteroid"
+msgstr "ทำลาย​ดาวเคราะห์​น้อย​เดโม​ลิ​ออร์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.DESCRIPTION"
+msgid "Survive 100 cycles after Demolior asteroid collides with RelicAAAA<sup>AAAGHH</sup>."
+msgstr "รอดชีวิต 100 รอบ​หลัง​ดาวเคราะห์​น้อย​เดโม​ลิ​ออร์ชน​เร​ลิ​กา​าาา<sup>อ๊ากกก</sup>"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.NAME"
+msgid "The Lab: Life Found A Way"
+msgstr "แล็บ: ชีวิต​หาทาง​ของ​มัน​เจอ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.REQUIREMENT_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.REQUIREMENT_DESCRIPTION"
+msgid "Survived {0}/{1} cycles after Demolior impact"
+msgstr "รอดชีวิต​แล้ว {0}/{1} รอบ​หลัง​เดโม​ลิ​ออร์​พุ่งชน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.REQUIREMENT_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_SURVIVED.REQUIREMENT_NAME"
+msgid "Survive 100 cycles after Demolior impacts"
+msgstr "รอดชีวิต 100 รอบ​หลัง​เดโม​ลิ​ออร์​พุ่งชน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY"
+msgid "Our homeworld in this universe is gone, replaced by the skeleton of a planet and a wound in the sky... But I hold out hope that other worlds exist out there, tucked away in other dimensions. I sent my Duplicant through the Temporal Tear carrying that hope on their shoulders... Perhaps one day they'll find a place to call home, and begin a thriving colony all their own."
+msgstr "โลก​บ้านเกิด​ของ​เรา​ใน​จักรวาล​นี้​หาย​ไป​แล้ว เหลือ​ไว้​เพียง​โครงกระดูก​ของ​ดาว​และ​บาดแผล​บน​ท้องฟ้า... แต่​ฉัน​ยัง​หวัง​ว่า​โลก​อื่น​มี​อยู่​ที่ไหน​สัก​แห่ง ซ่อน​อยู่​ใน​มิติ​อื่น ฉัน​ส่ง​ดู​พลิ​แคนต์​ผ่าน​รอยแยก​กาลเวลา​ไป​พร้อม​ความหวัง​นั้น​บน​บ่า... สักวันหนึ่ง​พวกเขา​อาจ​ได้​พบ​ที่​ที่​เรียก​ว่า​บ้าน และ​เริ่มต้น​อาณานิคม​ที่​รุ่งเรือง​ของ​ตัวเอง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY_DLC1
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY_DLC1"
+msgid "We have always viewed the Temporal Tear as a phenomenon to fear but, like the civilizations before us, the call to adventure asks us to confront our anxiety and leap into the unknown. As a radical action of hope, I have sent enough Duplicants through the Temporal Tear to start another colony, explore dimensions beyond ours and plant the seeds of life throughout time and space."
+msgstr "เรา​มอง​รอยแยก​กาลเวลา​เป็น​ปรากฏการณ์​น่ากลัว​มา​ตลอด แต่​เช่นเดียวกับ​อารยธรรม​ก่อนหน้า​เรา เสียง​เรียก​ของ​การผจญภัย​ท้า​ให้​เรา​เผชิญ​ความกังวล​และ​กระโจน​เข้าสู่​สิ่ง​ที่​ไม่​รู้จัก ใน​ฐานะ​การกระทำ​แห่ง​ความหวัง​อัน​แรงกล้า ฉัน​ส่ง​ดู​พลิ​แคนต์​ผ่าน​รอยแยก​กาลเวลา​ไป​มาก​พอ​จะ​ตั้ง​อาณานิคม​ใหม่ สำรวจ​มิติ​ที่อยู่​เหนือ​มิติ​ของ​เรา และ​หว่าน​เมล็ดพันธุ์​แห่ง​ชีวิต​ไป​ทั่ว​กาลอวกาศ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_TITLE"
+msgid "A COLONY'S HOPE"
+msgstr "ความหวัง​ของ​อาณานิคม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_TITLE_DLC1
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_TITLE_DLC1"
+msgid "A DIMENSIONAL ADVENTURE"
+msgstr "การผจญภัย​ข้าม​มิติ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MYLOGNAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MYLOGNAME"
+msgid "A Colony's Hope"
+msgstr "ความหวัง​ของ​อาณานิคม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.NAME"
+msgid "The Great Escape"
+msgstr "การ​หลบหนี​ครั้ง​ยิ่งใหญ่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.OPEN_TEMPORAL_TEAR
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.OPEN_TEMPORAL_TEAR"
+msgid "Open the Temporal Tear"
+msgstr "เปิด​รอยแยก​กาลเวลา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION"
+msgid "Breach the {0}"
+msgstr "ทะลวง{0}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION_DESCRIPTION"
+msgid "Send a Duplicant on a one-way mission to the furthest Starmap destination"
+msgstr "ส่ง​ดู​พลิ​แคนต์​ไป​ทำ​ภารกิจ​เที่ยว​เดียว​สู่​จุดหมาย​ที่​ไกล​ที่สุด​บน​แผนที่​ดวงดาว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT.FIRST
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT.FIRST"
+msgid "Our homeworld in this universe is gone, replaced by the skeleton of a planet and a wound in the sky... But I hold out hope that other worlds exist out there, tucked away in other dimensions."
+msgstr "โลก​บ้านเกิด​ของ​เรา​ใน​จักรวาล​นี้​หาย​ไป​แล้ว เหลือ​ไว้​เพียง​โครงกระดูก​ของ​ดาว​และ​บาดแผล​บน​ท้องฟ้า... แต่​ฉัน​ยัง​หวัง​ว่า​โลก​อื่น​มี​อยู่​ที่ไหน​สัก​แห่ง ซ่อน​อยู่​ใน​มิติ​อื่น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT.SECOND
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT.SECOND"
+msgid "I sent my Duplicant through the Temporal Tear carrying that hope on their shoulders... Perhaps one day they'll find a place to call home, and begin a thriving colony all their own."
+msgstr "ฉัน​ส่ง​ดู​พลิ​แคนต์​ผ่าน​รอยแยก​กาลเวลา​ไป​พร้อม​ความหวัง​นั้น​บน​บ่า... สักวันหนึ่ง​พวกเขา​อาจ​ได้​พบ​ที่​ที่​เรียก​ว่า​บ้าน และ​เริ่มต้น​อาณานิคม​ที่​รุ่งเรือง​ของ​ตัวเอง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT_DLC1.FIRST
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT_DLC1.FIRST"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT_DLC1.SECOND
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT_DLC1.SECOND"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DLC_ACHIEVEMENT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DLC_ACHIEVEMENT"
+msgid "<i>{0}</i> DLC Initiative"
+msgstr "ภารกิจ​ริเริ่ม DLC <i>{0}</i>"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FAILED_THIS_COLONY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FAILED_THIS_COLONY"
+msgid "The current colony cannot fulfill this Initiative"
+msgstr "อาณานิคม​ปัจจุบัน​ทำ​ภารกิจ​ริเริ่ม​นี้​ไม่​ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A"
+msgid "Harvest and deliver Pearls to the survivor Duplicant in the Reef biome"
+msgstr "เก็บ​ไข่มุก​แล้ว​ส่ง​ให้​ดู​พลิ​แคนต์​ผู้รอดชีวิต​ใน​ไบโอ​ม​แนวปะการัง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A_HIDDEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A_HIDDEN"
+msgid "More exploration is required"
+msgstr "ต้อง​สำรวจ​เพิ่มเติม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B"
+msgid "Craft and deliver Sushi to the survivor Duplicant in the Kelp Forest biome"
+msgstr "ทำ​ซูชิ​แล้ว​ส่ง​ให้​ดู​พลิ​แคนต์​ผู้รอดชีวิต​ใน​ไบโอ​ม​ป่า​สาหร่าย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B_HIDDEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B_HIDDEN"
+msgid "More exploration is required"
+msgstr "ต้อง​สำรวจ​เพิ่มเติม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C"
+msgid "Produce and deliver Caviar to the survivor Duplicant in the Abyss biome"
+msgstr "ผลิต​คา​เวียร์​แล้ว​ส่ง​ให้​ดู​พลิ​แคนต์​ผู้รอดชีวิต​ใน​ไบโอ​ม​ห้วง​ลึก"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C_HIDDEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C_HIDDEN"
+msgid "More exploration is required"
+msgstr "ต้อง​สำรวจ​เพิ่มเติม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_A
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_A"
+msgid "Deliver {AMOUNT} Pearls"
+msgstr "ส่ง​ไข่มุก {AMOUNT} เม็ด"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_A_HIDDEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_A_HIDDEN"
+msgid "Undiscovered Requirement"
+msgstr "เงื่อนไข​ที่​ยัง​ไม่​ค้นพบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_B
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_B"
+msgid "Deliver {AMOUNT} Sushi"
+msgstr "ส่ง​ซูชิ {AMOUNT} ชิ้น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_B_HIDDEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_B_HIDDEN"
+msgid "Undiscovered Requirement"
+msgstr "เงื่อนไข​ที่​ยัง​ไม่​ค้นพบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_C
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_C"
+msgid "Deliver {AMOUNT} Caviar"
+msgstr "ส่ง​คา​เวียร์ {AMOUNT}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_C_HIDDEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_C_HIDDEN"
+msgid "Undiscovered Requirement"
+msgstr "เงื่อนไข​ที่​ยัง​ไม่​ค้นพบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.MESSAGE_BODY"
+msgid ""
+"Huzzah! We have shown the survivor that ours is a colony worth joining.\n"
+"\n"
+"She says her name is Minnow. Her serene temperament and ability to survive long stretches without oxygen will serve us well as we face the infinite challenges of marine colony-building."
+msgstr ""
+"ไชโย! เรา​พิสูจน์​ให้​ผู้รอดชีวิต​เห็น​แล้ว​ว่า​อาณานิคม​ของ​เรา​น่า​เข้าร่วม\n"
+"\n"
+"เธอ​บอ​กว่า​ชื่อ Minnow นิสัย​สงบ​เยือกเย็น​และ​ความสามารถ​อยู่รอด​ได้​นาน​โดย​ไม่ต้อง​ใช้​ออกซิเจน​ของ​เธอ​จะ​เป็นประโยชน์​มาก​เมื่อ​เรา​เผชิญ​ความ​ท้าทาย​ไม่​สิ้นสุด​ของ​การ​สร้าง​อาณานิคม​ทางทะเล"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.MESSAGE_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.MESSAGE_TITLE"
+msgid "IN GOOD COMPANY"
+msgstr "มี​เพื่อน​ดี​อยู่​ด้วย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.NAME"
+msgid "Better Together"
+msgstr "อยู่​ด้วยกัน​ดีกว่า"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_A_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_A_DESCRIPTION"
+msgid ""
+"Success! My Duplicants harvested {AMOUNT1} pearls to offer to our potential future crewmate.\n"
+"\n"
+"We now have {AMOUNT2} new gasket and 2 Flue Coral seeds to use as needed."
+msgstr ""
+"สำเร็จ! ดู​พลิ​แคนต์​ของ​ฉัน​เก็บ​ไข่มุก​ได้ {AMOUNT1} เม็ด​เพื่อ​มอบให้​ว่าที่​เพื่อน​ร่วม​ทีม​ในอนาคต\n"
+"\n"
+"ตอนนี้​เรา​มี​ปะ​เก็น​ใหม่ {AMOUNT2} ชิ้น และ​เมล็ด​ปะการัง​ปล่อง 2 เมล็ด​ไว้​ใช้​ตาม​ต้องการ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_A_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_A_TITLE"
+msgid "RECRUIT SURVIVOR: Pearls Delivered"
+msgstr "ชวน​ผู้รอดชีวิต: ส่ง​ไข่มุก​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_B_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_B_DESCRIPTION"
+msgid ""
+"Success! We have produced {AMOUNT1} sushi to share with the survivor Duplicant as a gesture of goodwill.\n"
+"\n"
+"We now have {AMOUNT2} new gasket and 2 Gum Palm seeds to use as needed."
+msgstr ""
+"สำเร็จ! เรา​ทำ​ซูชิ​ได้ {AMOUNT1} ชิ้น​เพื่อ​แบ่ง​ให้​ดู​พลิ​แคนต์​ผู้รอดชีวิต​เป็น​ของขวัญ​ผูกมิตร\n"
+"\n"
+"ตอนนี้​เรา​มี​ปะ​เก็น​ใหม่ {AMOUNT2} ชิ้น​กับ​เมล็ด​ปาล์ม​ยาง​อีก 2 เมล็ด​ไว้​ใช้​ตาม​สะดวก"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_B_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_B_TITLE"
+msgid "RECRUIT SURVIVOR: Sushi Delivered"
+msgstr "ชวน​ผู้รอดชีวิต: ส่ง​ซูชิ​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_C_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_C_DESCRIPTION"
+msgid ""
+"Success! We have procured {AMOUNT1} caviar to offer to our splashy neighbour.\n"
+"\n"
+"We now have {AMOUNT2} new gasket to use as needed."
+msgstr ""
+"สำเร็จ! เรา​หา​คา​เวียร์​มา​ได้ {AMOUNT1} ชิ้น​เพื่อ​มอบให้​เพื่อนบ้าน​สาย​ตูม​ตามน้ำ​ของ​เรา\n"
+"\n"
+"ตอนนี้​เรา​มี​ปะ​เก็น​ใหม่ {AMOUNT2} ชิ้น​ไว้​ใช้​ตาม​สะดวก"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_C_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_C_TITLE"
+msgid "RECRUIT SURVIVOR: Caviar Delivered"
+msgstr "ชวน​ผู้รอดชีวิต: ส่ง​คา​เวียร์​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_A_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_A_DESCRIPTION"
+msgid ""
+"My Duplicants found the survivor exploring the Reef biome. She seems fascinated by the Clampum.\n"
+"\n"
+"She offered to trade us {AMOUNT1} Gasket and 2 Flue Coral seeds for {AMOUNT2} of its pearls.\n"
+"\n"
+"I must enable delivery to ensure we keep our end of this bargain."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​พบ​ผู้รอดชีวิต​กำลัง​สำรวจ​ไบโอ​ม​แนวปะการัง ดูท่า​เธอ​จะ​หลงใหล​แค​ลม​พัม​เอา​มาก ๆ\n"
+"\n"
+"เธอ​เสนอ​แลก​ปะ​เก็น {AMOUNT1} ชิ้น​กับ​เมล็ด​ปะการัง​ปล่อง 2 เมล็ด กับ​ไข่มุก​ของ​มัน {AMOUNT2} เม็ด\n"
+"\n"
+"ฉัน​ต้อง​เปิด​การ​ส่ง​ของ จะ​ได้​รักษา​สัญญา​ฝั่ง​เรา​ไว้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_A_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_A_TITLE"
+msgid "Recruit Survivor: {0}/{1}"
+msgstr "ชวน​ผู้รอดชีวิต: {0}/{1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_B_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_B_DESCRIPTION"
+msgid ""
+"My Duplicants found the survivor exploring the Kelp Forest biome. She appears to be hungry.\n"
+"\n"
+"My Duplicants offered to exchange {AMOUNT1} of sushi for {AMOUNT2} Gasket and 2 Gum Palm seeds, and she agreed.\n"
+"\n"
+"I must enable delivery to ensure she receives our package."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​พบ​ผู้รอดชีวิต​กำลัง​สำรวจ​ไบโอ​ม​ป่า​สาหร่าย ท่าทาง​เธอ​หิว​มาก\n"
+"\n"
+"ดู​พลิ​แคนต์​ของ​ฉัน​เสนอ​แลก​ซูชิ {AMOUNT1} ชิ้น​กับ​ปะ​เก็น {AMOUNT2} ชิ้น​และ​เมล็ด​ปาล์ม​ยาง 2 เมล็ด แล้ว​เธอ​ก็​ตกลง\n"
+"\n"
+"ฉัน​ต้อง​เปิด​การ​ส่ง​ของ เพื่อให้​แน่ใจ​ว่า​เธอ​ได้รับ​พัสดุ​ของ​เรา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_B_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_B_TITLE"
+msgid "Recruit Survivor: {0}/{1}"
+msgstr "ชวน​ผู้รอดชีวิต: {0}/{1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_C_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_C_DESCRIPTION"
+msgid ""
+"My Duplicants found the survivor exploring the Abyss biome. She has been observing our machinery and seems particularly intrigued by caviar.\n"
+"\n"
+"We have agreed to exchange {AMOUNT1} of caviar for {AMOUNT2} Gasket.\n"
+"\n"
+"I must enable delivery to guarantee its fulfilment."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​พบ​ผู้รอดชีวิต​กำลัง​สำรวจ​ไบโอ​ม​ห้วง​ลึก เธอ​แอบ​ส่อง​เครื่องจักร​ของ​เรา​มา​สักพัก และ​ดูจะ​สนใจ​คา​เวียร์​เป็นพิเศษ\n"
+"\n"
+"เรา​ตกลง​แลก​คา​เวียร์ {AMOUNT1} ชิ้น​กับ​ปะ​เก็น {AMOUNT2} ชิ้น\n"
+"\n"
+"ฉัน​ต้อง​เปิด​การ​ส่ง​ของ เพื่อให้​ข้อตกลง​นี้​สำเร็จ​แน่นอน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_C_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_C_TITLE"
+msgid "Recruit Survivor: {0}/{1}"
+msgstr "ชวน​ผู้รอดชีวิต: {0}/{1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.AUTOMATE_A_BUILDING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.AUTOMATE_A_BUILDING"
+msgid "Red Light, Green Light"
+msgstr "ไฟแดง ไฟเขียว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.AUTOMATE_A_BUILDING_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.AUTOMATE_A_BUILDING_DESCRIPTION"
+msgid "Automate a building using sensors or switches from the Automation tab in the Build Menu."
+msgstr "ทำให้​สิ่งก่อสร้าง​ทำงาน​อัตโนมัติ​ด้วย​เซนเซอร์​หรือ​สวิตช์​จาก​แท็บ​ระบบ​อัตโนมัติ​ใน​เมนู​ก่อสร้าง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_COMFORTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_COMFORTS"
+msgid "Bed and Bath"
+msgstr "มี​เตียง มี​ส้วม ครบ​สูตร"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_COMFORTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_COMFORTS_DESCRIPTION"
+msgid "Have at least one toilet in the colony and a bed for every Duplicant."
+msgstr "มี​ส้วม​อย่าง​น้อย​หนึ่ง​แห่ง​ใน​อาณานิคม และ​มี​เตียง​ครบ​สำหรับ​ดู​พลิ​แคนต์​ทุกคน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING"
+msgid "Oxygen Not Occluded"
+msgstr "ออกซิเจน​ไม่​ขาดตลาด"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION"
+msgid "Distribute 1000 kg of Oxygen using gas vents."
+msgstr "กระจาย​ออกซิเจน 1000 กก. ผ่าน​ช่อง​ระบาย​แก๊ส"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES"
+msgid "Some Reservations"
+msgstr "จอง​ไว้​แล้ว​จ้า"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES_DESCRIPTION"
+msgid "Improve Duplicant Morale by designating {1} areas as {0}."
+msgstr "เพิ่ม​ขวัญ​กำลังใจ​ดู​พลิ​แคนต์​ด้วย​การ​กำหนด​พื้นที่ {1} แห่ง​เป็น{0}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_OUTSIDE_BIOME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_OUTSIDE_BIOME"
+msgid "Outdoor Renovations"
+msgstr "รี​โน​เวต​นอกบ้าน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_OUTSIDE_BIOME_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_OUTSIDE_BIOME_DESCRIPTION"
+msgid "Construct a building outside the initial starting biome."
+msgstr "สร้าง​สิ่งก่อสร้าง​นอก​ไบโอ​ม​เริ่มต้น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE"
+msgid "Immovable Object"
+msgstr "กำแพง​ที่​ไม่​ยอม​ขยับ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE_DESCRIPTION"
+msgid "Block a meteor from hitting your base using a Bunker Door."
+msgstr "ใช้​ประตู​บังเกอร์ (ป้อม​หลบภัย) กัน​อุกกาบาต​ไม่​ให้​พุ่งชน​ฐาน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAN_ENERGY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAN_ENERGY"
+msgid "Super Sustainable"
+msgstr "ยั่งยืน​ขั้น​เทพ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAN_ENERGY_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAN_ENERGY_DESCRIPTION"
+msgid "Generate 240,000kJ of power without using coal, natural gas, petrol or wood generators."
+msgstr "ผลิต​พลังงาน 240,000kJ โดย​ไม่​ใช้​เครื่องปั่นไฟ​ถ่านหิน แก๊ส​ธรรมชาติ น้ำมันเบนซิน หรือ​ไม้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAR_FOW
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAR_FOW"
+msgid "Pulling Back The Veil"
+msgstr "เปิดม่าน​ความลับ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAR_FOW_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CLEAR_FOW_DESCRIPTION"
+msgid "Reveal 80% of map by exploring outside the starting biome."
+msgstr "เปิดเผย​แผนที่ 80% ด้วย​การสำรวจ​นอก​ไบโอ​ม​เริ่มต้น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_RESEARCH
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_RESEARCH"
+msgid "Honorary Doctorate"
+msgstr "ดุษฎีบัณฑิต​กิตติมศักดิ์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_RESEARCH_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_RESEARCH_DESCRIPTION"
+msgid "Unlock every item in the Research Tree."
+msgstr "ปลดล็อก​ทุกอย่าง​ใน​แผนผัง​การวิจัย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_SKILL_BRANCH
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_SKILL_BRANCH"
+msgid "To Pay the Bills"
+msgstr "ทำงาน​หาเงิน​จ่าย​บิล"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_SKILL_BRANCH_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_SKILL_BRANCH_DESCRIPTION"
+msgid "Use a Duplicant's Skill Points to buy out an entire branch of the Skill Tree."
+msgstr "ใช้​แต้ม​ทักษะ​ของ​ดู​พลิ​แคนต์​ซื้อ​ทักษะ​ครบ​ทั้ง​สาย​ใน​แผนผัง​ทักษะ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD"
+msgid "It's Not Raw"
+msgstr "มัน​ไม่​ดิบ​นะ!"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD_DESCRIPTION"
+msgid "Have a Duplicant eat any cooked meal prepared at an eligible cooking station."
+msgstr "ให้​ดู​พลิ​แคนต์​กิน​อาหาร​ปรุง​สุก​ที่​ทำ​จาก​สถานี​ทำอาหาร​ที่​ใช้ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE"
+msgid "They Got Better"
+msgstr "หายป่วย​แล้ว​จ้า"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE_DESCRIPTION"
+msgid "Cure a sick Duplicant of disease."
+msgstr "รักษา​ดู​พลิ​แคนต์​ที่​ป่วย​ให้​หาย​จาก​โรค"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.DATA_DRIVEN
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.DATA_DRIVEN"
+msgid "Data Driven"
+msgstr "ขับเคลื่อนด้วย​ข้อมูล"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.DATA_DRIVEN_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.DATA_DRIVEN_DESCRIPTION"
+msgid "Produce a Data Bank using a Data Miner operating at maximum efficiency."
+msgstr "ผลิต​แบงก์​ข้อมูล​ด้วย​เครื่อง​ขุด​ข้อมูล​ที่ทำงาน​เต็ม​ประสิทธิภาพ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT"
+msgid "Carnivore"
+msgstr "สาย​เนื้อ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT_DESCRIPTION"
+msgid "Have Duplicants eat 400,000kcal of critter meat before the 100th cycle."
+msgstr "ให้​ดู​พลิ​แคนต์​กิน​เนื้อสัตว์​ครบ 400,000kcal ก่อน​รอบ​ที่ 100"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EQUIP_N_DUPES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EQUIP_N_DUPES"
+msgid "And Nowhere to Go"
+msgstr "แต่งตัว​สวย​แต่​ไม่​มี​ที่​ไป"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EQUIP_N_DUPES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EQUIP_N_DUPES_DESCRIPTION"
+msgid "Have {0} Duplicants wear non-default clothing simultaneously."
+msgstr "ให้​ดู​พลิ​แคนต์ {0} คน​สวม​เสื้อผ้า​ที่​ไม่​ใช่​ชุด​เริ่มต้น​พร้อมกัน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXOSUIT_CYCLES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXOSUIT_CYCLES"
+msgid "Job Suitability"
+msgstr "เหมาะกับ​งาน​สุด ๆ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXOSUIT_CYCLES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXOSUIT_CYCLES_DESCRIPTION"
+msgid "For {0} cycles in a row, have every Duplicant in the colony complete at least one errand while wearing an Exosuit."
+msgstr "ติดต่อกัน {0} รอบ ให้​ดู​พลิ​แคนต์​ทุก​คนใน​อาณานิคม​ทำงาน​สำเร็จ​อย่าง​น้อย​หนึ่ง​งาน​ขณะ​สวม​ชุด​เอ็ก​โซ​สูท (ชุด​โครง​เสริม​แรง)"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXPLORE_OIL_BIOME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXPLORE_OIL_BIOME"
+msgid "Slick"
+msgstr "ลื่น​ปรื๊ด"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXPLORE_OIL_BIOME_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EXPLORE_OIL_BIOME_DESCRIPTION"
+msgid "Enter an oil biome for the first time."
+msgstr "เข้า​ไบโอ​ม​น้ำมัน​เป็นครั้งแรก"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT"
+msgid "First Teleport of Call"
+msgstr "วาร์ป​แรก​แห่ง​การเยือน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT_DESCRIPTION"
+msgid "Teleport a Duplicant and defrost a Friend on another world."
+msgstr "เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) ดู​พลิ​แคนต์​และ​ละลาย​น้ำแข็ง​เพื่อน​บน​อีก​โลก​หนึ่ง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GENERATOR_TUNEUP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GENERATOR_TUNEUP"
+msgid "Finely Tuned Machine"
+msgstr "เครื่องจักร​จูน​เนียน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GENERATOR_TUNEUP_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GENERATOR_TUNEUP_DESCRIPTION"
+msgid "Perform {0} Tune Ups on power generators."
+msgstr "จูน​เครื่องปั่นไฟ {0} ครั้ง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK"
+msgid "GMO A-OK"
+msgstr "GMO ผ่าน​ฉลุย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK_DESCRIPTION"
+msgid "Successfully analyze at least one seed of all mutatable plants."
+msgstr "วิเคราะห์​เมล็ด​ของ​พืช​กลายพันธุ์​ได้​ทุกชนิด อย่าง​น้อย​ชนิด​ละ​หนึ่ง​เมล็ด"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER"
+msgid "Good Egg"
+msgstr "ไข่​ดี​มีชัย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER_DESCRIPTION"
+msgid "Hatch a new critter morph from an egg."
+msgstr "ฟัก​ร่าง​แปร​ของ​สัตว์​แบบ​ใหม่​ออกจาก​ไข่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_REFINEMENT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_REFINEMENT"
+msgid "Down the Hatch"
+msgstr "แฮตช์​ลงท้อง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_REFINEMENT_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_REFINEMENT_DESCRIPTION"
+msgid "Produce {0} of refined metal by ranching Smooth Hatches."
+msgstr "ผลิต​โลหะ​บริสุทธิ์ {0} จาก​การ​เลี้ยง​แฮตช์​ผิว​เรียบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.IDLE_DUPLICANTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.IDLE_DUPLICANTS"
+msgid "Easy Livin'"
+msgstr "ชีวิต​ชิลล์ ๆ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.IDLE_DUPLICANTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.IDLE_DUPLICANTS_DESCRIPTION"
+msgid "Have Auto-Sweepers complete more deliveries to machines than Duplicants over 5 cycles."
+msgstr "ให้​เครื่อง​กวาด​อัตโนมัติ​ส่ง​ของ​ให้​เครื่องจักร​มากกว่า​ดู​พลิ​แคนต์​ตลอด 5 รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.INSPECT_POI
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.INSPECT_POI"
+msgid "Ghosts of Gravitas"
+msgstr "วิญญาณ​แห่​งก​รา​วิ​ทัส"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.INSPECT_POI_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.INSPECT_POI_DESCRIPTION"
+msgid "Recover a Database entry by inspecting facility ruins."
+msgstr "กู้​รายการ​ฐานข้อมูล​คืน​มา​ด้วย​การ​ตรวจ​ซากปรักหักพัง​ของ​สถานที่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS"
+msgid "Cluster Conquest"
+msgstr "พิชิต​กระจุก​ดาว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS_DESCRIPTION"
+msgid "Land Duplicants or rovers on all worlds in the cluster."
+msgstr "ส่ง​ดู​พลิ​แคนต์​หรือ​โร​เวอร์ (ยาน​สำรวจ) ลง​จอด​บน​ทุก​โลก​ใน​กระจุก​ดาว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MASTERPIECE_PAINTING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MASTERPIECE_PAINTING"
+msgid "Art Underground"
+msgstr "ศิลปะ​ใต้ดิน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MASTERPIECE_PAINTING_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MASTERPIECE_PAINTING_DESCRIPTION"
+msgid "Have a Duplicant with the Masterworks skill paint a Masterpiece quality painting."
+msgstr "ให้​ดู​พลิ​แคนต์​ที่​มี​ทักษะ​ผล​งานชิ้นเอก​วาดภาพ​ระดับ​ชิ้นเอก"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP"
+msgid "Mine the Gap"
+msgstr "ขุด​ให้​สุด​อวกาศ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP_DESCRIPTION"
+msgid "Mine 1,000,000kg from space POIs."
+msgstr "ขุด​วัสดุ 1,000,000 กก. จาก​จุดสนใจ​ใน​อวกาศ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MVB
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MVB"
+msgid "Most Valuable Bionic"
+msgstr "ไบโอ​นิ​ก​ดีเด่น​ประจำปี"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MVB_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MVB_DESCRIPTION"
+msgid "Install {0} boosters in a single Bionic Duplicant."
+msgstr "ติดตั้ง​บูสเตอร์ {0} ชิ้น​ใน​ดู​พลิ​แคนต์​ไบโอ​นิ​กค​น​เดียว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX"
+msgid "Locavore"
+msgstr "สาย​กิน​ของ​ท้องถิ่น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX_DESCRIPTION"
+msgid "Have Duplicants consume 400,000kcal of food without planting any seeds in Planter Boxes, Farm Tiles, or Hydroponic Farms."
+msgstr "ให้​ดู​พลิ​แคนต์​กิน​อาหาร 400,000kcal โดย​ไม่​ปลูก​เมล็ด​ใด ๆ ลง​ใน​กระบะ​ปลูก แผ่น​ฟาร์ม หรือ​ฟาร์ม​ไฮโดร​โป​นิกส์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS"
+msgid "Royal Flush"
+msgstr "ชักโครก​ยก​เซ็ต"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS_DESCRIPTION"
+msgid "Replace all the Outhouses and Wash Basins in your colony with Lavatories and Sinks."
+msgstr "เปลี่ยน​ส้วมหลุม​และ​อ่าง​ล้างมือ​ทั้งหมด​ใน​อาณานิคม​เป็น​ส้วมชักโครก​และ​ซิงก์​ล้างมือ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP"
+msgid "Radical Trip"
+msgstr "ทริป​สุด​เร​ดิ​คัล"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION"
+msgid "Have radbolts travel a cumulative {0}km."
+msgstr "ให้​เร​ด​โบ​ลต์​เดินทาง​รวมกัน {0}กม."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION"
+msgid "Space Race"
+msgstr "ศึก​ชิง​อวกาศ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION_DESCRIPTION"
+msgid "Launch your first rocket into space."
+msgstr "ปล่อย​จรวด​ลำ​แรก​ขึ้น​สู่​อวกาศ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE"
+msgid "That's Rad!"
+msgstr "แรด​สุด ๆ!"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE_DESCRIPTION"
+msgid "Run a Research Reactor at full capacity for {0} cycles."
+msgstr "เดินเครื่อง​ปฏิกรณ์​วิจัย​เต็มกำลัง​เป็นเวลา {0} รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SIXKELVIN_BUILDING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SIXKELVIN_BUILDING"
+msgid "Not 0K, But Pretty Cool"
+msgstr "ไม่​ถึง 0K แต่​ก็​เย็นเจี๊ยบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SIXKELVIN_BUILDING_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SIXKELVIN_BUILDING_DESCRIPTION"
+msgid "Reduce the temperature of a building to 6 Kelvin."
+msgstr "ลด​อุณหภูมิ​ของ​สิ่งก่อสร้าง​ให้​เหลือ 6 เค​ล​วิน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH"
+msgid "Soft Launch"
+msgstr "ปล่อย​แบบ​นุ่ม ๆ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH_DESCRIPTION"
+msgid "Build a launchpad on a world without a teleporter."
+msgstr "สร้าง​ฐาน​ปล่อย​จรวด​บน​โลก​ที่​ไม่​มี​เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่)"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ANALYZE_SEED
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ANALYZE_SEED"
+msgid "Analyze {0} mutant"
+msgstr "วิเคราะห์​พืช​กลายพันธุ์ {0}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_PERFORMANCE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_PERFORMANCE"
+msgid "Auto-Sweepers outperformed Duplicants: {0} / {1} cycles"
+msgstr "เครื่อง​กวาด​อัตโนมัติ​ชนะ​ดู​พลิ​แคนต์: {0} / {1} รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_VS_DUPE_FETCHES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_VS_DUPE_FETCHES"
+msgid "Deliveries this cycle: Auto-Sweepers: {1} Duplicants: {2}"
+msgstr "การ​ส่ง​ของ​รอบ​นี้: เครื่อง​กวาด​อัตโนมัติ: {1} ดู​พลิ​แคนต์: {2}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.AUTOMATE_A_BUILDING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.AUTOMATE_A_BUILDING"
+msgid "Automated a building"
+msgstr "ทำให้​สิ่งก่อสร้าง​ทำงาน​อัตโนมัติ​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BLOCKED_A_COMET
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BLOCKED_A_COMET"
+msgid "Blocked a meteor with a Bunker Door"
+msgstr "กัน​อุกกาบาต​ด้วย​ประตู​บังเกอร์​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD"
+msgid "Build a launchpad on a new world without a teleporter"
+msgstr "สร้าง​ฐาน​ปล่อย​จรวด​บน​โลก​ใหม่​ที่​ไม่​มี​เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่)"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS"
+msgid "Built beds: {0} ({1} Needed)"
+msgstr "เตียง​ที่​สร้าง: {0} (ต้องการ {1})"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_A_ROOM
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_A_ROOM"
+msgid "Built a {0}."
+msgstr "สร้าง{0}แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_N_ROOMS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_N_ROOMS"
+msgid "Built {0}: {1} / {2}"
+msgstr "สร้าง{0}แล้ว: {1} / {2}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_ONE_BED_PER_DUPLICANT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_ONE_BED_PER_DUPLICANT"
+msgid "Built one bed for each Duplicant"
+msgstr "สร้าง​เตียง​ครบ​ดู​พลิ​แคนต์​ทุกคน​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_ONE_TOILET
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_ONE_TOILET"
+msgid "Built one toilet"
+msgstr "สร้าง​ส้วม​แล้ว​หนึ่ง​แห่ง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_OUTSIDE_START
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_OUTSIDE_START"
+msgid "Built outside the starting biome"
+msgstr "สร้าง​นอก​ไบโอ​ม​เริ่มต้น​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CALORIE_SURPLUS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CALORIE_SURPLUS"
+msgid "Calorie surplus: {0} / {1}"
+msgstr "แคลอรี่​ส่วนเกิน: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CALORIES_FROM_MEAT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CALORIES_FROM_MEAT"
+msgid "Calories from meat: {0} / {1}"
+msgstr "แคลอรี่​จาก​เนื้อสัตว์: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CHORES_OF_TYPE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CHORES_OF_TYPE"
+msgid "{2} errands: {0} / {1}"
+msgstr "งาน{2}: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CLOTHE_DUPES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CLOTHE_DUPES"
+msgid "Duplicants in clothing: {0} / {1}"
+msgstr "ดู​พลิ​แคนต์​ที่​แต่งตัว: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_ARTIFACTS"
+msgid ""
+"Study different Terrestrial Artifacts at the Artifact Analysis Station.\n"
+"Unique Terrestrial Artifacts studied: {collectedCount} / {neededCount}"
+msgstr ""
+"ศึกษา​โบราณวัตถุ​ภาคพื้นดิน​หลาก​ชนิด​ที่​สถานี​วิเคราะห์​โบราณวัตถุ\n"
+"โบราณวัตถุ​ภาคพื้นดิน​ที่​ไม่​ซ้ำ​ที่​ศึกษา​แล้ว: {collectedCount} / {neededCount}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_SPACE_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_SPACE_ARTIFACTS"
+msgid ""
+"Study different Space Artifacts at the Artifact Analysis Station.\n"
+"Unique Space Artifacts studied: {collectedCount} / {neededCount}"
+msgstr ""
+"ศึกษา​โบราณวัตถุ​อวกาศ​หลาก​ชนิด​ที่​สถานี​วิเคราะห์​โบราณวัตถุ\n"
+"โบราณวัตถุ​อวกาศ​ที่​ไม่​ซ้ำ​ที่​ศึกษา​แล้ว: {collectedCount} / {neededCount}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_CALORIES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_CALORIES"
+msgid "Calories: {0} / {1}"
+msgstr "แคลอรี่: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_ITEM
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_ITEM"
+msgid "Consume something prepared at {0}"
+msgstr "กิน​อาหาร​ที่​ทำ​จาก{0}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CREATE_A_PAINTING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CREATE_A_PAINTING"
+msgid "Created a masterpiece painting"
+msgstr "วาดภาพ​ชิ้นเอก​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CURED_DISEASE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CURED_DISEASE"
+msgid "Cured a disease"
+msgstr "รักษาโรค​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CYCLE_NUMBER
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CYCLE_NUMBER"
+msgid "Cycle: {0} / {1}"
+msgstr "รอบ: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT"
+msgid "Defrost a Duplicant"
+msgstr "ละลาย​น้ำแข็ง​ดู​พลิ​แคนต์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME"
+msgid "Entered an oil biome"
+msgstr "เข้า​ไบโอ​ม​น้ำมัน​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ESTABLISH_COLONIES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ESTABLISH_COLONIES"
+msgid ""
+"Establish colonies on {goalBaseCount} asteroids by building and activating Mini-Pods.\n"
+"Colonies established: {baseCount} / {neededCount}"
+msgstr ""
+"ตั้ง​อาณานิคม​บน​ดาวเคราะห์​น้อย {goalBaseCount} ดวง​ด้วย​การ​สร้าง​และ​เปิด​ใช้​มินิ​พ็อด\n"
+"อาณานิคม​ที่ตั้ง​แล้ว: {baseCount} / {neededCount}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_CYCLES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_CYCLES"
+msgid "All Duplicants completed an Exosuit errand for cycles: {0} / {1}"
+msgstr "รอบ​ที่​ดู​พลิ​แคนต์​ทุกคน​ทำงาน​โดย​สวม​ชุด​เอ็ก​โซ​สูท (ชุด​โครง​เสริม​แรง): {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_THIS_CYCLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_THIS_CYCLE"
+msgid "Duplicants who completed Exosuit errands this cycle: {0} / {1}"
+msgstr "ดู​พลิ​แคนต์​ที่ทำงาน​โดย​สวม​ชุด​เอ็ก​โซ​สูท (ชุด​โครง​เสริม​แรง) รอบ​นี้: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXPAND_TOOLTIP
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXPAND_TOOLTIP"
+msgid "<i>(ClickType/Click) to view progress</i>"
+msgstr "<i>(ClickType/Click) เพื่อ​ดู​ความคืบหน้า</i>"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.FRACTIONAL_CYCLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.FRACTIONAL_CYCLE"
+msgid "Cycle: {0:0.##} / {1:0.##}"
+msgstr "รอบ: {0:0.##} / {1:0.##}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GENERATE_POWER
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GENERATE_POWER"
+msgid "Energy generated: {0} / {1}"
+msgstr "พลังงาน​ที่​ผลิต​ได้: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING"
+msgid "Got uranium out of a Beeta hive without getting stung"
+msgstr "เอา​ยูเรเนียม​ออกจาก​รัง​บี​ต้า​โดย​ไม่​โดน​ต่อย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE"
+msgid "Uranium extracted from a Beeta hive without getting stung"
+msgstr "สกัด​ยูเรเนียม​จา​กรัง​บี​ต้า​โดย​ไม่​โดน​ต่อย​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH"
+msgid "Hatched a critter morph"
+msgstr "ฟัก​ร่าง​แปร​ของ​สัตว์​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.INVESTIGATE_A_POI
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.INVESTIGATE_A_POI"
+msgid "Inspected a ruin"
+msgstr "ตรวจ​ซากปรักหักพัง​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.KELVIN_COOLING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.KELVIN_COOLING"
+msgid "Coldest building: {0:##0.#}K"
+msgstr "สิ่งก่อสร้าง​ที่​เย็น​ที่สุด: {0:##0.#}K"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS"
+msgid "Duplicants or rovers landed on {0} of {1} planetoids"
+msgstr "ดู​พลิ​แคนต์​หรือ​โร​เวอร์ (ยาน​สำรวจ) ลง​จอด​แล้ว {0} จาก {1} ดาว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET"
+msgid "Launched a Rocket into Space"
+msgstr "ปล่อย​จรวด​ขึ้น​สู่​อวกาศ​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET_TO_WORMHOLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET_TO_WORMHOLE"
+msgid "Sent a Duplicant on a one-way mission to the furthest Starmap destination"
+msgstr "ส่ง​ดู​พลิ​แคนต์​ไป​ภารกิจ​เที่ยว​เดียว​สู่​จุดหมาย​ไกล​ที่สุด​ใน​แผนที่​ดวงดาว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MINE_SPACE_POI
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MINE_SPACE_POI"
+msgid "Mined: {0:n} / {1:n} kg"
+msgstr "ขุด​แล้ว: {0:n} / {1:n} กก."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MORALE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MORALE"
+msgid "{0} morale: {1}"
+msgstr "ขวัญ​กำลังใจ{0}: {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.NO_BUILDING
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.NO_BUILDING"
+msgid "Never built a {0}"
+msgstr "ไม่​เคย​สร้าง{0}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.NO_FARM_TILES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.NO_FARM_TILES"
+msgid "No farmed plants"
+msgstr "ไม่​มี​พืช​ที่​ปลูก​ใน​ฟาร์ม"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.OPEN_TEMPORAL_TEAR
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.OPEN_TEMPORAL_TEAR"
+msgid "Open the Temporal Tear by finding and activating the Temporal Tear Opener"
+msgstr "เปิด​รอยแยก​กาลเวลา​ด้วย​การ​ค้นหา​และ​เปิด​ใช้​เครื่อง​เปิด​รอยแยก​กาลเวลา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PLATFORM_UNLOCKING_DISABLED
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PLATFORM_UNLOCKING_DISABLED"
+msgid "Platform achievements cannot be unlocked because a debug command was used in this colony. "
+msgstr "ปลดล็อก​ความสำเร็จ​ของ​แพลตฟอร์ม​ไม่​ได้ เพราะ​อาณานิคม​นี้​เคย​ใช้​คำสั่ง​ดี​บัก "
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PLATFORM_UNLOCKING_ENABLED
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PLATFORM_UNLOCKING_ENABLED"
+msgid "Platform achievements can be unlocked."
+msgstr "ปลดล็อก​ความสำเร็จ​ของ​แพลตฟอร์ม​ได้"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.POOP_PRODUCTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.POOP_PRODUCTION"
+msgid "Poop production: {0} / {1}"
+msgstr "ผลผลิต​อึ: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.POPULATION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.POPULATION"
+msgid "Population: {0} / {1}"
+msgstr "ประชากร: {0} / {1}"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR"
 msgid " or "
 msgstr " หรือ "
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL"
+msgid "Radbolts travelled: {0:n} m / {1:n} m"
+msgstr "ระยะ​ที่​เร​ด​โบ​ลต์​เดินทาง: {0:n} ม. / {1:n} ม."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES"
+msgid "Cycles remaining: {0} / {1}"
+msgstr "รอบ​ที่​เหลือ: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REVEALED
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REVEALED"
+msgid "Revealed: {0:0.##}% / {1:0.##}%"
+msgstr "เปิดเผย​แล้ว: {0:0.##}% / {1:0.##}%"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RUN_A_REACTOR
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RUN_A_REACTOR"
+msgid "Reactor running for cycles: {0} / {1}"
+msgstr "รอบ​ที่​เครื่อง​ปฏิกรณ์​ทำงาน: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SKILL_BRANCH
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SKILL_BRANCH"
+msgid "Unlocked an entire branch of the skill tree"
+msgstr "ปลดล็อก​ทักษะ​ครบ​ทั้ง​สาย​ใน​แผนผัง​ทักษะ​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE"
+msgid "Duplicants in {3} have ended each cycle in space with at least {0} morale for: {1} / {2} cycles"
+msgstr "ดู​พลิ​แคนต์​ใน {3} จบ​แต่ละ​รอบ​ใน​อวกาศ​ด้วย​ขวัญ​กำลังใจ​อย่าง​น้อย {0} มา​แล้ว: {1} / {2} รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE_COMPLETE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE_COMPLETE"
+msgid "Duplicants survived in space with at least {0} morale for {1} cycles."
+msgstr "ดู​พลิ​แคนต์​รอดชีวิต​ใน​อวกาศ​ด้วย​ขวัญ​กำลังใจ​อย่าง​น้อย {0} เป็นเวลา {1} รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER"
+msgid "Tamed a {0}"
+msgstr "ฝึก{0}ให้​เชื่อง​แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TECH_RESEARCHED
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TECH_RESEARCHED"
+msgid "Tech researched: {0} / {1}"
+msgstr "เทคโนโลยี​ที่​วิจัย​แล้ว: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT"
+msgid "Teleport a Duplicant to another world"
+msgstr "เท​เล​พอร์ต​ดู​พลิ​แคนต์​ไป​อีก​โลก​หนึ่ง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES"
+msgid "Distance: {0:n} m / {1:n} m"
+msgstr "ระยะทาง: {0:n} ม. / {1:n} ม."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.UPGRADE_ALL_BUILDINGS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.UPGRADE_ALL_BUILDINGS"
+msgid "All {0} upgraded to {1}"
+msgstr "อัปเกรด{0}ทั้งหมด​เป็น{1}แล้ว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.VENTED_MASS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.VENTED_MASS"
+msgid "Vented: {0} / {1}"
+msgstr "ปล่อย​ออก​แล้ว: {0} / {1}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STAYCONDITION_DEMOLIOR
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STAYCONDITION_DEMOLIOR"
+msgid "The Lab: Life Found A Way"
+msgstr "แล็บ: ชีวิต​หาทาง​ของ​มัน​เจอ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STAYCONDITION_DEMOLIOR_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STAYCONDITION_DEMOLIOR_DESCRIPTION"
+msgid "Survive 100 cycles after Demolior collides with your colony."
+msgstr "เอาชีวิต​รอด 100 รอบ​หลัง​เดโม​ลิ​ออร์​พุ่งชน​อาณานิคม​ของ​คุณ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_HUNDRED_CYCLES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_HUNDRED_CYCLES"
+msgid "Turn of the Century"
+msgstr "ครบรอบ​ศตวรรษ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_HUNDRED_CYCLES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_HUNDRED_CYCLES_DESCRIPTION"
+msgid "Reach cycle 100 with at least one living Duplicant."
+msgstr "ไป​ถึง​รอบ​ที่ 100 โดย​มี​ดู​พลิ​แคนต์​รอดชีวิต​อย่าง​น้อย​หนึ่ง​คน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET"
+msgid "Morale High Ground"
+msgstr "ใจ​ฟู​เหนือ​เมฆ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION"
+msgid "Have the Duplicants in one rocket survive in space for {0} cycles in a row with a morale of {1} or higher."
+msgstr "ให้​ดู​พลิ​แคนต์​ใน​จรวด​ลำ​เดียวกัน​รอดชีวิต​ใน​อวกาศ​ติดต่อกัน {0} รอบ ด้วย​ขวัญ​กำลังใจ {1} ขึ้นไป"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR"
+msgid "One Year, to be Exact"
+msgstr "หนึ่ง​ปี​พอดี​เป๊ะ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR_DESCRIPTION"
+msgid "Reach cycle 365.25 with a single colony."
+msgstr "ไป​ถึง​รอบ​ที่ 365.25 ด้วย​อาณานิคม​เดียว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY"
+msgid "Sweeter Than Honey"
+msgstr "หวาน​กว่า​น้ำผึ้ง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION"
+msgid "Extract Uranium from a Beeta hive without getting stung."
+msgstr "สกัด​ยูเรเนียม​จา​กรัง​บี​ต้า​โดย​ไม่​โดน​ต่อย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS"
+msgid "Critter Whisperer"
+msgstr "นัก​กระซิบ​สัตว์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS_DESCRIPTION"
+msgid "Find and tame one of every critter species in the world. Default morphs only."
+msgstr "ค้นหา​และ​ฝึก​สัตว์​ทุก​สายพันธุ์​ใน​โลก​ให้​เชื่อง ชนิด​ละ​หนึ่ง​ตัว นับ​เฉพาะ​ร่าง​แปร​พื้นฐาน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO"
+msgid "Moovin' On Up"
+msgstr "มู​ไป​ข้างหน้า"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO_DESCRIPTION"
+msgid "Find and tame a Moo."
+msgstr "ค้นหา​และ​ฝึก​มู​ให้​เชื่อง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TUBE_TRAVEL_DISTANCE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TUBE_TRAVEL_DISTANCE"
+msgid "Totally Tubular"
+msgstr "ท่อ​ดี​จน​ต้อง​ว้าว"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TUBE_TRAVEL_DISTANCE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TUBE_TRAVEL_DISTANCE_DESCRIPTION"
+msgid "Have Duplicants travel 10,000m by Transit Tube."
+msgstr "ให้​ดู​พลิ​แคนต์​เดินทาง​ด้วย​ท่อ​เดินทาง​รวม 10,000 ม."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES"
+msgid "No Place Like Clone"
+msgstr "ไม่​มี​ที่ไหน​เหมือน​โคลน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES_DESCRIPTION"
+msgid "Have at least 20 living Duplicants living in the colony at one time."
+msgstr "มี​ดู​พลิ​แคนต์​ที่​ยัง​มีชีวิต​อยู่​ใน​อาณานิคม​พร้อมกัน​อย่าง​น้อย 20 คน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.VARIETY_OF_ROOMS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.VARIETY_OF_ROOMS"
+msgid "Get a Room"
+msgstr "ไปหา​ห้อง​ซะ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.VARIETY_OF_ROOMS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.VARIETY_OF_ROOMS_DESCRIPTION"
+msgid "Build at least one of each of the following rooms in a single colony: A Nature Reserve, a Hospital, a Recreation Room, a Great Hall, a Bedroom, a Washroom, a Greenhouse and a Stable."
+msgstr "สร้าง​ห้อง​ต่อไปนี้​อย่าง​น้อย​อย่าง​ละ​หนึ่ง​ห้อง​ใน​อาณานิคม​เดียว: เขต​อนุรักษ์​ธรรมชาติ, โรงพยาบาล, ห้อง​สันทนาการ, ห้องโถง​ใหญ่, ห้องนอน, ห้องน้ำ, เรือนกระจก และ​คอก​สัตว์"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_AQUATIC
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_AQUATIC"
+msgid "Better Together"
+msgstr "อยู่​ด้วยกัน​ดีกว่า"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_AQUATIC_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_AQUATIC_DESCRIPTION"
+msgid "Recruit the only freediver Duplicant in the universe to your colony."
+msgstr "ชวน​ดู​พลิ​แคนต์​นัก​ดำน้ำ​อิสระ​คนเดียว​ใน​จักรวาล​มา​อยู่​อาณานิคม​ของ​คุณ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_ARTIFACTS"
+msgid "Cosmic Archaeology"
+msgstr "โบราณคดี​จักรวาล"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_ARTIFACTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_ARTIFACTS_DESCRIPTION"
+msgid "Uncover the past to secure your future by fulfilling the requirements of the Exploration Imperative."
+msgstr "ขุดคุ้ย​อดีต​เพื่อ​ปกป้อง​อนาคต ด้วย​การทำตาม​เงื่อนไข​ของ​พันธกิจ​สำรวจ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_DEMOLIOR
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_DEMOLIOR"
+msgid "Blast Line of Defense"
+msgstr "ระเบิด​แนว​ป้องกัน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_DEMOLIOR_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_DEMOLIOR_DESCRIPTION"
+msgid "Escape extinction by fulfilling the requirements of the Defense Imperative."
+msgstr "หนี​การสูญพันธุ์​ด้วย​การทำตาม​เงื่อนไข​ของ​พันธกิจ​ป้องกัน"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_GEOTHERMAL
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_GEOTHERMAL"
 msgid "Full Steam Ahead"
 msgstr "ไอ​น้ำ​เต็มกำลัง"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_GEOTHERMAL_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_GEOTHERMAL_DESCRIPTION"
+msgid "Secure your colony's industrial future by fulfilling the Power Imperative."
+msgstr "วางรากฐาน​อนาคต​อุตสาหกรรม​ให้​อาณานิคม​ด้วย​การ​ทำ​พันธกิจ​พลังงาน​ให้​สำเร็จ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_LEAVE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_LEAVE"
+msgid "The Great Escape"
+msgstr "การ​หลบหนี​ครั้ง​ยิ่งใหญ่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_LEAVE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_LEAVE_DESCRIPTION"
+msgid "Ensure your colony's legacy by fulfilling the requirements of the Escape Imperative."
+msgstr "สร้าง​มรดก​ให้​อาณานิคม​ด้วย​การทำตาม​เงื่อนไข​ของ​พันธกิจ​หลบหนี"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_STAY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_STAY"
+msgid "Home Sweet Home"
+msgstr "บ้าน​แสน​สุข"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_STAY_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_STAY_DESCRIPTION"
+msgid "Establish your permanent home by fulfilling the requirements of the Colonize Imperative."
+msgstr "สร้างบ้าน​ถาวร​ของ​คุณ​ด้วย​การทำตาม​เงื่อนไข​ของ​พันธกิจ​ตั้งถิ่นฐาน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.NO_DUPES_HAVE_DIED.REQUIREMENT_NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.NO_DUPES_HAVE_DIED.REQUIREMENT_NAME"
+msgid "Zero Duplicant deaths in the colony"
+msgstr "ไม่​มี​ดู​พลิ​แคนต์​เสียชีวิต​ใน​อาณานิคม​เลย"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.NOT_ACHIEVED_EVER
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.NOT_ACHIEVED_EVER"
+msgid "This Initiative's never been fulfilled"
+msgstr "ภารกิจ​ริเริ่ม​นี้​ยัง​ไม่​เคย​ทำสำเร็จ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.NOT_ACHIEVED_THIS_COLONY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.NOT_ACHIEVED_THIS_COLONY"
+msgid "The current colony hasn't fulfilled this Initiative"
+msgstr "อาณานิคม​ปัจจุบัน​ยัง​ไม่​ได้​ทำ​ภารกิจ​ริเริ่ม​นี้​สำเร็จ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.PRE_VICTORY_MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.PRE_VICTORY_MESSAGE_BODY"
+msgid "IMPERATIVE ACHIEVED: {0}"
+msgstr "พันธกิจ​สำเร็จ: {0}"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.PRE_VICTORY_MESSAGE_HEADER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.PRE_VICTORY_MESSAGE_HEADER"
 msgid "- ALERT -"
 msgstr "- เตือนภัย -"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY"
+msgid "In exploring this corner of the universe we have found and assembled a collection of artifacts from another civilization. Studying these artifacts can give us a greater understanding of who we are and where we come from. Only by learning about the past can we build a brighter future, one where we learn from the mistakes of our predecessors."
+msgstr "ระหว่าง​สำรวจ​มุม​นี้​ของ​จักรวาล เรา​ได้​พบ​และ​รวบรวม​โบราณวัตถุ​จาก​อารยธรรม​อื่น​ไว้​ชุด​หนึ่ง การศึกษา​โบราณวัตถุ​เหล่านี้​ช่วย​ให้​เรา​เข้าใจ​มากขึ้น​ว่า​เรา​เป็น​ใคร​และ​มาจาก​ไหน เรา​จะ​สร้างอนาคต​ที่​สดใส​กว่า​ได้​ก็ต่อเมื่อ​เรียนรู้​จาก​อดีต อนาคต​ที่​เรา​ไม่​ซ้ำรอย​ความผิดพลาด​ของ​คนรุ่นก่อน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY_DLC1
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY_DLC1"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE"
+msgid "LINK TO OUR PAST"
+msgstr "สายใย​สู่​อดีต"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE_DLC1
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE_DLC1"
+msgid "DLC1"
+msgstr "DLC1"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MYLOGNAME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MYLOGNAME"
 msgid "Artifacts"
 msgstr "โบราณวัตถุ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.NAME"
+msgid "Cosmic Archaeology"
+msgstr "โบราณคดี​จักรวาล"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES"
+msgid "Establish several colonies"
+msgstr "ตั้ง​อาณานิคม​หลาย​แห่ง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES_DESCRIPTION"
+msgid "Establish colonies on {count} asteroids by building and activating Mini-Pods"
+msgstr "ตั้ง​อาณานิคม​บน​ดาวเคราะห์​น้อย {count} ดวง​ด้วย​การ​สร้าง​และ​เปิด​ใช้​มินิ​พ็อด"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS"
+msgid "Study {artifactCount} Terrestrial Artifacts"
+msgstr "ศึกษา​โบราณวัตถุ​ภาคพื้นดิน {artifactCount} ชิ้น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS_DESCRIPTION"
+msgid "Study {artifactCount} Terrestrial Artifacts at the Artifact Analysis Station"
+msgstr "ศึกษา​โบราณวัตถุ​ภาคพื้นดิน {artifactCount} ชิ้น​ที่​สถานี​วิเคราะห์​โบราณวัตถุ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_SPACE_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_SPACE_ARTIFACTS"
+msgid "Study {artifactCount} Space Artifacts"
+msgstr "ศึกษา​โบราณวัตถุ​อวกาศ {artifactCount} ชิ้น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_SPACE_ARTIFACTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_SPACE_ARTIFACTS_DESCRIPTION"
+msgid "Study {artifactCount} Space Artifacts at the Artifact Analysis Station"
+msgstr "ศึกษา​โบราณวัตถุ​อวกาศ {artifactCount} ชิ้น​ที่​สถานี​วิเคราะห์​โบราณวัตถุ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT.FIRST
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT.FIRST"
+msgid "Our homeworld in this universe is gone, replaced by the skeleton of a planet and a wound in the sky... But I hold out hope that other worlds exist out there, tucked away in other dimensions."
+msgstr "โลก​บ้านเกิด​ของ​เรา​ใน​จักรวาล​นี้​หาย​ไป​แล้ว เหลือ​ไว้​เพียง​โครงกระดูก​ของ​ดาว​และ​บาดแผล​บน​ท้องฟ้า... แต่​ฉัน​ยัง​หวัง​ว่า​โลก​อื่น​มี​อยู่​ที่ไหน​สัก​แห่ง ซ่อน​อยู่​ใน​มิติ​อื่น"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT.SECOND
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT.SECOND"
+msgid "I sent my Duplicant through the Temporal Tear carrying that hope on their shoulders... Perhaps one day they'll find a place to call home, and begin a thriving colony all their own."
+msgstr "ฉัน​ส่ง​ดู​พลิ​แคนต์​ผ่าน​รอยแยก​กาลเวลา​ไป​พร้อม​ความหวัง​นั้น​บน​บ่า... สักวันหนึ่ง​พวกเขา​อาจ​ได้​พบ​ที่​ที่​เรียก​ว่า​บ้าน และ​เริ่มต้น​อาณานิคม​ที่​รุ่งเรือง​ของ​ตัวเอง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.FIRST
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.FIRST"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.SECOND
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.SECOND"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MESSAGE_BODY"
+msgid ""
+"Few civilizations throughout time have had the privilege of understanding their origins. The one thing that matters is that we are here now, and we make the best of the world we've been given. I am proud to say...\n"
+"\n"
+"This asteroid is our home."
+msgstr ""
+"ตลอด​กาลเวลา มี​อารยธรรม​เพียง​ไม่​กี่​แห่ง​ที่​ได้​รู้​ถึง​ต้นกำเนิด​ของ​ตัวเอง สิ่ง​เดียว​ที่​สำคัญ​คือ​เรา​อยู่​ที่นี่​แล้ว​ตอนนี้ และ​เรา​จะ​ใช้​โลก​ที่​ได้รับ​มา​ให้​ดี​ที่สุด ฉัน​ภูมิใจ​ที่จะ​บอ​กว่า...\n"
+"\n"
+"ดาวเคราะห์​น้อย​ดวง​นี้​คือ​บ้าน​ของ​เรา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MESSAGE_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MESSAGE_TITLE"
+msgid "THIS IS OUR HOME"
+msgstr "ที่นี่​คือ​บ้าน​ของ​เรา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MYLOGNAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MYLOGNAME"
+msgid "This Is Our Home"
+msgstr "ที่นี่​คือ​บ้าน​ของ​เรา"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.NAME"
+msgid "Home Sweet Home"
+msgstr "บ้าน​แสน​สุข"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT"
+msgid "Build a Great Monument"
+msgstr "สร้าง​อนุสาวรีย์​ยิ่งใหญ่"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT_DESCRIPTION"
+msgid "Build all three sections of a <style=\"KKeyword\">Great Monument</style> to mark the colony as your home"
+msgstr "สร้าง<style=\"KKeyword\">อนุสาวรีย์​ยิ่งใหญ่</style>ให้​ครบ​ทั้ง​สาม​ส่วน เพื่อ​ประกาศ​ว่า​อาณานิคม​นี้​คือ​บ้าน​ของ​คุณ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_CYCLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_CYCLE"
+msgid "Survive {0} Cycles"
+msgstr "เอาชีวิต​รอด {0} รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_CYCLE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_CYCLE_DESCRIPTION"
+msgid "The colony must survive a minimum of <b>{0}</b> cycles"
+msgstr "อาณานิคม​ต้อง​อยู่รอด​อย่าง​น้อย <b>{0}</b> รอบ"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_DUPLICANTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_DUPLICANTS"
+msgid "Print {0} Duplicants"
+msgstr "พิมพ์​ดู​พลิ​แคนต์ {0} คน"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_DUPLICANTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_DUPLICANTS_DESCRIPTION"
+msgid "The colony must have <b>{0}</b> or more living Duplicants"
+msgstr "อาณานิคม​ต้อง​มี​ดู​พลิ​แคนต์​ที่​ยัง​มีชีวิต <b>{0}</b> คน​ขึ้นไป"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_MORALE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_MORALE"
+msgid "Maintain {0} Morale"
+msgstr "รักษา​ขวัญ​กำลังใจ {0}"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_MORALE_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.MINIMUM_MORALE_DESCRIPTION"
+msgid "All Duplicants must have <style=\"KKeyword\">Morale</style> of 16 or higher"
+msgstr "ดู​พลิ​แคนต์​ทุกคน​ต้อง​มี<style=\"KKeyword\">ขวัญ​กำลังใจ</style> 16 ขึ้นไป"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.FIRST
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.FIRST"
+msgid "Few civilizations throughout time have had the privilege of understanding their origins."
+msgstr "ตลอด​กาลเวลา มี​อารยธรรม​เพียง​ไม่​กี่​แห่ง​ที่​ได้​รู้​ถึง​ต้นกำเนิด​ของ​ตัวเอง"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.SECOND
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.SECOND"
+msgid "The only thing that matters is that we are here now, and we make the best of the world we've been given. I am proud to say..."
+msgstr "สิ่ง​เดียว​ที่​สำคัญ​คือ​เรา​อยู่​ที่นี่​แล้ว​ตอนนี้ และ​เรา​จะ​ใช้​โลก​ที่​ได้รับ​มา​ให้​ดี​ที่สุด ฉัน​ภูมิใจ​ที่จะ​บอ​กว่า..."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.THIRD
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.THIRD"
+msgid "This asteroid is our home."
+msgstr "ดาวเคราะห์​น้อย​ดวง​นี้​คือ​บ้าน​ของ​เรา"
 
 #. STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.DESC
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.DESC"
@@ -76494,75 +77991,343 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
 msgid "Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation"
 msgstr "ปกป้อง​ผู้​สวมใส่​จาก<style=\"heat\">ความ​หนาว</style>ด้วย​การ​เพิ่ม​ฉนวน"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.DESCRIPTION"
+msgid ""
+"{dupe}'s recent proximity to an Algae Terrarium has left them feeling refreshed and exuberant and is correlated to an increase in their physical attributes. It is unclear whether these physical improvements came from the excess of oxygen or the invigorating smell of algae.\n"
+"\n"
+"It's curious that I find myself nostalgic for the smell of algae growing in a lab. But how could this be...?"
+msgstr ""
+"การ​ที่ {dupe} ได้​อยู่​ใกล้​ตู้​เลี้ยง​สาหร่าย​เมื่อไม่นานนี้​ทำให้​รู้สึก​สดชื่น​กระปรี้กระเปร่า และ​สัมพันธ์​กับ​ค่า​สมรรถภาพทางกาย​ที่​เพิ่มขึ้น ยัง​ไม่​แน่ชัด​ว่า​เป็น​เพราะ​ออกซิเจน​ที่​ล้นเหลือ หรือ​กลิ่น​สาหร่าย​ที่​ชวน​กระชุ่มกระชวย​กัน​แน่\n"
+"\n"
+"แปลก​ดี​ที่​ฉัน​รู้สึก​คิดถึง​กลิ่น​สาหร่าย​ที่​เพาะ​ใน​ห้อง​แล็บ แต่​จะ​เป็นไปได้​ยังไง​กัน...?"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.NAME"
+msgid "Fresh Algae Smell"
+msgstr "กลิ่น​สาหร่าย​สด​ใหม่"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSBUILDER.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSBUILDER.DESCRIPTION"
+msgid ""
+"{dupe} has been hard at work building many structures crucial to the future of the colony. It seems this activity has improved this Duplicant's budding construction and mechanical skills beyond what my models predicted.\n"
+"\n"
+"Whether this increase in ability is due to them learning new skills or simply gaining self-confidence I cannot say, but this unexpected development is a welcome surprise development."
+msgstr ""
+"{dupe} ขยัน​สร้าง​สิ่งก่อสร้าง​มากมาย​ที่​สำคัญ​ต่อ​อนาคต​ของ​อาณานิคม ดูเหมือน​กิจกรรม​นี้​จะ​พัฒนา​ทักษะ​การ​ก่อสร้าง​และ​ช่างกล​ที่​เพิ่ง​ผลิบาน​ของ​ดู​พลิ​แคนต์คน​นี้ ได้​เกิน​กว่า​ที่​แบบจำลอง​ของ​ฉัน​คาด​ไว้\n"
+"\n"
+"ฉัน​บอก​ไม่​ได้​ว่า​ความสามารถ​ที่​เพิ่มขึ้น​นี้​มาจาก​การเรียนรู้​ทักษะ​ใหม่ หรือ​แค่​ความมั่นใจ​ใน​ตัวเอง​ที่​มากขึ้น แต่​พัฒนาการ​ที่​ไม่​คาดคิด​นี้​ก็​เป็น​เซอร์ไพรส์​ที่​น่ายินดี"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSBUILDER.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSBUILDER.NAME"
 msgid "Accomplished Builder"
 msgstr "ช่างก่อสร้าง​มือฉมัง"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDIGGING1.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDIGGING1.DESCRIPTION"
+msgid ""
+"Some interesting data has revealed that {dupe} has had a marked increase in physical abilities, an increase that cannot entirely be attributed to the usual improvements that occur after regular physical activity.\n"
+"\n"
+"Based on previous observations this Duplicant's positive associations with digging appear to account for this additional physical boost.\n"
+"\n"
+"This would mean the personal preferences of my Duplicants are directly correlated to how hard they work. How interesting..."
+msgstr ""
+"ข้อมูล​น่าสนใจ​บางอย่าง​เผย​ว่า {dupe} มี​สมรรถภาพทางกาย​เพิ่มขึ้น​อย่าง​เห็นได้ชัด ซึ่ง​อธิบาย​ด้วย​พัฒนาการ​ตามปกติ​จาก​การออกกำลังกาย​สม่ำเสมอ​อย่าง​เดียว​ไม่​ได้\n"
+"\n"
+"จาก​การ​สังเกต​ก่อนหน้านี้ ความรู้สึก​ดี ๆ ที่​ดู​พลิ​แคนต์คน​นี้​มี​ต่อ​การ​ขุด น่าจะเป็น​ที่มา​ของ​พลัง​กาย​ที่​เพิ่มขึ้น​มา​นี้\n"
+"\n"
+"แปล​ว่า​ความชอบ​ส่วนตัว​ของ​ดู​พลิ​แคนต์​สัมพันธ์​โดยตรง​กับ​ความ​ขยัน​ใน​การทำงาน น่าสน​ใจจริง ๆ..."
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDIGGING1.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDIGGING1.NAME"
 msgid "Hot Diggity!"
 msgstr "ขุด​มันส์!"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.DESCRIPTION"
+msgid ""
+"The act of closing a door has apparently lead to a decrease in the <link=\"STRESS\">Stress</link> levels of {dupe}, as well as decreased the exposure of this Duplicant to harmful <link=\"GERMS\">Germs</link>.\n"
+"\n"
+"While it may be more efficient to group all my Duplicants together in common sleeping quarters, it's important to remember the mental benefits to privacy and space to express their individuality."
+msgstr ""
+"การ​ปิดประตู​ดูจะ​ช่วย​ลด​ระดับ<link=\"STRESS\">ความเครียด</link>ของ {dupe} และ​ยัง​ลด​การสัมผัส<link=\"GERMS\">เชื้อโรค</link>อันตราย​ของ​ดู​พลิ​แคนต์คน​นี้​ด้วย\n"
+"\n"
+"ถึง​การ​ให้​ดู​พลิ​แคนต์​ทุกคน​นอน​รวมกัน​ใน​ห้องนอน​รวม​อาจ​มีประสิทธิภาพ​กว่า แต่​ก็​ต้อง​ไม่​ลืม​ประโยชน์​ทางใจ​ของ​ความเป็นส่วนตัว และ​พื้นที่​ให้​พวกเขา​ได้​แสดง​ความ​เป็น​ตัวเอง"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.NAME"
 msgid "Open and Shut"
 msgstr "ปิดประตู​เงียบ"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM1.CHAIN_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM1.CHAIN_TOOLTIP"
+msgid "Improving the living conditions of {dupe} will lead to more good dreams."
+msgstr "การปรับปรุง​สภาพ​ความเป็นอยู่​ของ {dupe} จะ​ทำให้​ฝันดี​บ่อย​ขึ้น"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM1.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM1.DESCRIPTION"
+msgid ""
+"I've observed many improvements to {dupe}'s demeanor today. Analysis indicates unusually high amounts of dopamine in their system. There's a good chance this is due to an exceptionally good dream and analysis indicates that current sleeping conditions may have contributed to this occurrence.\n"
+"\n"
+"Further improvements to sleeping conditions may have additional positive effects to the <link=\"MORALE\">Morale</link> of {dupe} and other Duplicants."
+msgstr ""
+"วันนี้​ฉัน​สังเกตเห็น​ท่าทาง​ของ {dupe} ที่​ดีขึ้น​หลายอย่าง ผล​วิเคราะห์​ชี้​ว่า​มี​โด​พา​มีน​ใน​ร่างกาย​สูง​ผิดปกติ เป็นไป​ได้มา​กว่า​มาจาก​ฝันดี​สุด ๆ และ​ผล​วิเคราะห์​ก็​บอ​กว่า​สภาพ​การ​นอน​ใน​ตอนนี้​อาจ​มีส่วนช่วย\n"
+"\n"
+"การปรับปรุง​สภาพ​การ​นอน​ให้​ดีขึ้น​อีก​อาจ​ส่ง​ผลดี​ต่อ<link=\"MORALE\">ขวัญ​กำลังใจ</link>ของ {dupe} และ​ดู​พลิ​แคนต์​คนอื่น ๆ เพิ่มเติม"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM1.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM1.NAME"
 msgid "Good Dream"
 msgstr "ฝันดี"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM2.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM2.DESCRIPTION"
+msgid ""
+"{dupe} had another really good dream and the resulting release of dopamine has made this Duplicant energetic and full of possibilities! This is an encouraging byproduct of improving the living conditions of the colony.\n"
+"\n"
+"Based on these observations, building a better sleeping area for my Duplicants will have a similar effect on their <link=\"MORALE\">Morale</link>."
+msgstr ""
+"{dupe} ฝัน​ดีมาก ๆ อีกแล้ว และ​โด​พา​มีน​ที่​หลั่ง​ออกมา​ทำให้​ดู​พลิ​แคนต์คน​นี้​กระฉับกระเฉง​และ​เต็มไปด้วย​ความหวัง! นี่​เป็น​ผลพลอยได้​ที่​น่า​ชื่นใจ​จาก​การปรับปรุง​สภาพ​ความเป็นอยู่​ของ​อาณานิคม\n"
+"\n"
+"จาก​การ​สังเกต​นี้ การ​สร้าง​ที่นอน​ที่​ดีขึ้น​ให้​ดู​พลิ​แคนต์​จะ​ส่งผล​คล้าย​กัน​ต่อ<link=\"MORALE\">ขวัญ​กำลังใจ</link>ของ​พวกเขา"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM2.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM2.NAME"
 msgid "Really Good Dream"
 msgstr "ฝัน​ดีมาก"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM3.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM3.DESCRIPTION"
+msgid ""
+"I have detected a distinct spring in {dupe}'s step today. There is a good chance that this Duplicant had another great dream last night. Such incidents are further indications that working on the care and comfort of the colony is not a waste of time.\n"
+"\n"
+"I do wonder though: What do Duplicants dream of?"
+msgstr ""
+"วันนี้​ฉัน​ตรวจ​พบ​ว่า {dupe} เดินเหิน​กระชุ่มกระชวย​เป็นพิเศษ เป็นไป​ได้มา​กว่า​ดู​พลิ​แคนต์คน​นี้​ฝันดี​อีกแล้ว​เมื่อคืน เหตุการณ์​แบบนี้​ยิ่ง​ยืนยัน​ว่าการ​ดูแล​ความสุขสบาย​ของ​อาณานิคม​ไม่​ใช่​เรื่อง​เสียเวลา\n"
+"\n"
+"แต่​ฉัน​ก็​สงสัย​นะ ดู​พลิ​แคนต์​ฝัน​ถึง​อะไร​กัน?"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM3.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM3.NAME"
 msgid "Great Dream"
 msgstr "ฝันดี​สุด​ๆ"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM4.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM4.DESCRIPTION"
+msgid ""
+"{dupe}'s dream last night must have been simply amazing! Their dopamine levels are at an all time high. Based on these results, it can be safely assumed that improving the living conditions of my Duplicants will reduce <link=\"STRESS\">Stress</link> and have similar positive effects on their well-being.\n"
+"\n"
+"Observations such as this are an integral and enjoyable part of science. When I see my Duplicants happy, I can't help but share in some of their joy."
+msgstr ""
+"ฝัน​ของ {dupe} เมื่อคืน​ต้อง​สุดยอด​แน่ ๆ! ระดับ​โด​พา​มีน​พุ่ง​สูงสุด​เป็นประวัติการณ์ จาก​ผล​นี้ พอ​จะ​สรุป​ได้​อย่าง​มั่นใจ​ว่า​การปรับปรุง​สภาพ​ความเป็นอยู่​ของ​ดู​พลิ​แคนต์​จะ​ช่วย​ลด<link=\"STRESS\">ความเครียด</link> และ​ส่ง​ผลดี​แบบ​เดียวกัน​ต่อ​สุขภาวะ​ของ​พวกเขา\n"
+"\n"
+"การ​สังเกต​แบบนี้​เป็น​ส่วนสำคัญ​และ​สนุก​ของ​วิทยาศาสตร์ เวลา​เห็น​ดู​พลิ​แคนต์​มีความสุข ฉัน​ก็​อด​สุข​ไป​ด้วย​ไม่​ได้"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM4.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDREAM4.NAME"
+msgid "Amazing Dream"
+msgstr "ฝัน​สุด​อัศจรรย์"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSGENERATOR.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSGENERATOR.DESCRIPTION"
+msgid ""
+"{dupe} ran in a Manual Generator and the physical activity appears to have given this Duplicant increased strength and sense of well-being.\n"
+"\n"
+"While not the primary reason for building Manual Generators, I am very pleased to see my Duplicants reaping the <link=\"STRESS\">Stress</link> relieving benefits to physical activity."
+msgstr ""
+"{dupe} วิ่ง​ใน​เครื่องปั่นไฟ​มือ และ​การออกกำลังกาย​ดูจะ​ทำให้​ดู​พลิ​แคนต์คน​นี้​แข็งแรง​และ​รู้สึก​ดีขึ้น\n"
+"\n"
+"ถึง​จะ​ไม่​ใช่​เหตุผล​หลัก​ใน​การ​สร้าง​เครื่องปั่นไฟ​มือ แต่​ฉัน​ก็​ดีใจ​มาก​ที่​เห็น​ดู​พลิ​แคนต์​ได้ประโยชน์​ด้าน​การ​คลาย<link=\"STRESS\">ความเครียด</link>จาก​การออกกำลังกาย"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSGENERATOR.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSGENERATOR.NAME"
 msgid "Exercised"
 msgstr "ได้​ออกกำลังกาย"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSHITTHEBOOKS.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSHITTHEBOOKS.DESCRIPTION"
+msgid ""
+"{dupe}'s recent Research errand has resulted in a significant increase to this Duplicant's brain activity. The discovery of newly found knowledge has given {dupe} an invigorating jolt of excitement.\n"
+"\n"
+"I am all too familiar with this feeling."
+msgstr ""
+"งานวิจัย​ล่าสุด​ของ {dupe} ทำให้​สมอง​ของ​ดู​พลิ​แคนต์คน​นี้​ทำงาน​คึกคัก​ขึ้น​มาก การ​ค้นพบ​ความรู้​ใหม่​ทำให้ {dupe} ตื่นเต้น​จน​ไฟ​ลุก\n"
+"\n"
+"ฉัน​รู้จัก​ความรู้สึก​นี้​ดี​เหลือเกิน"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSHITTHEBOOKS.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSHITTHEBOOKS.NAME"
 msgid "Hit the Books"
 msgstr "ตั้งใจ​อ่านหนังสือ"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSLITWORKSPACE.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSLITWORKSPACE.DESCRIPTION"
+msgid ""
+"{dupe}'s recent time in a well-lit area has greatly improved this Duplicant's ability to work with, and on, machinery.\n"
+"\n"
+"This supports the prevailing theory that a well-lit workspace has many benefits beyond just improving my Duplicant's ability to see."
+msgstr ""
+"การ​ที่ {dupe} ได้​อยู่​ใน​บริเวณ​ที่​สว่าง​เมื่อไม่นานนี้ ช่วย​ให้​ดู​พลิ​แคนต์คน​นี้​ทำงาน​กับ​เครื่องจักร​ได้​เก่ง​ขึ้น​มาก\n"
+"\n"
+"นี่​สนับสนุน​ทฤษฎี​ที่ว่า​ที่ทำงาน​ที่​สว่าง​ดี​มีประโยชน์​หลายอย่าง ไม่​ใช่​แค่​ช่วย​ให้​ดู​พลิ​แคนต์​มอง​เห็นชัด​ขึ้น"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSLITWORKSPACE.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSLITWORKSPACE.NAME"
+msgid "Lit-erally Great"
+msgstr "สว่าง​สดใส​ใจ​ฟู"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSOXYGEN.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSOXYGEN.DESCRIPTION"
+msgid ""
+"{dupe} is experiencing a sudden unexpected improvement to their physical prowess which appears to be a result of exposure to elevated levels of oxygen from passing by an Oxygen Diffuser.\n"
+"\n"
+"Observations such as this are important in documenting just how beneficial having access to oxygen is to my colony."
+msgstr ""
+"{dupe} มีพลัง​กาย​เพิ่มขึ้น​แบบ​ไม่​ทัน​ตั้งตัว ซึ่ง​ดูจะ​มาจาก​การ​ได้รับ​ออกซิเจน​เข้มข้น​ตอน​เดินผ่าน​เครื่อง​กระจาย​ออกซิเจน\n"
+"\n"
+"การ​สังเกต​แบบนี้​สำคัญ​ต่อ​การ​บันทึก​ว่าการ​เข้าถึง​ออกซิเจน​มีประโยชน์​ต่อ​อาณานิคม​ของ​ฉัน​มาก​แค่​ไหน"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSOXYGEN.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSOXYGEN.NAME"
 msgid "Fresh Air"
 msgstr "อากาศ​สดชื่น"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSRESEARCH.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSRESEARCH.DESCRIPTION"
+msgid ""
+"Analysis indicates that the appearance of a <style=\"KKeyword\">Research Station</style> has inspired {dupe} and heightened their brain activity on a cellular level.\n"
+"\n"
+"Brain stimulation is important if my Duplicants are going to adapt and innovate in their increasingly harsh environment."
+msgstr ""
+"ผล​วิเคราะห์​ชี้​ว่าการ​ปรากฏตัว​ของ<style=\"KKeyword\">สถานี​วิจัย</style>สร้าง​แรงบันดาลใจ​ให้ {dupe} และ​กระตุ้น​การทำงาน​ของ​สมอง​ถึง​ระดับ​เซลล์\n"
+"\n"
+"การ​กระตุ้น​สมอง​สำคัญ​มาก ถ้า​อยาก​ให้​ดู​พลิ​แคนต์​ปรับตัว​และ​คิดค้น​สิ่งใหม่​ได้​ใน​สภาพแวดล้อม​ที่​โหดร้าย​ขึ้น​เรื่อย ๆ"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSRESEARCH.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSRESEARCH.NAME"
 msgid "Inspired Learner"
 msgstr "ผู้เรียน​มี​ไฟ"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSSTORAGE.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSSTORAGE.DESCRIPTION"
+msgid ""
+"Data indicates that {dupe}'s activity in storing something in a Storage Bin has led to an increase in this Duplicant's physical strength as well as an overall improvement to their general demeanor.\n"
+"\n"
+"There have been many studies connecting organization with an increase in well-being. It is possible this explains {dupe}'s <link=\"MORALE\">Morale</link> improvements."
+msgstr ""
+"ข้อมูล​ชี้​ว่าการ​ที่ {dupe} เก็บ​ของ​ลง​ถัง​เก็บ​ของ ทำให้​ดู​พลิ​แคนต์คน​นี้​แข็งแรง​ขึ้น​และ​อารมณ์​ดีขึ้น​โดยรวม\n"
+"\n"
+"มี​งานวิจัย​มากมาย​ที่​เชื่อมโยง​ความเป็นระเบียบ​กับ​สุขภาวะ​ที่​ดีขึ้น อาจ​เป็น​คำอธิบาย​ว่า​ทำไม<link=\"MORALE\">ขวัญ​กำลังใจ</link>ของ {dupe} ถึง​ดีขึ้น"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSSTORAGE.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSSTORAGE.NAME"
 msgid "Something in Store"
 msgstr "มี​ของ​เก็บ​ไว้"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTALKER.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTALKER.DESCRIPTION"
+msgid ""
+"{dupe}'s recent conversation with another Duplicant shows a correlation to improved serotonin and <link=\"MORALE\">Morale</link> levels in this Duplicant. It is very possible that small talk with a co-worker, however short and seemingly insignificant, will make my Duplicant's feel connected to the colony as a whole.\n"
+"\n"
+"As the colony gets bigger and more sophisticated, I must ensure that the opportunity for such connections continue, for the good of my Duplicants' mental well being."
+msgstr ""
+"บทสนทนา​ล่าสุด​ของ {dupe} กับ​ดู​พลิ​แคนต์​อีก​คน​สัมพันธ์​กับ​ระดับ​เซโรโทนิน​และ<link=\"MORALE\">ขวัญ​กำลังใจ</link>ที่​ดีขึ้น​ของ​ดู​พลิ​แคนต์คน​นี้ เป็นไป​ได้มา​กว่า​การคุย​เล่น​กับ​เพื่อนร่วมงาน ต่อให้​สั้น​และ​ดู​ไม่​สำคัญ​แค่​ไหน ก็​ทำให้​ดู​พลิ​แคนต์​รู้สึก​ผูกพัน​กับ​อาณานิคม​ทั้งหมด\n"
+"\n"
+"เมื่อ​อาณานิคม​ใหญ่​และ​ซับซ้อน​ขึ้น ฉัน​ต้อง​รักษา​โอกาส​ให้​เกิด​ความผูกพัน​แบบนี้​ต่อไป เพื่อ​สุขภาพจิต​ที่​ดี​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTALKER.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTALKER.NAME"
+msgid "Big Small Talker"
+msgstr "เจ้าแม่​คุย​เล่น"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET1.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET1.DESCRIPTION"
+msgid ""
+"{dupe} recently visited an Outhouse and appears to have appreciated the small comforts based on the marked increase to their <link=\"MORALE\">Morale</link>.\n"
+"\n"
+"High <link=\"MORALE\">Morale</link> has been linked to a better work ethic and greater enthusiasm for complex jobs, which are essential in building a successful new colony."
+msgstr ""
+"{dupe} เพิ่ง​ไป​เข้า​ส้วมหลุม และ​ดูจะ​ซาบซึ้ง​กับ​ความ​สบาย​เล็ก ๆ น้อย ๆ จาก<link=\"MORALE\">ขวัญ​กำลังใจ</link>ที่​เพิ่มขึ้น​อย่าง​เห็นได้ชัด\n"
+"\n"
+"<link=\"MORALE\">ขวัญ​กำลังใจ</link>ที่สูง​สัมพันธ์​กับ​ความตั้งใจ​ทำงาน​ที่​ดีขึ้น และ​ความ​กระตือรือร้น​ต่อ​งาน​ซับซ้อน ซึ่ง​จำ​เป็นต่อ​การ​สร้าง​อาณานิคม​ใหม่​ให้​สำเร็จ"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET1.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET1.NAME"
 msgid "Small Comforts"
 msgstr "ความ​สบาย​เล็ก​ๆ"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET2.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET2.DESCRIPTION"
+msgid ""
+"{dupe} used a Lavatory and analysis shows a decided improvement to this Duplicant's <link=\"MORALE\">Morale</link>.\n"
+"\n"
+"As my colony grows and expands, it's important not to ignore the benefits of giving my Duplicants a pleasant place to relieve themselves."
+msgstr ""
+"{dupe} ใช้​ส้วมชักโครก และ​ผล​วิเคราะห์​แสดงว่า<link=\"MORALE\">ขวัญ​กำลังใจ</link>ของ​ดู​พลิ​แคนต์คน​นี้​ดีขึ้น​ชัดเจน\n"
+"\n"
+"เมื่อ​อาณานิคม​เติบโต​ขยายตัว ต้อง​ไม่​มองข้าม​ประโยชน์​ของ​การ​มี​ที่​ปลดทุกข์​ดี ๆ ให้​ดู​พลิ​แคนต์"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET2.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET2.NAME"
 msgid "Greater Comforts"
 msgstr "ความ​สบาย​ขึ้น​อีก​ขั้น"
 
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET3.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET3.DESCRIPTION"
+msgid ""
+"{dupe} visited a Latrine and experienced luxury unlike they anything this Duplicant had previously experienced as analysis has revealed yet another boost to their <link=\"MORALE\">Morale</link>.\n"
+"\n"
+"It is unclear whether this development is a result of increased hygiene or whether there is something else inherently about working plumbing which would improve <link=\"MORALE\">Morale</link> in this way. Further analysis is needed."
+msgstr ""
+"{dupe} ไป​เข้า​ห้องส้วม และ​ได้​สัมผัส​ความหรูหรา​แบบ​ที่​ดู​พลิ​แคนต์คน​นี้​ไม่​เคย​พบ​มา​ก่อน เพราะ​ผล​วิเคราะห์​เผย​ว่า<link=\"MORALE\">ขวัญ​กำลังใจ</link>เพิ่มขึ้น​อีกแล้ว\n"
+"\n"
+"ยัง​ไม่​แน่ชัด​ว่า​เป็นผล​จาก​สุขอนามัย​ที่​ดีขึ้น หรือ​มี​อะไร​บางอย่าง​ใน​ระบบ​ประปา​ที่​ใช้งาน​ได้ ที่​ช่วย​เพิ่ม<link=\"MORALE\">ขวัญ​กำลังใจ</link>แบบนี้ ต้อง​วิเคราะห์​เพิ่มเติม"
+
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET3.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET3.NAME"
 msgid "Small Luxury"
 msgstr "ความ​หรู​เล็ก​ๆ"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET4.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET4.DESCRIPTION"
+msgid ""
+"{dupe} visited a Washroom and the experience has left this Duplicant with significantly improved <link=\"MORALE\">Morale</link>. Analysis indicates this improvement should continue for many cycles.\n"
+"\n"
+"The relationship of my Duplicants and their surroundings is an interesting aspect of colony life. I should continue to watch future developments in this department closely."
+msgstr ""
+"{dupe} ไป​เข้า​ห้องน้ำ และ​ประสบการณ์​นี้​ทำให้​ดู​พลิ​แคนต์คน​นี้​มี<link=\"MORALE\">ขวัญ​กำลังใจ</link>ดีขึ้น​มาก ผล​วิเคราะห์​ชี้​ว่า​ผลดี​นี้​น่าจะ​อยู่​ไป​อีก​หลาย​รอบ\n"
+"\n"
+"ความสัมพันธ์​ระหว่าง​ดู​พลิ​แคนต์​กับ​สิ่งแวดล้อม​รอบตัว​เป็น​แง่มุม​ที่​น่าสนใจ​ของ​ชีวิต​ใน​อาณานิคม ฉัน​ควร​จับตา​พัฒนาการ​ด้าน​นี้​ต่อไป​อย่าง​ใกล้ชิด"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET4.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSTOILET4.NAME"
+msgid "Greater Luxury"
+msgstr "หรูหรา​ยิ่งกว่า"
+
+#. STRINGS.GAMEPLAY_EVENTS.BONUS_EVENT_DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS_EVENT_DESCRIPTION"
+msgid "{effects} for {duration}"
+msgstr "{effects} เป็นเวลา {duration}"
+
+#. STRINGS.GAMEPLAY_EVENTS.CANCELED
+msgctxt "STRINGS.GAMEPLAY_EVENTS.CANCELED"
+msgid "{0} Canceled"
+msgstr "ยกเลิก{0}แล้ว"
+
+#. STRINGS.GAMEPLAY_EVENTS.CANCELED_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.CANCELED_TOOLTIP"
+msgid "The {0} event was canceled"
+msgstr "อีเวนต์{0}ถูก​ยกเลิก"
+
+#. STRINGS.GAMEPLAY_EVENTS.CHAIN_EVENT_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.CHAIN_EVENT_TOOLTIP"
+msgid "This event is a chain event"
+msgstr "อีเวนต์​นี้​เป็น​อีเวนต์​ต่อเนื่อง"
+
+#. STRINGS.GAMEPLAY_EVENTS.DEFAULT_OPTION_CONSIDER_NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.DEFAULT_OPTION_CONSIDER_NAME"
+msgid "Let me think about it"
+msgstr "ขอ​คิด​ดูก่อน​นะ"
 
 #. STRINGS.GAMEPLAY_EVENTS.DEFAULT_OPTION_NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.DEFAULT_OPTION_NAME"
@@ -76573,6 +78338,119 @@ msgstr "ตกลง"
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ARTIFACT_REVEAL.BUTTON"
 msgid "Close"
 msgstr "ปิด"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ARTIFACT_REVEAL.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ARTIFACT_REVEAL.DESCRIPTION"
+msgid ""
+"An artifact from a past civilization was analyzed.\n"
+"\n"
+"{desc}"
+msgstr ""
+"วิเคราะห์​โบราณวัตถุ​จาก​อารยธรรม​ใน​อดีต​แล้ว\n"
+"\n"
+"{desc}"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ARTIFACT_REVEAL.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ARTIFACT_REVEAL.NAME"
+msgid "New Event: Artifact Analyzed"
+msgstr "อีเวนต์​ใหม่: วิเคราะห์​โบราณวัตถุ​แล้ว"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CREATURE_SPAWN.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CREATURE_SPAWN.DESCRIPTION"
+msgid "There was a massive influx of destructive critters"
+msgstr "สัตว์​จอม​ทำลาย​หลั่งไหล​เข้ามา​เป็น​ฝูง​ใหญ่"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CREATURE_SPAWN.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CREATURE_SPAWN.NAME"
+msgid "Critter Infestation"
+msgstr "สัตว์​บุกรุก"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.BUTTON
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.BUTTON"
+msgid "{friend} is thawed!"
+msgstr "{friend} ละลาย​แล้ว!"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION"
+msgid ""
+"{dupe} has made an amazing discovery! A barely working <link=\"CRYOTANK\">Cryotank 3000</link> has been uncovered containing a {friend} inside in a frozen state.\n"
+"\n"
+"{dupe} was successful in thawing {friend} and this encounter has filled both Duplicants with a sense of hope, something they will desperately need to keep their <link=\"MORALE\">Morale</link> up when facing the dangers ahead."
+msgstr ""
+"{dupe} ค้นพบ​สิ่ง​น่าทึ่ง! <link=\"CRYOTANK\">ถัง​แช่แข็ง 3000</link> ที่​แทบจะ​พัง​ถูก​ขุด​พบ และ​ข้างใน​มี {friend} ถูก​แช่แข็ง​อยู่\n"
+"\n"
+"{dupe} ละลาย {friend} ออกมา​ได้​สำเร็จ และ​การพบกัน​ครั้งนี้​ทำให้​ดู​พลิ​แคนต์​ทั้งสอง​เปี่ยม​ไป​ด้วย​ความหวัง ซึ่ง​พวกเขา​ต้องการ​อย่างยิ่ง​เพื่อ​รักษา<link=\"MORALE\">ขวัญ​กำลังใจ</link>ไว้​เมื่อ​เผชิญ​อันตราย​ข้างหน้า"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME"
+msgid "New Event: A Frozen Friend"
+msgstr "อีเวนต์​ใหม่: เพื่อน​แช่แข็ง"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ECLIPSE.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ECLIPSE.DESCRIPTION"
+msgid "A celestial object has obscured the sunlight"
+msgstr "วัตถุ​บน​ฟากฟ้า​บัง​แสงอาทิตย์"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ECLIPSE.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.ECLIPSE.NAME"
+msgid "Eclipse"
+msgstr "สุริยุปราคา"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.ACCEPT_OPTION_DETAILS
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.ACCEPT_OPTION_DETAILS"
+msgid "(Plus morale)"
+msgstr "(เพิ่ม​ขวัญ​กำลังใจ)"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.ACCEPT_OPTION_NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.ACCEPT_OPTION_NAME"
+msgid "Duplicants start preparing to fight."
+msgstr "ดู​พลิ​แคนต์​เริ่ม​เตรียม​สู้"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.DESCRIPTION
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.DESCRIPTION"
+msgid ""
+"Duplicants will throw food at each other for recreation\n"
+"\n"
+"It may be wasteful, but everyone who participates will benefit from a major stress reduction."
+msgstr ""
+"ดู​พลิ​แคนต์​จะ​ปา​อาหาร​ใส่​กัน​เพื่อ​ความบันเทิง\n"
+"\n"
+"อาจจะ​เปลือง แต่​ทุกคน​ที่​ร่วมวง​จะ​ได้​คลายเครียด​ไป​เยอะ​เลย"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.NAME"
+msgid "Food Fight"
+msgstr "ศึก​ปา​อาหาร"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.REJECT_OPTION_DETAILS
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.REJECT_OPTION_DETAILS"
+msgid "Sadface"
+msgstr "หน้าเศร้า"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.REJECT_OPTION_NAME
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.REJECT_OPTION_NAME"
+msgid "No food fight today"
+msgstr "วันนี้​ไม่​มี​ศึก​ปา​อาหาร"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.UNDERWAY
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.UNDERWAY"
+msgid "Food Fight"
+msgstr "ศึก​ปา​อาหาร"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.UNDERWAY_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.FOOD_FIGHT.UNDERWAY_TOOLTIP"
+msgid "There is a food fight happening now"
+msgstr "ตอนนี้​กำลัง​มี​ศึก​ปา​อาหาร"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_DESC
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_DESC"
+msgid "Party goers will get {goodEffect}"
+msgstr "ผู้​ร่วม​ปาร์ตี้​จะ​ได้รับ {goodEffect}"
+
+#. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_INVALID_TOOLTIP
+msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.ACCEPT_OPTION_INVALID_TOOLTIP"
+msgid "A cake must be built for this event to take place."
+msgstr "ต้อง​สร้าง​เค้ก​ก่อน​อีเวนต์​นี้​ถึง​จะ​เกิดขึ้น​ได้"
 
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.PARTY.NAME"
@@ -84081,6 +85959,11 @@ msgstr "พื้นฐาน"
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CREW"
 msgid "Crew"
 msgstr "ลูกเรือ"
+
+#. STRINGS.NAMEGEN.COLONY.NOUN.ECLIPSE
+msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ECLIPSE"
+msgid "Eclipse"
+msgstr "สุริยุปราคา"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA"
