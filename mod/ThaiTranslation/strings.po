@@ -771,7 +771,7 @@ msgstr "เต้น​ท่า​รัน​นิ่ง​แมน​ใน
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.NAME"
 msgid "Radical Atmo Boots"
-msgstr "รองเท้า​อัต​โม​สุด​เจ๋ง"
+msgstr "รองเท้า​บูต​อัต​โม​สุด​เจ๋ง"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_ELECTRO.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_ELECTRO.DESC"
@@ -781,7 +781,7 @@ msgstr "ข้างใน​แต่ละ​ข้าง​มี​ป้า
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_ELECTRO.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_ELECTRO.NAME"
 msgid "Electro Atmo Boots"
-msgstr "รองเท้า​อัต​โม​อิ​เล็ก​โทร"
+msgstr "รองเท้า​บูต​อัต​โม​อิ​เล็ก​โทร"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_GREEN.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_GREEN.DESC"
@@ -791,7 +791,7 @@ msgstr "ทิ้ง​รอย​รองเท้า​เปียก ๆ �
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_GREEN.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BASIC_GREEN.NAME"
 msgid "Swampy Atmo Boots"
-msgstr "รองเท้า​อัต​โม​หนองน้ำ"
+msgstr "รองเท้า​บูต​อัต​โม​หนองน้ำ"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.DESC"
@@ -801,7 +801,7 @@ msgstr "รองเท้า​มาตรฐาน​สำหรับ​พ
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.NAME"
 msgid "Bionic Atmo Boots"
-msgstr "รองเท้า​อัต​โม​ไบโอ​นิ​ก"
+msgstr "รองเท้า​บูต​อัต​โม​ไบโอ​นิ​ก"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_CHAMELEO.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_CHAMELEO.DESC"
@@ -811,7 +811,7 @@ msgstr "สำหรับ​เดิน​เตร็ดเตร่​อย
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_CHAMELEO.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_CHAMELEO.NAME"
 msgid "Dartle Atmo Boots"
-msgstr "รองเท้า​อัต​โม​ดาร์เทิล"
+msgstr "รองเท้า​บูต​อัต​โม​ดาร์เทิล"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_DIVING_TAN.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_DIVING_TAN.DESC"
@@ -821,7 +821,7 @@ msgstr "รองเท้า​ป้องกัน​ล้ำสมัย �
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_DIVING_TAN.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_DIVING_TAN.NAME"
 msgid "Antique Atmo Boots"
-msgstr "รองเท้า​อัต​โม​โบราณ"
+msgstr "รองเท้า​บูต​อัต​โม​โบราณ"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_NEUTRONIUM.DESC"
@@ -831,7 +831,7 @@ msgstr "รองเท้า​ป้อง​กันที่​เปล่
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_NEUTRONIUM.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_NEUTRONIUM.NAME"
 msgid "Regal Atmo Boots"
-msgstr "รองเท้า​อัต​โม​ราชันย์"
+msgstr "รองเท้า​บูต​อัต​โม​ราชันย์"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PACULACANTH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PACULACANTH.DESC"
@@ -841,7 +841,7 @@ msgstr "มัน​ชื้น​นิด ๆ ตลอดเวลา แต
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PACULACANTH.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PACULACANTH.NAME"
 msgid "Jawbo Atmo Boots"
-msgstr "รองเท้า​อัต​โม​จอว์​โบ"
+msgstr "รองเท้า​บูต​อัต​โม​จอว์​โบ"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_RAPTOR.DESC"
@@ -851,7 +851,7 @@ msgstr "รองเท้า​ป้องกัน​ทางการ​ข
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_RAPTOR.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_RAPTOR.NAME"
 msgid "Rhex Atmo Boots"
-msgstr "รองเท้า​อัต​โม​เร็กซ์"
+msgstr "รองเท้า​บูต​อัต​โม​เร็กซ์"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_STEGO.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_STEGO.DESC"
@@ -861,7 +861,7 @@ msgstr "รองเท้า​ถ่วง​น้ำหนัก​ที่
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_STEGO.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_STEGO.NAME"
 msgid "Lumb Atmo Boots"
-msgstr "รองเท้า​อัต​โม​ลัมบ์"
+msgstr "รองเท้า​บูต​อัต​โม​ลัมบ์"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TAP_01.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TAP_01.DESC"
@@ -871,7 +871,7 @@ msgstr "จุด​สี​แบบ​แอบ​สแตรกต์​เ
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TAP_01.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TAP_01.NAME"
 msgid "Hotspot Atmo Boots"
-msgstr "รองเท้า​อัต​โม​จุด​ร้อน"
+msgstr "รองเท้า​บูต​อัต​โม​จุด​ร้อน"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TURTLE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TURTLE.DESC"
@@ -881,7 +881,7 @@ msgstr "เหมือน​เปลือกหอย​เล็ก ๆ ส�
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TURTLE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_TURTLE.NAME"
 msgid "Orehull Atmo Boots"
-msgstr "รองเท้า​อัต​โม​ออร์ฮัลล์"
+msgstr "รองเท้า​บูต​อัต​โม​ออร์ฮัลล์"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.DESC"
@@ -1237,6 +1237,2216 @@ msgstr "กางเกง​เครื่องแบบ​นิว​โท
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CO2SCRUBBER_NEUTRONIUM.DESC"
 msgid "Swiftly and discreetly pulls carbon dioxide out of the air, like a butler pulling an uninvited guest out of a gala."
 msgstr "ดึง​คาร์บอนไดออกไซด์​ออกจาก​อากาศ​อย่าง​รวดเร็ว​และ​แนบเนียน เหมือน​พ่อบ้าน​ลาก​แขกไม่ได้รับเชิญ​ออกจากงาน​กา​ล่า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CO2SCRUBBER_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CO2SCRUBBER_NEUTRONIUM.NAME"
+msgid "<link=\"CO2SCRUBBER\">Regal Neutronium Carbon Skimmer</link>"
+msgstr "<link=\"CO2SCRUBBER\">เครื่อง​ดัก​คาร์บอน​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.DESC"
+msgid "The smoky flavor is intentional."
+msgstr "กลิ่น​รมควัน​นี่​ตั้งใจ​นะ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.NAME"
+msgid "<link=\"COOKINGSTATION\">Backcountry Grill</link>"
+msgstr "<link=\"COOKINGSTATION\">เตา​ย่าง​บ้าน​ป่า</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.DESC"
+msgid "It makes quality meal recipes feel more...approachable."
+msgstr "ทำให้​สูตร​อาหาร​คุณภาพ​ดู​เข้าถึง​ง่าย​ขึ้น...นิดนึง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.NAME"
+msgid "<link=\"GOURMETCOOKINGSTATION\">Rustic Gas Range</link>"
+msgstr "<link=\"GOURMETCOOKINGSTATION\">เตาแก๊ส​สไตล์​ชนบท</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_NEUTRONIUM.DESC"
+msgid "Someone once suggested that ornate corner trim tiles be called \"cornate\" tiles. Thankfully, they were overruled."
+msgstr "เคย​มี​คน​เสนอ​ให้​เรียก​แผ่น​คิ้ว​มุม​ลวดลาย​หรู​ว่า​แผ่น \"คิ้ว​หรู​มุม\" โชคดี​ที่​โดน​โหวต​ตกไป"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_NEUTRONIUM.NAME"
+msgid "<link=\"CORNERMOULDING\">Regal Neutronium Corner Trim</link>"
+msgstr "<link=\"CORNERMOULDING\">คิ้ว​มุม​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.DESC"
+msgid "A rising tide directs all eyes to the ceiling, where they'll land on this magnificent maritime corner trim."
+msgstr "น้ำขึ้น​ทำให้​ทุก​สายตา​มอง​ขึ้น​เพดาน แล้วไป​หยุด​ที่​คิ้ว​มุม​ธีม​ทะเล​สุด​อลังการ​นี้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.NAME"
+msgid "<link=\"CORNERMOULDING\">Nautical Corner Trim</link>"
+msgstr "<link=\"CORNERMOULDING\">คิ้ว​มุม​ทะเล</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CRAFTINGSTATION_CYBERPUNK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRAFTINGSTATION_CYBERPUNK.DESC"
+msgid "Building a better tomorrow, today."
+msgstr "สร้าง​วันพรุ่งนี้​ที่​ดีกว่า ตั้งแต่​วันนี้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CRAFTINGSTATION_CYBERPUNK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRAFTINGSTATION_CYBERPUNK.NAME"
+msgid "Retro LED Crafting Table"
+msgstr "โต๊ะ​ประดิษฐ์​ไฟ LED ย้อนยุค"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_NEUTRONIUM.DESC"
+msgid "Installing elegant crown moulding is a clever way to distract visitors from unswept tunnel floors."
+msgstr "การ​ติด​คิ้ว​บัว​สวย ๆ เป็น​วิธี​ฉลาด​ใน​การ​เบน​สายตา​แขก​จาก​พื้น​อุโมงค์​ที่​ยัง​ไม่​ได้​กวาด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_NEUTRONIUM.NAME"
+msgid "<link=\"CROWNMOULDING\">Regal Neutronium Ceiling Trim</link>"
+msgstr "<link=\"CROWNMOULDING\">คิ้ว​เพดาน​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.DESC"
+msgid "Top-notch deckhead decor fit for a captain's quarters."
+msgstr "ของ​ตกแต่ง​เพดาน​เรือ​ชั้นยอด​ที่​เหมาะกับ​ห้อง​กัปตัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.NAME"
+msgid "<link=\"CROWNMOULDING\">Nautical Ceiling Trim</link>"
+msgstr "<link=\"CROWNMOULDING\">คิ้ว​เพดาน​ทะเล</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.DESC"
+msgid "Handcrafted from decommissioned rockets."
+msgstr "ทำ​มือ​จาก​จรวด​ที่​ปลดระวาง​แล้ว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.NAME"
+msgid "Sculpted Steel Dress"
+msgstr "เด​รส​เหล็กกล้า​ปั้น​แต่ง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_DRESS_SAILOR_WHITE_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_DRESS_SAILOR_WHITE_NAUTICAL.DESC"
+msgid "Expert pleating ensures this skirt maintains its shape no matter what the universe throws at it."
+msgstr "การ​จับ​จีบ​อย่าง​เชี่ยวชาญ​ทำให้​กระโปรง​ตัว​นี้​คง​ทรง​ได้ ไม่​ว่า​จักรวาล​จะ​โยน​อะไร​ใส่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_DRESS_SAILOR_WHITE_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_DRESS_SAILOR_WHITE_NAUTICAL.NAME"
+msgid "Sailor Dress"
+msgstr "เด​รส​กะลาสี"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELECTROLYZER_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELECTROLYZER_NEUTRONIUM.DESC"
+msgid "The oxygenated air produced by this building smells...superior, somehow."
+msgstr "อากาศ​ที่​มี​ออกซิเจน​จาก​สิ่งก่อสร้าง​นี้​มี​กลิ่น...เหนือชั้นกว่า​ยังไง​ไม่​รู้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELECTROLYZER_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELECTROLYZER_NEUTRONIUM.NAME"
+msgid "<link=\"ELECTROLYZER\">Regal Neutronium Electrolyzer</link>"
+msgstr "<link=\"ELECTROLYZER\">เครื่อง​แยก​น้ำ​ด้วย​ไฟฟ้า​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_CLAM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_CLAM.DESC"
+msgid "Whoever sleeps here will wake up happy as a clampum."
+msgstr "ใคร​นอน​ตรงนี้​จะ​ตื่น​มา​แฮปปี้​เหมือน​หอย​ได้​น้ำ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_CLAM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_CLAM.NAME"
+msgid "<link=\"LUXURYBED\">Pearly Pillowtop Bed</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​หมอน​มุก​นุ่ม​ฟู</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.DESC"
+msgid "It is extremely unlikely to close while someone is inside."
+msgstr "โอกาส​ที่​มัน​จะ​งับ​ปิด​ตอน​มี​คน​อยู่​ข้างใน​นั้น​ต่ำ​มาก ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.NAME"
+msgid "<link=\"LUXURYBED\">Hatch Bed</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​แฮตช์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.DESC"
+msgid "Perfect for side sleepers and little spoons."
+msgstr "เหมาะกับ​คน​นอนตะแคง​และ​คน​ชอบ​ให้​กอด​จาก​ข้างหลัง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.NAME"
+msgid "<link=\"LUXURYBED\">Pipsqueak Bed</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​ลูก​พิป</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.DESC"
+msgid "Too bad there's no widely known term for underwater vehicles in this particular color."
+msgstr "น่าเสียดาย​ที่​ไม่​มี​คำ​เรียก​ยาน​ใต้​น้ำ​สี​นี้​ที่​คนรู้จัก​กัน​ทั่วไป (เรือดำน้ำ​สีเหลือง? ไม่​ใช่​นะ)"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.NAME"
+msgid "<link=\"LUXURYBED\">Aquatic Rocket Bed</link>"
+msgstr "<link=\"LUXURYBED\">เตียง​จรวด​ใต้​น้ำ</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC"
+msgid "It makes Duplicants feel like they're about to be read a bedtime story."
+msgstr "ทำให้​ดู​พลิ​แคนต์​รู้สึก​เหมือน​กำลังจะ​มี​คนอ่าน​นิทาน​ก่อน​นอน​ให้​ฟัง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.NAME"
+msgid "<link=\"FLOORLAMP\">Storytime Lamp</link>"
+msgstr "<link=\"FLOORLAMP\">โคมไฟ​เวลา​นิทาน</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_JAWBO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_JAWBO.DESC"
+msgid "It is safe to say that no critter ever mocked the Jawbo for having four eyes."
+msgstr "พูด​ได้​เต็มปาก​ว่า​ไม่​เคย​มี​สัตว์​ตัว​ไหน​ล้อ​จอว์​โบ​ว่า​สี่​ตา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_JAWBO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_JAWBO.NAME"
+msgid "The Dangler"
+msgstr "เจ้า​ห้อย​ต่องแต่ง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_RHEX.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_RHEX.DESC"
+msgid "This display model's open jaw makes it an unsuitable shape for after-hours bowling."
+msgstr "ขากรรไกร​ที่​อ้า​อยู่​ของ​โมเดล​นี้​ทำให้​ไม่​เหมาะ​เอา​ไป​เล่น​โบว์ลิ่ง​หลัง​เลิกงาน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_RHEX.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_RHEX.NAME"
+msgid "Roar O'Saurus"
+msgstr "ร้อง​โฮ​ซอ​รัส"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_SHELLONOIDIS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_SHELLONOIDIS.DESC"
+msgid "It's unclear whether this sculpture is based on a long-extinct creature, or a very vivid dream."
+msgstr "ไม่​แน่ใจ​ว่า​ประติมากรรม​นี้​อิง​จาก​สิ่งมีชีวิต​ที่​สูญพันธุ์​ไป​นาน หรือ​จาก​ความฝัน​ที่​ชัด​มาก ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_SHELLONOIDIS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_SHELLONOIDIS.NAME"
+msgid "Uncanny Carapace"
+msgstr "กระดอง​พิลึก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_STEGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_STEGO.DESC"
+msgid "Some Duplicants like to crawl into this Lumb sculpture and run a spoon over the ribs like a musical instrument."
+msgstr "ดู​พลิ​แคนต์​บางคน​ชอบ​มุด​เข้าไป​ใน​ประติมากรรม​ลัมบ์​นี้​แล้ว​เอา​ช้อน​รูด​ซี่โครง​เล่น​เป็น​ดนตรี"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_STEGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FOSSILSCULPTURE_IDLE_STEGO.NAME"
+msgid "Pointy Plates"
+msgstr "แผ่น​เกราะ​แหลม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FRIDGE_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FRIDGE_NEUTRONIUM.DESC"
+msgid "It's so polished that there's a chance Duplicants might get lost in their own reflection."
+msgstr "ขัดเงา​จน​ดู​พลิ​แคนต์​อาจ​หลง​ไป​ใน​เงา​สะท้อน​ของ​ตัวเอง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FRIDGE_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FRIDGE_NEUTRONIUM.NAME"
+msgid "<link=\"REFRIGERATOR\">Regal Neutronium Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">ตู้เย็น​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FRIDGE_STRIPES_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FRIDGE_STRIPES_NAUTICAL.DESC"
+msgid "Because Duplicants will keel over if they don't get enough calories."
+msgstr "เพราะ​ดู​พลิ​แคนต์​จะ​ล้มพับ​ถ้า​ได้​แคลอรี่​ไม่​พอ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FRIDGE_STRIPES_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FRIDGE_STRIPES_NAUTICAL.NAME"
+msgid "<link=\"REFRIGERATOR\">Nautical Stripe Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">ตู้เย็น​ลาย​ทางทะเล</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FRIDGE_WATERBUBBLES.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FRIDGE_WATERBUBBLES.DESC"
+msgid "Holds enough food to tide over a small colony."
+msgstr "เก็บ​อาหาร​ได้​พอ​เลี้ยง​อาณานิคม​เล็ก ๆ ให้​รอดไป​พัก​หนึ่ง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_FRIDGE_WATERBUBBLES.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_FRIDGE_WATERBUBBLES.NAME"
+msgid "<link=\"REFRIGERATOR\">Ripple Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">ตู้เย็น​ลาย​คลื่น</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_DARTLE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_DARTLE.DESC"
+msgid "The splotchy parts have an unsettlingly leather-like texture."
+msgstr "ส่วน​ที่​เป็น​ด่าง ๆ มี​ผิว​สัมผัส​เหมือน​หนัง​จน​รู้สึก​แปลก ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_DARTLE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_DARTLE.NAME"
+msgid "<link=\"GASRESERVOIR\">Dartle Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">ถัง​เก็บ​แก๊ส​ดาร์เทิล</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_LUMB.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_LUMB.DESC"
+msgid "Does not stomp."
+msgstr "ไม่​กระทืบเท้า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_LUMB.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_LUMB.NAME"
+msgid "<link=\"GASRESERVOIR\">Lumb Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">ถัง​เก็บ​แก๊ส​ลัมบ์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_STRIPES_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_STRIPES_NAUTICAL.DESC"
+msgid "Classically striped storage is a mainstay of marine colony management."
+msgstr "ที่เก็บ​ลาย​ทาง​คลาสสิก​เป็น​ของ​หลัก​ใน​การบริหาร​อาณานิคม​ทางทะเล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_STRIPES_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_STRIPES_NAUTICAL.NAME"
+msgid "<link=\"GASRESERVOIR\">Nautical Stripe Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">ถัง​เก็บ​แก๊ส​ลาย​ทางทะเล</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_WATERBUBBLES.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_WATERBUBBLES.DESC"
+msgid "This style has been making waves in colonies across the universe since time began."
+msgstr "สไตล์​นี้​สร้าง​กระแส​คลื่น​ใน​อาณานิคม​ทั่ว​จักรวาล​มา​ตั้งแต่​ปฐม​กาล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_WATERBUBBLES.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_WATERBUBBLES.NAME"
+msgid "<link=\"GASRESERVOIR\">Ripple Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">ถัง​เก็บ​แก๊ส​ลาย​คลื่น</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_A.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_A.DESC"
+msgid "Clean lines, clean energy...as long as the operator doesn't sweat all over the wheel."
+msgstr "เส้นสาย​สะอาด พลังงาน​สะอาด...ตราบใดที่​คน​ปั่น​ไม่​ทำ​เหงื่อ​หยด​ใส่​วง​ล้อ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_A.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_A.NAME"
+msgid "<link=\"MANUALGENERATOR\">Sleek Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​แบบ​เพรียว</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_B.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_B.DESC"
+msgid "It looks like someone dug this out of an old rocket hangar."
+msgstr "ดูเหมือน​มี​ใคร​ขุด​มาจาก​โรง​เก็บ​จรวด​เก่า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_B.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_B.NAME"
+msgid "<link=\"MANUALGENERATOR\">Clunky Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​เทอะทะ</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_CYBERPUNK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_CYBERPUNK.DESC"
+msgid "Take a spin on the party wheel! It generates raver vibes as well as power."
+msgstr "มา​หมุน​วง​ล้อ​ปาร์ตี้​กัน! ได้​ทั้ง​ไฟฟ้า​และ​ฟี​ล​สาย​เร​ฟ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_CYBERPUNK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_CYBERPUNK.NAME"
+msgid "<link=\"MANUALGENERATOR\">Retro LED Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​ไฟ LED ย้อนยุค</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NAUTICAL.DESC"
+msgid "Time spent operating this building does nothing to help Duplicants get their sea legs."
+msgstr "เวลา​ที่​ใช้​ปั่น​เครื่อง​นี้​ไม่​ได้​ช่วย​ให้​ดู​พลิ​แคนต์​ชิน​กับ​คลื่น​ทะเล​เลย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NAUTICAL.NAME"
+msgid "<link=\"MANUALGENERATOR\">Nautical Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​ทะเล</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NEUTRONIUM.DESC"
+msgid "Some folks climb up the corporate ladder, others race on the aristocratic wheel."
+msgstr "บางคน​ไต่​บันได​องค์กร บางคน​วิ่ง​บน​วง​ล้อ​ชนชั้นสูง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NEUTRONIUM.NAME"
+msgid "<link=\"MANUALGENERATOR\">Regal Neutronium Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_ROCK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_ROCK.DESC"
+msgid "It gets off to a rocky start, but it works so well that there's no point reinventing it."
+msgstr "เริ่มต้น​ตะกุกตะกัก​เหมือน​ล้อ​หิน แต่​ทำงาน​ดี​จน​ไม่ต้อง​คิดค้น​ล้อ​ใหม่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_ROCK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_ROCK.NAME"
+msgid "<link=\"MANUALGENERATOR\">Rustic Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​สไตล์​ชนบท</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_WATERBUBBLES.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_WATERBUBBLES.DESC"
+msgid "Out here, \"all hands on deck\" also means \"all feet on generator pedals.\""
+msgstr "ที่นี่ \"ทุก​มือขึ้น​ดาดฟ้า\" ยัง​แปล​ว่า \"ทุก​เท้า​บน​แป้น​ปั่นไฟ\" ด้วย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_WATERBUBBLES.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_WATERBUBBLES.NAME"
+msgid "<link=\"MANUALGENERATOR\">Ripple Manual Generator</link>"
+msgstr "<link=\"MANUALGENERATOR\">เครื่องปั่นไฟ​มือ​ลาย​คลื่น</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORPHOS_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORPHOS_NEUTRONIUM.DESC"
+msgid "This building's high-gloss finish never loses its shine, no matter how many layers of coal dust it's coated in."
+msgstr "ผิว​เคลือบ​เงา​ของ​สิ่งก่อสร้าง​นี้​ไม่​เคย​หมอง​เลย ไม่​ว่า​จะ​โดน​ฝุ่น​ถ่านหิน​เคลือบ​กี่​ชั้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GENERATORPHOS_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GENERATORPHOS_NEUTRONIUM.NAME"
+msgid "<link=\"GENERATOR\">Regal Neutronium Coal Generator</link>"
+msgstr "<link=\"GENERATOR\">เครื่องปั่นไฟ​ถ่านหิน​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_BLUE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_BLUE.DESC"
+msgid "Soft blue overhead light uplifts the Duplicant soul."
+msgstr "แสง​สี​ฟ้า​นุ่ม ๆ จาก​เพดาน​ช่วย​ยก​จิตวิญญาณ​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_BLUE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_BLUE.NAME"
+msgid "<link=\"GLASSCEILINGLIGHT\">Hush Jelly Ceiling Light</link>"
+msgstr "<link=\"GLASSCEILINGLIGHT\">โคมไฟ​เพดาน​แมงกะพรุน​เงียบ</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_PINK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_PINK.DESC"
+msgid "It's like rose-colored glasses for the whole room."
+msgstr "เหมือน​แว่นตา​สี​กุหลาบ​สำหรับ​ทั้ง​ห้อง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_PINK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_PINK.NAME"
+msgid "<link=\"GLASSCEILINGLIGHT\">Rosy Jelly Ceiling Light</link>"
+msgstr "<link=\"GLASSCEILINGLIGHT\">โคมไฟ​เพดาน​แมงกะพรุน​กุหลาบ</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_NAUTICAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_NAUTICAL.DESC"
+msgid "A good, solid pair of nautical blue gloves that go with everything."
+msgstr "ถุง​มือสี​ฟ้า​ทะเล​เนื้อ​ดี​คู่​หนึ่ง​ที่​เข้ากับ​ทุกอย่าง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_NAUTICAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_NAUTICAL.NAME"
+msgid "Basic Nautical Gloves"
+msgstr "ถุงมือ​พื้นฐาน​สี​ทะเล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.DESC"
+msgid "A good, solid pair of blue gloves that go with everything."
+msgstr "ถุง​มือสี​ฟ้า​เนื้อ​ดี​คู่​หนึ่ง​ที่​เข้ากับ​ทุกอย่าง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.NAME"
+msgid "Basic Wheezy Gloves"
+msgstr "ถุงมือ​พื้นฐาน​สี​วี​ซ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BROWN.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BROWN.DESC"
+msgid "A good, solid pair of brown gloves that go with everything."
+msgstr "ถุงมือ​สีน้ำตาล​เนื้อ​ดี​คู่​หนึ่ง​ที่​เข้ากับ​ทุกอย่าง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BROWN.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BROWN.NAME"
+msgid "Basic Frass Gloves"
+msgstr "ถุงมือ​พื้นฐาน​สี​มูล​แมลง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_GRIME.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_GRIME.DESC"
+msgid "A good, solid pair of brown gloves that go with everything."
+msgstr "ถุงมือ​สีน้ำตาล​เนื้อ​ดี​คู่​หนึ่ง​ที่​เข้ากับ​ทุกอย่าง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_GRIME.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_GRIME.NAME"
+msgid "Basic Grime Gloves"
+msgstr "ถุงมือ​พื้นฐาน​สี​คราบ​สกปรก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_NAVY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_NAVY.DESC"
+msgid "A good, solid pair of navy blue gloves that go with everything."
+msgstr "ถุงมือ​สีกรมท่า​เนื้อ​ดี​คู่​หนึ่ง​ที่​เข้ากับ​ทุกอย่าง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_NAVY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_NAVY.NAME"
+msgid "Basic Navy Gloves"
+msgstr "ถุงมือ​พื้นฐาน​สีกรมท่า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_CUFFLESS_SHINY_ALGAE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_CUFFLESS_SHINY_ALGAE.DESC"
+msgid "For the Duplicant who thinks \"Geiger counter\" is the academic term for counting on one's fingers."
+msgstr "สำหรับ​ดู​พลิ​แคนต์​ที่​คิด​ว่า \"ไก​เกอร์​เคาน์เตอร์\" คือ​ศัพท์​วิชาการ​ของ​การ​นับ​นิ้ว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_CUFFLESS_SHINY_ALGAE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_CUFFLESS_SHINY_ALGAE.NAME"
+msgid "Geiger Glovelets"
+msgstr "ถุงมือ​สั้น​ไก​เกอร์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.DESC"
+msgid "One metallic wrist ruffle is fancy. These gloves have two."
+msgstr "ระบาย​ข้อมือ​โลหะ​หนึ่ง​ชั้น​ก็​หรู​แล้ว ถุงมือ​นี้​มี​สองชั้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.NAME"
+msgid "Future Chic Gloves"
+msgstr "ถุงมือ​เก๋​แห่ง​อนาคต"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_CHARCOAL_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_CHARCOAL_OBELUS.DESC"
+msgid "Almost-black gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​เกือบ​ดำ​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_CHARCOAL_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_CHARCOAL_OBELUS.NAME"
+msgid "Striped Charcoal Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​สีถ่าน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_ELECTRO_SWEETLE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_ELECTRO_SWEETLE.DESC"
+msgid "Electric-blue gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​ฟ้า​ไฟฟ้า​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_ELECTRO_SWEETLE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_ELECTRO_SWEETLE.NAME"
+msgid "Striped Electro Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​อิ​เล็ก​โทร"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_FLINT_ASH.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_FLINT_ASH.DESC"
+msgid "Stony gray gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​เทา​หิน​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_FLINT_ASH.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_FLINT_ASH.NAME"
+msgid "Striped Flint Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​หินเหล็กไฟ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_GRAPE_ALKALI.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_GRAPE_ALKALI.DESC"
+msgid "Pensive purple gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​ม่วง​ช่างคิด​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_GRAPE_ALKALI.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_GRAPE_ALKALI.NAME"
+msgid "Striped Cerebra Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​เซ​รี​บรา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_MUCK_EARWAX.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_MUCK_EARWAX.DESC"
+msgid "Serious brown gloves with a sporty stripe at the wrist, for whimsy."
+msgstr "ถุงมือ​น้ำตาล​จริงจัง​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ ไว้​เพิ่ม​ความ​ขี้เล่น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_MUCK_EARWAX.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_MUCK_EARWAX.NAME"
+msgid "Striped Muck Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​โคลน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PEAGREEN_GLITCH.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PEAGREEN_GLITCH.DESC"
+msgid "Lunchroom-green gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​เขียว​โรงอาหาร​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PEAGREEN_GLITCH.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PEAGREEN_GLITCH.NAME"
+msgid "Striped Greenpeas Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​ถั่วลันเตา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PETAL_NEONPINK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PETAL_NEONPINK.DESC"
+msgid "Bright pink gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​ชมพู​สด​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PETAL_NEONPINK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_PETAL_NEONPINK.NAME"
+msgid "Striped Petal Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​กลีบดอก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_QUANTUM_RADGLO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_QUANTUM_RADGLO.DESC"
+msgid "Radioactive-green with a sporty stripe at the wrist."
+msgstr "สี​เขียว​กัมมันตรังสี​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_QUANTUM_RADGLO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_QUANTUM_RADGLO.NAME"
+msgid "Striped Quantum Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​ควอนตัม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_RUSTY_GRUBBY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_RUSTY_GRUBBY.DESC"
+msgid "Rust-red gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​แดง​สนิม​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_RUSTY_GRUBBY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_RUSTY_GRUBBY.NAME"
+msgid "Striped Rusty Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​ขึ้นสนิม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SATSUMA_RESIN.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SATSUMA_RESIN.DESC"
+msgid "Safety-orange gloves with a sporty stripe at the wrist."
+msgstr "ถุงมือ​ส้ม​นิรภัย​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SATSUMA_RESIN.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SATSUMA_RESIN.NAME"
+msgid "Striped Hi-Vis Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​สะท้อน​แสง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SYMBIO_OAKMOLT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SYMBIO_OAKMOLT.DESC"
+msgid "Bright aquamarine with a sporty stripe at the wrist."
+msgstr "สี​อะ​ค​วา​มา​รี​นสด​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SYMBIO_OAKMOLT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_SYMBIO_OAKMOLT.NAME"
+msgid "Striped Symbio Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​ซิม​ไบโอ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_WORTSEED_CHROMO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_WORTSEED_CHROMO.DESC"
+msgid "Wheezewort-colored gloves with a sporty stripe at the wrist."
+msgstr "ถุง​มือสี​วี​ซเวิร์ต​พร้อม​แถบ​สปอร์ต​ที่​ข้อมือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_WORTSEED_CHROMO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_GOTCH_WORTSEED_CHROMO.NAME"
+msgid "Striped Wortseed Gloves"
+msgstr "ถุงมือ​ลาย​ทาง​เมล็ด​เวิร์ต"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC"
+msgid "Slapshots are allowed, slapping is not."
+msgstr "ตี​ลูก​แรง​ได้ แต่​ตบหน้า​ไม่​ได้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME"
+msgid "Slapshot Gloves"
+msgstr "ถุงมือ​ส​แล​ป​ช็อต"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.DESC"
+msgid "Designed to cause disappointment for opponents."
+msgstr "ออกแบบ​มา​ให้​คู่แข่ง​ผิดหวัง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.NAME"
+msgid "Blocker Gloves"
+msgstr "ถุงมือ​ตัว​บล็อก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC"
+msgid "Hold your head high, and your hockey stick higher."
+msgstr "เชิดหน้า​ไว้​สูง และ​เชิด​ไม้​ฮอกกี้​ให้​สูง​กว่า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.NAME"
+msgid "High-Stick Gloves"
+msgstr "ถุงมือ​ไม้สูง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.DESC"
+msgid "When two scientists disagree, there is only one solution."
+msgstr "เมื่อ​นักวิทยาศาสตร์​สอง​คน​เห็น​ไม่​ตรงกัน ทางออก​มี​อยู่​ทางเดียว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.NAME"
+msgid "Faceoff Gloves"
+msgstr "ถุงมือ​เฟซ​ออฟ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.DESC"
+msgid "Can only be worn by this season's Most Valuable Physicist."
+msgstr "ใส่​ได้​เฉพาะ​นักฟิสิกส์​ทรงคุณค่า​ที่สุด​ของ​ฤดูกาล​นี้​เท่านั้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.NAME"
+msgid "MVP Gloves"
+msgstr "ถุงมือ MVP"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.DESC"
+msgid "Marks the wearer as someone who once received three high-fives in a single day."
+msgstr "บอก​ให้​รู้​ว่า​คน​ใส่​เคย​ได้​ไฮไฟว์​สาม​ครั้ง​ใน​วัน​เดียว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.NAME"
+msgid "Hat-Trick Gloves"
+msgstr "ถุงมือ​แฮตทริก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC"
+msgid "Keeps your hands warm when things take longer than scheduled."
+msgstr "ช่วย​ให้​มือ​อุ่น​เวลา​ที่​อะไร ๆ นาน​กว่า​กำหนด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.NAME"
+msgid "Overtime Gloves"
+msgstr "ถุงมือ​ต่อเวลา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.DESC"
+msgid "High contrast colors for effective gesturing through plexiglass."
+msgstr "สี​ตัดกัน​ชัด​เพื่อ​ทำท่า​ทางผ่าน​กระจก​อะคริลิก​ได้​ชัดเจน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.NAME"
+msgid "Penalty Box Gloves"
+msgstr "ถุงมือ​คอก​ลงโทษ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.DESC"
+msgid "They're not afraid to get a little dirty."
+msgstr "ไม่​กลัว​เลอะ​นิด​เลอะ​หน่อย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.NAME"
+msgid "Enforcer Gloves"
+msgstr "ถุงมือ​มือ​คุม​เกม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.DESC"
+msgid "Good game, bud."
+msgstr "เก​มดี​นะ​เพื่อน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.NAME"
+msgid "Hoser Gloves"
+msgstr "ถุงมือ​สาย​ฉีด​น้ำ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.DESC"
+msgid "They're a little green."
+msgstr "ยัง​เขียว ๆ อยู่​หน่อย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.NAME"
+msgid "Rookie Gloves"
+msgstr "ถุงมือ​มือใหม่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.DESC"
+msgid "They're constantly covered in fingerprints."
+msgstr "มี​รอยนิ้วมือ​เต็มไปหมด​ตลอด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.NAME"
+msgid "Steel Gloves"
+msgstr "ถุงมือ​เหล็กกล้า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_NEUTRONIUM.DESC"
+msgid "Manufacturer's note: These gloves will not transform touched objects into gold or neutronium."
+msgstr "หมายเหตุ​จาก​ผู้ผลิต: ถุงมือ​นี้​ไม่​ทำให้​ของ​ที่จับ​กลายเป็น​ทอง​หรือ​นิว​โทร​เนียม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_NEUTRONIUM.NAME"
+msgid "Regal Golden Gloves"
+msgstr "ถุงมือ​ทองคำ​ราชันย์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.DESC"
+msgid "A cozy little orange puffer jacket for every finger."
+msgstr "เสื้อ​พัฟเฟอร์​สีส้ม​ตัว​จิ๋ว​สำหรับ​ทุก​นิ้ว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.NAME"
+msgid "Cadmium Jelly Gloves"
+msgstr "ถุงมือ​เยลลี่​แคดเมียม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.DESC"
+msgid "Some adventurers are a little salty, which is to be expected."
+msgstr "นักผจญภัย​บางคน​ก็​เค็ม​นิด ๆ ซึ่ง​ก็​ไม่​แปลก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.NAME"
+msgid "Brine Gloves"
+msgstr "ถุงมือ​น้ำเกลือ​เข้มข้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_GOLD.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_GOLD.DESC"
+msgid "Standard uniform gloves for natural swimmers. It's all in the wrist!"
+msgstr "ถุงมือ​เครื่องแบบ​มาตรฐาน​สำหรับ​นัก​ว่ายน้ำ​โดยกำเนิด ทุกอย่าง​อยู่​ที่​ข้อมือ!"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_GOLD.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_GOLD.NAME"
+msgid "Gold Fin Gloves"
+msgstr "ถุงมือ​ครีบ​ทอง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_MERM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_MERM.DESC"
+msgid "Webbed fingers and flared wrist \"gills\" make these the gloves of choice for thalassophiles."
+msgstr "นิ้ว​มี​พังผืด​และ \"เหงือก\" บาน​ที่​ข้อมือ ทำให้​เป็น​ถุงมือ​สุด​โปรด​ของ​คนรัก​ทะเล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_MERM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_MERM.NAME"
+msgid "Merfolk Gloves"
+msgstr "ถุงมือ​เงือก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WAVECRESTS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WAVECRESTS.DESC"
+msgid "They add a little extra swoop to the wearer's swimming stroke."
+msgstr "ช่วย​เพิ่ม​ความ​พลิ้ว​ให้ท่า​ว่าย​ของ​คน​ใส่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WAVECRESTS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WAVECRESTS.NAME"
+msgid "Wave Crest Gloves"
+msgstr "ถุงมือ​ยอด​คลื่น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WHEEZY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WHEEZY.DESC"
+msgid "Standard uniform gloves for freedivers who spend all their spare time swimming with the fishes."
+msgstr "ถุงมือ​เครื่องแบบ​มาตรฐาน​สำหรับ​นัก​ดำน้ำ​ฟรี​ได​ฟ์​ที่​ใช้​เวลาว่าง​ทั้งหมด​ว่าย​กับ​ฝูง​ปลา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WHEEZY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SWIM_WHEEZY.NAME"
+msgid "Wheezy Fin Gloves"
+msgstr "ถุงมือ​ครีบ​วี​ซ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.DESC"
+msgid "Interstellar flights call for truly stellar gloves."
+msgstr "การ​บิน​ข้าม​ดวงดาว​ต้อง​คู่​กับ​ถุงมือ​ที่​เจิด​จรัส​จริง ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.NAME"
+msgid "Stellar Flight Gloves"
+msgstr "ถุงมือ​บิน​เจิด​จรัส"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.DESC"
+msgid "A basic model designed with portability and sub-zero temperatures in mind."
+msgstr "รุ่น​พื้นฐาน​ที่​ออกแบบ​มา​ให้​พกพา​ง่าย​และ​ทน​อุณหภูมิ​ติดลบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.NAME"
+msgid "<link=\"HEADQUARTERS\">Frosty Printing Pod</link>"
+msgstr "<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง​น้ำค้างแข็ง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_AQUATIC.DESC"
+msgid "It looks like it spent some time in an underwater research facility."
+msgstr "ดู​เหมือนเคย​ไป​อยู่​ใน​ศูนย์​วิจัย​ใต้​น้ำ​มา​พัก​หนึ่ง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_AQUATIC.NAME"
+msgid "<link=\"HEADQUARTERS\">Aquarius Printing Pod</link>"
+msgstr "<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่า​งอ​ควอเรียส</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.DESC"
+msgid "There's something profoundly hopeful about it."
+msgstr "มี​บางอย่าง​ใน​ตัว​มัน​ที่​ชวน​ให้​มีความหวัง​ลึก ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.NAME"
+msgid "<link=\"HEADQUARTERS\">Retro LED Printing Pod</link>"
+msgstr "<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง​ไฟ LED ย้อนยุค</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_DINO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_DINO.DESC"
+msgid "Reclaimed by nature after centuries of neglect. It's a wonder that it still works."
+msgstr "ธรรมชาติ​ยึด​คืนหลัง​ถูก​ทิ้ง​ร้าง​มา​หลาย​ศตวรรษ แปลกใจ​ที่​ยัง​ใช้ได้​อยู่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_DINO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_DINO.NAME"
+msgid "<link=\"HEADQUARTERS\">Forgotten Printing Pod</link>"
+msgstr "<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง​ที่​ถูก​ลืม</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_NEUTRONIUM.DESC"
+msgid "A grandiose machine that makes even the most haphazard colony feel like a distinguished outpost."
+msgstr "เครื่องจักร​อลังการ​ที่​ทำให้​อาณานิคม​ที่​มั่ว​ที่สุด​ยัง​รู้สึก​เหมือน​ฐาน​ที่มั่น​ชั้นสูง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_HQBASE_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_HQBASE_NEUTRONIUM.NAME"
+msgid "<link=\"HEADQUARTERS\">Regal Neutronium Printing Pod</link>"
+msgstr "<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.DESC"
+msgid "It's not a real party until someone tries to feed the sculpture a Frost Bun."
+msgstr "ปาร์ตี้​จะ​ยัง​ไม่​ใช่​ปาร์ตี้​จริง​จนกว่า​จะ​มี​คน​พยายาม​ป้อน​ขนมปัง​เยือกแข็ง​ให้​ประติมากรรม​นี้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME"
+msgid "What A Hoot"
+msgstr "ฮูก​ฮา​สุด​ขำ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC"
+msgid "Some things really <i>are</i> universal truths."
+msgstr "บาง​เรื่อง<i>ก็</i>เป็น​ความจริง​สากล​จริง ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.NAME"
+msgid "Sibling Dynamics"
+msgstr "พลวัต​พี่น้อง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.DESC"
+msgid "Often showcased in pairs, with one on each side of the doorway."
+msgstr "มัก​จัดแสดง​เป็น​คู่ ข้าง​ละ​ตัว​ที่​ประตู"
+
+#. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.NAME"
+msgid "Glam Guardian"
+msgstr "ผู้พิทักษ์​สุด​เริ่ด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_GLOOM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_GLOOM.DESC"
+msgid "Gray technical gloves for jet-setting Duplicants."
+msgstr "ถุงมือ​เทคนิค​สีเทา​สำหรับ​ดู​พลิ​แคนต์​สาย​บิน​ว่อน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_GLOOM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_GLOOM.NAME"
+msgid "Gloom Jet Gloves"
+msgstr "ถุงมือ​เจ็ต​หม่น​มัว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_NEUTRONIUM.DESC"
+msgid "These gloves feature heavy neutronium-inspired cuffs that keep them securely attached no matter how fast the wearer is jettin' around."
+msgstr "ถุงมือ​นี้​มี​ข้อมือ​หนา​แรงบันดาลใจ​จาก​นิว​โทร​เนียม​ที่​ยึดติด​แน่น ไม่​ว่า​คน​ใส่​จะ​บิน​ว่อน​เร็ว​แค่​ไหน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_NEUTRONIUM.NAME"
+msgid "Regal Neutronium Jet Gloves"
+msgstr "ถุงมือ​เจ็ต​นิว​โทร​เนียม​ราชันย์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_OBELUS.DESC"
+msgid "Medium-gray technical gloves for jet-setting Duplicants."
+msgstr "ถุงมือ​เทคนิค​สีเทา​กลาง​สำหรับ​ดู​พลิ​แคนต์​สาย​บิน​ว่อน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_OBELUS.NAME"
+msgid "Obelus Jet Gloves"
+msgstr "ถุงมือ​เจ็ต​โอ​เบลัส"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_ORANGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_ORANGE.DESC"
+msgid "Orange technical gloves for jet-setting Duplicants."
+msgstr "ถุงมือ​เทคนิค​สีส้ม​สำหรับ​ดู​พลิ​แคนต์​สาย​บิน​ว่อน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_ORANGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_GLOVES_ORANGE.NAME"
+msgid "Cadmium Jet Gloves"
+msgstr "ถุงมือ​เจ็ต​แคดเมียม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ATOMIC_GLOOM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ATOMIC_GLOOM.DESC"
+msgid "A flashy orange flight helmet for jettin' around the colony like a happy little warning label."
+msgstr "หมวก​บิน​สีส้ม​แสบตา​สำหรับ​บิน​ว่อน​รอบ​อาณานิคม​เหมือน​ป้าย​เตือน​ตัว​น้อย​อารมณ์ดี"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ATOMIC_GLOOM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ATOMIC_GLOOM.NAME"
+msgid "Atomic Jet Helmet"
+msgstr "หมวก​เจ็ต​ปรมาณู"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_CHARCOAL_ORANGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_CHARCOAL_ORANGE.DESC"
+msgid "A sharp black-and-orange flight helmet for jettin' around the colony."
+msgstr "หมวก​บิน​ดำ​ส้ม​คม ๆ สำหรับ​บิน​ว่อน​รอบ​อาณานิคม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_CHARCOAL_ORANGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_CHARCOAL_ORANGE.NAME"
+msgid "Hornet Jet Helmet"
+msgstr "หมวก​เจ็ต​แตน​บิน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_HATCHSTONE_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_HATCHSTONE_OBELUS.DESC"
+msgid "A light blue-purple flight helmet for jettin' around the colony."
+msgstr "หมวก​บิน​สี​ฟ้า​อม​ม่วง​อ่อน​สำหรับ​บิน​ว่อน​รอบ​อาณานิคม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_HATCHSTONE_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_HATCHSTONE_OBELUS.NAME"
+msgid "Hatchstone Jet Helmet"
+msgstr "หมวก​เจ็ต​แฮตช์​หิน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_KELLY_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_KELLY_OBELUS.DESC"
+msgid "A chlorophyll-green flight helmet for jettin' around the colony."
+msgstr "หมวก​บิน​สี​เขียว​คลอโรฟิลล์​สำหรับ​บิน​ว่อน​รอบ​อาณานิคม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_KELLY_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_KELLY_OBELUS.NAME"
+msgid "Algae Jet Helmet"
+msgstr "หมวก​เจ็ต​สาหร่าย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_MAGENTA_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_MAGENTA_OBELUS.DESC"
+msgid "A coral-hued flight helmet for jettin' around the colony in vacation mode."
+msgstr "หมวก​บิน​สี​ปะการัง​สำหรับ​บิน​ว่อน​รอบ​อาณานิคม​ใน​โหมด​พักร้อน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_MAGENTA_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_MAGENTA_OBELUS.NAME"
+msgid "Therma Jet Helmet"
+msgstr "หมวก​เจ็ต​เทอร์​มา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_RED_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_RED_OBELUS.DESC"
+msgid "A serious-as-a-research-grant red flight helmet for jettin' around the colony."
+msgstr "หมวก​บิน​สีแดง​จริงจัง​พอ ๆ กับ​ทุนวิจัย สำหรับ​บิน​ว่อน​รอบ​อาณานิคม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_RED_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_RED_OBELUS.NAME"
+msgid "Garnet Jet Helmet"
+msgstr "หมวก​เจ็ต​โกเมน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_TORPOR_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_TORPOR_OBELUS.DESC"
+msgid "A pale gray flight helmet for workers who drift in and out of daydreams mid-flight."
+msgstr "หมวก​บิน​สีเทา​ซีด​สำหรับ​คน​ที่​เพ้อฝัน​เป็น​พัก ๆ ระหว่าง​บิน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_TORPOR_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_TORPOR_OBELUS.NAME"
+msgid "Torpor Jet Helmet"
+msgstr "หมวก​เจ็ต​จำศีล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ULTRA_OBELUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ULTRA_OBELUS.DESC"
+msgid "A rich blue flight helmet for jettin' around the colony."
+msgstr "หมวก​บิน​สีน้ำเงิน​เข้ม​สำหรับ​บิน​ว่อน​รอบ​อาณานิคม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ULTRA_OBELUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_00_ULTRA_OBELUS.NAME"
+msgid "Ultra Jet Helmet"
+msgstr "หมวก​เจ็ต​อัลตรา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_NEUTRONIUM.DESC"
+msgid "This showstopper of a helmet really makes Duplicants feel like jet-settin' legends."
+msgstr "หมวก​สุด​ปัง​ที่​ทำให้​ดู​พลิ​แคนต์​รู้สึก​เป็น​ตำนาน​สาย​บิน​ว่อน​จริง ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_HELMET_NEUTRONIUM.NAME"
+msgid "Regal Neutronium Jet Helmet"
+msgstr "หมวก​เจ็ต​นิว​โทร​เนียม​ราชันย์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_BLACK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_BLACK.DESC"
+msgid "Stain-resistant footwear for flight suits. They'll look new forever!"
+msgstr "รองเท้า​ชุด​บิน​กัน​คราบ ดู​ใหม่​ตลอดกาล!"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_BLACK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_BLACK.NAME"
+msgid "Black Jet Boots"
+msgstr "รองเท้า​บูต​เจ็ต​สี​ดำ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_WHITE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_WHITE.DESC"
+msgid "Microchannels on the boots' exterior reduce drag and increase dirt accumulation."
+msgstr "ร่อง​จิ๋ว​ด้านนอก​รองเท้า​ช่วย​ลด​แรง​ต้าน​และ​เพิ่ม​การ​สะสม​ฝุ่น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_WHITE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_BASIC_WHITE.NAME"
+msgid "White Jet Boots"
+msgstr "รองเท้า​บูต​เจ็ต​สี​ขาว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_NEUTRONIUM.DESC"
+msgid "A pair of flight boots designed to be as durable as the mysterious substance that clings to space artifacts."
+msgstr "รองเท้า​บิน​ที่​ออกแบบ​ให้​ทนทาน​พอ ๆ กับ​สาร​ลึกลับ​ที่​เกาะ​อยู่​บน​โบราณวัตถุ​อวกาศ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JET_SHOES_NEUTRONIUM.NAME"
+msgid "Regal Neutronium Jet Boots"
+msgstr "รองเท้า​บูต​เจ็ต​นิว​โทร​เนียม​ราชันย์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_HATCHSTONE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_HATCHSTONE.DESC"
+msgid "A black jet suit with a soft periwinkle sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ดำ​พร้อม​เกราะ​กัน​อก​สีม่วง​พี​ริ​วิง​เคิล​อ่อน ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_HATCHSTONE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_HATCHSTONE.NAME"
+msgid "Hatchstone Stealth Jet Suit"
+msgstr "ชุด​เจ็ต​พราง​ตัว​แฮตช์​หิน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_KELLY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_KELLY.DESC"
+msgid "A black jet suit with a peppy green sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ดำ​พร้อม​เกราะ​กัน​อก​สี​เขียว​สดใส"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_KELLY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_KELLY.NAME"
+msgid "Algae Stealth Jet Suit"
+msgstr "ชุด​เจ็ต​พราง​ตัว​สาหร่าย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_RED.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_RED.DESC"
+msgid "A black jet suit with an impressive red sternum protector. Definitely not a red shirt. Nope, nuh-uh, no way."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ดำ​พร้อม​เกราะ​กัน​อก​สีแดง​น่าประทับใจ ไม่​ใช่​เสื้อ​แดง​ตัวประกอบ​แน่นอน ไม่ ไม่​มีทาง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_RED.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_RED.NAME"
+msgid "Garnet Stealth Jet Suit"
+msgstr "ชุด​เจ็ต​พราง​ตัว​โกเมน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_TORPOR.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_TORPOR.DESC"
+msgid "A black jet suit with a slick gray sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ดำ​พร้อม​เกราะ​กัน​อก​สีเทา​เงาวับ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_TORPOR.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_TORPOR.NAME"
+msgid "Torpor Stealth Jet Suit"
+msgstr "ชุด​เจ็ต​พราง​ตัว​จำศีล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_ULTRA.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_ULTRA.DESC"
+msgid "A black jet suit with a dramatic blue sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ดำ​พร้อม​เกราะ​กัน​อก​สีน้ำเงิน​สุด​ดราม่า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_ULTRA.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_BLACK_ULTRA.NAME"
+msgid "Ultra Stealth Jet Suit"
+msgstr "ชุด​เจ็ต​พราง​ตัว​อัลตรา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_NEUTRONIUM.DESC"
+msgid "In the event of a formal-attire emergency, the golden starburst belt buckle can double as an avant-garde monocle."
+msgstr "ใน​กรณี​ฉุกเฉิน​ที่​ต้อง​แต่งตัว​ออกงาน หัวเข็มขัด​รูป​ดาว​ระเบิด​สี​ทอง​ใช้​เป็น​แว่น​เลนส์​เดียว​สุด​แนว​ได้​ด้วย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_NEUTRONIUM.NAME"
+msgid "Regal Neutronium Jet Suit"
+msgstr "ชุด​เจ็ต​นิว​โทร​เนียม​ราชันย์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_ATOMIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_ATOMIC.DESC"
+msgid "A white jet suit with a hazard-orange sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ขาว​พร้อม​เกราะ​กัน​อก​สีส้ม​อันตราย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_ATOMIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_ATOMIC.NAME"
+msgid "Crisp Atomic Jet Suit"
+msgstr "ชุด​เจ็ต​ปรมาณู​เนี้ยบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_CHARCOAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_CHARCOAL.DESC"
+msgid "A white jet suit with a fierce dark gray sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ขาว​พร้อม​เกราะ​กัน​อก​สีเทา​เข้ม​ดุดัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_CHARCOAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_CHARCOAL.NAME"
+msgid "Crisp Charcoal Jet Suit"
+msgstr "ชุด​เจ็ต​สีถ่าน​เนี้ยบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_MAGENTA.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_MAGENTA.DESC"
+msgid "A white jet suit with a warm coral-hued sternum protector."
+msgstr "ชุด​เจ็ต (ชุด​ไอพ่น) สี​ขาว​พร้อม​เกราะ​กัน​อก​สี​ปะการัง​อบอุ่น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_MAGENTA.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JETSUIT_WHITE_MAGENTA.NAME"
+msgid "Crisp Therma Jet Suit"
+msgstr "ชุด​เจ็ต​เทอร์​มา​เนี้ยบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_ROMPER_TAN_FRASS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_ROMPER_TAN_FRASS.DESC"
+msgid "Made from densely woven canvas that compromises breathability without providing any real useful protection from the elements."
+msgstr "ทำ​จาก​ผ้า​แคน​วา​สทอ​แน่น​ที่​ระบายอากาศ​แย่​ลง โดย​ไม่​ได้​ช่วยกัน​สภาพอากาศ​ได้​จริง​เลย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_ROMPER_TAN_FRASS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_ROMPER_TAN_FRASS.NAME"
+msgid "Fieldwork Coveralls"
+msgstr "ชุด​หมี​งาน​ภาคสนาม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.DESC"
+msgid "Flatlock seams on the double V accents reduce drag. They also look nice."
+msgstr "ตะเข็บ​แบบ​แบน​บน​ลาย​ตัว​วี​คู่​ช่วย​ลด​แรง​ต้าน และ​ดูดี​ด้วย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.NAME"
+msgid "Aerodynamic Flightsuit"
+msgstr "ชุด​บิน​แอ​โร​ไดนามิก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LIQUIDCONDITIONER_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LIQUIDCONDITIONER_NEUTRONIUM.DESC"
+msgid "Duplicants who <i>can</i> say this building's name three times fast are too undignified to use it."
+msgstr "ดู​พลิ​แคนต์​ที่​พูด​ชื่อ​สิ่งก่อสร้าง​นี้​เร็ว ๆ สาม​รอบ<i>ได้</i>ถือว่า​ไม่​สง่างาม​พอ​จะ​ใช้​มัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LIQUIDCONDITIONER_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LIQUIDCONDITIONER_NEUTRONIUM.NAME"
+msgid "<link=\"LIQUIDCONDITIONER\">Regal Neutronium Thermo Aquatuner</link>"
+msgstr "<link=\"LIQUIDCONDITIONER\">เครื่อง​ปรับ​อุณหภูมิ​น้ำ​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEAND\">Petal AND Gate</link>"
+msgstr "<link=\"LOGICGATEAND\">เก​ต AND กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.NAME"
+msgid "<link=\"LOGICGATEAND\">Brightslug AND Gate</link>"
+msgstr "<link=\"LOGICGATEAND\">เก​ต AND สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEAND\">Cobalt AND Gate</link>"
+msgstr "<link=\"LOGICGATEAND\">เก​ต AND โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.NAME"
+msgid "<link=\"LOGICWIREBRIDGE\">Mulch Automation Wire Bridge</link>"
+msgstr "<link=\"LOGICWIREBRIDGE\">สะพาน​สาย​ระบบ​อัตโนมัติ​มัลช์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.NAME"
+msgid "<link=\"LOGICWIREBRIDGE\">Petal Automation Wire Bridge</link>"
+msgstr "<link=\"LOGICWIREBRIDGE\">สะพาน​สาย​ระบบ​อัตโนมัติ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.NAME"
+msgid "<link=\"LOGICWIREBRIDGE\">Brightslug Automation Wire Bridge</link>"
+msgstr "<link=\"LOGICWIREBRIDGE\">สะพาน​สาย​ระบบ​อัตโนมัติ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEBUFFER\">Petal BUFFER Gate</link>"
+msgstr "<link=\"LOGICGATEBUFFER\">เก​ต BUFFER กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.NAME"
+msgid "<link=\"LOGICGATEBUFFER\">Brightslug BUFFER Gate</link>"
+msgstr "<link=\"LOGICGATEBUFFER\">เก​ต BUFFER สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEBUFFER\">Cobalt BUFFER Gate</link>"
+msgstr "<link=\"LOGICGATEBUFFER\">เก​ต BUFFER โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.NAME"
+msgid "<link=\"LOGICCOUNTER\">Petal Signal Counter</link>"
+msgstr "<link=\"LOGICCOUNTER\">ตัว​นับ​สัญญาณ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.NAME"
+msgid "<link=\"LOGICCOUNTER\">Brightslug Signal Counter</link>"
+msgstr "<link=\"LOGICCOUNTER\">ตัว​นับ​สัญญาณ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICCOUNTER\">Cobalt Signal Counter</link>"
+msgstr "<link=\"LOGICCOUNTER\">ตัว​นับ​สัญญาณ​โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEDEMULTIPLEXER\">Petal Signal Distributor</link>"
+msgstr "<link=\"LOGICGATEDEMULTIPLEXER\">ตัว​กระจาย​สัญญาณ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.NAME"
+msgid "<link=\"LOGICGATEDEMULTIPLEXER\">Brightslug Signal Distributor</link>"
+msgstr "<link=\"LOGICGATEDEMULTIPLEXER\">ตัว​กระจาย​สัญญาณ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEDEMULTIPLEXER\">Cobalt Signal Distributor</link>"
+msgstr "<link=\"LOGICGATEDEMULTIPLEXER\">ตัว​กระจาย​สัญญาณ​โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEFILTER\">Petal FILTER Gate</link>"
+msgstr "<link=\"LOGICGATEFILTER\">เก​ต FILTER กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.NAME"
+msgid "<link=\"LOGICGATEFILTER\">Brightslug FILTER Gate</link>"
+msgstr "<link=\"LOGICGATEFILTER\">เก​ต FILTER สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEFILTER\">Cobalt FILTER Gate</link>"
+msgstr "<link=\"LOGICGATEFILTER\">เก​ต FILTER โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.NAME"
+msgid "<link=\"LOGICMEMORY\">Petal Memory Toggle</link>"
+msgstr "<link=\"LOGICMEMORY\">สวิตช์​หน่วยความจำ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.NAME"
+msgid "<link=\"LOGICMEMORY\">Brightslug Memory Toggle</link>"
+msgstr "<link=\"LOGICMEMORY\">สวิตช์​หน่วยความจำ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICMEMORY\">Cobalt Memory Toggle</link>"
+msgstr "<link=\"LOGICMEMORY\">สวิตช์​หน่วยความจำ​โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEMULTIPLEXER\">Petal Signal Selector</link>"
+msgstr "<link=\"LOGICGATEMULTIPLEXER\">ตัวเลือก​สัญญาณ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.NAME"
+msgid "<link=\"LOGICGATEMULTIPLEXER\">Brightslug Signal Selector</link>"
+msgstr "<link=\"LOGICGATEMULTIPLEXER\">ตัวเลือก​สัญญาณ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEMULTIPLEXER\">Cobalt Signal Selector</link>"
+msgstr "<link=\"LOGICGATEMULTIPLEXER\">ตัวเลือก​สัญญาณ​โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATENOT\">Petal NOT Gate</link>"
+msgstr "<link=\"LOGICGATENOT\">เก​ต NOT กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.NAME"
+msgid "<link=\"LOGICGATENOT\">Brightslug NOT Gate</link>"
+msgstr "<link=\"LOGICGATENOT\">เก​ต NOT สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATENOT\">Cobalt NOT Gate</link>"
+msgstr "<link=\"LOGICGATENOT\">เก​ต NOT โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEOR\">Petal OR Gate</link>"
+msgstr "<link=\"LOGICGATEOR\">เก​ต OR กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.NAME"
+msgid "<link=\"LOGICGATEOR\">Brightslug OR Gate</link>"
+msgstr "<link=\"LOGICGATEOR\">เก​ต OR สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEOR\">Cobalt OR Gate</link>"
+msgstr "<link=\"LOGICGATEOR\">เก​ต OR โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.NAME"
+msgid "<link=\"LOGICRIBBON\">Mulch Automation Ribbon</link>"
+msgstr "<link=\"LOGICRIBBON\">ริบ​บอน​ระบบ​อัตโนมัติ​มัลช์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.NAME"
+msgid "<link=\"LOGICRIBBONBRIDGE\">Mulch Automation Ribbon Bridge</link>"
+msgstr "<link=\"LOGICRIBBONBRIDGE\">สะพาน​ริบ​บอน​ระบบ​อัตโนมัติ​มัลช์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.NAME"
+msgid "<link=\"LOGICRIBBONBRIDGE\">Petal Automation Ribbon Bridge</link>"
+msgstr "<link=\"LOGICRIBBONBRIDGE\">สะพาน​ริบ​บอน​ระบบ​อัตโนมัติ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.NAME"
+msgid "<link=\"LOGICRIBBONBRIDGE\">Brightslug Automation Ribbon Bridge</link>"
+msgstr "<link=\"LOGICRIBBONBRIDGE\">สะพาน​ริบ​บอน​ระบบ​อัตโนมัติ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.NAME"
+msgid "<link=\"LOGICRIBBON\">Petal Automation Ribbon</link>"
+msgstr "<link=\"LOGICRIBBON\">ริบ​บอน​ระบบ​อัตโนมัติ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.NAME"
+msgid "<link=\"LOGICRIBBON\">Brightslug Automation Ribbon</link>"
+msgstr "<link=\"LOGICRIBBON\">ริบ​บอน​ระบบ​อัตโนมัติ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.NAME"
+msgid "<link=\"LOGICWIRE\">Mulch Automation Wire</link>"
+msgstr "<link=\"LOGICWIRE\">สาย​ระบบ​อัตโนมัติ​มัลช์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.NAME"
+msgid "<link=\"LOGICWIRE\">Petal Automation Wire</link>"
+msgstr "<link=\"LOGICWIRE\">สาย​ระบบ​อัตโนมัติ​กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.NAME"
+msgid "<link=\"LOGICWIRE\">Brightslug Automation Wire</link>"
+msgstr "<link=\"LOGICWIRE\">สาย​ระบบ​อัตโนมัติ​สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.NAME"
+msgid "<link=\"LOGICGATEXOR\">Petal XOR Gate</link>"
+msgstr "<link=\"LOGICGATEXOR\">เก​ต XOR กลีบดอก</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.NAME"
+msgid "<link=\"LOGICGATEXOR\">Brightslug XOR Gate</link>"
+msgstr "<link=\"LOGICGATEXOR\">เก​ต XOR สลัก​เรืองแสง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.DESC"
+msgid "Color-coded automation buildings are automatically more interesting."
+msgstr "สิ่งก่อสร้าง​ระบบ​อัตโนมัติ​ที่​แยกสี​ไว้​น่าสนใจ​ขึ้น​อัตโนมัติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.NAME"
+msgid "<link=\"LOGICGATEXOR\">Cobalt XOR Gate</link>"
+msgstr "<link=\"LOGICGATEXOR\">เก​ต XOR โคบอลต์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MASSEUR_PREHISTORIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MASSEUR_PREHISTORIC.DESC"
+msgid "Reflexology for the whole body!"
+msgstr "กดจุด​สะท้อน​เท้า​ทั่ว​ทั้งตัว!"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MASSEUR_PREHISTORIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MASSEUR_PREHISTORIC.NAME"
+msgid "<link=\"MASSAGETABLE\">Foot Massage Table</link>"
+msgstr "<link=\"MASSAGETABLE\">เตียง​นวด​เท้า</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MECHANICAL_SURFBOARD_JAWS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MECHANICAL_SURFBOARD_JAWS.DESC"
+msgid "Duplicants aren't sure what kind of aquatic critter this is supposed to be, but it makes them nervous."
+msgstr "ดู​พลิ​แคนต์​ไม่​แน่ใจ​ว่า​นี่​ควร​เป็น​สัตว์น้ำ​ชนิด​ไหน แต่​มัน​ทำให้​ใจไม่ดี"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MECHANICAL_SURFBOARD_JAWS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MECHANICAL_SURFBOARD_JAWS.NAME"
+msgid "<link=\"MECHANICALSURFBOARD\">Danger Fish Mechanical Surfboard</link>"
+msgstr "<link=\"MECHANICALSURFBOARD\">กระดานโต้คลื่น​กล​ปลา​อันตราย</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_METALREFINERY_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_METALREFINERY_NEUTRONIUM.DESC"
+msgid "Some say it's the most refined-looking metal refinery that ever refined metal."
+msgstr "บางคน​ว่า​เป็น​โรง​ถลุง​โลหะ​ที่​ดู​ถลุง​แล้ว​ที่สุด​เท่าที่​เคย​ถลุง​โลหะ​มา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_METALREFINERY_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_METALREFINERY_NEUTRONIUM.NAME"
+msgid "<link=\"METALREFINERY\">Regal Neutronium Metal Refinery</link>"
+msgstr "<link=\"METALREFINERY\">โรง​ถลุง​โลหะ​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MILKPRESS_STEGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MILKPRESS_STEGO.DESC"
+msgid "Industrial equipment inspired by nature."
+msgstr "อุปกรณ์​อุตสาหกรรม​ที่​ได้​แรงบันดาลใจ​จาก​ธรรมชาติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MILKPRESS_STEGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MILKPRESS_STEGO.NAME"
+msgid "<link=\"MILKPRESS\">Lumb Plant Pulverizer</link>"
+msgstr "<link=\"MILKPRESS\">เครื่อง​บด​พืช​ลัมบ์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_NEUTRONIUM.DESC"
+msgid "Enhances breathability by lending an air of affluence to its surroundings."
+msgstr "ช่วย​ให้​หายใจ​คล่อง​ขึ้น​ด้วย​การ​เติม​กลิ่นอาย​ความมั่งคั่ง​ให้​รอบ ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_NEUTRONIUM.NAME"
+msgid "<link=\"MINERALDEOXIDIZER\">Regal Neutronium Oxygen Diffuser</link>"
+msgstr "<link=\"MINERALDEOXIDIZER\">เครื่อง​กระจาย​ออกซิเจน​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MINNOW_SWIM_OUTFIT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MINNOW_SWIM_OUTFIT.NAME"
+msgid "Freediver Uniform Outfit"
+msgstr "ชุด​เครื่องแบบ​นัก​ดำน้ำ​อิสระ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.DESC"
+msgid "Keeps fingers snuggled up next to each other, as nature intended."
+msgstr "ให้​นิ้ว​ซุก​กอด​กัน​แน่น ๆ ตามที่​ธรรมชาติ​ตั้งใจ​ไว้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.NAME"
+msgid "Smog Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​หมอก​ควัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.DESC"
+msgid "Very useful for dusting off old reference books."
+msgstr "มีประโยชน์​มาก​สำหรับ​ปัดฝุ่น​หนังสืออ้างอิง​เก่า ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.NAME"
+msgid "Azulene Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​อะ​ซู​ลี​น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.DESC"
+msgid "A bit fiddly for handling lab equipment."
+msgstr "หยิบ​จับ​อุปกรณ์​แล็บ​ลำบาก​นิดหน่อย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.NAME"
+msgid "Enzyme Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​เอนไซม์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.DESC"
+msgid "If you rub them on your hair, you get a little zap."
+msgstr "ถ้า​เอา​ไป​ถู​ผม​จะ​โดน​ไฟ​ช็อต​จี๊ด​นิดนึง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.NAME"
+msgid "Tectonic Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​เปลือกโลก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.DESC"
+msgid "Easy to find in the snow."
+msgstr "หา​เจอ​ง่าย​ใน​หิมะ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.NAME"
+msgid "Cosmic Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​จักรวาล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.DESC"
+msgid "They should really be attached to each other by a long string."
+msgstr "จริง ๆ ควร​มี​เชือก​ยาว ๆ ผูก​สอง​ข้าง​ไว้​ด้วยกัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.NAME"
+msgid "Astral Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​ดวงดาว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.DESC"
+msgid "What they lack in dexterity, they also lack in stain-resistance."
+msgstr "ที่​ขาด​เรื่อง​ความ​คล่องมือ ก็​ขาด​เรื่อง​กัน​คราบ​ด้วย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.NAME"
+msgid "White Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​สี​ขาว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.DESC"
+msgid "They're great for stroking one's own face."
+msgstr "เหมาะ​มาก​สำหรับ​ลูบ​หน้า​ตัวเอง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.NAME"
+msgid "Yellowcake Mittens"
+msgstr "ถุงมือ​นิ้ว​รวม​เย​ล​โลว์​เค้ก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_AQUATIC.DESC"
+msgid "The ore chunks were secured with a glue stick and should not be tampered with."
+msgstr "ก้อน​แร่​ถูก​ยึด​ไว้​ด้วย​กาว​แท่ง ห้าม​แกะ​เล่น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_AQUATIC.NAME"
+msgid "Orehull Stand"
+msgstr "ฐาน​ออร์ฮัลล์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_BIONIC.DESC"
+msgid "It's a bit greasy."
+msgstr "มันเยิ้ม ๆ นิดหน่อย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_BIONIC.NAME"
+msgid "Balmy Bionic Base"
+msgstr "ฐาน​ไบโอ​นิ​ก​เปียก​มัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_FROSTY.DESC"
+msgid "The plume curls upward to enable cleaners to sweep the floor around it."
+msgstr "ขน​พู่​ม้วน​ขึ้น​เพื่อให้​คน​ทำความสะอาด​กวาด​พื้น​รอบ ๆ ได้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_FROSTY.NAME"
+msgid "Squash Stand"
+msgstr "ฐาน​สควอช"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_AQUATIC.DESC"
+msgid "Galloping forth towards monumental glory!"
+msgstr "ควบ​ทะยาน​สู่​ความรุ่งโรจน์​อัน​ยิ่งใหญ่!"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_AQUATIC.NAME"
+msgid "Seaquine Mount"
+msgstr "ม้าน้ำ​ซี​ควีน​พาหนะ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_BIONIC.DESC"
+msgid "Some Duplicants climb things just because they're there."
+msgstr "ดู​พลิ​แคนต์​บางคน​ปีน​ของ​เพียง​เพราะ​มัน​ตั้งอยู่​ตรงนั้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_BIONIC.NAME"
+msgid "Mount Microchip"
+msgstr "ภูเขา​ไมโคร​ชิป"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_FROSTY.DESC"
+msgid "It's radiant, though it emits no actual light."
+msgstr "มัน​เปล่งประกาย ถึง​จะ​ไม่​ได้​ปล่อยแสง​จริง ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_FROSTY.NAME"
+msgid "Lumen Landing"
+msgstr "ลาน​ลู​เมน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_BIONIC.DESC"
+msgid "The winner takes it all."
+msgstr "ผู้ชนะ​ได้​ไป​ทั้งหมด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_BIONIC.NAME"
+msgid "Gimme a Boost Base"
+msgstr "ฐาน​ขอ​บูสต์​หน่อย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_FROSTY.DESC"
+msgid "Looks and smells just like Bammoth \"business.\""
+msgstr "ทั้ง​หน้าตา​และ​กลิ่น​เหมือน \"ธุระ\" ของ​แบ​มมอธ​เป๊ะ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_FROSTY.NAME"
+msgid "Patty Pose"
+msgstr "ท่า​ก้อน​กลม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_AQUATIC.DESC"
+msgid "Don't let the cosmos get ya down, dude."
+msgstr "อย่า​ให้​จักรวาล​ทำให้​นาย​ท้อ​นะ​เพื่อน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_AQUATIC.NAME"
+msgid "Hang Ten"
+msgstr "แฮ​ง​เท​น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_BIONIC.DESC"
+msgid "Featuring the fluttery palms of a delighted Bionic Duplicant."
+msgstr "มี​ฝ่ามือ​พลิ้วไหว​ของ​ดู​พลิ​แคนต์​ไบโอ​นิ​ก​ที่​ดีใจ​สุด ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_BIONIC.NAME"
+msgid "Tickled Trunk"
+msgstr "ลำต้น​จั๊กจี้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_FROSTY.DESC"
+msgid "Carved sherberries are just about as palatable as real ones."
+msgstr "เชอร์​เบอร์รี​แกะสลัก​กิน​ได้​อร่อย​พอ ๆ กับ​ของจริง​นั่นแหละ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_FROSTY.NAME"
+msgid "Berry Bounty Trunk"
+msgstr "ลำต้น​เบอร์รี​อุดมสมบูรณ์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_AQUATIC.DESC"
+msgid "Clutching slippery lil critter babies."
+msgstr "อุ้ม​ลูก​สัตว์​ตัว​น้อย​ลื่น ๆ ไว้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_AQUATIC.NAME"
+msgid "Babes in Arms IV"
+msgstr "ลูก​น้อย​ใน​อ้อมแขน IV"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_BIONIC.DESC"
+msgid "Charging ahead with portable power."
+msgstr "พุ่ง​ไป​ข้างหน้า​ด้วย​พลังงาน​พกพา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_BIONIC.NAME"
+msgid "Power Forward"
+msgstr "พาวเวอร์​ฟอร์เวิร์ด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_FROSTY.DESC"
+msgid "Never, <i>ever</i> run while holding spigot seals."
+msgstr "ห้าม วิ่ง ตอน​อุ้ม​แมวน้ำ​ก๊อกน้ำ <i>เด็ดขาด</i>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_FROSTY.NAME"
+msgid "Seal Snuggles"
+msgstr "กอด​แมวน้ำ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_BIONIC.DESC"
+msgid "In this universe, ya get what ya take."
+msgstr "ใน​จักรวาล​นี้ เอา​อะไร​ไป​ก็ได้​อย่างนั้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_BIONIC.NAME"
+msgid "Hogger Trunk"
+msgstr "ลำต้น​จอม​กักตุน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_FROSTY.DESC"
+msgid "It's trying to get away from something."
+msgstr "มัน​พยายาม​หนี​จาก​อะไร​บางอย่าง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_FROSTY.NAME"
+msgid "Recoiling"
+msgstr "ผงะ​ถอย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_AQUATIC.DESC"
+msgid "Celebrates the interspecies kiss of life. The smooch of survival, if you will."
+msgstr "เฉลิมฉลอง​จุมพิต​แห่ง​ชีวิต​ข้าม​สายพันธุ์ หรือ​จะ​เรียก​ว่า​จุ๊บ​เอาตัวรอด​ก็ได้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_AQUATIC.NAME"
+msgid "Kai Noggin"
+msgstr "หัวโต​ไค"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_BIONIC.DESC"
+msgid "Each individual ringlet is heavy enough to crush a Duplicant."
+msgstr "ผม​ลอน​แต่ละ​เกลียว​หนัก​พอ​จะ​ทับ​ดู​พลิ​แคนต์​แบน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_BIONIC.NAME"
+msgid "Steela Noggin"
+msgstr "หัวโต​สตี​ลา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_FROSTY.DESC"
+msgid "A cooler-than-cool topper."
+msgstr "ยอด​ประดับ​ที่​เท่​กว่า​เท่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_FROSTY.NAME"
+msgid "Freyja Noggin"
+msgstr "หัวโต​เฟร​ยา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_PREHISTORIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_PREHISTORIC.DESC"
+msgid "A monument topper so mighty that even real Rhexes cower before it."
+msgstr "ยอด​ประดับ​อนุสาวรีย์​ที่​ทรงพลัง​จน​เร็กซ์​ตัวจริง​ยัง​หงอ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_PREHISTORIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_PREHISTORIC.NAME"
+msgid "Rhex Noggin"
+msgstr "หัวโต​เร็กซ์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_AQUATIC.DESC"
+msgid "There's no one quite like her."
+msgstr "ไม่​มี​ใคร​เหมือน​เธอ​อีกแล้ว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_AQUATIC.NAME"
+msgid "Freediver Noggin"
+msgstr "หัวโต​นัก​ดำน้ำ​อิสระ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_BIONIC.DESC"
+msgid "It's a special Ed-ition topper."
+msgstr "ยอด​ประดับ​รุ่น​พิเศษ​ฉบับ Ed"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_BIONIC.NAME"
+msgid "Edwiredo Noggin"
+msgstr "หัวโต​เอ็ด​ไว​เร​โด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_FROSTY.DESC"
+msgid "Everyone loves Pei Day!"
+msgstr "ทุก​คนรัก​วัน​เพย์!"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_FROSTY.NAME"
+msgid "Pei Noggin"
+msgstr "หัวโต​เพย์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_PREHISTORIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_PREHISTORIC.DESC"
+msgid "Ranchers really look up to it."
+msgstr "คน​เลี้ยงสัตว์​นับถือ​มัน​มาก (แหงน​มอง​กัน​ทุกคน)"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_PREHISTORIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_PREHISTORIC.NAME"
+msgid "Higby Noggin"
+msgstr "หัวโต​ฮิ​ก​บี"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_BIONIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_BIONIC.DESC"
+msgid "The smug mug of a winner."
+msgstr "หน้า​ภูมิใจ​ของ​ผู้ชนะ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_BIONIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_BIONIC.NAME"
+msgid "Ulti Noggin"
+msgstr "หัวโต​อัล​ติ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_FROSTY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_FROSTY.DESC"
+msgid "A giant Resting Ewwww Face topper."
+msgstr "ยอด​ประดับ​หน้า​นิ่ง​แหวะ ๆ ขนาด​ยักษ์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_FROSTY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_FROSTY.NAME"
+msgid "Liam Noggin"
+msgstr "หัวโต​เลียม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_AQUATIC.DESC"
+msgid "A peaceful meditation on the nature of life, love, and the universe."
+msgstr "การทำสมาธิ​อัน​สงบ​ถึง​ธรรมชาติ​ของ​ชีวิต ความรัก และ​จักรวาล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_AQUATIC.NAME"
+msgid "Serenity Swim"
+msgstr "ว่ายน้ำ​อย่าง​สงบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC"
+msgid "You cannot choose your family, but you can choose your friends."
+msgstr "เลือก​ครอบครัว​ไม่​ได้ แต่​เลือก​เพื่อน​ได้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME"
+msgid "Lady With a Bammini"
+msgstr "หญิงสาว​กับ​แบ​ม​มิ​นี่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_STEGO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_STEGO.DESC"
+msgid "If this Duplicant had their own private fridge, this is the picture that would be displayed on it."
+msgstr "ถ้า​ดู​พลิ​แคนต์คน​นี้​มี​ตู้เย็น​ส่วนตัว ภาพ​นี้​คง​ถูก​ติด​ไว้​บน​นั้น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_STEGO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_STEGO.NAME"
+msgid "Safari Selfie"
+msgstr "เซลฟี่​ซาฟารี"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_AQUATIC.DESC"
+msgid "A ship can weather many storms with the right captain at the helm."
+msgstr "เรือ​ฝ่า​พายุ​ได้​มากมาย​ถ้า​มี​กัปตัน​ที่​ใช่​คุม​หางเสือ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_AQUATIC.NAME"
+msgid "O Kraken! My Kraken!"
+msgstr "โอ้​ครา​เคน! ครา​เคน​ของ​ฉัน!"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC"
+msgid "The tale of this catch grows more unbelievable with each telling."
+msgstr "เรื่อง​ปลา​ตัว​นี้​ยิ่ง​เล่า​ยิ่ง​เกิน​จริง"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.NAME"
+msgid "Catch of the Day"
+msgstr "ปลา​เด็ด​ประจำวัน"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.DESC"
+msgid "The scale implies that this critter and its friend were larger than most."
+msgstr "สัดส่วน​บอ​กว่า​สัตว์​ตัว​นี้​กับ​เพื่อน​ตัว​ใหญ่​กว่า​ตัว​อื่น​ส่วนใหญ่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.NAME"
+msgid "Babe the Blue Flox"
+msgstr "เบบ​เจ้า​ฟล็อกซ์​สี​ฟ้า"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_RHEX.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_RHEX.DESC"
+msgid "The fact that this was just a friendly game was not made clear to everyone involved."
+msgstr "ไม่​ใช่​ทุกคน​ที่​รู้​ว่า​นี่​เป็น​แค่​เกม​เล่น​กัน​ขำ ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_RHEX.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_RHEX.NAME"
+msgid "Hide and Seek"
+msgstr "ซ่อนหา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_VENUS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_VENUS.DESC"
+msgid "What if the Printing Pod <i>isn't</i> where Duplicants come from?"
+msgstr "ถ้า​พ็อด​พิมพ์​ร่าง<i>ไม่​ใช่</i>ที่​ที่​ดู​พลิ​แคนต์​มาจาก​ล่ะ?"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_VENUS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_VENUS.NAME"
+msgid "The Nascence of Nisbet"
+msgstr "กำเนิด​แห่ง​นิ​สเบ็ต"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.DESC"
+msgid "The built-in invisible elastic waistband supports deep belly breathing."
+msgstr "ขอบ​เอว​ยางยืด​ล่องหน​ใน​ตัว​ช่วย​ให้​หายใจ​ลึก​ถึง​ท้อง​ได้"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.NAME"
+msgid "High-Waisted Wheezy Pants"
+msgstr "กางเกง​เอว​สูง​สี​วี​ซ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_NAUTICAL_WHITE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_NAUTICAL_WHITE.DESC"
+msgid "Twice the usual number of buttons, and zero pockets."
+msgstr "กระดุม​มากกว่า​ปกติ​สองเท่า และ​กระเป๋า​ศูนย์​ใบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_NAUTICAL_WHITE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_NAUTICAL_WHITE.NAME"
+msgid "High-Waisted Nautical Pants"
+msgstr "กางเกง​เอว​สูง​ทะเล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.DESC"
+msgid "Most wearers consider these single-use."
+msgstr "คน​ใส่​ส่วนใหญ่​ถือว่า​ใช้ได้​ครั้ง​เดียว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.NAME"
+msgid "Tear-Away Pants"
+msgstr "กางเกง​กระชาก​ขาด"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_SUSPENDERS_FRASS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_SUSPENDERS_FRASS.DESC"
+msgid "The suspenders are made from reconstituted wood pulp. They're not stretchy."
+msgstr "สาย​เอี๊ยม​ทำ​จาก​เยื่อ​ไม้​รีไซเคิล ไม่​ยืด​นะ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_SUSPENDERS_FRASS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_SUSPENDERS_FRASS.NAME"
+msgid "Arbor Hugger Pants"
+msgstr "กางเกง​คนรัก​ต้น​อาร์​เบอร์"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_SWIM_BLACK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_SWIM_BLACK.DESC"
+msgid "Monochromatic bottoms with just the subtlest hint of merfolk whimsy."
+msgstr "กางเกง​โทน​สี​เดียว​ที่​แอบ​มี​ความ​ขี้เล่น​แบบ​เงือก​นิด ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_SWIM_BLACK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_SWIM_BLACK.NAME"
+msgid "Black Scaly Pants"
+msgstr "กางเกง​เกล็ด​สี​ดำ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_WADER_ALGAE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_WADER_ALGAE.DESC"
+msgid "Hydrophobic high-waisted pants that also double as protective dinnerwear for messy eaters."
+msgstr "กางเกง​เอว​สูง​กันน้ำ​ที่​ใช้​เป็น​ชุดกันเปื้อน​สำหรับ​คน​กิน​เลอะ​ได้​ด้วย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PANTS_WADER_ALGAE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PANTS_WADER_ALGAE.NAME"
+msgid "Fishing Waders"
+msgstr "กางเกง​ลุย​น้ำ​ตกปลา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.DESC"
+msgid "It's playful, though it can't actually <i>be</i> played."
+msgstr "ขี้เล่น​ดี ถึง​จะ​เล่น​มัน<i>ไม่​ได้</i>จริง ๆ ก็ตาม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Arcade Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">แท่น​โชว์​ตู้เกม</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.DESC"
+msgid "Items displayed on this pedestal make a really \"power-full\" statement."
+msgstr "ของ​ที่​โชว์​บน​แท่น​นี้​ทำให้​ดู \"พลัง​ล้น\" สุด ๆ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Power Bank Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">แท่น​โชว์​พาวเวอร์​แบงก์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_COTTAGE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_COTTAGE.DESC"
+msgid "A cozy spot to display cherished items."
+msgstr "มุม​อบอุ่น​ไว้​โชว์​ของรัก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_COTTAGE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_COTTAGE.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Handcrafted Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">แท่น​โชว์​งาน​ทำ​มือ</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_NEUTRONIUM.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_NEUTRONIUM.DESC"
+msgid "This signet ring-style pedestal makes an opulent home for everything from crown jewels to knickknacks."
+msgstr "แท่น​โชว์​ทรง​แหวน​ตรา​นี้​เป็น​บ้าน​แสน​หรู​ให้​ทุกอย่าง ตั้งแต่​มงกุฎ​เพชร​ยัน​ของ​จุกจิก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_NEUTRONIUM.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_NEUTRONIUM.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Regal Neutronium Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">แท่น​โชว์​นิว​โทร​เนียม​ราชันย์</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.DESC"
+msgid "A display stand with a warm, brassy industrial aesthetic."
+msgstr "แท่น​โชว์​สไตล์​อุตสาหกรรม​ทองเหลือง​อบอุ่น"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Brass Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">แท่น​โชว์​ทองเหลือง</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.DESC"
+msgid "A display stand with a cool, steely industrial aesthetic."
+msgstr "แท่น​โชว์​สไตล์​อุตสาหกรรม​เหล็ก​เย็นเฉียบ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Chrome Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">แท่น​โชว์​โครเมียม</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.DESC"
+msgid "This plush onesie soothes workers who feel really wired."
+msgstr "ชุด​นอนวัน​พี​ซ​นุ่มนิ่ม​นี้​ช่วย​ปลอบ​คนงาน​ที่​รู้สึก​ไฟ​ช็อต​ใน​หัว"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.NAME"
+msgid "Bionic Jammies"
+msgstr "ชุดนอน​ไบโอ​นิ​ก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_DINO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_DINO.DESC"
+msgid "Pajamas for the sleepy paleontology buffs in the colony."
+msgstr "ชุดนอน​สำหรับ​แฟน​บรรพชีวิน​วิทยา​ขี้เซา​ใน​อาณานิคม"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_DINO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_DINO.NAME"
+msgid "Jurassic Jammies"
+msgstr "ชุดนอน​จู​รา​ส​สิ​ก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_DINO2.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_DINO2.DESC"
+msgid "If all beds were part of a single bed mass, colony life would be one big slumber party."
+msgstr "ถ้า​เตียง​ทุก​เตียง​รวม​เป็น​มหาทวีป​เตียง​เดียว ชีวิต​อาณานิคม​คง​เป็น​ปาร์ตี้​ค้างคืน​ครั้ง​ใหญ่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_DINO2.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_DINO2.NAME"
+msgid "Pangaea Jammies"
+msgstr "ชุดนอน​แพน​เจีย"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_DINO3.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_DINO3.DESC"
+msgid "The label inside reads: \"If at first you can't fall asleep, tri, tri again.\""
+msgstr "ป้าย​ข้างใน​เขียน​ว่า: \"ถ้า​ครั้งแรก​นอนไม่หลับ ไทร ไทร อีกครั้ง\""
+
+#. STRINGS.BLUEPRINTS.PERMIT_PJ_DINO3.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_DINO3.NAME"
+msgid "Triassic Jammies"
+msgstr "ชุดนอน​ไทร​แอ​ส​สิ​ก"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_AQUATIC.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_AQUATIC.DESC"
+msgid "Built to withstand the undertow of cosmic oceans."
+msgstr "สร้าง​มา​ให้​ทน​กระแสน้ำ​ดูด​ของ​มหาสมุทร​จักรวาล"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_AQUATIC.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_AQUATIC.NAME"
+msgid "<link=\"EXOBASEHEADQUARTERS\">Aquarius Mini-Pod</link>"
+msgstr "<link=\"EXOBASEHEADQUARTERS\">มินิ​พ็อดอควอเรียส</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_CYBERPUNK.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_CYBERPUNK.DESC"
+msgid "It's seen things that Duplicants wouldn't believe."
+msgstr "มัน​เคย​เห็น​สิ่ง​ที่​ดู​พลิ​แคนต์​ไม่​มี​วัน​เชื่อ"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_CYBERPUNK.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_CYBERPUNK.NAME"
+msgid "<link=\"EXOBASEHEADQUARTERS\">Retro LED Mini-Pod</link>"
+msgstr "<link=\"EXOBASEHEADQUARTERS\">มินิ​พ็อด​ไฟ LED ย้อนยุค</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_DINO.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_DINO.DESC"
+msgid "Before it was forgotten, it was revered."
+msgstr "ก่อน​จะ​ถูก​ลืม มัน​เคย​เป็นที่​เคารพบูชา"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_DINO.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_DINO.NAME"
+msgid "<link=\"EXOBASEHEADQUARTERS\">Forgotten Mini-Pod</link>"
+msgstr "<link=\"EXOBASEHEADQUARTERS\">มินิ​พ็อด​ที่​ถูก​ลืม</link>"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_ICE.DESC
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_ICE.DESC"
+msgid "It could run for a thousand cycles and still be cool to the touch."
+msgstr "มัน​ทำงาน​ได้​เป็น​พัน​รอบ​วัน​แต่​จับ​แล้ว​ยัง​เย็น​อยู่"
+
+#. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_ICE.NAME
+msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_ICE.NAME"
+msgid "<link=\"EXOBASEHEADQUARTERS\">Frosty Mini-Pod</link>"
+msgstr "<link=\"EXOBASEHEADQUARTERS\">มินิ​พ็อด​น้ำค้างแข็ง</link>"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -76523,7 +78733,7 @@ msgstr "หมวก​อัต​โม"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES"
 msgid "Atmo Boots"
-msgstr "รองเท้า​อัต​โม"
+msgstr "รองเท้า​บูต​อัต​โม"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMOSUITS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMOSUITS"
@@ -76763,12 +78973,12 @@ msgstr "หมวก​อัต​โม​หรูหรา"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_BASIC
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_BASIC"
 msgid "Atmo Boots"
-msgstr "รองเท้า​อัต​โม"
+msgstr "รองเท้า​บูต​อัต​โม"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_FANCY
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_FANCY"
 msgid "Fancy Atmo Boots"
-msgstr "รองเท้า​อัต​โม​หรูหรา"
+msgstr "รองเท้า​บูต​อัต​โม​หรูหรา"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_LANDSCAPE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_LANDSCAPE"
