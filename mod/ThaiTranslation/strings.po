@@ -93568,6 +93568,761 @@ msgctxt "STRINGS.STICKERNAMES.STICKER_UNICORN"
 msgid "Unicorns"
 msgstr "ยูนิคอร์น"
 
+#. STRINGS.SUBWORLDS.ABYSS.DESC
+msgctxt "STRINGS.SUBWORLDS.ABYSS.DESC"
+msgid ""
+"This aquatic environment is marked by gloomy shafts flooded with <link=\"MURKYBRINE\">Polluted Brine</link> and renewable natural resources ideal for colony industrialization. Training my Duplicants to <link=\"SWIMMER\">Swim</link> should be a priority.\n"
+"\n"
+msgstr ""
+"สภาพแวดล้อม​ใต้​น้ำ​แห่ง​นี้​โดดเด่น​ด้วย​ปล่อง​มืด​ทึม​ที่​ท่วม​ด้วย<link=\"MURKYBRINE\">น้ำเกลือ​เข้มข้น​ปนเปื้อน</link> และ​ทรัพยากรธรรมชาติ​หมุนเวียน​ที่​เหมาะกับ​การพัฒนา​อุตสาหกรรม​ของ​อาณานิคม การ​ฝึก​ดู​พลิ​แคนต์​ให้<link=\"SWIMMER\">ว่ายน้ำ</link>ควร​มา​เป็น​อันดับ​แรก\n"
+"\n"
+
+#. STRINGS.SUBWORLDS.ABYSS.NAME
+msgctxt "STRINGS.SUBWORLDS.ABYSS.NAME"
+msgid "Abyss Biome"
+msgstr "ไบโอ​ม​ห้วง​ลึก"
+
+#. STRINGS.SUBWORLDS.ABYSS.UTILITY
+msgctxt "STRINGS.SUBWORLDS.ABYSS.UTILITY"
+msgid ""
+"<link=\"UNDERWATERVENT\">Thermal Gas Fissures</link> provide a steady source of <link=\"METHANE\">Natural Gas</link>. <link=\"GALENA\">Galena</link> can be processed into <link=\"LEAD\">Lead</link> and <link=\"SULFUR\">Sulfur</link>, each contributing to the <link=\"POWER\">Power</link> systems that will fuel my colony's expansion.\n"
+"\n"
+"Rich deposits of <link=\"DIAMOND\">Diamond</link> supply the crucial component required for the <link=\"NOSECONEHARVEST\">Drillcone</link> my colony uses in space mining. Aquatic organisms called <link=\"URCHIN\">Pinpoki</link> can also be processed into diamond.\n"
+"\n"
+"Native <link=\"TUBEWORM\">Tublia</link> plants can be harvested for <link=\"PLASTIC\">Plastic</link>. The latter is useful for crafting the <link=\"BUILDINGGASKET\">Gaskets</link> that enable the construction of <link=\"REEFGENERATOR\">Tidal Turbines</link> and <link=\"UNDERWATERVENTDRILL\">Marine Drills</link>."
+msgstr ""
+"<link=\"UNDERWATERVENT\">รอยแยก​แก๊ส​ร้อน​ใต้พิภพ</link>เป็น​แหล่ง<link=\"METHANE\">แก๊ส​ธรรมชาติ</link>ที่​สม่ำเสมอ <link=\"GALENA\">กาลี​นา</link>แปรรูป​เป็น<link=\"LEAD\">ตะกั่ว</link>และ<link=\"SULFUR\">กำมะถัน</link>ได้ ซึ่ง​ต่าง​ก็​ช่วย​หนุน​ระบบ<link=\"POWER\">พลังงาน</link>ที่จะ​ขับเคลื่อน​การ​ขยาย​อาณานิคม\n"
+"\n"
+"แหล่ง<link=\"DIAMOND\">เพชร</link>อุดมสมบูรณ์​เป็น​วัตถุดิบ​สำคัญ​ของ<link=\"NOSECONEHARVEST\">หัว​สว่าน</link>ที่​อาณานิคม​ใช้​ขุด​ใน​อวกาศ สิ่งมีชีวิต​ใต้​น้ำ​ที่​เรียก​ว่า<link=\"URCHIN\">พิน​โป​กิ</link>ก็​แปรรูป​เป็น​เพชร​ได้​เช่นกัน\n"
+"\n"
+"พืช​ท้องถิ่น​อย่าง<link=\"TUBEWORM\">ทับ​เลีย</link>เก็บเกี่ยว​เป็น<link=\"PLASTIC\">พลาสติก</link>ได้ ซึ่ง​ใช้​ทำ<link=\"BUILDINGGASKET\">ปะ​เก็น</link>ที่​จำ​เป็นต่อ​การ​สร้าง<link=\"REEFGENERATOR\">กังหัน​น้ำขึ้น​ลง</link>และ<link=\"UNDERWATERVENTDRILL\">สว่าน​ทะเล</link>"
+
+#. STRINGS.SUBWORLDS.AQUATIC.DESC
+msgctxt "STRINGS.SUBWORLDS.AQUATIC.DESC"
+msgid "The Aquatic Biome is flush with a huge deposit of precious <link=\"WATER\">Water</link>."
+msgstr "ไบโอ​ม​ใต้​น้ำ​อัด​แน่น​ไป​ด้วย​แหล่ง<link=\"WATER\">น้ำ</link>ล้ำค่า​ขนาด​มหึมา"
+
+#. STRINGS.SUBWORLDS.AQUATIC.NAME
+msgctxt "STRINGS.SUBWORLDS.AQUATIC.NAME"
+msgid "Aquatic Biome"
+msgstr "ไบโอ​ม​ใต้​น้ำ"
+
+#. STRINGS.SUBWORLDS.AQUATIC.UTILITY
+msgctxt "STRINGS.SUBWORLDS.AQUATIC.UTILITY"
+msgid ""
+"Initially there is very little solid ground in this biome to establish a temporary base, but once a transportation network can be established to send the <link=\"WATER\">Water</link> of the Aquatic Biome to the rest of the colony, the other elements will be easier to reach.\n"
+"\n"
+"<link=\"SANDSTONE\">Sandstone</link>, <link=\"MAFICROCK\">Mafic Rock</link>, <link=\"SAND\">Sand</link> and <link=\"SEDIMENTARYROCK\">Sedimentary Rock</link> provide readily available construction materials for setting up elementary infrastructure. The presence of <link=\"OXYROCK\">Oxylite</link> provides invaluable <link=\"OXYGEN\">Oxygen</link> which, through careful planning, should be able to sustain any Duplicants working in the area for a limited amount of time."
+msgstr ""
+"ตอนแรก​ไบโอ​ม​นี้​แทบ​ไม่​มี​พื้น​แข็ง​ให้​ตั้ง​ฐาน​ชั่วคราว แต่​เมื่อ​สร้าง​เครือข่าย​ขนส่ง<link=\"WATER\">น้ำ</link>จาก​ไบโอ​ม​ใต้​น้ำ​ไป​ยัง​ส่วน​อื่น​ของ​อาณานิคม​ได้​แล้ว ธาตุ​อื่น ๆ ก็​จะ​เข้าถึง​ง่าย​ขึ้น\n"
+"\n"
+"<link=\"SANDSTONE\">หินทราย</link> <link=\"MAFICROCK\">หิน​มา​ฟิก</link> <link=\"SAND\">ทราย</link> และ<link=\"SEDIMENTARYROCK\">หินตะกอน</link>เป็น​วัสดุก่อสร้าง​ที่​หา​ได้​ทันที​สำหรับ​วาง​โครงสร้างพื้นฐาน ส่วน<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>ให้<link=\"OXYGEN\">ออกซิเจน</link>ล้ำค่า ซึ่ง​ถ้า​วางแผน​ดี ๆ ก็​น่าจะ​พอให้​ดู​พลิ​แคนต์​ที่ทำงาน​ใน​บริเวณ​นี้​อยู่รอด​ได้​ระยะ​หนึ่ง"
+
+#. STRINGS.SUBWORLDS.BARREN.DESC
+msgctxt "STRINGS.SUBWORLDS.BARREN.DESC"
+msgid "Initial scans of this biome yield no signs of either <link=\"PLANTS\">plant life</link> or <link=\"CREATURES\">critters</link>. It is a land devoid of <link=\"ELEMENTSLIQUID\">liquids</link> and minuscule <link=\"ELEMENTSGAS\">gas</link> deposits. These dry, dusty plains can be mined for building materials but there is little in the way of life sustaining resources here for a colony."
+msgstr "การ​สแกน​เบื้องต้น​ไม่​พบ​ร่องรอย​ของ<link=\"PLANTS\">พืช</link>หรือ<link=\"CREATURES\">สัตว์</link>ใน​ไบโอ​ม​นี้​เลย เป็น​ดินแดน​ที่​ไร้<link=\"ELEMENTSLIQUID\">ของเหลว</link>และ​มี​แหล่ง<link=\"ELEMENTSGAS\">แก๊ส</link>อยู่​น้อย​นิด ที่ราบ​แห้ง​ฝุ่นตลบ​นี้​ขุด​เอา​วัสดุก่อสร้าง​ได้ แต่​แทบ​ไม่​มี​ทรัพยากร​ที่​ช่วย​หล่อเลี้ยง​ชีวิต​ของ​อาณานิคม​เลย"
+
+#. STRINGS.SUBWORLDS.BARREN.NAME
+msgctxt "STRINGS.SUBWORLDS.BARREN.NAME"
+msgid "Barren Biome"
+msgstr "ไบโอ​ม​แห้งแล้ง"
+
+#. STRINGS.SUBWORLDS.BARREN.UTILITY
+msgctxt "STRINGS.SUBWORLDS.BARREN.UTILITY"
+msgid ""
+"The layers of sedimentary rock are predominantly made up of <link=\"GRANITE\">Granite</link> deposits, although <link=\"OBSIDIAN\">Obsidian</link> and <link=\"IGNEOUSROCK\">Igneous Rock</link> are also present. This suggests a history of volcanic activity, though no volcanoes exist here currently.\n"
+"\n"
+"Veins of <link=\"IRON\">Iron Ore</link> deposits are evident from initial scans, as are deposits of <link=\"CARBON\">Coal</link>. Both are useful in setting up a colony's power infrastructure.\n"
+"\n"
+"Though it lacks the crucial resources necessary to sustain a colony, there is nothing inherently dangerous here to harm my Duplicants. It should be safe enough to explore."
+msgstr ""
+"ชั้น​หินตะกอน​ส่วนใหญ่​ประกอบด้วย<link=\"GRANITE\">แกรนิต</link> แต่​ก็​มี<link=\"OBSIDIAN\">ออ​บ​ซิ​เดียน</link>และ<link=\"IGNEOUSROCK\">หินอัคนี</link>ปะปน​อยู่​ด้วย แสดงว่า​ที่นี่​เคย​มี​ภูเขาไฟ​ปะทุ ถึง​ตอนนี้​จะ​ไม่​มี​ภูเขาไฟ​เหลือ​อยู่แล้ว​ก็ตาม\n"
+"\n"
+"การ​สแกน​เบื้องต้น​พบ​สาย​แร่<link=\"IRON\">แร่​เหล็ก</link>ชัดเจน และ​พบ​แหล่ง<link=\"CARBON\">ถ่านหิน</link>ด้วย ทั้งสอง​อย่าง​มีประโยชน์​ต่อ​การ​วาง​โครงสร้าง​พลังงาน​ของ​อาณานิคม\n"
+"\n"
+"ถึง​จะ​ขาด​ทรัพยากร​สำคัญ​ที่​จำ​เป็นต่อ​การ​หล่อเลี้ยง​อาณานิคม แต่​ที่นี่​ก็​ไม่​มี​อะไร​อันตราย​ต่อ​ดู​พลิ​แคนต์ น่าจะ​ปลอดภัย​พอให้​สำรวจ​ได้"
+
+#. STRINGS.SUBWORLDS.BEACH.DESC
+msgctxt "STRINGS.SUBWORLDS.BEACH.DESC"
+msgid ""
+"Layers of <link=\"COQUINA\">Coquina</link>, <link=\"SALT\">Salt</link>, <link=\"SANDSTONE\">Sandstone</link>, and <link=\"SILTSTONE\">Siltstone</link> imply that this area may once have been an ocean floor. Now, its warm climate and abundant life-sustaining resources make it a welcoming place for new colonies.\n"
+"\n"
+msgstr ""
+"ชั้น​ของ<link=\"COQUINA\">โค​ค​วิ​นา</link> <link=\"SALT\">เกลือ</link> <link=\"SANDSTONE\">หินทราย</link> และ<link=\"SILTSTONE\">หิน​ทรายแป้ง</link>บ่งบอก​ว่า​บริเวณ​นี้​อาจ​เคย​เป็นพื้น​มหาสมุทร​มา​ก่อน ตอนนี้​อากาศ​อบอุ่น​และ​ทรัพยากร​ที่​หล่อเลี้ยง​ชีวิต​ได้​มากมาย ทำให้​ที่นี่​ต้อนรับ​อาณานิคม​ใหม่​อย่าง​อบอุ่น\n"
+"\n"
+
+#. STRINGS.SUBWORLDS.BEACH.NAME
+msgctxt "STRINGS.SUBWORLDS.BEACH.NAME"
+msgid "Beach Biome"
+msgstr "ไบโอ​ม​ชายหาด"
+
+#. STRINGS.SUBWORLDS.BEACH.UTILITY
+msgctxt "STRINGS.SUBWORLDS.BEACH.UTILITY"
+msgid ""
+"The <link=\"PALMWOOD\">Gum Wood</link> harvested from <link=\"DEWPALM\">Gum Palms</link> can be processed at the <link=\"MILKPRESS\">Plant Pulverizer</link> to produce <link=\"LATEX\">Latex</link>. This enables <link=\"RUBBER\">Rubber</link> production, which my colony can use to craft <link=\"DRYSUIT\">Swimwear</link> or manufacture the <link=\"BUILDINGGASKET\">Gaskets</link> required for the <link=\"POWER\">Power</link>-generating <link=\"REEFGENERATOR\">Tidal Turbine</link>.\n"
+"\n"
+"Basic caloric requirements are easily met by harvesting <link=\"MUSSELSPROUT\">Mussel Sprouts</link> and <link=\"SALTYSTICKSPLANT\">Sodicane</link>, though the latter is so salty that it's best to build a <link=\"WATERCOOLER\">Water Cooler</link> nearby to combat thirst-induced fatigue.\n"
+"\n"
+"<link=\"PUFFERFISHSPECIES\">Blowters</link> provide a more palatable <link=\"FOOD\">Food</link> and — when bloated — double as an emergency <link=\"OXYGEN\">Oxygen</link> source for suffocating Duplicants. When the need arises, my Duplicants will know what to do."
+msgstr ""
+"<link=\"PALMWOOD\">ไม้​ยาง</link>ที่เก็บ​จาก<link=\"DEWPALM\">ปาล์ม​ยาง</link>นำ​ไป​แปรรูป​ที่<link=\"MILKPRESS\">เครื่อง​บด​พืช</link>เพื่อ​ผลิต<link=\"LATEX\">น้ำยาง</link>ได้ ซึ่ง​เปิดทาง​สู่​การผลิต<link=\"RUBBER\">ยาง</link> ที่​อาณานิคม​ใช้​ทำ<link=\"DRYSUIT\">ชุดว่ายน้ำ</link> หรือ​ผลิต<link=\"BUILDINGGASKET\">ปะ​เก็น</link>ที่​จำ​เป็นต่อ<link=\"REEFGENERATOR\">กังหัน​น้ำขึ้น​ลง</link>ผู้ผลิต<link=\"POWER\">พลังงาน</link>\n"
+"\n"
+"ความต้องการ​แคลอรี่​พื้นฐาน​หา​ได้​ง่าย ๆ จาก​การ​เก็บ<link=\"MUSSELSPROUT\">หน่อ​หอย​แมลงภู่</link>และ<link=\"SALTYSTICKSPLANT\">อ้อย​โซดา</link> แต่​อย่าง​หลัง​เค็ม​ปี๋​จน​ควร​สร้าง<link=\"WATERCOOLER\">ตู้​กดน้ำ</link>ไว้​ใกล้ ๆ กัน​ความ​เหนื่อยล้า​จาก​ความกระหาย\n"
+"\n"
+"<link=\"PUFFERFISHSPECIES\">โบ​ลว์เตอร์</link>ให้<link=\"FOOD\">อาหาร</link>ที่​อร่อย​กว่า และ​เมื่อ​พองตัว ก็​กลายเป็น​แหล่ง<link=\"OXYGEN\">ออกซิเจน</link>ฉุกเฉิน​ให้​ดู​พลิ​แคนต์​ที่​กำลัง​หายใจไม่ออก​ได้​ด้วย ถึง​เวลา​จำเป็น ดู​พลิ​แคนต์​ของ​ฉัน​จะ​รู้​เอง​ว่า​ต้อง​ทำ​อะไร"
+
+#. STRINGS.SUBWORLDS.CARROTQUARRY.DESC
+msgctxt "STRINGS.SUBWORLDS.CARROTQUARRY.DESC"
+msgid "The Cool Pool Biome's chilly landscape features plentiful <link=\"ETHANOL\">Ethanol</link> lakes, making it an excellent destination for a colony eager to gather fuel resources."
+msgstr "ภูมิประเทศ​เย็นเยือก​ของ​ไบโอ​ม​แอ่ง​เย็น​มี​ทะเลสาบ<link=\"ETHANOL\">เอทานอล</link>มากมาย จึง​เป็น​จุดหมาย​ชั้นเยี่ยม​สำหรับ​อาณานิคม​ที่​อยาก​เก็บ​ทรัพยากร​เชื้อเพลิง"
+
+#. STRINGS.SUBWORLDS.CARROTQUARRY.NAME
+msgctxt "STRINGS.SUBWORLDS.CARROTQUARRY.NAME"
+msgid "Cool Pool Biome"
+msgstr "ไบโอ​ม​แอ่ง​เย็น"
+
+#. STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY
+msgctxt "STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY"
+msgid ""
+"<link=\"CARROTPLANT\">Plume Squash</link> is a calorie-dense crop that thrives in <link=\"OXYGEN\">Oxygen</link>, <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> and <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> environments.\n"
+"\n"
+"They make up the <link=\"BELLYSPECIES\">Bammoths'</link> entire diet. These gentle giants are a joy to ranch, <link=\"MEAT\">Meat</link>, <link=\"PHOSPHORITE\">Phosphorite</link>, <link=\"CINNABARORE\">Cinnabar Ore</link> and <link=\"BASICFABRIC\">Reed Fiber</link>.\n"
+"\n"
+"The latter is of particular importance, as my Duplicants will need to wear warmly insulated clothing if they are to survive these low temperatures.\n"
+"\n"
+"Initial investigations also reveal an abundance of <link=\"IRONORE\">Iron Ore</link> and <link=\"IGNEOUSROCK\">Igneous Rock</link> in this <link=\"OXYGEN\">Oxygen</link>-rich environment, ideal for industrial projects."
+msgstr ""
+"<link=\"CARROTPLANT\">ฟัก​ขนนก</link>เป็น​พืช​แคลอรี่​สูง​ที่​เติบโต​ดี​ใน​สภาพแวดล้อม​ที่​มี<link=\"OXYGEN\">ออกซิเจน</link> <link=\"CONTAMINATEDOXYGEN\">ออกซิเจน​ปนเปื้อน</link> และ<link=\"CARBONDIOXIDE\">คาร์บอนไดออกไซด์</link>\n"
+"\n"
+"มัน​คือ​อาหาร​ทั้งหมด​ของ<link=\"BELLYSPECIES\">แบ​มมอธ</link> ยักษ์​ใจดี​เหล่านี้​เลี้ยง​สนุก​สุด ๆ ทั้ง​ให้<link=\"MEAT\">เนื้อ</link> <link=\"PHOSPHORITE\">ฟอ​สโฟ​ไรต์</link> <link=\"CINNABARORE\">แร่​ชาด</link> และ<link=\"BASICFABRIC\">เส้นใย​กก</link>\n"
+"\n"
+"อย่าง​หลัง​สำคัญ​เป็นพิเศษ เพราะ​ดู​พลิ​แคนต์​ต้อง​ใส่​เสื้อผ้า​กัน​หนาว​ถึง​จะ​รอด​ใน​อุณหภูมิ​ต่ำ​แบบนี้​ได้\n"
+"\n"
+"การสำรวจ​เบื้องต้น​ยัง​พบ<link=\"IRONORE\">แร่​เหล็ก</link>และ<link=\"IGNEOUSROCK\">หินอัคนี</link>มากมาย​ใน​สภาพแวดล้อม​ที่​อุดม<link=\"OXYGEN\">ออกซิเจน</link>แห่ง​นี้ เหมาะกับ​โครงการ​อุตสาหกรรม"
+
+#. STRINGS.SUBWORLDS.FOREST.DESC
+msgctxt "STRINGS.SUBWORLDS.FOREST.DESC"
+msgid "Temperate and filled with unique <link=\"PLANTS\">Plant</link> life, this biome contains all the necessities for life support, although not in quantities sufficient to sustain a long term colony. Exploration into neighboring biomes should be a priority."
+msgstr "ไบโอ​ม​นี้​อากาศ​อบอุ่น​และ​เต็มไปด้วย<link=\"PLANTS\">พืช</link>เฉพาะถิ่น มี​สิ่งจำเป็น​ต่อ​การดำรงชีวิต​ครบ แต่​ปริมาณ​ไม่​พอ​หล่อเลี้ยง​อาณานิคม​ใน​ระยะยาว การสำรวจ​ไบโอ​ม​ข้างเคียง​ควร​มา​ก่อน"
+
+#. STRINGS.SUBWORLDS.FOREST.NAME
+msgctxt "STRINGS.SUBWORLDS.FOREST.NAME"
+msgid "Forest Biome"
+msgstr "ไบโอ​ม​ป่าไม้"
+
+#. STRINGS.SUBWORLDS.FOREST.UTILITY
+msgctxt "STRINGS.SUBWORLDS.FOREST.UTILITY"
+msgid ""
+"Small pockets of <link=\"OXYROCK\">Oxylite</link> and <link=\"WATER\">Water</link> are present in the Forest Biome, but calculations reveal they will only sustain the colony for a limited time.\n"
+"\n"
+"Analysis shows two native plants which should be prioritized for cultivation: The <link=\"OXYFERN\">Oxyfern</link>, which releases <link=\"OXYGEN\">Oxygen</link> but requires <link=\"WATER\">Water</link>; and the <link=\"FORESTTREE\">Arbor Tree</link> which provides <link=\"WOOD\">Wood</link> as a fuel source.\n"
+"\n"
+"A symbiotic relationship exists with the <link=\"FORESTTREE\">Arbor Tree</link> and the native <link=\"SQUIRRELSPECIES\">Pips</link> which appear to be the only critter that can find the elusive <link=\"PLANTS\">Arbor Acorns</link>.\n"
+"\n"
+"This biome is really quite beautiful. I've noted that <link=\"LIGHTBUGSPECIES\">Shine Bugs</link> and <link=\"LEAFYPLANT\">Mirth Leaf</link> both evoke feelings of serenity in my Duplicants."
+msgstr ""
+"ไบโอ​ม​ป่าไม้​มี<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>และ<link=\"WATER\">น้ำ</link>เป็น​แอ่ง​เล็ก ๆ แต่​ผล​คำนวณ​บอ​กว่า​จะ​หล่อเลี้ยง​อาณานิคม​ได้​แค่​ช่วงเวลา​จำกัด\n"
+"\n"
+"ผล​วิเคราะห์​พบ​พืช​ท้องถิ่น​สอง​ชนิด​ที่​ควร​รีบ​เพาะปลูก: <link=\"OXYFERN\">เฟิร์น​ออกซิเจน</link> ที่​ปล่อย<link=\"OXYGEN\">ออกซิเจน</link>แต่​ต้องการ<link=\"WATER\">น้ำ</link> และ<link=\"FORESTTREE\">ต้น​อาร์​เบอร์</link> ที่​ให้<link=\"WOOD\">ไม้</link>ไว้​เป็น​เชื้อเพลิง\n"
+"\n"
+"<link=\"FORESTTREE\">ต้น​อาร์​เบอร์</link>มี​ความสัมพันธ์​แบบ​พึ่งพา​กับ<link=\"SQUIRRELSPECIES\">พิป</link>ท้องถิ่น ซึ่ง​ดูเหมือน​เป็น​สัตว์​ชนิด​เดียว​ที่​หา<link=\"PLANTS\">ลูก​โอ๊ก​อาร์​เบอร์</link>สุด​ลึกลับ​เจอ\n"
+"\n"
+"ไบโอ​ม​นี้​สวย​จริง ๆ นะ ฉัน​สังเกตว่า<link=\"LIGHTBUGSPECIES\">แมลง​เรืองแสง</link>และ<link=\"LEAFYPLANT\">ใบ​เบิกบาน</link>ต่าง​ทำให้​ดู​พลิ​แคนต์​รู้สึก​สงบใจ"
+
+#. STRINGS.SUBWORLDS.FROZEN.DESC
+msgctxt "STRINGS.SUBWORLDS.FROZEN.DESC"
+msgid "The sub-zero temperatures of the Tundra Biome provide rare frozen deposits of <link=\"ICE\">Ice</link> and <link=\"SNOW\">Snow</link>, necessary for a colony's <link=\"HEAT\">Heat</link> regulation needs."
+msgstr "อุณหภูมิ​ต่ำกว่า​ศูนย์​ของ​ไบโอ​ม​ทุน​ด​รา​ให้​แหล่ง<link=\"ICE\">น้ำแข็ง</link>และ<link=\"SNOW\">หิมะ</link>เยือกแข็ง​หา​ยาก ซึ่ง​จำ​เป็นต่อ​การควบคุม<link=\"HEAT\">ความร้อน</link>ของ​อาณานิคม"
+
+#. STRINGS.SUBWORLDS.FROZEN.NAME
+msgctxt "STRINGS.SUBWORLDS.FROZEN.NAME"
+msgid "Tundra Biome"
+msgstr "ไบโอ​ม​ทุน​ด​รา"
+
+#. STRINGS.SUBWORLDS.FROZEN.UTILITY
+msgctxt "STRINGS.SUBWORLDS.FROZEN.UTILITY"
+msgid ""
+"Far from devoid of life, this biome contains some much needed plant life, ripe for cultivation. <link=\"COLDWHEAT\">Sleet Wheat</link> provides a nutrient rich ingredient for creating complex foods, though the plants do require sub-zero temperatures to thrive.\n"
+"\n"
+"Fortunately <link=\"COLDBREATHER\">Wheezewort</link> can been planted on farms to lower surrounding temperatures.\n"
+"\n"
+"Crucially, small deposits of <link=\"WOLFRAMITE\">Wolframite</link> have been detected here. This is an extremely rare metal that should be preserved for <link=\"TUNGSTEN\">Tungsten</link> production.\n"
+"\n"
+"Though my Duplicants appear more than happy to work in the Tundra Biome for short periods of time, I will need to provide proper <link=\"EQUIPMENT\">equipment</link> for them to avoid adverse affects to their well-being if they are working here for longer periods."
+msgstr ""
+"ไบโอ​ม​นี้​ไม่​ได้​ไร้​ชีวิต​เลย มี​พืช​ที่​ต้องการ​อย่างยิ่ง​พร้อม​ให้​เพาะปลูก <link=\"COLDWHEAT\">ข้าวสาลี​ลูกเห็บ</link>เป็น​วัตถุดิบ​อุดม​สารอาหาร​สำหรับ​ทำอาหาร​ซับซ้อน แต่​พืช​ต้องการ​อุณหภูมิ​ต่ำกว่า​ศูนย์​ถึง​จะ​งอกงาม\n"
+"\n"
+"โชคดี​ที่​ปลูก<link=\"COLDBREATHER\">วี​ซเวิร์ต</link>ใน​ฟาร์ม​เพื่อ​ลด​อุณหภูมิ​รอบข้าง​ได้\n"
+"\n"
+"ที่​สำคัญ​คือ​ตรวจ​พบ<link=\"WOLFRAMITE\">วุลแฟรไมต์</link>เป็น​แหล่ง​เล็ก ๆ ที่นี่ โลหะ​นี้​หา​ยาก​สุด ๆ ควร​เก็บ​ไว้​ผลิต<link=\"TUNGSTEN\">ทังสเตน</link>\n"
+"\n"
+"ถึง​ดู​พลิ​แคนต์​จะ​ดู​เต็มใจ​ทำงาน​ใน​ไบโอ​ม​ทุน​ด​รา​ช่วง​สั้น ๆ แต่​ถ้า​ต้อง​ทำงาน​ที่นี่​นาน ๆ ฉัน​ต้อง​จัด<link=\"EQUIPMENT\">อุปกรณ์</link>ที่​เหมาะสม​ให้ เพื่อ​ไม่​ให้​สุขภาวะ​ของ​พวกเขา​ย่ำแย่"
+
+#. STRINGS.SUBWORLDS.GARDEN.DESC
+msgctxt "STRINGS.SUBWORLDS.GARDEN.DESC"
+msgid "The Garden biome is a temperate environment with beneficial critters and plants well-suited for <link=\"FARMING\">Farming</link>."
+msgstr "ไบโอ​ม​สวน​เป็น​สภาพแวดล้อม​อบอุ่น มี​สัตว์​และ​พืช​ที่​มีประโยชน์ เหมาะกับ<link=\"FARMING\">การเกษตร</link>"
+
+#. STRINGS.SUBWORLDS.GARDEN.NAME
+msgctxt "STRINGS.SUBWORLDS.GARDEN.NAME"
+msgid "Garden Biome"
+msgstr "ไบโอ​ม​สวน"
+
+#. STRINGS.SUBWORLDS.GARDEN.UTILITY
+msgctxt "STRINGS.SUBWORLDS.GARDEN.UTILITY"
+msgid ""
+"This biome is home to <link=\"STEGOSPECIES\">Lumbs</link>, which assist in harvesting edible plants, and pollinator <link=\"BUTTERFLYSPECIES\">Mimikas</link> which boost plant growth speeds.\n"
+"\n"
+"<link=\"POWER\">Power</link> systems built in this biome will benefit from <link=\"NICKELORE\">Nickel Ore</link> and <link=\"PEAT\">Peat</link> deposits, and with plenty of <link=\"SHALE\">Shale</link> available, there is no lack of construction materials.\n"
+"\n"
+"Colonists can rely on <link=\"GARDENFORAGEPLANTPLANTED\">Snactus</link> plants for life-sustaining calories in their early days. <link=\"VINEMOTHER\">Ovagro Nodes</link> become efficient <link=\"FOOD\">Food</link> crops when permitted to grow to their full extent, as their <link=\"WATER\">Water</link> requirements do not increase with the number of <link=\"VINEFRUIT\">Ovagro Fig</link>-bearing vines.\n"
+"\n"
+"New colonies should be able to survive here with relative ease."
+msgstr ""
+"ไบโอ​ม​นี้​เป็น​บ้าน​ของ<link=\"STEGOSPECIES\">ลัมบ์</link> ที่​ช่วย​เก็บเกี่ยว​พืช​กิน​ได้ และ<link=\"BUTTERFLYSPECIES\">มิ​มิ​กา</link>นัก​ผสม​เกสร ที่​ช่วย​เร่ง​การ​เติบโต​ของ​พืช\n"
+"\n"
+"ระบบ<link=\"POWER\">พลังงาน</link>ที่​สร้าง​ใน​ไบโอ​ม​นี้​จะ​ได้ประโยชน์​จาก​แหล่ง<link=\"NICKELORE\">แร่​นิกเกิล</link>และ<link=\"PEAT\">พี​ต</link> และ​ด้วย<link=\"SHALE\">หินดินดาน</link>ที่​มี​เพียบ วัสดุก่อสร้าง​จึง​ไม่​ขาดแคลน​แน่นอน\n"
+"\n"
+"ช่วงแรก ๆ ผู้​ตั้ง​อาณานิคม​พึ่ง<link=\"GARDENFORAGEPLANTPLANTED\">สแนกตัส</link>เป็น​แหล่ง​แคลอรี่​ได้ <link=\"VINEMOTHER\">ข้อ​เถา​โอ​วา​โก​ร</link>จะ​กลายเป็น​พืช<link=\"FOOD\">อาหาร</link>ที่​คุ้มค่า​เมื่อ​ปล่อย​ให้​โต​เต็มที่ เพราะ​ความต้องการ<link=\"WATER\">น้ำ</link>ไม่​เพิ่ม​ตาม​จำนวน​เถา​ที่​ออก<link=\"VINEFRUIT\">มะเดื่อ​โอ​วา​โก​ร</link>\n"
+"\n"
+"อาณานิคม​ใหม่​น่าจะ​อยู่รอด​ที่นี่​ได้​ค่อนข้าง​สบาย"
+
+#. STRINGS.SUBWORLDS.ICECAVES.DESC
+msgctxt "STRINGS.SUBWORLDS.ICECAVES.DESC"
+msgid "The Ice Cave Biome's extremely low temperatures make thermal regulation the top priority."
+msgstr "อุณหภูมิ​ต่ำ​สุดขั้ว​ของ​ไบโอ​ม​ถ้ำ​น้ำแข็ง​ทำให้​การควบคุม​อุณหภูมิ​มา​เป็น​อันดับ​หนึ่ง"
+
+#. STRINGS.SUBWORLDS.ICECAVES.NAME
+msgctxt "STRINGS.SUBWORLDS.ICECAVES.NAME"
+msgid "Ice Cave Biome"
+msgstr "ไบโอ​ม​ถ้ำ​น้ำแข็ง"
+
+#. STRINGS.SUBWORLDS.ICECAVES.UTILITY
+msgctxt "STRINGS.SUBWORLDS.ICECAVES.UTILITY"
+msgid ""
+"The below-freezing climate in this biome keeps elements frozen solid, but once a colony has established the means necessary to melt the abundant <link=\"ICE\">Ice</link> deposits, it should be able to produce enough <link=\"WATER\">Water</link> to meet its needs. Initial scans reveal the presence of <link=\"CINNABAR\">Cinnabar Ore</link> that can be used in <link=\"POWER\">Power</link> systems.\n"
+"\n"
+"<link=\"STABLESNOW\">Snow</link> is a readily available construction material. Note that its structural integrity may be undermined if surrounding areas become hot enough to trigger a state change.\n"
+"\n"
+"<link=\"HARDSKINBERRY\">Pikeapple Bushes</link> feed both Duplicants and the native <link=\"WOODDEER\">Flox</link>, a critter whose <link=\"WOOD\">Wood</link>, antlers offer a renewable source of fuel and attractive temperature-stable construction materials.\n"
+"\n"
+"Although pockets of <link=\"OXYGEN\">Oxygen</link> allow Duplicants to begin the work of colony-building in this biome, the key to long-term survival is the cultivation of <link=\"BLUEGRASS\">Alveo Vera</link> plants. They produce harvestable <link=\"OXYROCK\">Oxylite</link> and their beauty--much like that of the dreamy <link=\"ICEFLOWER\">Idylla Flower</link>--is a wonderful salve for existential dread."
+msgstr ""
+"อากาศ​ต่ำกว่า​จุดเยือกแข็ง​ใน​ไบโอ​ม​นี้​ทำให้​ธาตุ​ต่าง ๆ แข็งตัว​หมด แต่​เมื่อ​อาณานิคม​มี​วิธี​ละลาย​แหล่ง<link=\"ICE\">น้ำแข็ง</link>ที่​มี​อยู่​มากมาย​แล้ว ก็​น่าจะ​ผลิต<link=\"WATER\">น้ำ</link>ได้​พอใช้ การ​สแกน​เบื้องต้น​พบ<link=\"CINNABAR\">แร่​ชาด</link>ที่​ใช้​ใน​ระบบ<link=\"POWER\">พลังงาน</link>ได้\n"
+"\n"
+"<link=\"STABLESNOW\">หิมะ</link>เป็น​วัสดุก่อสร้าง​ที่​หา​ได้​ทันที แต่​โปรดทราบ​ว่า​ความแข็งแรง​ของ​โครงสร้าง​อาจ​เสีย​ไป ถ้า​บริเวณ​รอบ ๆ ร้อน​พอ​จะ​ทำให้​เปลี่ยน​สถานะ\n"
+"\n"
+"<link=\"HARDSKINBERRY\">สับปะรด​หนาม</link>เป็น​อาหาร​ให้​ทั้ง​ดู​พลิ​แคนต์​และ<link=\"WOODDEER\">ฟล็อกซ์</link>ท้องถิ่น สัตว์​ที่​มี​เขา​เป็น<link=\"WOOD\">ไม้</link> เป็น​แหล่ง​เชื้อเพลิง​หมุนเวียน​และ​วัสดุก่อสร้าง​หน้าตา​ดี​ที่​ทน​อุณหภูมิ\n"
+"\n"
+"ถึง​แอ่ง<link=\"OXYGEN\">ออกซิเจน</link>จะ​ช่วย​ให้​ดู​พลิ​แคนต์​เริ่ม​สร้าง​อาณานิคม​ใน​ไบโอ​ม​นี้​ได้ แต่​กุญแจ​สู่​การอยู่รอด​ระยะยาว​คือ​การ​ปลูก<link=\"BLUEGRASS\">อัล​วี​โอ​เว​รา</link> ซึ่ง​ให้<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>เก็บเกี่ยว​ได้ และ​ความงาม​ของ​มัน--เช่นเดียวกับ<link=\"ICEFLOWER\">ดอก​ไอ​ดิ​ล​ลา</link>แสน​เพ้อฝัน--ก็​เป็น​ยา​ชั้นดี​แก้​ความหวาดหวั่น​ต่อ​การ​มี​อยู่"
+
+#. STRINGS.SUBWORLDS.JUNGLE.DESC
+msgctxt "STRINGS.SUBWORLDS.JUNGLE.DESC"
+msgid "Initial investigations of the Jungle Biome reveal an ecosystem filled with unique flora but centered around <link=\"CHLORINE\">Liquid Chlorine</link> and <link=\"HYDROGEN\">Hydrogen Gas</link> gas, toxic to Duplicants."
+msgstr "การสำรวจ​ไบโอ​ม​ป่าดงดิบ​เบื้องต้น​พบ​ระบบนิเวศ​ที่​เต็มไปด้วย​พืช​เฉพาะถิ่น แต่​มี​ศูนย์กลาง​เป็น<link=\"CHLORINE\">คลอรีน​เหลว</link>และ<link=\"HYDROGEN\">แก๊ส​ไฮโดรเจน</link> ซึ่ง​เป็นพิษ​ต่อ​ดู​พลิ​แคนต์"
+
+#. STRINGS.SUBWORLDS.JUNGLE.NAME
+msgctxt "STRINGS.SUBWORLDS.JUNGLE.NAME"
+msgid "Jungle Biome"
+msgstr "ไบโอ​ม​ป่าดงดิบ"
+
+#. STRINGS.SUBWORLDS.JUNGLE.UTILITY
+msgctxt "STRINGS.SUBWORLDS.JUNGLE.UTILITY"
+msgid ""
+"The <link=\"DRECKOSPECIES\">Drecko</link> is a relatively benign critter which can be domesticated to aid in textile and food production.\n"
+"\n"
+"The <link=\"GLOMSPECIES\">Morb</link>'s only function is to produce <link=\"POLLUTEDOXYGEN\">Polluted Oxygen</link> which may be useful when establishing sustainable production loops with other critters.\n"
+"\n"
+"<link=\"SWAMPLILY\">Balm Lilies</link> would be useful to cultivate for the production of critical medical materials.\n"
+"\n"
+"<link=\"SPICEVINE\">Pincha Pepperplants</link> greatly improve the nutritional value and quality of a colony's food supply. Because of their unique relationship with gravity, the plants must be orientated upside-down for proper growing. This can be accomplished by using a <link=\"FARMTILE\">Farm Tile</link>.\n"
+"\n"
+"Given the toxic gases I will have to build a proper <link=\"BUILDCATEGORYHVAC\">Ventilation</link> system to both protect my Duplicants and provide the optimum environments for the native plants and critters."
+msgstr ""
+"<link=\"DRECKOSPECIES\">เด​รก​โก</link>เป็น​สัตว์​ค่อนข้าง​ใจดี ที่​ฝึก​ให้​เชื่อง​เพื่อ​ช่วย​ผลิต​สิ่งทอ​และ​อาหาร​ได้\n"
+"\n"
+"หน้าที่​เดียว​ของ<link=\"GLOMSPECIES\">มอร์บ</link>คือ​ผลิต<link=\"POLLUTEDOXYGEN\">ออกซิเจน​ปนเปื้อน</link> ซึ่ง​อาจ​มีประโยชน์​ตอน​สร้าง​วงจร​การผลิต​แบบ​ยั่งยืน​ร่วมกับ​สัตว์​อื่น\n"
+"\n"
+"<link=\"SWAMPLILY\">ลิลลี่​บาล์ม</link>ควร​ปลูก​ไว้​ผลิต​วัสดุ​การแพทย์​ที่​สำคัญ\n"
+"\n"
+"<link=\"SPICEVINE\">ต้น​พริกไทย​พิน​ชา</link>ช่วย​เพิ่มคุณค่า​ทาง​อาหาร​และ​คุณภาพ​เสบียง​ของ​อาณานิคม​ได้​มาก เพราะ​มัน​มี​ความสัมพันธ์​พิเศษ​กับ​แรงโน้มถ่วง จึง​ต้อง​ปลูก​กลับหัว​ถึง​จะ​โต​ได้ดี ซึ่ง​ทำได้​ด้วย<link=\"FARMTILE\">แผ่น​ฟาร์ม</link>\n"
+"\n"
+"ด้วย​แก๊ส​พิษ​พวก​นี้ ฉัน​ต้อง​สร้าง​ระบบ<link=\"BUILDCATEGORYHVAC\">ระบายอากาศ</link>ที่​ดี ทั้ง​เพื่อ​ปกป้อง​ดู​พลิ​แคนต์ และ​สร้าง​สภาพแวดล้อม​ที่​เหมาะ​ที่สุด​ให้​พืช​และ​สัตว์​ท้องถิ่น"
+
+#. STRINGS.SUBWORLDS.KELPFOREST.DESC
+msgctxt "STRINGS.SUBWORLDS.KELPFOREST.DESC"
+msgid ""
+"The temperate Kelp Forest biome contains plentiful natural resources, with enough breathable gas to sustain my Duplicants as they build the infrastructure for longer-term solutions.\n"
+"\n"
+msgstr ""
+"ไบโอ​ม​ป่า​สาหร่าย​ที่​อากาศ​อบอุ่น​มี​ทรัพยากรธรรมชาติ​มากมาย และ​มี​แก๊ส​หายใจ​ได้​พอให้​ดู​พลิ​แคนต์​อยู่รอด​ระหว่าง​สร้าง​โครงสร้างพื้นฐาน​สำหรับ​ระยะยาว\n"
+"\n"
+
+#. STRINGS.SUBWORLDS.KELPFOREST.NAME
+msgctxt "STRINGS.SUBWORLDS.KELPFOREST.NAME"
+msgid "Kelp Forest Biome"
+msgstr "ไบโอ​ม​ป่า​สาหร่าย"
+
+#. STRINGS.SUBWORLDS.KELPFOREST.UTILITY
+msgctxt "STRINGS.SUBWORLDS.KELPFOREST.UTILITY"
+msgid ""
+"Initial scans reveal that beneath the <link=\"TOXICMUD\">Polluted Mud</link> are rich veins of <link=\"IRONORE\">Iron Ore</link>. Native aquatic critters called <link=\"SEATURTLESPECIES\">Orehulls</link> can also be sheared for this same ore - establishing a strong ranching system in this biome will ensure an infinite supply.\n"
+"\n"
+"Deep pools of <link=\"DIRTYWATER\">Polluted Water</link> can be piped into cooling systems to support colony-wide <link=\"HEAT\">Temperature</link> management. It off-gases into breathable <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>, and keeps local <link=\"BASICFABRICPLANT\">Thimble Reed</link> healthy."
+msgstr ""
+"การ​สแกน​เบื้องต้น​พบ​ว่า​ใต้<link=\"TOXICMUD\">โคลน​ปนเปื้อน</link>มี​สาย​แร่<link=\"IRONORE\">แร่​เหล็ก</link>อุดมสมบูรณ์ สัตว์น้ำ​ท้องถิ่น​ที่​เรียก​ว่า<link=\"SEATURTLESPECIES\">ออร์ฮัลล์</link>ก็​ตัด​ขน​เอา​แร่​แบบ​เดียวกัน​ได้ ถ้า​สร้าง​ระบบ​เลี้ยงสัตว์​ที่​แข็งแรง​ใน​ไบโอ​ม​นี้ จะ​มี​แร่​ใช้​ไม่​มี​วัน​หมด\n"
+"\n"
+"แอ่ง<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>ลึก ๆ ต่อ​ท่อ​เข้า​ระบบ​หล่อ​เย็น​เพื่อ​จัดการ<link=\"HEAT\">อุณหภูมิ</link>ทั่ว​อาณานิคม​ได้ มัน​ระเหย​เป็น<link=\"CONTAMINATEDOXYGEN\">ออกซิเจน​ปนเปื้อน</link>ที่​หายใจ​ได้ และ​ช่วย​ให้<link=\"BASICFABRICPLANT\">ต้น​กก​ปลอกนิ้ว</link>ท้องถิ่น​แข็งแรง"
+
+#. STRINGS.SUBWORLDS.MAGMA.DESC
+msgctxt "STRINGS.SUBWORLDS.MAGMA.DESC"
+msgid "Temperatures in the Magma Biome can reach upwards of 1526 degrees, making it a reliable source of extreme heat that can be exploited for the purposes of producing <link=\"POWER\">Power</link> and fuel."
+msgstr "อุณหภูมิ​ใน​ไบโอ​ม​แมก​มา​สูง​ได้​ถึง 1526 องศา จึง​เป็น​แหล่ง​ความร้อน​สุดขั้ว​ที่​ไว้ใจได้ นำมาใช้​ผลิต<link=\"POWER\">พลังงาน</link>และ​เชื้อเพลิง​ได้"
+
+#. STRINGS.SUBWORLDS.MAGMA.NAME
+msgctxt "STRINGS.SUBWORLDS.MAGMA.NAME"
+msgid "Magma Biome"
+msgstr "ไบโอ​ม​แมก​มา"
+
+#. STRINGS.SUBWORLDS.MAGMA.UTILITY
+msgctxt "STRINGS.SUBWORLDS.MAGMA.UTILITY"
+msgid ""
+"<link=\"MAGMA\">Magma</link> is source of extreme <link=\"HEAT\">Heat</link> which can be used to transform <link=\"WATER\">Water</link> in to <link=\"STEAM\">Steam</link> or <link=\"CRUDEOIL\">Crude Oil</link> into <link=\"PETROLEUM\">Petroleum</link>. In order to prevent the extreme temperatures of this biome invading other parts of my base, suitable insulation must be constructed using materials with high melting points like <link=\"CERAMIC\">Ceramic</link> or <link=\"OBSIDIAN\">Obsidian</link>.\n"
+"\n"
+"Though exosuits such as <link=\"ATMOSUIT\">Atmo Suits</link> and <link=\"JETSUIT\">Jet Suits</link> will provide some protection for my Duplicants, there is still a danger they will overheat if spending an extended amount of time in this Biome. I should ensure that suitable medical facilities have been constructed nearby to take care of any medical emergencies."
+msgstr ""
+"<link=\"MAGMA\">แมก​มา</link>เป็น​แหล่ง<link=\"HEAT\">ความร้อน</link>สุดขั้ว ใช้​เปลี่ยน<link=\"WATER\">น้ำ</link>เป็น<link=\"STEAM\">ไอ​น้ำ</link> หรือ​เปลี่ยน<link=\"CRUDEOIL\">น้ำมันดิบ</link>เป็น<link=\"PETROLEUM\">ปิโตรเลียม</link>ได้ เพื่อ​กัน​ไม่​ให้​อุณหภูมิ​สุดขั้ว​ของ​ไบโอ​ม​นี้​ลาม​ไป​ส่วน​อื่น​ของ​ฐาน ต้อง​สร้าง​ฉนวน​ที่​เหมาะสม​ด้วย​วัสดุ​จุดหลอมเหลว​สูง​อย่าง<link=\"CERAMIC\">เซรามิก</link>หรือ<link=\"OBSIDIAN\">ออ​บ​ซิ​เดียน</link>\n"
+"\n"
+"ถึง​ชุด​เอ็ก​โซ​สูท (ชุด​โครง​เสริม​แรง) อย่าง<link=\"ATMOSUIT\">ชุด​อัต​โม</link> (ชุด​กัน​แก๊ส) และ<link=\"JETSUIT\">ชุด​เจ็ต</link> (ชุด​ไอพ่น) จะ​ช่วย​ป้องกัน​ดู​พลิ​แคนต์​ได้​บ้าง แต่​ก็​ยัง​เสี่ยง​ร้อน​เกิน​ถ้า​อยู่​ใน​ไบโอ​ม​นี้​นาน ๆ ฉัน​ควร​สร้าง​สถานพยาบาล​ที่​เหมาะสม​ไว้​ใกล้ ๆ รับมือ​เหตุฉุกเฉิน​ทางการแพทย์"
+
+#. STRINGS.SUBWORLDS.MARSH.DESC
+msgctxt "STRINGS.SUBWORLDS.MARSH.DESC"
+msgid "<link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> dominates the atmosphere of the Marsh Biome as it escapes from the <link=\"SLIMEMOLD\">Slime</link> this biome is known for."
+msgstr "<link=\"CONTAMINATEDOXYGEN\">ออกซิเจน​ปนเปื้อน</link>ครอง​บรรยากาศ​ของ​ไบโอ​ม​หนองน้ำ เพราะ​มัน​ระเหย​ออก​มาจาก<link=\"SLIMEMOLD\">เมือก</link>ที่​ไบโอ​ม​นี้​ขึ้นชื่อ"
+
+#. STRINGS.SUBWORLDS.MARSH.NAME
+msgctxt "STRINGS.SUBWORLDS.MARSH.NAME"
+msgid "Marsh Biome"
+msgstr "ไบโอ​ม​หนองน้ำ"
+
+#. STRINGS.SUBWORLDS.MARSH.UTILITY
+msgctxt "STRINGS.SUBWORLDS.MARSH.UTILITY"
+msgid ""
+"Marsh Biomes contain large amounts of <link=\"SLIMEMOLD\">Slime</link> which can be converted into <link=\"ALGAE\">Algae</link> and provide a valuable resource for growing <link=\"MUSHROOMPLANT\">Dusk Caps</link> as well as feeding to <link=\"PACUSPECIES\">Pacus</link> for producing some higher tier <link=\"FOOD\">food</link>.\n"
+"\n"
+"Because of the high degree of probability that this biome will infect my Duplicants with <link=\"SLIMELUNG\">Slimelung</link>, it may be prudent to limit access to this area to essential activities only until my Duplicants are able to set up suitable protection."
+msgstr ""
+"ไบโอ​ม​หนองน้ำ​มี<link=\"SLIMEMOLD\">เมือก</link>มหาศาล ซึ่ง​แปลง​เป็น<link=\"ALGAE\">สาหร่าย</link>ได้ และ​เป็น​ทรัพยากร​ล้ำค่า​สำหรับ​ปลูก<link=\"MUSHROOMPLANT\">เห็ด​สนธยา</link> รวมถึง​เลี้ยง<link=\"PACUSPECIES\">ปา​คู</link>เพื่อ​ผลิต<link=\"FOOD\">อาหาร</link>ระดับสูง​ขึ้น\n"
+"\n"
+"เพราะ​ไบโอ​ม​นี้​มีโอกาส​สูง​มาก​ที่จะ​ทำให้​ดู​พลิ​แคนต์​ติด<link=\"SLIMELUNG\">ปอด​เมือก</link> จึง​ควร​จำกัด​การ​เข้า​พื้นที่​นี้​ไว้​เฉพาะ​งาน​จำเป็น จนกว่า​ดู​พลิ​แคนต์​จะ​มี​อุปกรณ์​ป้อง​กันที่​เหมาะสม"
+
+#. STRINGS.SUBWORLDS.METALLIC.DESC
+msgctxt "STRINGS.SUBWORLDS.METALLIC.DESC"
+msgid "A plethora of metals pervade the Metallic Biome making it the go-to destination for a colony ramping up production for technological advancement."
+msgstr "ไบโอ​ม​โลหะ​เต็มไปด้วย​โลหะ​สารพัด​ชนิด เป็น​จุดหมาย​ยอดฮิต​ของ​อาณานิคม​ที่​กำลัง​เร่ง​การผลิต​เพื่อ​ความก้าวหน้า​ทางเทคโนโลยี"
+
+#. STRINGS.SUBWORLDS.METALLIC.NAME
+msgctxt "STRINGS.SUBWORLDS.METALLIC.NAME"
+msgid "Metallic Biome"
+msgstr "ไบโอ​ม​โลหะ"
+
+#. STRINGS.SUBWORLDS.METALLIC.UTILITY
+msgctxt "STRINGS.SUBWORLDS.METALLIC.UTILITY"
+msgid ""
+"<link=\"GOLDAMALGAM\">Gold Amalgam</link>, <link=\"ALUMINUMORE\">Aluminum Ore</link> and <link=\"COBALTITE\">Cobalt Ore</link> are in abundant supply throughout this entire biome. Refining these metals with a <link=\"METALREFINERY\">Metal Refinery</link> will make them available for building advanced technologies.\n"
+"\n"
+"Though <link=\"CHLORINEGAS\">Chlorine Gas</link> and <link=\"HYDROGEN\">Hydrogen Gas</link> are the prevailing gases in this biome, <link=\"OXYROCK\">Oxylite</link> exists in rock form and can provide <link=\"OXYGEN\">Oxygen</link> for Duplicants once they uncover it.\n"
+"\n"
+"<link=\"DIRT\">Dirt</link>, <link=\"CARBON\">Coal</link> and <link=\"IGNEOUSROCK\">Igneous Rock</link> round out the rest of this biome, making it a great deposit of resources for a budding industrialized colony."
+msgstr ""
+"<link=\"GOLDAMALGAM\">ทอง​อะ​มัลกัม</link> <link=\"ALUMINUMORE\">แร่​อะลูมิเนียม</link> และ<link=\"COBALTITE\">แร่​โคบอลต์</link>มี​อยู่​มากมาย​ทั่ว​ทั้ง​ไบโอ​ม การ​ถลุง​โลหะ​เหล่านี้​ด้วย<link=\"METALREFINERY\">โรง​ถลุง​โลหะ</link>จะ​ทำให้​นำ​ไป​สร้าง​เทคโนโลยี​ขั้นสูง​ได้\n"
+"\n"
+"ถึง<link=\"CHLORINEGAS\">แก๊ส​คลอรีน</link>และ<link=\"HYDROGEN\">แก๊ส​ไฮโดรเจน</link>จะ​เป็น​แก๊ส​หลัก​ใน​ไบโอ​ม​นี้ แต่<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>ก็​มี​อยู่​ใน​รูป​หิน และ​ให้<link=\"OXYGEN\">ออกซิเจน</link>แก่​ดู​พลิ​แคนต์​ได้​เมื่อ​ขุด​เจอ\n"
+"\n"
+"<link=\"DIRT\">ดิน</link> <link=\"CARBON\">ถ่านหิน</link> และ<link=\"IGNEOUSROCK\">หินอัคนี</link>ประกอบ​เป็น​ส่วนที่เหลือ​ของ​ไบโอ​ม ทำให้​ที่นี่​เป็น​คลัง​ทรัพยากร​ชั้นดี​สำหรับ​อาณา​นิคมอุตสาหกรรม​ที่​กำลัง​ผลิบาน"
+
+#. STRINGS.SUBWORLDS.MOO.DESC
+msgctxt "STRINGS.SUBWORLDS.MOO.DESC"
+msgid "The Moo Biome is the natural habitat of the charismatic <link=\"MOO\">Gassy Moo</link>, a great source of <link=\"METHANE\">Natural Gas</link>."
+msgstr "ไบโอ​มมู​เป็น​ถิ่น​อาศัย​ตาม​ธรรมชาติ​ของ<link=\"MOO\">กัส​ซี่​มู</link>สุด​เสน่ห์ แหล่ง<link=\"METHANE\">แก๊ส​ธรรมชาติ</link>ชั้นเยี่ยม"
+
+#. STRINGS.SUBWORLDS.MOO.NAME
+msgctxt "STRINGS.SUBWORLDS.MOO.NAME"
+msgid "Moo Biome"
+msgstr "ไบโอ​มมู"
+
+#. STRINGS.SUBWORLDS.MOO.UTILITY
+msgctxt "STRINGS.SUBWORLDS.MOO.UTILITY"
+msgid ""
+"In addition to <link=\"METHANE\">Natural Gas</link>, the highly toxic <link=\"CHLORINEGAS\">Chlorine</link> is also present in gas form. In fact, Chlorine is present here in <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link>, and <link=\"ELEMENTSSOLID\">solid</link> states, largely due to the presence of <link=\"BLEACHSTONE\">Bleach Stone</link>.\n"
+"\n"
+"<link=\"IGNEOUSROCK\">Igneous Rock</link> and its denser form, <link=\"GRANITE\">Granite</link>, provide some useful construction materials, but the real star of this biome are the <link=\"MOO\">Gassy Moos</link> who consume <link=\"GASGRASS\">Gas Grass</link> and excrete <link=\"METHANE\">Natural Gas</link>. While Gassy Moos cannot be bred domestically, Gassy Mooteors regularly fall from space onto this biome, making it the best way to find a reliable source of these elusive creatures.\n"
+"\n"
+"With no breathable <link=\"OXYGEN\">Oxygen</link> in this biome my Duplicants will need to be properly prepared before they venture too far into its depths."
+msgstr ""
+"นอกจาก<link=\"METHANE\">แก๊ส​ธรรมชาติ</link>แล้ว ยังมี<link=\"CHLORINEGAS\">คลอรีน</link>ที่​เป็นพิษ​ร้ายแรง​ใน​รูป​แก๊ส​ด้วย อันที่จริง​คลอรีน​ที่นี่​มี​ทั้ง​ใน​สถานะ<link=\"ELEMENTSGAS\">แก๊ส</link> <link=\"ELEMENTSLIQUID\">ของเหลว</link> และ<link=\"ELEMENTSSOLID\">ของแข็ง</link> ส่วนใหญ่​เป็น​เพราะ​มี<link=\"BLEACHSTONE\">หิน​ฟอกขาว</link>อยู่\n"
+"\n"
+"<link=\"IGNEOUSROCK\">หินอัคนี</link>และ​รูปแบบ​ที่​หนาแน่น​กว่า​อย่าง<link=\"GRANITE\">แกรนิต</link>เป็น​วัสดุก่อสร้าง​ที่​มีประโยชน์ แต่​ดาวเด่น​ตัวจริง​ของ​ไบโอ​ม​นี้​คือ<link=\"MOO\">กัส​ซี่​มู</link> ที่​กิน<link=\"GASGRASS\">หญ้า​แก๊ส</link>แล้ว​ปล่อย<link=\"METHANE\">แก๊ส​ธรรมชาติ</link>ออกมา ถึง​กัส​ซี่​มู​จะ​ผสมพันธุ์​ใน​บ้าน​ไม่​ได้ แต่​อุกกา​มู​ก็​ร่วง​จาก​อวกาศ​ลงมา​ที่​ไบโอ​ม​นี้​เป็นประจำ จึง​เป็น​วิธี​ที่​ดี​ที่สุด​ใน​การ​หา​แหล่ง​เจ้า​สัตว์​หา​ยาก​พวก​นี้​แบบ​ไว้ใจได้\n"
+"\n"
+"เพราะ​ไบโอ​ม​นี้​ไม่​มี<link=\"OXYGEN\">ออกซิเจน</link>ให้​หายใจ​เลย ดู​พลิ​แคนต์​ต้อง​เตรียมตัว​ให้​พร้อม​ก่อน​จะ​ลง​ลึก​เข้าไป"
+
+#. STRINGS.SUBWORLDS.NIOBIUM.DESC
+msgctxt "STRINGS.SUBWORLDS.NIOBIUM.DESC"
+msgid "The Niobium Biome features only two resources yet, because <link=\"NIOBIUM\">Niobium</link> is an extremely rare and valuable element, it is worth making a special visit."
+msgstr "ไบโอ​ม​ไนโอเบียม​มี​ทรัพยากร​แค่​สอง​อย่าง แต่​เพราะ<link=\"NIOBIUM\">ไนโอเบียม</link>เป็น​ธาตุ​หา​ยาก​และ​ล้ำค่า​สุด ๆ จึง​คุ้มค่า​ที่จะ​แวะ​มา​เป็นพิเศษ"
+
+#. STRINGS.SUBWORLDS.NIOBIUM.NAME
+msgctxt "STRINGS.SUBWORLDS.NIOBIUM.NAME"
+msgid "Niobium Biome"
+msgstr "ไบโอ​ม​ไนโอเบียม"
+
+#. STRINGS.SUBWORLDS.NIOBIUM.UTILITY
+msgctxt "STRINGS.SUBWORLDS.NIOBIUM.UTILITY"
+msgid ""
+"By itself, <link=\"NIOBIUM\">Niobium</link> is not a particularly useful resource. But if processed through a <link=\"SUPERMETALREFINERY\">Molecular Forge</link>, it produces the extremely thermal conductive <link=\"TEMPCONDUCTORSOLID\">Thermium</link>, which goes a long way in solving many extreme temperature issues in a colony.\n"
+"\n"
+"The edges of this biome are filled with <link=\"OBSIDIAN\">Obsidian</link> so a Duplicant with the <link=\"MINING3\">Super-Duperhard Digging</link> skill will be required before my colony can explore here."
+msgstr ""
+"ลำพัง​ตัว​มัน​เอง <link=\"NIOBIUM\">ไนโอเบียม</link>ไม่​ใช่​ทรัพยากร​ที่​มีประโยชน์​เท่าไร แต่​ถ้า​แปรรูป​ผ่าน<link=\"SUPERMETALREFINERY\">โรง​ตี​โมเลกุล</link> จะ​ได้<link=\"TEMPCONDUCTORSOLID\">เทอร์​เมีย​ม</link>ที่​นำ​ความร้อน​ได้​ดีเยี่ยม ช่วย​แก้ปัญหา​อุณหภูมิ​สุดขั้ว​ใน​อาณานิคม​ได้​มากมาย\n"
+"\n"
+"ขอบ​ของ​ไบโอ​ม​นี้​เต็มไปด้วย<link=\"OBSIDIAN\">ออ​บ​ซิ​เดียน</link> จึง​ต้อง​มี​ดู​พลิ​แคนต์​ที่​มี​ทักษะ<link=\"MINING3\">ขุด​แข็ง​ขั้น​เทพ</link>ก่อน อาณานิคม​ถึง​จะ​สำรวจ​ที่นี่​ได้"
+
+#. STRINGS.SUBWORLDS.OCEAN.DESC
+msgctxt "STRINGS.SUBWORLDS.OCEAN.DESC"
+msgid "<link=\"SAND\">Sand</link>, <link=\"SALT\">Salt</link> and <link=\"BLEACHSTONE\">Bleachstone</link> abound in this unique <link=\"BRINE\">briny</link> biome."
+msgstr "<link=\"SAND\">ทราย</link> <link=\"SALT\">เกลือ</link> และ<link=\"BLEACHSTONE\">หิน​ฟอกขาว</link>มี​อยู่​ทั่ว​ไบโอ​ม<link=\"BRINE\">น้ำเกลือ​เข้มข้น</link>ที่​ไม่​เหมือน​ใคร​แห่ง​นี้"
+
+#. STRINGS.SUBWORLDS.OCEAN.NAME
+msgctxt "STRINGS.SUBWORLDS.OCEAN.NAME"
+msgid "Ocean Biome"
+msgstr "ไบโอ​ม​มหาสมุทร"
+
+#. STRINGS.SUBWORLDS.OCEAN.UTILITY
+msgctxt "STRINGS.SUBWORLDS.OCEAN.UTILITY"
+msgid ""
+"<link=\"CRABSPECIES\">Pokeshell</link> molt is an excellent source of <link=\"LIME\">Lime</link> but much care must be taken with domesticating this species as it can get aggressive around its eggs.\n"
+"\n"
+"Harvesting <link=\"SEALETTUCE\">Waterweed</link> provides <link=\"LETTUCE\">Lettuce</link> for many higher-tier <link=\"FOOD\">foods</link>.\n"
+"\n"
+"Any <link=\"WATER\">Water</link> will need to be filtered through a <link=\"DESALINATOR\">Desalinator</link> to remove the <link=\"SALT\">Salt</link> in order to make it useful for my Duplicants. Luckily <link=\"SALT\">Table Salt</link> can be produced using a <link=\"ROCKCRUSHER\">Rock Crusher</link> which, when combined with a <link=\"DININGTABLE\">Mess Table</link>, gives my Duplicants a <link=\"MORALE\">Morale</link> boost."
+msgstr ""
+"คราบ​ลอกคราบ​ของ<link=\"CRABSPECIES\">โพ​ค​เชลล์</link>เป็น​แหล่ง<link=\"LIME\">ปูนขาว</link>ชั้นเยี่ยม แต่​ต้อง​ระวัง​มาก​ตอน​ฝึก​สายพันธุ์​นี้​ให้​เชื่อง เพราะ​มัน​ดุ​ได้เวลา​อยู่​ใกล้​ไข่\n"
+"\n"
+"การ​เก็บ<link=\"SEALETTUCE\">สาหร่าย​น้ำ</link>ให้<link=\"LETTUCE\">ผักกาด</link>สำหรับ<link=\"FOOD\">อาหาร</link>ระดับสูง​หลาย​เมนู\n"
+"\n"
+"<link=\"WATER\">น้ำ</link>ทั้งหมด​ต้อง​กรอง​ผ่าน<link=\"DESALINATOR\">เครื่อง​แยก​เกลือ</link>เพื่อ​เอา<link=\"SALT\">เกลือ</link>ออก ดู​พลิ​แคนต์​ถึง​จะ​ใช้ได้ โชคดี​ที่​ผลิต<link=\"SALT\">เกลือ​ป่น</link>ได้​ด้วย<link=\"ROCKCRUSHER\">เครื่อง​บด​หิน</link> ซึ่ง​เมื่อ​ใช้​คู่​กับ<link=\"DININGTABLE\">โต๊ะอาหาร</link>จะ​เพิ่ม<link=\"MORALE\">ขวัญ​กำลังใจ</link>ให้​ดู​พลิ​แคนต์"
+
+#. STRINGS.SUBWORLDS.OIL.DESC
+msgctxt "STRINGS.SUBWORLDS.OIL.DESC"
+msgid "Viscous pools of liquid <link=\"CRUDEOIL\">Crude Oil</link> pepper the <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>-rich environment of the Oil Biome."
+msgstr "แอ่ง<link=\"CRUDEOIL\">น้ำมันดิบ</link>เหนียว​ข้น​กระจาย​อยู่​ทั่ว​สภาพแวดล้อม​ที่​อุดม<link=\"CARBONDIOXIDE\">คาร์บอนไดออกไซด์</link>ของ​ไบโอ​ม​น้ำมัน"
+
+#. STRINGS.SUBWORLDS.OIL.NAME
+msgctxt "STRINGS.SUBWORLDS.OIL.NAME"
+msgid "Oily Biome"
+msgstr "ไบโอ​ม​น้ำมัน"
+
+#. STRINGS.SUBWORLDS.OIL.UTILITY
+msgctxt "STRINGS.SUBWORLDS.OIL.UTILITY"
+msgid ""
+"Though <link=\"OXYGEN\">Oxygen</link> is more scarce in this biome, it's the perfect place to cultivate flora and fauna that thrive in CO2, such as <link=\"OILFLOATERSPECIES\">Slicksters</link>. These critters can be domesticated as a renewable source of <link=\"CRUDEOIL\">Crude Oil</link>.\n"
+"\n"
+"<link=\"DIAMOND\">Diamond</link> deposits can occasionally be found in the Oily biome, which will require a Duplicant with the <link=\"MINING3\">Super-Duperhard Digging</link> skill to explore properly.\n"
+"\n"
+"<link=\"EVILFLOWER\">Sporechids</link> are beautiful, but should only be approached if a Duplicant is properly <link=\"EQUIPMENT\">equipped</link>.\n"
+"\n"
+"While the dangers of this biome should not be underestimated, the benefits <link=\"CRUDEOIL\">Crude Oil</link> and <link=\"PETROLEUM\">Petroleum</link> will bring to my colony far outweigh the risks."
+msgstr ""
+"ถึง<link=\"OXYGEN\">ออกซิเจน</link>ใน​ไบโอ​ม​นี้​จะ​หา​ยาก​กว่า แต่​ก็​เป็นที่​ที่​เหมาะเจาะ​สำหรับ​เพาะ​พืช​และ​สัตว์​ที่​ชอบ CO2 อย่าง<link=\"OILFLOATERSPECIES\">ส​ลิ​กสเตอร์</link> สัตว์​พวก​นี้​ฝึก​ให้​เชื่อง​เป็น​แหล่ง<link=\"CRUDEOIL\">น้ำมันดิบ</link>หมุนเวียน​ได้\n"
+"\n"
+"บางครั้ง​ก็​พบ​แหล่ง<link=\"DIAMOND\">เพชร</link>ใน​ไบโอ​ม​น้ำมัน ซึ่ง​ต้อง​ใช้​ดู​พลิ​แคนต์​ที่​มี​ทักษะ<link=\"MINING3\">ขุด​แข็ง​ขั้น​เทพ</link>ถึง​จะ​สำรวจ​ได้​เต็มที่\n"
+"\n"
+"<link=\"EVILFLOWER\">กล้วยไม้​สปอร์</link>นั้น​สวย แต่​ควร​เข้าใกล้​เฉพาะ​ตอนที่​ดู​พลิ​แคนต์<link=\"EQUIPMENT\">สวม​อุปกรณ์</link>ป้องกัน​ครบ\n"
+"\n"
+"ถึง​ไม่​ควร​ประมาท​อันตราย​ของ​ไบโอ​ม​นี้ แต่​ประโยชน์​ที่<link=\"CRUDEOIL\">น้ำมันดิบ</link>และ<link=\"PETROLEUM\">ปิโตรเลียม</link>จะ​นำ​มาสู่​อาณานิคม​นั้น​คุ้มค่า​ความเสี่ยง​อย่างยิ่ง"
+
+#. STRINGS.SUBWORLDS.RADIOACTIVE.DESC
+msgctxt "STRINGS.SUBWORLDS.RADIOACTIVE.DESC"
+msgid "A highly volatile environment containing a highly useful resource, this biome is invaluable when venturing into nuclear technologies."
+msgstr "สภาพแวดล้อม​ที่​ผันผวน​สุด ๆ แต่​มี​ทรัพยากร​ที่​มีประโยชน์​สุด ๆ ไบโอ​ม​นี้​ขาดไม่ได้​เมื่อ​จะ​ก้าว​สู่​เทคโนโลยี​นิวเคลียร์"
+
+#. STRINGS.SUBWORLDS.RADIOACTIVE.NAME
+msgctxt "STRINGS.SUBWORLDS.RADIOACTIVE.NAME"
+msgid "Radioactive Biome"
+msgstr "ไบโอ​ม​กัมมันตรังสี"
+
+#. STRINGS.SUBWORLDS.RADIOACTIVE.UTILITY
+msgctxt "STRINGS.SUBWORLDS.RADIOACTIVE.UTILITY"
+msgid ""
+"<link=\"LEADSUIT\">Lead Suits</link> are imperative if my Duplicants are going to start exploring this biome as <link=\"RADIATIONSICKNESS\">Radioactive Contaminants</link> are a constant danger here.\n"
+"\n"
+"<link=\"BEE\">Beetas</link> pose a double threat as they are both highly radioactive and very aggressive. If they can be subdued, <link=\"BEEHIVE\">Beeta Hives</link> provide a great service turning <link=\"URANIUMORE\">Uranium Ore</link> into <link=\"ENRICHEDURANIUM\">Enriched Uranium</link>.\n"
+"\n"
+"While the Radioactive Biome, and the Beetas contained within it, should be avoided at all costs if my Duplicants do not have the correct protection, my colony will need to trek into this dangerous biome if we are going to build any higher-tier nuclear technologies."
+msgstr ""
+"<link=\"LEADSUIT\">ชุด​ตะกั่ว</link>สำคัญ​มาก​ถ้า​ดู​พลิ​แคนต์​จะ​เริ่ม​สำรวจ​ไบโอ​ม​นี้ เพราะ<link=\"RADIATIONSICKNESS\">สารปนเปื้อน​กัมมันตรังสี</link>เป็น​ภัย​ตลอดเวลา​ที่นี่\n"
+"\n"
+"<link=\"BEE\">บี​ต้า</link>เป็น​ภัย​สองชั้น ทั้ง​มี​กัมมันตรังสี​สูง​และ​ดุร้าย​มาก ถ้า​ปราบ​มัน​ได้ <link=\"BEEHIVE\">รัง​บี​ต้า</link>จะ​ช่วย​เปลี่ยน<link=\"URANIUMORE\">แร่​ยูเรเนียม</link>เป็น<link=\"ENRICHEDURANIUM\">ยูเรเนียม​เสริม​สมรรถนะ</link>ได้​ดีเยี่ยม\n"
+"\n"
+"ถึง​ควร​หลีกเลี่ยง​ไบโอ​ม​กัมมันตรังสี​และ​บี​ต้า​ใน​นั้น​ทุก​วิถีทาง​หาก​ดู​พลิ​แคนต์​ไม่​มี​อุปกรณ์​ป้อง​กันที่​ถูกต้อง แต่​ถ้า​จะ​สร้าง​เทคโนโลยี​นิวเคลียร์​ระดับสูง อาณานิคม​ก็​ต้อง​บุกเข้าไป​ใน​ไบโอ​ม​อันตราย​นี้​อยู่ดี"
+
+#. STRINGS.SUBWORLDS.RAPTOR.DESC
+msgctxt "STRINGS.SUBWORLDS.RAPTOR.DESC"
+msgid "The chilly <link=\"FEATHERFABRIC\">Feather</link> biome is home to huge, flightless <link=\"RAPTORSPECIES\">Rhexes</link> that can be shorn for <link=\"CLOTHING\">Textile Production</link>."
+msgstr "ไบโอ​ม<link=\"FEATHERFABRIC\">ขนนก</link>อัน​หนาวเย็น​เป็น​บ้าน​ของ<link=\"RAPTORSPECIES\">เร็กซ์</link>ตัว​ยักษ์​ที่​บิน​ไม่​ได้ ซึ่ง​ตัด​ขน​ไป​ใช้​ใน<link=\"CLOTHING\">การผลิต​สิ่งทอ</link>ได้"
+
+#. STRINGS.SUBWORLDS.RAPTOR.NAME
+msgctxt "STRINGS.SUBWORLDS.RAPTOR.NAME"
+msgid "Feather Biome"
+msgstr "ไบโอ​ม​ขนนก"
+
+#. STRINGS.SUBWORLDS.RAPTOR.UTILITY
+msgctxt "STRINGS.SUBWORLDS.RAPTOR.UTILITY"
+msgid ""
+"<link=\"RAPTORSPECIES\">Rhexes</link> are carnivorous critters who prey primarily on <link=\"CHAMELEONSPECIES\">Dartles</link>. While both critters can be harvested for <link=\"FOOD\">Food</link>, the <link=\"RAPTORSPECIES\">Rhexes'</link> meat is too tough to be eaten raw.\n"
+"\n"
+"This biome's flora includes the massive <link=\"DINOFERN\">Megafrond</link> which enjoys a <link=\"CHLORINEGAS\">Chlorine Gas</link> environment, the <link=\"DEWDRIPPERPLANT\">Dew Dripper</link> which can be processed into <link=\"MILK\">Brackene</link>, and the cooling <link=\"COLDBREATHER\">Wheezewort</link>.\n"
+"\n"
+"Duplicants working and living in this environment will require protective <link=\"EQUIPMENT\">equipment</link>."
+msgstr ""
+"<link=\"RAPTORSPECIES\">เร็กซ์</link>เป็น​สัตว์​กินเนื้อที่​ล่า<link=\"CHAMELEONSPECIES\">ดาร์เทิล</link>เป็นหลัก ถึง​สัตว์​ทั้งสอง​จะ​ให้<link=\"FOOD\">อาหาร</link>ได้ แต่​เนื้อ​ของ<link=\"RAPTORSPECIES\">เร็กซ์</link>เหนียว​เกิน​กว่า​จะ​กินดิบ ๆ\n"
+"\n"
+"พืช​ใน​ไบโอ​ม​นี้​มี​ทั้ง<link=\"DINOFERN\">เฟิร์น​ยักษ์</link>ขนาด​มหึมา​ที่​ชอบ​สภาพแวดล้อม<link=\"CHLORINEGAS\">แก๊ส​คลอรีน</link> <link=\"DEWDRIPPERPLANT\">ต้น​หยด​น้ำค้าง</link>ที่​แปรรูป​เป็น<link=\"MILK\">แบร็กคีน</link>ได้ และ<link=\"COLDBREATHER\">วี​ซเวิร์ต</link>ผู้​เย็นฉ่ำ\n"
+"\n"
+"ดู​พลิ​แคนต์​ที่ทำงาน​และ​ใช้ชีวิต​ใน​สภาพแวดล้อม​นี้​ต้อง​มี<link=\"EQUIPMENT\">อุปกรณ์</link>ป้องกัน"
+
+#. STRINGS.SUBWORLDS.REEF.DESC
+msgctxt "STRINGS.SUBWORLDS.REEF.DESC"
+msgid ""
+"This tropical biome is filled with vast <link=\"SALTWATER\">Salt Water</link> stores and fascinating wildlife. Dry land is almost non-existent, so <link=\"SWIMMER\">Swimming</link> will be an important skill for my Duplicants to acquire.\n"
+"\n"
+msgstr ""
+"ไบโอ​ม​เขตร้อน​แห่ง​นี้​เต็มไปด้วย​แหล่ง<link=\"SALTWATER\">น้ำเค็ม</link>กว้างใหญ่​และ​สัตว์ป่า​น่าทึ่ง พื้นดิน​แห้ง​แทบ​ไม่​มี​เลย <link=\"SWIMMER\">การ​ว่ายน้ำ</link>จึง​เป็น​ทักษะ​สำคัญ​ที่​ดู​พลิ​แคนต์​ต้อง​มี\n"
+"\n"
+
+#. STRINGS.SUBWORLDS.REEF.NAME
+msgctxt "STRINGS.SUBWORLDS.REEF.NAME"
+msgid "Reef Biome"
+msgstr "ไบโอ​ม​แนวปะการัง"
+
+#. STRINGS.SUBWORLDS.REEF.UTILITY
+msgctxt "STRINGS.SUBWORLDS.REEF.UTILITY"
+msgid ""
+"Duplicants can breathe easy here, as <link=\"OXYCORAL\">Flue Coral</link> continuously converts <link=\"LIGHT\">Light</link> from the <link=\"PARROTFISH\">Beakon</link> fish into a steady stream of <link=\"OXYGEN\">Oxygen</link> that accumulates in cave ceilings.\n"
+"\n"
+"<link=\"PUFFERFISHSPECIES\">Blowters'</link> delicate digestive systems cause them to bloat with <link=\"OXYGEN\">Oxygen</link> after consuming <link=\"SEALETTUCE\">Waterweed</link>. If my Duplicants are suffocating underwater and an oxygen-bloated Blowter is within reach, they will instinctively commandeer the fish's stored gas in order to survive.\n"
+"\n"
+"Massive <link=\"CLAM\">Clampum</link> produce <link=\"PEARL\">Pearls</link> that can be used as an attractive construction material. Unused pearls will be eaten by <link=\"SEAHORSESPECIES\">Seaquines</link> who can then be brought to an <link=\"UNDERWATERMILKINGSTATION\">Aquatic Milking Station</link> to obtain <link=\"FISHMILK\">Ovolene</link>."
+msgstr ""
+"ดู​พลิ​แคนต์​หายใจ​ได้​สบาย​ที่นี่ เพราะ<link=\"OXYCORAL\">ปะการัง​ปล่อง</link>แปลง<link=\"LIGHT\">แสง</link>จาก​ปลา<link=\"PARROTFISH\">บี​คอน</link>เป็น<link=\"OXYGEN\">ออกซิเจน</link>อย่าง​ต่อเนื่อง ซึ่ง​ไป​สะสม​อยู่​ตาม​เพดาน​ถ้ำ\n"
+"\n"
+"ระบบ​ย่อย​อาหาร​ที่​บอบบาง​ของ<link=\"PUFFERFISHSPECIES\">โบ​ลว์เตอร์</link>ทำให้​มัน​พอง​ด้วย<link=\"OXYGEN\">ออกซิเจน</link>หลัง​กิน<link=\"SEALETTUCE\">สาหร่าย​น้ำ</link> ถ้า​ดู​พลิ​แคนต์​กำลัง​หายใจไม่ออก​ใต้​น้ำ และ​มี​โบ​ลว์เตอร์​ที่​พอง​ออกซิเจน​อยู่​ใกล้​มือ พวกเขา​จะ​ยึด​แก๊ส​ใน​ตัว​ปลา​มา​ใช้​เอาตัวรอด​ตาม​สัญชาตญาณ\n"
+"\n"
+"<link=\"CLAM\">แค​ลม​พัม</link>ตัว​มหึมา​ผลิต<link=\"PEARL\">ไข่มุก</link>ที่​ใช้​เป็น​วัสดุก่อสร้าง​สวย ๆ ได้ ไข่มุก​ที่​ไม่​ได้​ใช้​จะ​ถูก<link=\"SEAHORSESPECIES\">ม้าน้ำ​ซี​ควีน</link>กิน แล้ว​พา​มัน​ไป​ที่<link=\"UNDERWATERMILKINGSTATION\">สถานี​รีด​น้ำนม​สัตว์น้ำ</link>เพื่อ​เก็บ<link=\"FISHMILK\">โอ​โว​ลี​น</link>ได้"
+
+#. STRINGS.SUBWORLDS.REGOLITH.DESC
+msgctxt "STRINGS.SUBWORLDS.REGOLITH.DESC"
+msgid "The Regolith Biome contains a bounty of <link=\"REGOLITH\">Regolith</link> which is very useful as a material for filtration."
+msgstr "ไบโอ​ม​เร​โก​ลิ​ธ​มี<link=\"REGOLITH\">เร​โก​ลิ​ธ</link>มากมาย ซึ่ง​มีประโยชน์​มาก​ใน​ฐานะ​วัสดุ​กรอง"
+
+#. STRINGS.SUBWORLDS.REGOLITH.NAME
+msgctxt "STRINGS.SUBWORLDS.REGOLITH.NAME"
+msgid "Regolith Biome"
+msgstr "ไบโอ​ม​เร​โก​ลิ​ธ"
+
+#. STRINGS.SUBWORLDS.REGOLITH.UTILITY
+msgctxt "STRINGS.SUBWORLDS.REGOLITH.UTILITY"
+msgid ""
+"Lingering within the layers of Regolith are the pernicious <link=\"MOLESPECIES\">Shove Voles</link> which eat valuable resources and excrete them at half the original mass.\n"
+"\n"
+"Fortunately these pests can be wrangled up and used as a good food source for my Duplicants. However, extra care must be taken to contain these critters in pens made from either double thick walls or from <link=\"REFINEDMETAL\">Refined Metal</link> since they are capable of burrowing through most other materials."
+msgstr ""
+"ซุ่ม​อยู่​ใน​ชั้น​เร​โก​ลิ​ธ​คือ<link=\"MOLESPECIES\">ชอฟ​โว​ล</link>ตัว​ร้าย ที่​กิน​ทรัพยากร​ล้ำค่า​แล้ว​ขับถ่าย​ออกมา​แค่​ครึ่ง​เดียว​ของ​มวล​เดิม\n"
+"\n"
+"โชคดี​ที่​ไล่ต้อน​เจ้าตัว​ป่วน​พวก​นี้​มา​เป็น​แหล่ง​อาหาร​ดี ๆ ให้​ดู​พลิ​แคนต์​ได้ แต่​ต้อง​ระวัง​เป็นพิเศษ ขัง​มัน​ใน​คอก​ที่​ทำ​จาก​ผนัง​หนา​สองชั้น​หรือ<link=\"REFINEDMETAL\">โลหะ​ถลุง</link> เพราะ​มัน​ขุด​ทะลุ​วัสดุ​อื่น​ได้​เกือบ​หมด"
+
+#. STRINGS.SUBWORLDS.RUST.DESC
+msgctxt "STRINGS.SUBWORLDS.RUST.DESC"
+msgid "The orange-brown oasis of the Rust Biome is home to many unusual flora and fauna. It contains the resources for several intermediate technologies."
+msgstr "โอเอซิส​สีส้ม​น้ำตาล​ของ​ไบโอ​ม​สนิม​เป็น​บ้าน​ของ​พืช​และ​สัตว์​แปลก ๆ มากมาย มี​ทรัพยากร​สำหรับ​เทคโนโลยี​ระดับ​กลาง​หลายอย่าง"
+
+#. STRINGS.SUBWORLDS.RUST.NAME
+msgctxt "STRINGS.SUBWORLDS.RUST.NAME"
+msgid "Rust Biome"
+msgstr "ไบโอ​ม​สนิม"
+
+#. STRINGS.SUBWORLDS.RUST.UTILITY
+msgctxt "STRINGS.SUBWORLDS.RUST.UTILITY"
+msgid ""
+"When combined with the <link=\"RUSTDEOXIDIZER\">Rust Deoxidizer</link>, <link=\"RUST\">Rust</link> can produce many of a colony's basic needs.\n"
+"\n"
+"The <link=\"PUFTBLEACHSTONE\">Squeaky Puft</link>, a frequent resident of the Rust biome, is a renewable source of <link=\"BLEACHSTONE\">Bleachstone</link> and can be domesticated for such purposes.\n"
+"\n"
+"<link=\"DRECKOS\">Dreckos</link> can also sometimes be found in these biomes, which are a great source of <link=\"PHOSPHORITE\">Phosphorite</link> and fibre for making <link=\"CLOTHING\">Textile Production</link>.\n"
+"\n"
+"Two plants found in this biome, the <link=\"BEANPLANTSEED\">Nosh Bean</link> and the <link=\"SALTPLANT\">Dasha Saltvine</link>, can both produce food that will add significant <link=\"MORALE\">Morale</link> value for my Duplicants."
+msgstr ""
+"เมื่อ​ใช้​คู่​กับ<link=\"RUSTDEOXIDIZER\">เครื่อง​ดึง​ออกซิเจน​จาก​สนิม</link> <link=\"RUST\">สนิม</link>ผลิต​สิ่งจำเป็น​พื้นฐาน​ของ​อาณานิคม​ได้​หลายอย่าง\n"
+"\n"
+"<link=\"PUFTBLEACHSTONE\">พัฟต์​เอี๊ยด​อ๊าด</link> ขาประจำ​ของ​ไบโอ​ม​สนิม เป็น​แหล่ง<link=\"BLEACHSTONE\">หิน​ฟอกขาว</link>หมุนเวียน และ​ฝึก​ให้​เชื่อง​เพื่อ​การ​นี้​ได้\n"
+"\n"
+"บางครั้ง​ก็​พบ<link=\"DRECKOS\">เด​รก​โก</link>ใน​ไบโอ​ม​แบบนี้​ด้วย ซึ่ง​เป็น​แหล่ง<link=\"PHOSPHORITE\">ฟอ​สโฟ​ไรต์</link>และ​เส้นใย​ชั้นดี​สำหรับ<link=\"CLOTHING\">การผลิต​สิ่งทอ</link>\n"
+"\n"
+"พืช​สอง​ชนิด​ที่​พบ​ใน​ไบโอ​ม​นี้ คือ<link=\"BEANPLANTSEED\">ถั่ว​กิน​เล่น</link>และ<link=\"SALTPLANT\">เถา​เกลือ​ดา​ชา</link> ต่าง​ผลิต​อาหาร​ที่​เพิ่ม<link=\"MORALE\">ขวัญ​กำลังใจ</link>ให้​ดู​พลิ​แคนต์​ได้​มาก"
+
+#. STRINGS.SUBWORLDS.SANDSTONE.DESC
+msgctxt "STRINGS.SUBWORLDS.SANDSTONE.DESC"
+msgid "The Sandstone Biome is a temperate oasis with few inherent dangers. It's the perfect spot to get your colony up and running."
+msgstr "ไบโอ​มหิ​นท​ราย​เป็น​โอเอซิส​อบอุ่น​ที่​มี​อันตราย​น้อย เป็น​จุด​เหมาะเจาะ​ให้​อาณานิคม​ของ​คุณ​เริ่มต้น​ตั้งตัว"
+
+#. STRINGS.SUBWORLDS.SANDSTONE.NAME
+msgctxt "STRINGS.SUBWORLDS.SANDSTONE.NAME"
+msgid "Sandstone Biome"
+msgstr "ไบโอ​มหิ​นท​ราย"
+
+#. STRINGS.SUBWORLDS.SANDSTONE.UTILITY
+msgctxt "STRINGS.SUBWORLDS.SANDSTONE.UTILITY"
+msgid ""
+"<link=\"OXYROCK\">Oxylite</link> and <link=\"BASICFORAGEPLANTPLANTED\">Buried Muckroot</link> are in sufficient supply to sustain your colony while you gather more resources.\n"
+"\n"
+"<link=\"DIRT\">Dirt</link>, <link=\"ALGAE\">Algae</link>, <link=\"COPPER\">Copper</link> and, of course, <link=\"SANDSTONE\">Sandstone</link> provide all the materials to get basic colony essentials built.\n"
+"\n"
+"Random <link=\"LIGHTBUGSPECIES\">Shine Bugs</link> provide <link=\"MORALE\">Morale</link> boosts for my Duplicants but are not a reliable light source.\n"
+"\n"
+"<link=\"HATCHSPECIES\">Hatches</link> can be domesticated for food or <link=\"CARBON\">Coal</link>, which will be useful if using a <link=\"GENERATOR\">Coal Generator</link> for power.\n"
+"\n"
+"All in all, this biome is the perfect starting spot for my colony to establish a base full of essentials, from which they can then venture out and explore."
+msgstr ""
+"<link=\"OXYROCK\">ออก​ซิ​ไลต์</link>และ<link=\"BASICFORAGEPLANTPLANTED\">ราก​โคลน​ฝังดิน</link>มี​พอ​หล่อเลี้ยง​อาณานิคม​ระหว่าง​ที่​คุณ​รวบรวม​ทรัพยากร​เพิ่ม\n"
+"\n"
+"<link=\"DIRT\">ดิน</link> <link=\"ALGAE\">สาหร่าย</link> <link=\"COPPER\">ทองแดง</link> และ​แน่นอน<link=\"SANDSTONE\">หินทราย</link> ให้​วัสดุ​ครบ​สำหรับ​สร้าง​สิ่งจำเป็น​พื้นฐาน​ของ​อาณานิคม\n"
+"\n"
+"<link=\"LIGHTBUGSPECIES\">แมลง​เรืองแสง</link>ที่​โผล่​มา​เป็นครั้งคราว​ช่วย​เพิ่ม<link=\"MORALE\">ขวัญ​กำลังใจ</link>ให้​ดู​พลิ​แคนต์ แต่​พึ่ง​เป็น​แหล่ง​แสง​ไม่​ได้\n"
+"\n"
+"<link=\"HATCHSPECIES\">แฮตช์</link>ฝึก​ให้​เชื่อง​เพื่อ​เป็น​อาหาร​หรือ​ให้<link=\"CARBON\">ถ่านหิน</link>ได้ ซึ่ง​มีประโยชน์​ถ้า​ใช้<link=\"GENERATOR\">เครื่องปั่นไฟ​ถ่านหิน</link>ผลิต​ไฟ\n"
+"\n"
+"สรุป​แล้ว ไบโอ​ม​นี้​เป็น​จุดเริ่มต้น​ที่​สมบูรณ์แบบ​ให้​อาณานิคม​ตั้ง​ฐาน​ที่​มี​สิ่งจำเป็น​ครบ ก่อน​จะ​ออก​ไป​ผจญภัย​สำรวจ​ข้างนอก"
+
+#. STRINGS.SUBWORLDS.SPACE.DESC
+msgctxt "STRINGS.SUBWORLDS.SPACE.DESC"
+msgid "The Space Biome is located on the scenic surface of an asteroid. Watch for dazzling meteorites to shower elements down from the sky."
+msgstr "ไบโอ​มอ​ว​กา​ศ​ตั้งอยู่​บน​พื้นผิว​วิว​สวย​ของ​ดาวเคราะห์​น้อย คอย​ดู​อุกกาบาต​สุด​ตระการตา​โปรย​ธาตุ​ลง​มาจาก​ฟ้า"
+
+#. STRINGS.SUBWORLDS.SPACE.NAME
+msgctxt "STRINGS.SUBWORLDS.SPACE.NAME"
+msgid "Space Biome"
+msgstr "ไบโอ​มอ​ว​กา​ศ"
+
+#. STRINGS.SUBWORLDS.SPACE.UTILITY
+msgctxt "STRINGS.SUBWORLDS.SPACE.UTILITY"
+msgid "Setting up <link=\"SOLARPANEL\">Solar Panels</link> on the surface will provide a source of renewable energy. However, much care must be taken to ensure <link=\"ELEMENTSLIQUID\">Liquids</link> or <link=\"ELEMENTSGAS\">Gases</link> are not sucked out into the <link=\"VACUUM\">Vacuum</link> of space. <link=\"MOLE\">Shove Voles</link> are native to this biome, and need to be wrangled or contained or they will infest the colony."
+msgstr "การ​ติดตั้ง<link=\"SOLARPANEL\">แผง​โซลาร์</link> (แผง​พลังงานแสงอาทิตย์) บน​พื้นผิว​จะ​ให้​แหล่งพลังงาน​หมุนเวียน แต่​ต้อง​ระวัง​มาก​ไม่​ให้<link=\"ELEMENTSLIQUID\">ของเหลว</link>หรือ<link=\"ELEMENTSGAS\">แก๊ส</link>ถูก​ดูด​ออก​ไป​ใน<link=\"VACUUM\">สุญญากาศ</link>อวกาศ <link=\"MOLE\">ชอฟ​โว​ล</link>เป็น​สัตว์​ท้องถิ่น​ของ​ไบโอ​ม​นี้ ต้อง​ไล่ต้อน​หรือ​ขัง​ไว้ ไม่งั้น​มัน​จะ​บุก​ยึด​อาณานิคม"
+
+#. STRINGS.SUBWORLDS.SUGARWOODS.DESC
+msgctxt "STRINGS.SUBWORLDS.SUGARWOODS.DESC"
+msgid "The <link=\"SNOW\">snow</link>-laden Nectar Biome is home to the massive <link=\"SPACETREE\">Bonbon Tree</link>. This complex plant produces <link=\"SUGARWATER\">Nectar</link>, which can be refined into <link=\"SUCROSE\">Sucrose</link> and <link=\"STEAM\">Steam</link>."
+msgstr "ไบโอ​ม​น้ำหวาน​ที่​ปกคลุม​ด้วย<link=\"SNOW\">หิมะ</link>เป็น​บ้าน​ของ<link=\"SPACETREE\">ต้น​บอน​บอน</link>ขนาด​มหึมา พืช​ซับซ้อน​ชนิด​นี้​ผลิต<link=\"SUGARWATER\">น้ำหวาน</link> ซึ่ง​กลั่น​เป็น<link=\"SUCROSE\">ซูโครส</link>และ<link=\"STEAM\">ไอ​น้ำ</link>ได้"
+
+#. STRINGS.SUBWORLDS.SUGARWOODS.NAME
+msgctxt "STRINGS.SUBWORLDS.SUGARWOODS.NAME"
+msgid "Nectar Biome"
+msgstr "ไบโอ​ม​น้ำหวาน"
+
+#. STRINGS.SUBWORLDS.SUGARWOODS.UTILITY
+msgctxt "STRINGS.SUBWORLDS.SUGARWOODS.UTILITY"
+msgid ""
+"<link=\"SEALSPECIES\">Spigot Seals</link> consume this sweet liquid and produce <link=\"ETHANOL\">Ethanol</link> to shore up a colony's fuel supplies. Spigot Seal ranches also yield <link=\"TALLOW\">Tallow</link>, a greasy substance that can be used for  <link=\"FOOD\">Food</link> or refined into <link=\"CRUDEOIL\">Crude Oil</link> to support local <link=\"POWER\">Power</link> systems.\n"
+"\n"
+"Beneath the <link=\"SNOW\">Snow</link> and <link=\"ICE\">Ice</link> are generous deposits of solid <link=\"MERCURY\">Mercury</link>, a rare metal that can be liquefied for use in industrial cooling systems.\n"
+"\n"
+"This biome is truly a sight to behold: in addition to the soft charm of the occasional <link=\"ICEFLOWER\">Idylla Flower</link>, there is something quite heartwarming about the way that the <link=\"LIGHTBUG\">Shine Bugs'</link> glowing lights glitter on the frozen landscape."
+msgstr ""
+"<link=\"SEALSPECIES\">แมวน้ำ​ก๊อกน้ำ</link>กิน​ของเหลว​หวาน ๆ นี้​แล้ว​ผลิต<link=\"ETHANOL\">เอทานอล</link>มา​เติม​คลัง​เชื้อเพลิง​ของ​อาณานิคม ฟาร์ม​แมวน้ำ​ก๊อกน้ำ​ยัง​ให้<link=\"TALLOW\">ไข​สัตว์</link> สาร​มันเยิ้ม​ที่​ใช้​เป็น <link=\"FOOD\">อาหาร</link> หรือ​กลั่น​เป็น<link=\"CRUDEOIL\">น้ำมันดิบ</link>เพื่อ​หนุน​ระบบ<link=\"POWER\">พลังงาน</link>ใน​พื้นที่​ได้\n"
+"\n"
+"ใต้<link=\"SNOW\">หิมะ</link>และ<link=\"ICE\">น้ำแข็ง</link>มี​แหล่ง<link=\"MERCURY\">ปรอท</link>แข็ง​มากมาย โลหะ​หา​ยาก​ที่​ทำให้​เป็น​ของเหลว​เพื่อ​ใช้​ใน​ระบบ​หล่อ​เย็น​อุตสาหกรรม​ได้\n"
+"\n"
+"ไบโอ​ม​นี้​งดงาม​จับ​ใจจริง ๆ นอกจาก​เสน่ห์​อ่อนหวาน​ของ<link=\"ICEFLOWER\">ดอก​ไอ​ดิ​ล​ลา</link>ที่​ผลิบาน​ประปราย​แล้ว แสง​ระยิบระยับ​ของ<link=\"LIGHTBUG\">แมลง​เรืองแสง</link>บน​ภูมิประเทศ​เยือกแข็ง​ก็​ชวน​อบอุ่น​หัวใจ​อย่าง​บอก​ไม่​ถูก"
+
+#. STRINGS.SUBWORLDS.SWAMP.DESC
+msgctxt "STRINGS.SUBWORLDS.SWAMP.DESC"
+msgid "With its abundance of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> and lack of clean <style=\"KKeyword\">Water</style> the Swampy Biome presents some challenges for a budding colony. But, with a little hard work, it can also turn into a great starting biome with some valuable resources."
+msgstr "ด้วย<link=\"CONTAMINATEDOXYGEN\">ออกซิเจน​ปนเปื้อน</link>ที่​มี​ล้นเหลือ​และ<style=\"KKeyword\">น้ำ</style>สะอาด​ที่​ขาดแคลน ไบโอ​ม​บึง​จึง​ท้าทาย​อาณานิคม​มือใหม่​อยู่​บ้าง แต่​ถ้า​ขยัน​สักหน่อย ก็​กลายเป็น​ไบโอ​ม​เริ่มต้น​ชั้นดี​ที่​มี​ทรัพยากร​ล้ำค่า​ได้"
+
+#. STRINGS.SUBWORLDS.SWAMP.NAME
+msgctxt "STRINGS.SUBWORLDS.SWAMP.NAME"
+msgid "Swampy Biome"
+msgstr "ไบโอ​ม​บึง"
+
+#. STRINGS.SUBWORLDS.SWAMP.UTILITY
+msgctxt "STRINGS.SUBWORLDS.SWAMP.UTILITY"
+msgid ""
+"<link=\"SWAMPFORAGEPLANTPLANTED\">Swamp Chard</link> can provide adequate nutrients for my Duplicants while they establish farms, but it cannot be planted or propogated. <link=\"SWAMPHARVESTPLANT\">Bog Buckets</link>, however, provide a sweet source of nutrients that are fairly easy to farm using <link=\"DIRTYWATER\">Polluted Water</link> and require no extra light to grow.\n"
+"\n"
+"Fortunately <link=\"DIRTYWATER\">Polluted Water</link> is abundant in this biome and will require a <link=\"WATERPURIFIER\">Water Sieve</link> to turn into something my Duplicants can drink. Additionally my Duplicants can use a <link=\"SLUDGEPRESS\">Sludge Press</link> to filter clean water from <link=\"MUD\">Mud</link> (NOTE: <link=\"TOXICMUD\">Polluted Mud</link>, however, does not make clean water).\n"
+"\n"
+"Meanwhile, rudimentary power can be gained from the energy producing <link=\"STATERPILLAR\">Plug Slugs</link> that inhabit this biome.\n"
+"\n"
+"Shiny <link=\"COBALTITE\">Cobalt Ore</link> can be found here, providing a adequate source of metal.\n"
+"\n"
+"While much of this biome is dangerous for a new colony with some deliberate research and careful planning my Duplicants can not only survive but thrive here."
+msgstr ""
+"<link=\"SWAMPFORAGEPLANTPLANTED\">ผัก​หนองน้ำ</link>ให้​สารอาหาร​เพียงพอ​แก่​ดู​พลิ​แคนต์​ระหว่าง​ตั้ง​ฟาร์ม แต่​ปลูก​หรือ​ขยายพันธุ์​ไม่​ได้ ส่วน<link=\"SWAMPHARVESTPLANT\">ต้น​ถัง​บึง</link>เป็น​แหล่ง​สาร​อาหารหวาน ๆ ที่​ปลูก​ได้​ค่อนข้าง​ง่าย​ด้วย<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link> และ​ไม่ต้อง​ใช้​แสง​เพิ่ม\n"
+"\n"
+"โชคดี​ที่<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>มี​เพียบ​ใน​ไบโอ​ม​นี้ และ​ต้อง​ใช้<link=\"WATERPURIFIER\">ตะแกรง​กรอง​น้ำ</link>เปลี่ยน​ให้​เป็นน้ำ​ที่​ดู​พลิ​แคนต์​ดื่มได้ นอกจากนี้​ดู​พลิ​แคนต์​ยัง​ใช้<link=\"SLUDGEPRESS\">เครื่อง​บีบ​ตะกอน</link>กรอง​น้ำสะอาด​จาก<link=\"MUD\">โคลน</link>ได้​ด้วย (หมายเหตุ: แต่<link=\"TOXICMUD\">โคลน​ปนเปื้อน</link>ให้​น้ำสะอาด​ไม่​ได้​นะ)\n"
+"\n"
+"ใน​ระหว่าง​นี้ ไฟฟ้า​พื้นฐาน​หา​ได้​จาก<link=\"STATERPILLAR\">ปลั๊ก​สลัก</link>ผู้ผลิต​พลังงาน​ที่​อาศัย​อยู่​ใน​ไบโอ​ม​นี้\n"
+"\n"
+"ที่นี่​ยัง​พบ<link=\"COBALTITE\">แร่​โคบอลต์</link>วาววับ เป็น​แหล่ง​โลหะ​ที่​พอใช้ได้\n"
+"\n"
+"ถึง​ไบโอ​ม​นี้​ส่วนใหญ่​จะ​อันตราย​ต่อ​อาณานิคม​ใหม่ แต่​ถ้า​วิจัย​อย่าง​ตั้งใจ​และ​วางแผน​รอบคอบ ดู​พลิ​แคนต์​ไม่​เพียงแค่​อยู่รอด แต่​ยัง​เจริญรุ่งเรือง​ที่นี่​ได้"
+
+#. STRINGS.SUBWORLDS.WASTELAND.DESC
+msgctxt "STRINGS.SUBWORLDS.WASTELAND.DESC"
+msgid "While the Wasteland Biome does not look particularly interesting, a pragmatic colony can take advantage of its selection of construction resources."
+msgstr "ถึง​ไบโอ​ม​แดน​รกร้าง​จะ​ดู​ไม่​น่าสนใจ​เท่าไร แต่​อาณานิคม​ที่​คิด​เป็น​ก็​ใช้ประโยชน์​จาก​วัสดุก่อสร้าง​หลาก​ชนิด​ที่นี่​ได้"
+
+#. STRINGS.SUBWORLDS.WASTELAND.NAME
+msgctxt "STRINGS.SUBWORLDS.WASTELAND.NAME"
+msgid "Wasteland Biome"
+msgstr "ไบโอ​ม​แดน​รกร้าง"
+
+#. STRINGS.SUBWORLDS.WASTELAND.UTILITY
+msgctxt "STRINGS.SUBWORLDS.WASTELAND.UTILITY"
+msgid ""
+"The prevalance of <link=\"COPPER\">Copper</link>, <link=\"SANDSTONE\">Sandstone</link>, <link=\"IGNEOUSROCK\">Igneous Rock</link> and its <link=\"IRON\">Iron</link>-rich counterpart <link=\"MAFICROCK\">Mafic Rock</link>, make this a fruitful biome to explore for construction material. <link=\"SAND\">Sand</link> is also in abundance here which is useful as a filtering material.\n"
+"\n"
+"While the wildlife is not in abundance in the Wasteland Biome, the <link=\"DIVERGENTBEETLE\">Sweetle</link> and <link=\"DIVERGENTWORM\">Grubgrub</link> make interesting creatures to domesticate as they co-exist with the <link=\"WORMPLANT\">Grubfruit Plants</link> to produce a much higher quality food than the <link=\"WORMPLANT\">Spindly Grubfruit Plant</link> found in the wild. Additionally, the <link=\"SULFUR\">Sulfur</link> found here works both as food for the GrubGrubs and fertilizer for the Grubfruit Plants.\n"
+"\n"
+"The abundance of <link=\"OXYGEN\">Oxygen</link> found in the Wasteland Biome makes for a low-risk area to send my Duplicants into to collect useful resources to continue with their construction projects."
+msgstr ""
+"ความ​ชุก​ของ<link=\"COPPER\">ทองแดง</link> <link=\"SANDSTONE\">หินทราย</link> <link=\"IGNEOUSROCK\">หินอัคนี</link> และ<link=\"MAFICROCK\">หิน​มา​ฟิก</link>ญาติ​ที่​อุดม<link=\"IRON\">เหล็ก</link> ทำให้​ไบโอ​ม​นี้​คุ้มค่า​แก่​การ​สำรวจหา​วัสดุก่อสร้าง <link=\"SAND\">ทราย</link>ก็​มี​เพียบ ใช้​เป็น​วัสดุ​กรอง​ได้ดี\n"
+"\n"
+"ถึง​สัตว์ป่า​ใน​ไบโอ​ม​แดน​รกร้าง​จะ​ไม่​ชุกชุม แต่<link=\"DIVERGENTBEETLE\">สวีท​เทิล</link>และ<link=\"DIVERGENTWORM\">กรับ​กรับ</link>ก็​น่า​ฝึก​ให้​เชื่อง เพราะ​มัน​อยู่​ร่วมกับ<link=\"WORMPLANT\">ต้น​ผล​หนอน</link>จนได้​อาหาร​คุณภาพ​สูง​กว่า<link=\"WORMPLANT\">ต้น​ผล​หนอน​ผอมแห้ง</link>ที่​พบ​ใน​ป่า​มาก นอกจากนี้<link=\"SULFUR\">กำมะถัน</link>ที่​พบ​ที่นี่​ยัง​เป็น​ทั้ง​อาหาร​ของ​กรับ​กรับ​และ​ปุ๋ย​ของ​ต้น​ผล​หนอน\n"
+"\n"
+"<link=\"OXYGEN\">ออกซิเจน</link>ที่​มี​มากมาย​ใน​ไบโอ​ม​แดน​รกร้าง ทำให้​เป็น​พื้นที่​เสี่ยง​ต่ำ​ที่​ส่ง​ดู​พลิ​แคนต์​ไป​เก็บ​ทรัพยากร​มา​ใช้​ใน​โครงการ​ก่อสร้าง​ต่อ​ได้"
+
+#. STRINGS.SUBWORLDS.WETLANDS.DESC
+msgctxt "STRINGS.SUBWORLDS.WETLANDS.DESC"
+msgid "This hot, sticky biome features plentiful pools of <link=\"DIRTYWATER\">Polluted Water</link>, as well as raw ingredients useful in establishing industrial systems."
+msgstr "ไบโอ​ม​ร้อน​ชื้น​เหนอะหนะ​แห่ง​นี้​มี​แอ่ง<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>มากมาย รวมถึง​วัตถุดิบ​ที่​มีประโยชน์​ต่อ​การ​วาง​ระบบ​อุตสาหกรรม"
+
+#. STRINGS.SUBWORLDS.WETLANDS.NAME
+msgctxt "STRINGS.SUBWORLDS.WETLANDS.NAME"
+msgid "Wetlands Biome"
+msgstr "ไบโอ​ม​พื้นที่​ชุ่ม​น้ำ"
+
+#. STRINGS.SUBWORLDS.WETLANDS.UTILITY
+msgctxt "STRINGS.SUBWORLDS.WETLANDS.UTILITY"
+msgid ""
+"The carnivorous <link=\"FLYTRAPPLANT\">Lura Plant</link> traps airborne critters such as pesky <link=\"MOSQUITOSPECIES\">Gnits</link> and produces <link=\"AMBER\">Amber</link> that can be converted to <link=\"NATURALRESIN\">Resin</link> used for <link=\"POLYPROPYLENE\">Plastic</link> production. Local foliage also includes <link=\"KELPPLANT\">Seakombs</link>, which can be processed into <link=\"PHYTOOIL\">Phyto Oil</link>.\n"
+"\n"
+"Aquatic behemoths called <link=\"PREHISTORICPACUSPECIES\">Jawbos</link> prey on <link=\"PACUSPECIES\">Pacus</link> and excrete hefty chunks of <link=\"RUST\">Rust</link>."
+msgstr ""
+"<link=\"FLYTRAPPLANT\">ต้น​ลู​รา</link>กิน​เนื้อ​ดักจับ​สัตว์​ที่​บิน​ได้​อย่าง<link=\"MOSQUITOSPECIES\">ยุง​นิ​ต</link>ตัว​น่ารำคาญ และ​ผลิต<link=\"AMBER\">อำพัน</link>ที่​แปลง​เป็น<link=\"NATURALRESIN\">เรซิน</link>สำหรับ​ผลิต<link=\"POLYPROPYLENE\">พลาสติก</link>ได้ พืชพรรณ​ท้องถิ่น​ยังมี<link=\"KELPPLANT\">ซี​คอมบ์</link> ที่​แปรรูป​เป็น<link=\"PHYTOOIL\">ไฟ​โต​ออยล์</link> (น้ำมันพืช) ได้\n"
+"\n"
+"ยักษ์​ใหญ่​ใต้​น้ำ​ที่​เรียก​ว่า<link=\"PREHISTORICPACUSPECIES\">จอว์​โบ</link>ล่า<link=\"PACUSPECIES\">ปา​คู</link>เป็น​อาหาร และ​ขับถ่าย<link=\"RUST\">สนิม</link>ออกมา​เป็น​ก้อน​เบ้อเริ่ม"
+
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
 msgid "ACTIONS"
