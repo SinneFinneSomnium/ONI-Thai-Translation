@@ -123,7 +123,7 @@
 | Trench Stench | กลิ่นสนามเพลาะ |
 | Radiation Sickness | โรคจากรังสี |
 | Sunburn | ผิวไหม้แดด |
-| Power Bank / Electrobank | แบงก์พลังงาน |
+| Power Bank / Electrobank | พาวเวอร์แบงก์ |
 | Food Poisoning | อาหารเป็นพิษ |
 | Lavatory | ส้วมชักโครก |
 | Washroom (room) | ห้องน้ำ |
