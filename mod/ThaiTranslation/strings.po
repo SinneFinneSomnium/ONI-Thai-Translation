@@ -125645,10 +125645,377 @@ msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "กำลัง​โรย​ทราย..."
 
+#. STRINGS.VIDEOS.DIGGING
+msgctxt "STRINGS.VIDEOS.DIGGING"
+msgid "DIGGING FOR RESOURCES"
+msgstr "ขุด​หา​ทรัพยากร"
+
+#. STRINGS.VIDEOS.INSULATION
+msgctxt "STRINGS.VIDEOS.INSULATION"
+msgid "THERMAL INSULATION"
+msgstr "ฉนวน​กัน​ความร้อน"
+
+#. STRINGS.VIDEOS.LOCOMOTION
+msgctxt "STRINGS.VIDEOS.LOCOMOTION"
+msgid "DUPLICANT MOVEMENT"
+msgstr "การ​เคลื่อนที่​ของ​ดู​พลิ​แคนต์"
+
+#. STRINGS.VIDEOS.MORALE
+msgctxt "STRINGS.VIDEOS.MORALE"
+msgid "IMPROVING MORALE"
+msgstr "เพิ่ม​ขวัญ​กำลังใจ"
+
+#. STRINGS.VIDEOS.PLUMBING
+msgctxt "STRINGS.VIDEOS.PLUMBING"
+msgid "CONNECTING PIPES"
+msgstr "การ​ต่อ​ท่อ"
+
+#. STRINGS.VIDEOS.POWER
+msgctxt "STRINGS.VIDEOS.POWER"
+msgid "POWER CIRCUITS"
+msgstr "วงจรไฟฟ้า"
+
+#. STRINGS.VIDEOS.TUTORIAL_HEADER
+msgctxt "STRINGS.VIDEOS.TUTORIAL_HEADER"
+msgid "Tutorial:"
+msgstr "บท​สอน:"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_LARGE.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_LARGE.DESCRIPTION"
+msgid "Huge boulders make digging through this world more difficult"
+msgstr "ก้อนหิน​ยักษ์​ทำให้​ขุด​ใน​โลก​นี้​ยาก​ขึ้น"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_LARGE.NAME
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_LARGE.NAME"
+msgid "Large Boulders"
+msgstr "ก้อนหิน​ใหญ่"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.DESCRIPTION"
+msgid "Mid-sized boulders make digging through this world more difficult"
+msgstr "ก้อนหิน​ขนาด​กลาง​ทำให้​ขุด​ใน​โลก​นี้​ยาก​ขึ้น"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.NAME
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.NAME"
+msgid "Medium Boulders"
+msgstr "ก้อนหิน​กลาง"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_MIXED.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MIXED.DESCRIPTION"
+msgid "Boulders of various sizes make digging through this world more difficult"
+msgstr "ก้อนหิน​หลาก​ขนาด​ทำให้​ขุด​ใน​โลก​นี้​ยาก​ขึ้น"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_MIXED.NAME
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MIXED.NAME"
+msgid "Mixed Boulders"
+msgstr "ก้อนหิน​คละ​ขนาด"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_SMALL.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_SMALL.DESCRIPTION"
+msgid "Tiny boulders make digging through this world more difficult"
+msgstr "ก้อนหิน​จิ๋ว​ทำให้​ขุด​ใน​โลก​นี้​ยาก​ขึ้น"
+
+#. STRINGS.WORLD_TRAITS.BOULDERS_SMALL.NAME
+msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_SMALL.NAME"
+msgid "Small Boulders"
+msgstr "ก้อนหิน​เล็ก"
+
+#. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION"
+msgid "This world contains crashed radioactive satellites"
+msgstr "โลก​นี้​มี​ดาวเทียม​กัมมันตรังสี​ตก​อยู่"
+
+#. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME
+msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME"
+msgid "Crashed Satellites"
+msgstr "ดาวเทียม​ตก"
+
+#. STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION"
+msgid "Most of the <style=\"KKeyword\">Oil</style> in this world will need to be extracted with <link=\"OILWELLCAP\">Oil Well</link>s"
+msgstr "<style=\"KKeyword\">น้ำมัน</style>ส่วนใหญ่​ใน​โลก​นี้​ต้อง​สูบ​ขึ้น​มา​ด้วย<link=\"OILWELLCAP\">บ่อ​น้ำมัน</link>"
+
+#. STRINGS.WORLD_TRAITS.DEEP_OIL.NAME
+msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.NAME"
+msgid "Trapped Oil"
+msgstr "น้ำมัน​ติดค้าง"
+
+#. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION"
+msgid "This world contains a frozen friend from a long time ago"
+msgstr "โลก​นี้​มี​เพื่อน​แช่แข็ง​จาก​เมื่อนานมาแล้ว"
+
+#. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
+msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
+msgid "Frozen Friend"
+msgstr "เพื่อน​แช่แข็ง"
+
+#. STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION"
+msgid "This world has a chilly core of solid <link=\"ICE\">Ice</link>"
+msgstr "โลก​นี้​มี​แกนกลาง​เย็นเฉียบ​เป็น<link=\"ICE\">น้ำแข็ง</link>"
+
+#. STRINGS.WORLD_TRAITS.FROZEN_CORE.NAME
+msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.NAME"
+msgid "Frozen Core"
+msgstr "แกน​เยือกแข็ง"
+
+#. STRINGS.WORLD_TRAITS.GEOACTIVE.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.GEOACTIVE.DESCRIPTION"
+msgid "This world has more <style=\"KKeyword\">Geysers</style> and <style=\"KKeyword\">Vents</style> than usual"
+msgstr "โลก​นี้​มี<style=\"KKeyword\">น้ำพุ​ร้อน</style>และ<style=\"KKeyword\">ช่อง​ปล่อง</style>มากกว่า​ปกติ"
+
+#. STRINGS.WORLD_TRAITS.GEOACTIVE.NAME
+msgctxt "STRINGS.WORLD_TRAITS.GEOACTIVE.NAME"
+msgid "Geoactive"
+msgstr "ธรณี​คึกคัก"
+
+#. STRINGS.WORLD_TRAITS.GEODES.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.GEODES.DESCRIPTION"
+msgid "Large geodes containing rare material caches are deposited across this world"
+msgstr "ทั่วโลก​นี้​มี​จี​โอด​ขนาดใหญ่​ที่​บรรจุ​วัสดุ​หา​ยาก​ซ่อน​อยู่"
+
+#. STRINGS.WORLD_TRAITS.GEODES.NAME
+msgctxt "STRINGS.WORLD_TRAITS.GEODES.NAME"
+msgid "Geodes"
+msgstr "จี​โอด"
+
+#. STRINGS.WORLD_TRAITS.GEODORMANT.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.GEODORMANT.DESCRIPTION"
+msgid "This world has fewer <style=\"KKeyword\">Geysers</style> and <style=\"KKeyword\">Vents</style> than usual"
+msgstr "โลก​นี้​มี<style=\"KKeyword\">น้ำพุ​ร้อน</style>และ<style=\"KKeyword\">ช่อง​ปล่อง</style>น้อยกว่า​ปกติ"
+
+#. STRINGS.WORLD_TRAITS.GEODORMANT.NAME
+msgctxt "STRINGS.WORLD_TRAITS.GEODORMANT.NAME"
+msgid "Geodormant"
+msgstr "ธรณี​หลับใหล"
+
+#. STRINGS.WORLD_TRAITS.GLACIERS_LARGE.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.GLACIERS_LARGE.DESCRIPTION"
+msgid "Huge chunks of primordial <link=\"ICE\">Ice</link> are scattered across this world"
+msgstr "ก้อน<link=\"ICE\">น้ำแข็ง</link>ดึกดำบรรพ์​ขนาด​ยักษ์​กระจาย​อยู่​ทั่วโลก​นี้"
+
+#. STRINGS.WORLD_TRAITS.GLACIERS_LARGE.NAME
+msgctxt "STRINGS.WORLD_TRAITS.GLACIERS_LARGE.NAME"
+msgid "Large Glaciers"
+msgstr "ธาร​น้ำแข็ง​ใหญ่"
+
+#. STRINGS.WORLD_TRAITS.IRREGULAR_OIL.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.IRREGULAR_OIL.DESCRIPTION"
+msgid "The <style=\"KKeyword\">Oil</style> on this asteroid is anything but regular!"
+msgstr "<style=\"KKeyword\">น้ำมัน</style>บน​ดาวเคราะห์​น้อย​นี้​ไม่​ธรรมดา​เลย​สักนิด!"
+
+#. STRINGS.WORLD_TRAITS.IRREGULAR_OIL.NAME
+msgctxt "STRINGS.WORLD_TRAITS.IRREGULAR_OIL.NAME"
+msgid "Irregular Oil"
+msgstr "น้ำมัน​พิสดาร"
+
+#. STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION"
+msgid "This world has a lush forest core"
+msgstr "โลก​นี้​มี​แกนกลาง​เป็น​ป่า​เขียวชอุ่ม"
+
+#. STRINGS.WORLD_TRAITS.LUSH_CORE.NAME
+msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.NAME"
+msgid "Lush Core"
+msgstr "แกน​เขียวชอุ่ม"
+
+#. STRINGS.WORLD_TRAITS.MAGMA_VENTS.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.MAGMA_VENTS.DESCRIPTION"
+msgid "The <link=\"MAGMA\">Magma</link> from this world's core has leaked into the mantle and crust"
+msgstr "<link=\"MAGMA\">แมก​มา</link>จาก​แกนโลก​นี้​รั่ว​ซึม​เข้าสู่​ชั้น​แมน​เทิล​และ​เปลือกโลก"
+
+#. STRINGS.WORLD_TRAITS.MAGMA_VENTS.NAME
+msgctxt "STRINGS.WORLD_TRAITS.MAGMA_VENTS.NAME"
+msgid "Magma Channels"
+msgstr "ทางน้ำ​แมก​มา"
+
+#. STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION"
+msgid "This world has caves of metal ore"
+msgstr "โลก​นี้​มี​ถ้ำ​แร่​โลหะ"
+
+#. STRINGS.WORLD_TRAITS.METAL_CAVES.NAME
+msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.NAME"
+msgid "Metallic Caves"
+msgstr "ถ้ำ​โลหะ"
+
+#. STRINGS.WORLD_TRAITS.METAL_POOR.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.METAL_POOR.DESCRIPTION"
+msgid "There is a reduced amount of <style=\"KKeyword\">Metal Ore</style> on this world, proceed with caution!"
+msgstr "โลก​นี้​มี<style=\"KKeyword\">แร่​โลหะ</style>น้อยลง ระวังตัว​ด้วย​นะ!"
+
+#. STRINGS.WORLD_TRAITS.METAL_POOR.NAME
+msgctxt "STRINGS.WORLD_TRAITS.METAL_POOR.NAME"
+msgid "Metal Poor"
+msgstr "โลหะ​ขาดแคลน"
+
+#. STRINGS.WORLD_TRAITS.METAL_RICH.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.METAL_RICH.DESCRIPTION"
+msgid "This asteroid is an abundant source of <style=\"KKeyword\">Metal Ore</style>"
+msgstr "ดาวเคราะห์​น้อย​นี้​เป็น​แหล่ง<style=\"KKeyword\">แร่​โลหะ</style>อุดมสมบูรณ์"
+
+#. STRINGS.WORLD_TRAITS.METAL_RICH.NAME
+msgctxt "STRINGS.WORLD_TRAITS.METAL_RICH.NAME"
+msgid "Metal Rich"
+msgstr "โลหะ​เหลือล้น"
+
+#. STRINGS.WORLD_TRAITS.MISALIGNED_START.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.MISALIGNED_START.DESCRIPTION"
+msgid "The <link=\"HEADQUARTERS\">Printing Pod</link> didn't end up in the asteroid's exact center this time... but it's still nowhere near the surface"
+msgstr "รอบ​นี้<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง</link>ไม่​ได้​ไป​อยู่​ตรงกลาง​ดาวเคราะห์​น้อย​เป๊ะ ๆ... แต่​ก็​ยัง​ห่าง​จาก​พื้นผิว​อีก​ไกล​อยู่ดี"
+
+#. STRINGS.WORLD_TRAITS.MISALIGNED_START.NAME
+msgctxt "STRINGS.WORLD_TRAITS.MISALIGNED_START.NAME"
+msgid "Alternate Pod Location"
+msgstr "พ็อด​ย้ายที่"
+
+#. STRINGS.WORLD_TRAITS.NO_TRAITS.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.DESCRIPTION"
+msgid "This world exists in a particularly stable configuration each time it is encountered"
+msgstr "โลก​นี้​มี​รูปแบบ​ที่​คงที่​เป็นพิเศษ​ทุกครั้งที่​เจอ"
+
+#. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME
+msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME"
+msgid "<i>This world is stable and has no unusual features.</i>"
+msgstr "<i>โลก​นี้​เสถียร​และ​ไม่​มี​ลักษณะพิเศษ​ใด ๆ</i>"
+
+#. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND
+msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND"
+msgid "No unusual features"
+msgstr "ไม่​มี​ลักษณะพิเศษ"
+
+#. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
+msgid "Deposits of <link=\"URANIUMORE\">Uranium Ore</link> are found in this world's crust"
+msgstr "พบ​แหล่ง<link=\"URANIUMORE\">แร่​ยูเรเนียม</link>ใน​เปลือกโลก​นี้"
+
+#. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME
+msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME"
+msgid "Radioactive Crust"
+msgstr "เปลือก​กัมมันตรังสี"
+
+#. STRINGS.WORLD_TRAITS.SLIME_SPLATS.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.SLIME_SPLATS.DESCRIPTION"
+msgid "Sickly <link=\"SLIMEMOLD\">Slime</link> growths have crept all over this world"
+msgstr "<link=\"SLIMEMOLD\">เมือก</link>ชวน​ป่วย​ลุกลาม​ไป​ทั่วโลก​นี้"
+
+#. STRINGS.WORLD_TRAITS.SLIME_SPLATS.NAME
+msgctxt "STRINGS.WORLD_TRAITS.SLIME_SPLATS.NAME"
+msgid "Slime Molds"
+msgstr "รา​เมือก"
+
+#. STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.DESCRIPTION"
+msgid "Below the crust of this world is a <link=\"SALTWATER\">Salt Water</link> sea"
+msgstr "ใต้​เปลือกโลก​นี้​มี​ทะเล<link=\"SALTWATER\">น้ำเค็ม</link>"
+
+#. STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.NAME
+msgctxt "STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.NAME"
+msgid "Subsurface Ocean"
+msgstr "มหาสมุทร​ใต้พิภพ"
+
+#. STRINGS.WORLD_TRAITS.VOLCANOES.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.VOLCANOES.DESCRIPTION"
+msgid "Several active <style=\"KKeyword\">Volcanoes</style> have been detected in this world"
+msgstr "ตรวจ​พบ<style=\"KKeyword\">ภูเขาไฟ</style>ที่​ยัง​ปะทุ​อยู่​หลาย​ลูก​ใน​โลก​นี้"
+
+#. STRINGS.WORLD_TRAITS.VOLCANOES.NAME
+msgctxt "STRINGS.WORLD_TRAITS.VOLCANOES.NAME"
+msgid "Volcanic Activity"
+msgstr "ภูเขาไฟ​คึกคัก"
+
+#. STRINGS.WORLDS.AQUATICBASEGAME.DESCRIPTION
+msgctxt "STRINGS.WORLDS.AQUATICBASEGAME.DESCRIPTION"
+msgid ""
+"A salty water-rich starting world with abundant food resources.\n"
+"\n"
+"<smallcaps>Marinea's biodiversity makes reliable food production more attainable for new colonies, provided they can navigate its ubiquitous liquid pools. Construction materials are a bit limited.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​ที่​อุดม​น้ำเค็ม มี​แหล่ง​อาหาร​มากมาย\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​มาริ​นี​อา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น ถ้า​จัดการ​กับ​แอ่ง​ของเหลว​ที่​มี​อยู่​ทุกหน​แห่ง​ได้ วัสดุก่อสร้าง​ค่อนข้าง​จำกัด​หน่อย</smallcaps>"
+
 #. STRINGS.WORLDS.AQUATICBASEGAME.NAME
 msgctxt "STRINGS.WORLDS.AQUATICBASEGAME.NAME"
 msgid "Marinea"
 msgstr "มาริ​นี​อา"
+
+#. STRINGS.WORLDS.AQUATICCLASSIC.DESCRIPTION
+msgctxt "STRINGS.WORLDS.AQUATICCLASSIC.DESCRIPTION"
+msgid ""
+"A salty water-rich starting world with abundant food resources.\n"
+"\n"
+"<smallcaps>Marinea's biodiversity makes reliable food production more attainable for new colonies, provided they can navigate its ubiquitous liquid pools. Construction materials are a bit limited.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​ที่​อุดม​น้ำเค็ม มี​แหล่ง​อาหาร​มากมาย\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​มาริ​นี​อา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น ถ้า​จัดการ​กับ​แอ่ง​ของเหลว​ที่​มี​อยู่​ทุกหน​แห่ง​ได้ วัสดุก่อสร้าง​ค่อนข้าง​จำกัด​หน่อย</smallcaps>"
+
+#. STRINGS.WORLDS.AQUATICCLASSIC.NAME
+msgctxt "STRINGS.WORLDS.AQUATICCLASSIC.NAME"
+msgid "Marinea Asteroid"
+msgstr "ดาวเคราะห์​น้อย​มาริ​นี​อา"
+
+#. STRINGS.WORLDS.AQUATICMIXING.DESCRIPTION
+msgctxt "STRINGS.WORLDS.AQUATICMIXING.DESCRIPTION"
+msgid ""
+"A fragment of an aquatic starting world. It has abundant food resources.\n"
+"\n"
+"<smallcaps>Marinea's biodiversity makes reliable food production more attainable for new colonies, provided they can navigate its many liquid pools. Construction materials are a bit limited.</smallcaps>"
+msgstr ""
+"เศษ​เสี้ยว​ของ​โลก​เริ่มต้น​ใต้​น้ำ มี​แหล่ง​อาหาร​มากมาย\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​มาริ​นี​อา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น ถ้า​จัดการ​กับ​แอ่ง​ของเหลว​จำนวนมาก​ได้ วัสดุก่อสร้าง​ค่อนข้าง​จำกัด​หน่อย</smallcaps>"
+
+#. STRINGS.WORLDS.AQUATICMIXING.NAME
+msgctxt "STRINGS.WORLDS.AQUATICMIXING.NAME"
+msgid "Marinea Fragment"
+msgstr "เศษ​มาริ​นี​อา"
+
+#. STRINGS.WORLDS.AQUATICSPACEDOUT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.AQUATICSPACEDOUT.DESCRIPTION"
+msgid ""
+"A smaller inundated starting world with abundant food resources.\n"
+"\n"
+"<smallcaps>Marinea's biodiversity makes reliable food production more attainable for new colonies, provided they can navigate its ubiquitous liquid pools. Construction materials are a bit limited.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​ขนาดเล็ก​ที่​จมน้ำ มี​แหล่ง​อาหาร​มากมาย\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​มาริ​นี​อา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น ถ้า​จัดการ​กับ​แอ่ง​ของเหลว​ที่​มี​อยู่​ทุกหน​แห่ง​ได้ วัสดุก่อสร้าง​ค่อนข้าง​จำกัด​หน่อย</smallcaps>"
+
+#. STRINGS.WORLDS.AQUATICSPACEDOUT.NAME
+msgctxt "STRINGS.WORLDS.AQUATICSPACEDOUT.NAME"
+msgid "Marinea Minor"
+msgstr "มาริ​นี​อา​ขนาด​ย่อ"
+
+#. STRINGS.WORLDS.BADLANDS.DESCRIPTION
+msgctxt "STRINGS.WORLDS.BADLANDS.DESCRIPTION"
+msgid ""
+"A barren location with an overabundance of mineral resources.\n"
+"\n"
+"<smallcaps>The rocky terrain of The Badlands poses no immediate threats, but sparse resource availability will make expansion and technological progress challenging.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​แห้งแล้ง​ที่​มี​ทรัพยากร​แร่​ล้นเหลือ\n"
+"\n"
+"<smallcaps>ภูมิประเทศ​หิน​ผา​ของ​แบด​แลนด์​ไม่​มี​ภัย​คุกคาม​เฉพาะหน้า แต่​ทรัพยากร​ที่​หา​ยาก​จะ​ทำ​ให้การ​ขยายตัว​และ​ความก้าวหน้า​ทางเทคโนโลยี​เป็นเรื่อง​ท้าทาย</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.BADLANDS.NAME
+msgctxt "STRINGS.WORLDS.BADLANDS.NAME"
+msgid "The Badlands"
+msgstr "แบด​แลนด์"
+
+#. STRINGS.WORLDS.BIGEMPTY.DESCRIPTION
+msgctxt "STRINGS.WORLDS.BIGEMPTY.DESCRIPTION"
+msgid "A big ol' biome-free spacerock for claustrophobic devs."
+msgstr "หิน​อวกาศ​ก้อน​เบ้อเริ่ม​ไร้​ไบโอ​ม สำหรับ​นัก​พัฒนา​ที่​กลัว​ที่​แคบ"
+
+#. STRINGS.WORLDS.BIGEMPTY.NAME
+msgctxt "STRINGS.WORLDS.BIGEMPTY.NAME"
+msgid "Big Empty FOR DEVS"
+msgstr "ว่างเปล่า​ใหญ่ สำหรับ​นัก​พัฒนา"
 
 #. STRINGS.WORLDS.CERESBASEGAME.DESCRIPTION
 msgctxt "STRINGS.WORLDS.CERESBASEGAME.DESCRIPTION"
@@ -125682,6 +126049,22 @@ msgctxt "STRINGS.WORLDS.CERESBASEGAMESHATTERED.NAME"
 msgid "Blasted Ceres"
 msgstr "ซี​รี​ส​แหลกลาญ"
 
+#. STRINGS.WORLDS.CERESCLASSIC.DESCRIPTION
+msgctxt "STRINGS.WORLDS.CERESCLASSIC.DESCRIPTION"
+msgid ""
+"A frosty starting world with sub-zero temperatures throughout.\n"
+"\n"
+"<smallcaps>Duplicants who work in Ceres's sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​สุด​หนาว​ที่​อุณหภูมิ​ต่ำกว่า​ศูนย์​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>ดู​พลิ​แคนต์​ที่ทำงาน​ใน​อุณหภูมิ​ต่ำกว่า​ศูนย์​ของ​ซี​รี​ส​ต้อง​สวม​หรือ​สร้าง​อุปกรณ์​ให้​ความอบอุ่น แหล่ง​เชื้อเพลิง​ธรรมชาติ​ที่​มี​มากมาย​อาจ​ทำให้​อาณานิคม​มี​ไฟ​ใช้​เหลือเฟือ</smallcaps>"
+
+#. STRINGS.WORLDS.CERESCLASSIC.NAME
+msgctxt "STRINGS.WORLDS.CERESCLASSIC.NAME"
+msgid "Ceres Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ซี​รี​ส"
+
 #. STRINGS.WORLDS.CERESCLASSICSHATTERED.DESCRIPTION
 msgctxt "STRINGS.WORLDS.CERESCLASSICSHATTERED.DESCRIPTION"
 msgid ""
@@ -125697,6 +126080,524 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.CERESCLASSICSHATTERED.NAME"
 msgid "Blasted Ceres"
 msgstr "ซี​รี​ส​แหลกลาญ"
+
+#. STRINGS.WORLDS.CERESMIXING.DESCRIPTION
+msgctxt "STRINGS.WORLDS.CERESMIXING.DESCRIPTION"
+msgid ""
+"A fragment of a frosty starting world with sub-zero temperatures throughout.\n"
+"\n"
+"<smallcaps>Duplicants who work in sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>"
+msgstr ""
+"เศษ​เสี้ยว​ของ​โลก​เริ่มต้น​สุด​หนาว​ที่​อุณหภูมิ​ต่ำกว่า​ศูนย์​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>ดู​พลิ​แคนต์​ที่ทำงาน​ใน​อุณหภูมิ​ต่ำกว่า​ศูนย์​ต้อง​สวม​หรือ​สร้าง​อุปกรณ์​ให้​ความอบอุ่น แหล่ง​เชื้อเพลิง​ธรรมชาติ​ที่​มี​มากมาย​อาจ​ทำให้​อาณานิคม​มี​ไฟ​ใช้​เหลือเฟือ</smallcaps>"
+
+#. STRINGS.WORLDS.CERESMIXING.NAME
+msgctxt "STRINGS.WORLDS.CERESMIXING.NAME"
+msgid "Ceres Fragment"
+msgstr "เศษ​ซี​รี​ส"
+
+#. STRINGS.WORLDS.CERESSPACEDOUT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.CERESSPACEDOUT.DESCRIPTION"
+msgid ""
+"A smaller frosty starting world with sub-zero temperatures throughout.\n"
+"\n"
+"<smallcaps>Duplicants who work in Ceres's sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​สุด​หนาว​ขนาดเล็ก​ที่​อุณหภูมิ​ต่ำกว่า​ศูนย์​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>ดู​พลิ​แคนต์​ที่ทำงาน​ใน​อุณหภูมิ​ต่ำกว่า​ศูนย์​ของ​ซี​รี​ส​ต้อง​สวม​หรือ​สร้าง​อุปกรณ์​ให้​ความอบอุ่น แหล่ง​เชื้อเพลิง​ธรรมชาติ​ที่​มี​มากมาย​อาจ​ทำให้​อาณานิคม​มี​ไฟ​ใช้​เหลือเฟือ</smallcaps>"
+
+#. STRINGS.WORLDS.CERESSPACEDOUT.NAME
+msgctxt "STRINGS.WORLDS.CERESSPACEDOUT.NAME"
+msgid "Ceres Minor"
+msgstr "ซี​รี​ส​ขนาด​ย่อ"
+
+#. STRINGS.WORLDS.FOREST_DEFAULT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.FOREST_DEFAULT.DESCRIPTION"
+msgid ""
+"A location with a natural abundance of trees.\n"
+"\n"
+"<smallcaps>Colonizing Arboria will require careful planning right from the start. Because of its lack of metals, finding biological solutions to problems is a must.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​ที่​มี​ต้นไม้​ตาม​ธรรมชาติ​มากมาย\n"
+"\n"
+"<smallcaps>การ​ตั้ง​อาณานิคม​บน​อาร์​โบ​เรีย​ต้อง​วางแผน​รอบคอบ​ตั้งแต่​เริ่ม เพราะ​ที่นี่​ขาด​โลหะ จึง​ต้อง​หาทาง​แก้ปัญหา​ด้วย​วิธี​ทาง​ชีวภาพ</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.FOREST_DEFAULT.NAME
+msgctxt "STRINGS.WORLDS.FOREST_DEFAULT.NAME"
+msgid "Arboria"
+msgstr "อาร์​โบ​เรีย"
+
+#. STRINGS.WORLDS.FOREST_HOT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.FOREST_HOT.DESCRIPTION"
+msgid ""
+"A location with oppressively hot temperatures.\n"
+"\n"
+"<smallcaps>Temperatures on Aridio are much higher than expected. While resources are abundant, maintaining food and infrastructure could be difficult as our colony warms.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​ที่​ร้อน​จน​อึดอัด\n"
+"\n"
+"<smallcaps>อุณหภูมิ​บน​อา​ริ​ดิ​โอ​สู​งก​ว่าที่​คาด​ไว้​มาก ถึง​ทรัพยากร​จะ​มี​มากมาย แต่​การรักษา​อาหาร​และ​โครงสร้างพื้นฐาน​อาจ​ยาก​ขึ้น​เรื่อย ๆ เมื่อ​อาณานิคม​ร้อน​ขึ้น</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.FOREST_HOT.NAME
+msgctxt "STRINGS.WORLDS.FOREST_HOT.NAME"
+msgid "Aridio"
+msgstr "อา​ริ​ดิ​โอ"
+
+#. STRINGS.WORLDS.FOREST_LUSH.DESCRIPTION
+msgctxt "STRINGS.WORLDS.FOREST_LUSH.DESCRIPTION"
+msgid ""
+"A lush location rich in wildlife and life-sustaining resources.\n"
+"\n"
+"<smallcaps>Establishing a foothold on Verdante will be challenging due to reduced food and oxygen options. However, abundant biological and mineral resources should afford excellent long-term growth.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​เขียวชอุ่ม​ที่​อุดม​ด้วย​สัตว์ป่า​และ​ทรัพยากร​หล่อเลี้ยง​ชีวิต\n"
+"\n"
+"<smallcaps>การ​ตั้งหลัก​บน​เวอร์​ดาน​เต​จะ​ท้าทาย เพราะ​ตัวเลือก​อาหาร​และ​ออกซิเจน​มี​น้อย แต่​ทรัพยากร​ชีวภาพ​และ​แร่ธาตุ​ที่​มี​มากมาย​น่าจะ​ช่วย​ให้​เติบโต​ระยะยาว​ได้​ดีเยี่ยม</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.FOREST_LUSH.NAME
+msgctxt "STRINGS.WORLDS.FOREST_LUSH.NAME"
+msgid "Verdante"
+msgstr "เวอร์​ดาน​เต"
+
+#. STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION"
+msgid ""
+"A small moon with a forest start.\n"
+"\n"
+"<smallcaps>Folia Asteroids have plenty of organic material but Duplicants will have to venture outside their starting biome quickly to find any metal.</smallcaps>"
+msgstr ""
+"ดวงจันทร์​เล็ก ๆ ที่​เริ่มต้น​ใน​ป่า\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​โฟ​เลีย​มี​วัสดุ​อินทรีย์​เพียบ แต่​ดู​พลิ​แคนต์​ต้อง​รีบ​ออก​ไปนอก​ไบโอ​ม​เริ่มต้น​ถึง​จะ​หา​โลหะ​เจอ</smallcaps>"
+
+#. STRINGS.WORLDS.FORESTMOONLET.NAME
+msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
+msgid "Folia Asteroid"
+msgstr "ดาวเคราะห์​น้อย​โฟ​เลีย"
+
+#. STRINGS.WORLDS.HELICONA.DESCRIPTION
+msgctxt "STRINGS.WORLDS.HELICONA.DESCRIPTION"
+msgid ""
+"Due to its highly elliptical orbit around its host star, this rock is cold. Oh so very cold.\n"
+"\n"
+"<smallcaps></smallcaps>\n"
+"\n"
+msgstr ""
+"เพราะ​วงโคจร​รอบ​ดาวฤกษ์​ของ​มัน​รี​มาก หิน​ก้อน​นี้​จึง​หนาว หนาว​สุด ๆ หนาว​จน​สั่น​ไป​ถึง​กระดูก\n"
+"\n"
+"<smallcaps></smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.HELICONA.NAME
+msgctxt "STRINGS.WORLDS.HELICONA.NAME"
+msgid "Helicona"
+msgstr "เฮ​ลิ​โค​นา"
+
+#. STRINGS.WORLDS.IDEALLANDINGSITE.DESCRIPTION
+msgctxt "STRINGS.WORLDS.IDEALLANDINGSITE.DESCRIPTION"
+msgid ""
+"A sandstone and forest world with significant radiation.\n"
+"\n"
+"<smallcaps>Irradiated Forest Asteroids have an abundance of metal for the taking if Duplicants can withstand the planetoid's radiation.</smallcaps>"
+msgstr ""
+"โลก​หินทราย​และ​ป่าไม้​ที่​มี​รังสี​เข้มข้น\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​ป่า​อาบ​รังสี​มี​โลหะ​ให้​เก็บ​เพียบ ถ้า​ดู​พลิ​แคนต์ทน​รังสี​ของ​ดาว​ได้</smallcaps>"
+
+#. STRINGS.WORLDS.IDEALLANDINGSITE.NAME
+msgctxt "STRINGS.WORLDS.IDEALLANDINGSITE.NAME"
+msgid "Irradiated Forest Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ป่า​อาบ​รังสี"
+
+#. STRINGS.WORLDS.MARSHYMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MARSHYMOONLET.DESCRIPTION"
+msgid ""
+"A small location with an abundance of marshland.\n"
+"\n"
+"<smallcaps>While Marshy Asteroids offer an abundance of organic resources like Slime Mold and Algae, their air quality poses a significant disease risk for Duplicants.</smallcaps>"
+msgstr ""
+"ดินแดน​เล็ก ๆ ที่​มี​พื้นที่​หนองน้ำ​มากมาย\n"
+"\n"
+"<smallcaps>ถึง​ดาวเคราะห์​น้อย​หนองน้ำ​จะ​มี​ทรัพยากร​อินทรีย์​มากมาย​อย่าง​รา​เมือก​และ​สาหร่าย แต่​คุณภาพ​อากาศ​ก็​เสี่ยง​ทำให้​ดู​พลิ​แคนต์​ป่วย​อย่าง​มาก</smallcaps>"
+
+#. STRINGS.WORLDS.MARSHYMOONLET.NAME
+msgctxt "STRINGS.WORLDS.MARSHYMOONLET.NAME"
+msgid "Marshy Asteroid"
+msgstr "ดาวเคราะห์​น้อย​หนองน้ำ"
+
+#. STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
+msgid ""
+"A large-ish forested asteroid with a frozen radioactive core.\n"
+"\n"
+"<smallcaps>While Radioactive Forest Asteroid are largely foresty, they also contain a great deal of rust.</smallcaps>"
+msgstr ""
+"ดาวเคราะห์​น้อย​ป่าไม้​ขนาด​ค่อนข้าง​ใหญ่ ที่​มี​แกน​กัมมันตรังสี​เยือกแข็ง\n"
+"\n"
+"<smallcaps>ถึง​ดาวเคราะห์​น้อย​ป่า​กัมมันตรังสี​ส่วนใหญ่​จะ​เป็น​ป่า แต่​ก็​มี​สนิม​อยู่​มาก​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.NAME"
+msgid "Radioactive Forest Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ป่า​กัมมันตรังสี"
+
+#. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION"
+msgid ""
+"A large-ish forested asteroid with a frozen radioactive core.\n"
+"\n"
+"<smallcaps>While Glowood Wasteland Asteroids are largely foresty, they also contain a great deal of rust and wasteland.</smallcaps>"
+msgstr ""
+"ดาวเคราะห์​น้อย​ป่าไม้​ขนาด​ค่อนข้าง​ใหญ่ ที่​มี​แกน​กัมมันตรังสี​เยือกแข็ง\n"
+"\n"
+"<smallcaps>ถึง​ดาวเคราะห์​น้อย​แดน​รกร้าง​ไม้​เรืองแสง​ส่วนใหญ่​จะ​เป็น​ป่า แต่​ก็​มี​สนิม​และ​แดน​รกร้าง​อยู่​มาก​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
+msgid "Glowood Wasteland Asteroid"
+msgstr "ดาวเคราะห์​น้อย​แดน​รกร้าง​ไม้​เรืองแสง"
+
+#. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
+msgid ""
+"A large-ish partially frozen world with a radioactive core.\n"
+"\n"
+"<smallcaps>While Radioactive Swamp Asteroids are largely swampy, they also contain a great deal of rust.</smallcaps>"
+msgstr ""
+"โลก​ขนาด​ค่อนข้าง​ใหญ่​ที่​เยือกแข็ง​บางส่วน และ​มี​แกน​กัมมันตรังสี\n"
+"\n"
+"<smallcaps>ถึง​ดาวเคราะห์​น้อย​บึง​กัมมันตรังสี​ส่วนใหญ่​จะ​เป็น​บึง แต่​ก็​มี​สนิม​อยู่​มาก​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.NAME"
+msgid "Radioactive Swamp Asteroid"
+msgstr "ดาวเคราะห์​น้อย​บึง​กัมมันตรังสี"
+
+#. STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
+msgid ""
+"A large-ish terra world with a radioactive core.\n"
+"\n"
+"<smallcaps>The Radioactive Terra Asteroid is fairly dry and sandy, but does contain areas of jungle.</smallcaps>"
+msgstr ""
+"โลก​แบบ​เทอร์​รา​ขนาด​ค่อนข้าง​ใหญ่ ที่​มี​แกน​กัมมันตรังสี\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​เทอร์​รา​กัมมันตรังสี​ค่อนข้าง​แห้ง​และ​มี​ทราย​เยอะ แต่​ก็​มี​พื้นที่​ป่าดงดิบ​อยู่​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.NAME"
+msgid "Radioactive Terra Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เทอร์​รา​กัมมันตรังสี"
+
+#. STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION"
+msgid ""
+"A large-ish terra world with a radioactive core.\n"
+"\n"
+"<smallcaps>The Radioactive Terrabog Asteroid is fairly dry and sandy, but does contain swampy areas with a partially frozen surface.</smallcaps>"
+msgstr ""
+"โลก​แบบ​เทอร์​รา​ขนาด​ค่อนข้าง​ใหญ่ ที่​มี​แกน​กัมมันตรังสี\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​เทอร์​รา​บึง​กัมมันตรังสี​ค่อนข้าง​แห้ง​และ​มี​ทราย​เยอะ แต่​ก็​มี​พื้นที่​บึง​ที่​พื้นผิว​เยือกแข็ง​บางส่วน​อยู่​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
+msgid "Radioactive Terrabog Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เทอร์​รา​บึง​กัมมันตรังสี"
+
+#. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
+msgid ""
+"A large-ish, polluted swamp world.\n"
+"\n"
+"<smallcaps>Stinko Swamp Asteroids are full of swampy and marshy areas, but also contain a variety of other biomes diverse enough to keep a determined colony supplied with essentials.</smallcaps>"
+msgstr ""
+"โลก​บึง​ปนเปื้อน​ขนาด​ค่อนข้าง​ใหญ่\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​บึง​เหม็น​หึ่ง​เต็มไปด้วย​บึง​และ​หนองน้ำ แต่​ก็​มี​ไบโอ​ม​อื่น​หลากหลาย​พอให้​อาณานิคม​ที่​มุ่งมั่น​มี​ของจำเป็น​ใช้​ไม่​ขาด</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMSWAMPY.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.NAME"
+msgid "Stinko Swamp Asteroid"
+msgstr "ดาวเคราะห์​น้อย​บึง​เหม็น​หึ่ง"
+
+#. STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION
+msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION"
+msgid ""
+"A marshy world with significant radiation.\n"
+"\n"
+"<smallcaps>Irradiated Marsh Asteroids have an abundance of metal for the taking if Duplicants can withstand the planetoid's radiation.</smallcaps>"
+msgstr ""
+"โลก​หนองน้ำ​ที่​มี​รังสี​เข้มข้น\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​หนองน้ำ​อาบ​รังสี​มี​โลหะ​ให้​เก็บ​เพียบ ถ้า​ดู​พลิ​แคนต์ทน​รังสี​ของ​ดาว​ได้</smallcaps>"
+
+#. STRINGS.WORLDS.METALHEAVYLANDINGSITE.NAME
+msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.NAME"
+msgid "Irradiated Marsh Asteroid"
+msgstr "ดาวเคราะห์​น้อย​หนองน้ำ​อาบ​รังสี"
+
+#. STRINGS.WORLDS.MINIBADLANDS.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINIBADLANDS.DESCRIPTION"
+msgid ""
+"A barren location with an overabundance of mineral resources and oil.\n"
+"\n"
+"<smallcaps>The rocky terrain of The Desolands poses no immediate threats, but the limited variety of resources will make expansion and technological progress challenging.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​แห้งแล้ง​ที่​มี​ทรัพยากร​แร่​และ​น้ำมัน​ล้นเหลือ\n"
+"\n"
+"<smallcaps>ภูมิประเทศ​หิน​ผา​ของ​ดินแดน​รกร้าง​ไม่​มี​ภัย​คุกคาม​เฉพาะหน้า แต่​ทรัพยากร​ที่​มี​ให้​เลือก​น้อย​จะ​ทำ​ให้การ​ขยายตัว​และ​ความก้าวหน้า​ทางเทคโนโลยี​เป็นเรื่อง​ท้าทาย</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.MINIBADLANDS.NAME
+msgctxt "STRINGS.WORLDS.MINIBADLANDS.NAME"
+msgid "The Desolands Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ดินแดน​รกร้าง"
+
+#. STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION"
+msgid ""
+"An asteroid in which the surface is molten hot lava and the core is livable.\n"
+"\n"
+"<smallcaps>The lava surface of the Flipped Asteroid will make it challenging to start a rocketry program.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดาวเคราะห์​น้อย​ที่​พื้นผิว​เป็น​ลาวา​ร้อนระอุ แต่​แกนกลาง​อยู่อาศัย​ได้\n"
+"\n"
+"<smallcaps>พื้นผิว​ลาวา​ของ​ดาวเคราะห์​น้อย​กลับหัว​จะ​ทำ​ให้การ​เริ่ม​โครงการ​จรวด​เป็นเรื่อง​ท้าทาย</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.MINIFLIPPED.NAME
+msgctxt "STRINGS.WORLDS.MINIFLIPPED.NAME"
+msgid "Flipped Asteroid"
+msgstr "ดาวเคราะห์​น้อย​กลับหัว"
+
+#. STRINGS.WORLDS.MINIFORESTFROZEN.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINIFORESTFROZEN.DESCRIPTION"
+msgid ""
+"A frigid location marked by inhospitably low temperatures throughout.\n"
+"\n"
+"<smallcaps>The Frozen Forest Asteroid's low temperatures will make finding water and establishing farms or ranches problematic.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​หนาวเหน็บ​ที่​อุณหภูมิ​ต่ำ​จน​แทบ​อยู่​ไม่​ได้​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>อุณหภูมิ​ต่ำ​ของ​ดาวเคราะห์​น้อย​ป่า​เยือกแข็ง​จะ​ทำ​ให้การ​หา​น้ำ ตั้ง​ฟาร์ม หรือ​เลี้ยงสัตว์​เป็นเรื่อง​ปวดหัว</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.MINIFORESTFROZEN.NAME
+msgctxt "STRINGS.WORLDS.MINIFORESTFROZEN.NAME"
+msgid "Frozen Forest Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ป่า​เยือกแข็ง"
+
+#. STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION"
+msgid ""
+"A small swampy world with an abundance of renewable metal.\n"
+"\n"
+"<smallcaps>Metallic Swampy Asteroids have a high concentration of metal and a swampy, polluted atmosphere.</smallcaps>"
+msgstr ""
+"โลก​บึง​เล็ก ๆ ที่​มี​โลหะ​หมุนเวียน​มากมาย\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​หนอง​โลหะ​มี​โลหะ​เข้มข้น​สูง และ​บรรยากาศ​แบบ​บึง​ที่​ปนเปื้อน</smallcaps>"
+
+#. STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME
+msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME"
+msgid "Metallic Swampy Asteroid"
+msgstr "ดาวเคราะห์​น้อย​หนอง​โลหะ"
+
+#. STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.DESCRIPTION"
+msgid ""
+"An irradiated world with renewable water sources.\n"
+"\n"
+"<smallcaps>Both the radioactive biome and the ocean biome present unique challenges yet considerable payoffs.</smallcaps>\n"
+"\n"
+msgstr ""
+"โลก​อาบ​รังสี​ที่​มี​แหล่งน้ำ​หมุนเวียน\n"
+"\n"
+"<smallcaps>ทั้ง​ไบโอ​ม​กัมมันตรังสี​และ​ไบโอ​ม​มหาสมุทร​มี​ความ​ท้าทาย​เฉพาะตัว แต่​ก็​ให้​ผลตอบแทน​คุ้มค่า</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.NAME
+msgctxt "STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.NAME"
+msgid "Radioactive Ocean Asteroid"
+msgstr "ดาวเคราะห์​น้อย​มหาสมุทร​กัมมันตรังสี"
+
+#. STRINGS.WORLDS.MINISHATTEREDGEO.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINISHATTEREDGEO.DESCRIPTION"
+msgid ""
+"A molten mini asteroid with a failed experiment buried inside.\n"
+"\n"
+"<smallcaps>Extremely high temperatures threaten colony safety but could yield an unimaginably powerful payoff.</smallcaps>"
+msgstr ""
+"ดาวเคราะห์​น้อย​จิ๋ว​หลอมละลาย ที่​มี​การทดลอง​ล้มเหลว​ฝัง​อยู่​ข้างใน\n"
+"\n"
+"<smallcaps>อุณหภูมิ​สูง​สุดขั้ว​คุกคาม​ความปลอดภัย​ของ​อาณานิคม แต่​อาจ​ให้​ผลตอบแทน​ทรงพลัง​เกิน​จินตนาการ</smallcaps>"
+
+#. STRINGS.WORLDS.MINISHATTEREDGEO.NAME
+msgctxt "STRINGS.WORLDS.MINISHATTEREDGEO.NAME"
+msgid "Ceres Core Asteroid"
+msgstr "ดาวเคราะห์​น้อย​แกน​ซี​รี​ส"
+
+#. STRINGS.WORLDS.MINISHATTEREDSTART.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINISHATTEREDSTART.DESCRIPTION"
+msgid ""
+"A battered chunk of a smaller frosty starting world with sub-zero temperatures throughout.\n"
+"\n"
+"<smallcaps>Surviving Ceres Mantle's frigid landscape is no easy task, but natural fuel sources provide a valuable payoff.</smallcaps>"
+msgstr ""
+"เศษ​ชิ้น​บอบช้ำ​จาก​โลก​เริ่มต้น​สุด​หนาว​ขนาดเล็ก ที่​อุณหภูมิ​ต่ำกว่า​ศูนย์​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>การ​เอาชีวิต​รอด​ใน​ภูมิประเทศ​หนาวเหน็บ​ของ​แมน​เทิล​ซี​รี​ส​ไม่​ใช่​เรื่อง​ง่าย แต่​แหล่ง​เชื้อเพลิง​ธรรมชาติ​ก็​ให้​ผลตอบแทน​ล้ำค่า</smallcaps>"
+
+#. STRINGS.WORLDS.MINISHATTEREDSTART.NAME
+msgctxt "STRINGS.WORLDS.MINISHATTEREDSTART.NAME"
+msgid "Ceres Mantle Asteroid"
+msgstr "ดาวเคราะห์​น้อย​แมน​เทิล​ซี​รี​ส"
+
+#. STRINGS.WORLDS.MINISHATTEREDWARP.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MINISHATTEREDWARP.DESCRIPTION"
+msgid ""
+"A small, snow-laden world rich with oil and nectar resources.\n"
+"\n"
+"<smallcaps>Sub-zero temperatures pose unique challenges but the potential for power production is very valuable.</smallcaps>"
+msgstr ""
+"โลก​เล็ก ๆ ปกคลุม​ด้วย​หิมะ อุดม​ด้วย​น้ำมัน​และ​น้ำหวาน\n"
+"\n"
+"<smallcaps>อุณหภูมิ​ต่ำกว่า​ศูนย์​เป็นความ​ท้าทาย​เฉพาะตัว แต่​ศักยภาพ​ใน​การผลิต​พลังงาน​นั้น​ล้ำค่า​มาก</smallcaps>"
+
+#. STRINGS.WORLDS.MINISHATTEREDWARP.NAME
+msgctxt "STRINGS.WORLDS.MINISHATTEREDWARP.NAME"
+msgid "Sweet Ceres Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ซี​รี​สห​วาน​ฉ่ำ"
+
+#. STRINGS.WORLDS.MOOMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MOOMOONLET.DESCRIPTION"
+msgid ""
+"A small world with unique local lifeforms.\n"
+"\n"
+"<smallcaps>Moo Asteroids are the natural breeding ground of Gassy Moos due to their abundance of Gas Grass and Methane.</smallcaps>"
+msgstr ""
+"โลก​เล็ก ๆ ที่​มี​สิ่งมีชีวิต​ท้องถิ่น​ไม่​เหมือน​ใคร\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​มู​เป็น​แหล่ง​เพาะพันธุ์​ตาม​ธรรมชาติ​ของ​กัส​ซี่​มู เพราะ​มี​หญ้า​แก๊ส​และ​มีเทน​มากมาย</smallcaps>"
+
+#. STRINGS.WORLDS.MOOMOONLET.NAME
+msgctxt "STRINGS.WORLDS.MOOMOONLET.NAME"
+msgid "Moo Asteroid"
+msgstr "ดาวเคราะห์​น้อย​มู"
+
+#. STRINGS.WORLDS.MOON_BARREN.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MOON_BARREN.DESCRIPTION"
+msgid ""
+"A smaller planetoid in orbit around a larger, resource rich world.\n"
+"\n"
+"<smallcaps>Barren Moons are rich in minerals, but Duplicants will need to branch out into space early to find the resources the colony needs to stay alive.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดาว​ขนาดเล็ก​ที่​โคจร​รอบ​โลก​ขนาดใหญ่​กว่า​ซึ่ง​อุดม​ทรัพยากร\n"
+"\n"
+"<smallcaps>ดวงจันทร์​แห้งแล้ง​อุดม​แร่ธาตุ แต่​ดู​พลิ​แคนต์​ต้อง​ออก​สู่​อวกาศ​ตั้งแต่​เนิ่น ๆ เพื่อ​หา​ทรัพยากร​ที่​อาณานิคม​ต้อง​ใช้​เอาชีวิต​รอด</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.MOON_BARREN.NAME
+msgctxt "STRINGS.WORLDS.MOON_BARREN.NAME"
+msgid "Barren Moon"
+msgstr "ดวงจันทร์​แห้งแล้ง"
+
+#. STRINGS.WORLDS.NIOBIUMMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.NIOBIUMMOONLET.DESCRIPTION"
+msgid ""
+"A small location with an abundance of solid Niobium.\n"
+"\n"
+"<smallcaps>Superconductive Asteroids offer rich veins of Niobium to Duplicants that can withstand its molten rivers of magma.</smallcaps>"
+msgstr ""
+"ดินแดน​เล็ก ๆ ที่​มี​ไนโอเบียม​แข็ง​มากมาย\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​ตัวนำยิ่งยวด​มี​สาย​แร่​ไนโอเบียม​อุดมสมบูรณ์ ให้​ดู​พลิ​แคนต์​ที่​ทน​แม่น้ำ​แมก​มา​หลอมเหลว​ได้</smallcaps>"
+
+#. STRINGS.WORLDS.NIOBIUMMOONLET.NAME
+msgctxt "STRINGS.WORLDS.NIOBIUMMOONLET.NAME"
+msgid "Superconductive Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ตัวนำยิ่งยวด"
+
+#. STRINGS.WORLDS.OASIS.DESCRIPTION
+msgctxt "STRINGS.WORLDS.OASIS.DESCRIPTION"
+msgid ""
+"A desolate location with a cache of life-sustaining water trapped beneath the surface.\n"
+"\n"
+"<smallcaps>A wide underground desert will pose temperature threats and strain the resources of a colony on Oasisse. However, surviving the challenge should present great industrial opportunities.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​รกร้าง​ที่​มี​แหล่งน้ำ​หล่อเลี้ยง​ชีวิต​ซ่อน​อยู่​ใต้​พื้นผิว\n"
+"\n"
+"<smallcaps>ทะเลทราย​ใต้ดิน​กว้างใหญ่​จะ​คุกคาม​ด้วย​อุณหภูมิ​และ​บีบ​ทรัพยากร​ของ​อาณานิคม​บน​โอเอซิส แต่​ถ้า​รอด​ความ​ท้าทาย​นี้​ไป​ได้ ก็​จะ​มีโอกาส​ทางอุตสาหกรรม​มหาศาล</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.OASIS.NAME
+msgctxt "STRINGS.WORLDS.OASIS.NAME"
+msgid "Oasisse"
+msgstr "โอเอซิส"
+
+#. STRINGS.WORLDS.OCEANIA.DESCRIPTION
+msgctxt "STRINGS.WORLDS.OCEANIA.DESCRIPTION"
+msgid ""
+"A location with vast quantities of undrinkable salt water.\n"
+"\n"
+"<smallcaps>Oceania is quite stable and resource rich, but the majority of the area is covered in a saltwater ocean. Careful expansion and resource usage should lead to a successful colony.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​ที่​มี​น้ำเค็ม​ดื่ม​ไม่​ได้​ปริมาณ​มหาศาล\n"
+"\n"
+"<smallcaps>โอเชียเนีย​ค่อนข้าง​เสถียร​และ​อุดม​ทรัพยากร แต่​พื้นที่​ส่วนใหญ่​ถูก​มหาสมุทร​น้ำเค็ม​ปกคลุม การ​ขยายตัว​และ​ใช้​ทรัพยากร​อย่าง​รอบคอบ​น่าจะ​นำไปสู่​อาณานิคม​ที่​ประสบความสำเร็จ</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.OCEANIA.NAME
+msgctxt "STRINGS.WORLDS.OCEANIA.NAME"
+msgid "Oceania"
+msgstr "โอเชียเนีย"
+
+#. STRINGS.WORLDS.OILRICHWARPTARGET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.OILRICHWARPTARGET.DESCRIPTION"
+msgid ""
+"A rusty world with an oily core.\n"
+"\n"
+"<smallcaps>Duplicants must sift through a great deal of rust and ocean to reach the prize of this planetoid's oil.</smallcaps>"
+msgstr ""
+"โลก​ขึ้นสนิม​ที่​มี​แกน​เป็น​น้ำมัน\n"
+"\n"
+"<smallcaps>ดู​พลิ​แคนต์​ต้อง​ฝ่า​สนิม​และ​มหาสมุทร​มากมาย ถึง​จะ​ไป​ถึง​รางวัล​อย่าง​น้ำมัน​ของ​ดาว​ดวง​นี้</smallcaps>"
+
+#. STRINGS.WORLDS.OILRICHWARPTARGET.NAME
+msgctxt "STRINGS.WORLDS.OILRICHWARPTARGET.NAME"
+msgid "Rusty Oil Asteroid"
+msgstr "ดาวเคราะห์​น้อย​สนิม​น้ำมัน"
+
+#. STRINGS.WORLDS.OILYMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.OILYMOONLET.DESCRIPTION"
+msgid ""
+"A small location with an abundance of fossil fuels.\n"
+"\n"
+"<smallcaps>Viscosia Asteroids are filled with valuable crude oil, natural gas, and ethanol deposits at the expense of other essential resources. Early expansion to other planetoids will be essential for survival.</smallcaps>"
+msgstr ""
+"ดินแดน​เล็ก ๆ ที่​มี​เชื้อเพลิง​ฟอสซิล (ซากดึกดำบรรพ์) มากมาย\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​วิ​ส​โค​เซีย​เต็มไปด้วย​แหล่ง​น้ำมันดิบ แก๊ส​ธรรมชาติ และ​เอทานอล​ล้ำค่า แลก​กับ​ทรัพยากร​จำเป็น​อย่าง​อื่น​ที่​ขาด​ไป การ​ขยาย​ไป​ยัง​ดาว​ดวง​อื่น​ตั้งแต่​เนิ่น ๆ จึง​จำ​เป็นต่อ​การอยู่รอด</smallcaps>"
+
+#. STRINGS.WORLDS.OILYMOONLET.NAME
+msgctxt "STRINGS.WORLDS.OILYMOONLET.NAME"
+msgid "Viscosia Asteroid"
+msgstr "ดาวเคราะห์​น้อย​วิ​ส​โค​เซีย"
 
 #. STRINGS.WORLDS.PREHISTORICBASEGAME.DESCRIPTION
 msgctxt "STRINGS.WORLDS.PREHISTORICBASEGAME.DESCRIPTION"
@@ -125714,17 +126615,615 @@ msgctxt "STRINGS.WORLDS.PREHISTORICBASEGAME.NAME"
 msgid "Relica"
 msgstr "เร​ลิ​กา"
 
+#. STRINGS.WORLDS.PREHISTORICCLASSIC.DESCRIPTION
+msgctxt "STRINGS.WORLDS.PREHISTORICCLASSIC.DESCRIPTION"
+msgid ""
+"An endangered starting world with abundant food resources.\n"
+"\n"
+"<smallcaps>Relica's biodiversity makes reliable food production more attainable for new colonies. Construction materials and fuels are also ample. Surface defence must be prioritized to minimize damage from an incoming impactor asteroid.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​ที่​ใกล้​สูญพันธุ์ แต่​มี​แหล่ง​อาหาร​มากมาย\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​เร​ลิ​กา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น วัสดุก่อสร้าง​และ​เชื้อเพลิง​ก็​มี​เหลือเฟือ ต้อง​ให้ความสำคัญ​กับ​การป้องกัน​พื้นผิว​ก่อน เพื่อ​ลด​ความเสียหาย​จาก​ดาวเคราะห์​น้อย​ที่​กำลัง​พุ่งชน</smallcaps>"
+
+#. STRINGS.WORLDS.PREHISTORICCLASSIC.NAME
+msgctxt "STRINGS.WORLDS.PREHISTORICCLASSIC.NAME"
+msgid "Relica Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เร​ลิ​กา"
+
+#. STRINGS.WORLDS.PREHISTORICMIXING.DESCRIPTION
+msgctxt "STRINGS.WORLDS.PREHISTORICMIXING.DESCRIPTION"
+msgid ""
+"A fragment of a prehistoric starting world.\n"
+"\n"
+"<smallcaps>Its biodiversity makes reliable food production more attainable for new colonies. Construction materials and fuels are also ample. </smallcaps>"
+msgstr ""
+"เศษ​เสี้ยว​ของ​โลก​เริ่มต้น​ยุค​ดึกดำบรรพ์\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​ที่นี่​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น วัสดุก่อสร้าง​และ​เชื้อเพลิง​ก็​มี​เหลือเฟือ </smallcaps>"
+
+#. STRINGS.WORLDS.PREHISTORICMIXING.NAME
+msgctxt "STRINGS.WORLDS.PREHISTORICMIXING.NAME"
+msgid "Relica Fragment"
+msgstr "เศษ​เร​ลิ​กา"
+
+#. STRINGS.WORLDS.PREHISTORICSHATTERED.DESCRIPTION
+msgctxt "STRINGS.WORLDS.PREHISTORICSHATTERED.DESCRIPTION"
+msgid ""
+"A geyser-rich location that will be struck by an impactor asteroid almost immediately.\n"
+"\n"
+"<smallcaps>Impact-related damage will trigger the eruption of this world's unusually high number of geysers. Colonies that survive the volatile aftermath will reap the benefits of the abundant natural resources released into the environment.</smallcaps>"
+msgstr ""
+"ดินแดน​ที่​อุดม​น้ำพุ​ร้อน ซึ่ง​จะ​ถูก​ดาวเคราะห์​น้อย​พุ่งชน​แทบจะ​ทันที\n"
+"\n"
+"<smallcaps>ความเสียหาย​จาก​การ​พุ่งชน​จะ​กระตุ้น​ให้​น้ำพุ​ร้อน​จำนวนมาก​ผิดปกติ​ของ​โลก​นี้​ปะทุ อาณานิคม​ที่​รอด​จาก​ผลพวง​สุด​ผันผวน​จะ​ได้​เก็บเกี่ยว​ทรัพยากรธรรมชาติ​มากมาย​ที่​ถูก​ปล่อย​ออกมา</smallcaps>"
+
+#. STRINGS.WORLDS.PREHISTORICSHATTERED.NAME
+msgctxt "STRINGS.WORLDS.PREHISTORICSHATTERED.NAME"
+msgid "RelicAAAA<sup>AAAGHH</sup>"
+msgstr "เร​ลิ​กา​าาา<sup>าาากกก</sup>"
+
+#. STRINGS.WORLDS.PREHISTORICSPACEDOUT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.PREHISTORICSPACEDOUT.DESCRIPTION"
+msgid ""
+"A smaller endangered starting world with abundant food resources.\n"
+"\n"
+"<smallcaps>Relica's biodiversity makes reliable food production more attainable for new colonies. Construction materials and fuels are also ample. Surface defence must be prioritized to minimize damage from an incoming impactor asteroid.</smallcaps>"
+msgstr ""
+"โลก​เริ่มต้น​ขนาดเล็ก​ที่​ใกล้​สูญพันธุ์ แต่​มี​แหล่ง​อาหาร​มากมาย\n"
+"\n"
+"<smallcaps>ความหลากหลาย​ทาง​ชีวภาพ​ของ​เร​ลิ​กา​ทำให้​อาณานิคม​ใหม่​ผลิต​อาหาร​ได้​มั่นคง​ขึ้น วัสดุก่อสร้าง​และ​เชื้อเพลิง​ก็​มี​เหลือเฟือ ต้อง​ให้ความสำคัญ​กับ​การป้องกัน​พื้นผิว​ก่อน เพื่อ​ลด​ความเสียหาย​จาก​ดาวเคราะห์​น้อย​ที่​กำลัง​พุ่งชน</smallcaps>"
+
+#. STRINGS.WORLDS.PREHISTORICSPACEDOUT.NAME
+msgctxt "STRINGS.WORLDS.PREHISTORICSPACEDOUT.NAME"
+msgid "Relica Minor"
+msgstr "เร​ลิ​กา​ขนาด​ย่อ"
+
+#. STRINGS.WORLDS.REGOLITHMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.REGOLITHMOONLET.DESCRIPTION"
+msgid ""
+"A small, cold world with plenty of craters.\n"
+"\n"
+"<smallcaps>Regolith Asteroids have frequent meteor showers and are chock-full of Regolith, an incredibly useful filtration material. </smallcaps>"
+msgstr ""
+"โลก​เล็ก ๆ หนาวเย็น เต็มไปด้วย​หลุม​อุกกาบาต\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​เร​โก​ลิ​ธ​มี​ฝนดาวตก​บ่อย และ​อัด​แน่น​ด้วย​เร​โก​ลิ​ธ วัสดุ​กรอง​ที่​มีประโยชน์​สุด ๆ </smallcaps>"
+
+#. STRINGS.WORLDS.REGOLITHMOONLET.NAME
+msgctxt "STRINGS.WORLDS.REGOLITHMOONLET.NAME"
+msgid "Regolith Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เร​โก​ลิ​ธ"
+
+#. STRINGS.WORLDS.SANDSTONE_DEFAULT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.SANDSTONE_DEFAULT.DESCRIPTION"
+msgid ""
+"A promising location with a balanced variety of resources.\n"
+"\n"
+"<smallcaps>Terra meets all the requirements for Duplicant life and holds no surprises. It's an ideal location for a first attempt at establishing a colony.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​น่า​มีหวัง ที่​มี​ทรัพยากร​หลาก​หลายอย่าง​สมดุล\n"
+"\n"
+"<smallcaps>เทอร์​รา​มี​ทุกอย่าง​ที่​ดู​พลิ​แคนต์​ต้องการ​เพื่อ​ดำรงชีวิต และ​ไม่​มี​เซอร์ไพรส์​ใด ๆ เป็นที่​เหมาะ​สุด ๆ สำหรับ​การ​ตั้ง​อาณานิคม​ครั้งแรก</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.SANDSTONE_DEFAULT.NAME
+msgctxt "STRINGS.WORLDS.SANDSTONE_DEFAULT.NAME"
+msgid "Terra"
+msgstr "เทอร์​รา"
+
+#. STRINGS.WORLDS.SANDSTONE_FROZEN.DESCRIPTION
+msgctxt "STRINGS.WORLDS.SANDSTONE_FROZEN.DESCRIPTION"
+msgid ""
+"A frigid location marked by inhospitably low temperatures throughout.\n"
+"\n"
+"<smallcaps>Rime's low temperatures will make finding water and establishing farms or ranches problematic. However, the wide spectrum of minerals and cool environment could lead to thriving industry.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​หนาวเหน็บ​ที่​อุณหภูมิ​ต่ำ​จน​แทบ​อยู่​ไม่​ได้​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>อุณหภูมิ​ต่ำ​ของ​ไร​ม์​จะ​ทำ​ให้การ​หา​น้ำ ตั้ง​ฟาร์ม หรือ​เลี้ยงสัตว์​เป็นเรื่อง​ปวดหัว แต่​แร่ธาตุ​หลากหลาย​และ​สภาพแวดล้อม​เย็นสบาย​ก็​อาจ​นำไปสู่​อุตสาหกรรม​ที่​รุ่งเรือง</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.SANDSTONE_FROZEN.NAME
+msgctxt "STRINGS.WORLDS.SANDSTONE_FROZEN.NAME"
+msgid "Rime"
+msgstr "ไร​ม์"
+
+#. STRINGS.WORLDS.STRANGE_ASTEROID_KF23.DESCRIPTION
+msgctxt "STRINGS.WORLDS.STRANGE_ASTEROID_KF23.DESCRIPTION"
+msgid ""
+"A tilted world, at once strange and...strangely familiar. Its singular terrain is consistent across all universes.\n"
+"\n"
+"This resistance to the fluidity of temporal shifts has the cosmos buzzing, as individual colonies compare notes on successes, failures and the bizarre redistribution of resources.\n"
+"\n"
+"<smallcaps>Released for Klei Fest 2023."
+msgstr ""
+"โลก​เอียง​ที่​ทั้ง​แปลก​และ...คุ้นตา​แบบ​แปลก ๆ ภูมิประเทศ​เฉพาะตัว​ของ​มัน​เหมือนเดิม​ทุก​จักรวาล\n"
+"\n"
+"การ​ต้านทาน​ความ​ลื่นไหล​ของ​การเปลี่ยนแปลง​ทาง​กาล​เวลานี้​ทำให้​ทั่ว​จักรวาล​ฮือฮา เมื่อ​อาณานิคม​ต่าง ๆ มา​เทียบ​โน้ต​กัน​เรื่อง​ความสำเร็จ ความล้มเหลว และ​การ​กระจาย​ทรัพยากร​ใหม่​สุด​พิลึก\n"
+"\n"
+"<smallcaps>เปิดตัว​ใน​งาน Klei Fest 2023"
+
+#. STRINGS.WORLDS.STRANGE_ASTEROID_KF23.NAME
+msgctxt "STRINGS.WORLDS.STRANGE_ASTEROID_KF23.NAME"
+msgid "Skewed Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เอียง​กระเท่เร่"
+
+#. STRINGS.WORLDS.STRANGERICHSANDSTONE.DESCRIPTION
+msgctxt "STRINGS.WORLDS.STRANGERICHSANDSTONE.DESCRIPTION"
+msgid ""
+"A petite rocky world with an oily core.\n"
+"\n"
+"<smallcaps>Though it looks deceptively nondescript from space, readings from this planet suggest a strong fuel source lurks somewhere beneath the surface.</smallcaps>"
+msgstr ""
+"โลก​หิน​เล็ก​กะทัดรัด​ที่​มี​แกน​เป็น​น้ำมัน\n"
+"\n"
+"<smallcaps>ถึง​จะ​ดู​ธรรมดา​จน​น่า​หลอกตา​จาก​อวกาศ แต่​ค่าที่​อ่าน​ได้​จาก​ดาว​ดวง​นี้​บ่งบอก​ว่า​มี​แหล่ง​เชื้อเพลิง​ชั้นดี​ซุ่ม​อยู่​ใต้​พื้นผิว​ที่ไหน​สัก​แห่ง</smallcaps>"
+
 #. STRINGS.WORLDS.STRANGERICHSANDSTONE.NAME
 msgctxt "STRINGS.WORLDS.STRANGERICHSANDSTONE.NAME"
 msgid "Rocky Asteroid"
 msgstr "ดาวเคราะห์​น้อย​หิน"
+
+#. STRINGS.WORLDS.SULFURMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.SULFURMOONLET.DESCRIPTION"
+msgid ""
+"A smaller landmass with a distinct odor.\n"
+"\n"
+"<smallcaps>Brimstonia Asteroids contain an abundant supply of Sulfur.</smallcaps>"
+msgstr ""
+"ผืนดิน​ขนาดเล็ก​ที่​มี​กลิ่น​เฉพาะตัว\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​บ​ริม​ส​โต​เนีย​มี​กำมะถัน​มากมาย</smallcaps>"
+
+#. STRINGS.WORLDS.SULFURMOONLET.NAME
+msgctxt "STRINGS.WORLDS.SULFURMOONLET.NAME"
+msgid "Brimstonia Asteroid"
+msgstr "ดาวเคราะห์​น้อย​บ​ริม​ส​โต​เนีย"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.CLUSTERNAME
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.CLUSTERNAME"
+msgid "<b>Cluster Name</b>: {0}"
+msgstr "<b>ชื่อ​คลัสเตอร์</b>: {0}"
 
 #. STRINGS.WORLDS.SURVIVAL_CHANCE.HIGH
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.HIGH"
 msgid "Likely"
 msgstr "น่าจะ​มี"
 
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.LEASTHOSPITABLE
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.LEASTHOSPITABLE"
+msgid "Inhospitable"
+msgstr "ไม่​น่า​รอด"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.LOW
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.LOW"
+msgid "Marginal"
+msgstr "ฉิวเฉียด"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.MOONNAMES
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.MOONNAMES"
+msgid ""
+"\n"
+"<b>Surrounding Planetoids</b>:"
+msgstr ""
+"\n"
+"<b>ดาว​รอบข้าง</b>:"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.MOSTHOSPITABLE
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.MOSTHOSPITABLE"
+msgid "Ideal"
+msgstr "เหมาะ​สุด ๆ"
+
 #. STRINGS.WORLDS.SURVIVAL_CHANCE.NEUTRAL
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.NEUTRAL"
 msgid "Moderate"
 msgstr "ปานกลาง"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.PLANETNAME
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.PLANETNAME"
+msgid "<b>Starting Asteroid</b>: {0}\n"
+msgstr "<b>ดาวเคราะห์​น้อย​เริ่มต้น</b>: {0}\n"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.TITLE
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.TITLE"
+msgid ""
+"\n"
+"Survival Chance: <b><color=#{1}>{0}</color></b>"
+msgstr ""
+"\n"
+"โอกาส​รอด: <b><color=#{1}>{0}</color></b>"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.VERYHIGH
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.VERYHIGH"
+msgid "Probable"
+msgstr "น่าจะ​รอด"
+
+#. STRINGS.WORLDS.SURVIVAL_CHANCE.VERYLOW
+msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.VERYLOW"
+msgid "Slim"
+msgstr "ริบหรี่"
+
+#. STRINGS.WORLDS.SWAMPMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.SWAMPMOONLET.DESCRIPTION"
+msgid ""
+"A large, polluted swamp world.\n"
+"\n"
+"<smallcaps>Quagmiris Asteroids are a great mass of frozen slush and wasteland. With a short distance to the surface, inter-world travel can be achieved quickly.</smallcaps>"
+msgstr ""
+"โลก​บึง​ปนเปื้อน​ขนาดใหญ่\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​แควก​ไม​ริ​ส​เป็น​ก้อน​มหึมา​ของ​หิมะ​กึ่ง​ละลาย​เยือกแข็ง​และ​แดน​รกร้าง เพราะ​อยู่​ใกล้​พื้นผิว จึง​เดิน​ทางข้าม​โลก​ได้​อย่าง​รวดเร็ว</smallcaps>"
+
+#. STRINGS.WORLDS.SWAMPMOONLET.NAME
+msgctxt "STRINGS.WORLDS.SWAMPMOONLET.NAME"
+msgid "Quagmiris Asteroid"
+msgstr "ดาวเคราะห์​น้อย​แควก​ไม​ริ​ส"
+
+#. STRINGS.WORLDS.SWAMPYLANDINGSITE.DESCRIPTION
+msgctxt "STRINGS.WORLDS.SWAMPYLANDINGSITE.DESCRIPTION"
+msgid ""
+"A small swampy world with a radioactive core.\n"
+"\n"
+"<smallcaps>Irradiated Swamps have a high concentration of rare swampy and radioactive resources but are also chocked full of dangers.</smallcaps>"
+msgstr ""
+"โลก​บึง​เล็ก ๆ ที่​มี​แกน​กัมมันตรังสี\n"
+"\n"
+"<smallcaps>บึง​อาบ​รังสี​มี​ทรัพยากร​หา​ยาก​ทั้ง​แบบ​บึง​และ​แบบ​กัมมันตรังสี​เข้มข้น​สูง แต่​ก็​อัด​แน่น​ไป​ด้วย​อันตราย</smallcaps>"
+
+#. STRINGS.WORLDS.SWAMPYLANDINGSITE.NAME
+msgctxt "STRINGS.WORLDS.SWAMPYLANDINGSITE.NAME"
+msgid "Irradiated Swampy Asteroid"
+msgstr "ดาวเคราะห์​น้อย​บึง​อาบ​รังสี"
+
+#. STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION"
+msgid ""
+"A balanced variety of resources on a smaller sandstone world.\n"
+"\n"
+"<smallcaps>Terrania Asteroids have everything needed to start a colony in a compact area. With a short distance to the surface, inter-world travel can be achieved quickly.</smallcaps>"
+msgstr ""
+"ทรัพยากร​หลาก​หลายอย่าง​สมดุล​บน​โลก​หินทราย​ขนาดเล็ก\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​เทอร์​รา​เนีย​มี​ทุกอย่าง​ที่​ต้อง​ใช้​ตั้ง​อาณานิคม​ใน​พื้นที่​กะทัดรัด เพราะ​อยู่​ใกล้​พื้นผิว จึง​เดิน​ทางข้าม​โลก​ได้​อย่าง​รวดเร็ว</smallcaps>"
+
+#. STRINGS.WORLDS.TERRAMOONLET.NAME
+msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
+msgid "Terrania Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เทอร์​รา​เนีย"
+
+#. STRINGS.WORLDS.THE_ROCK.DESCRIPTION
+msgctxt "STRINGS.WORLDS.THE_ROCK.DESCRIPTION"
+msgid ""
+"This place really rocks.\n"
+"\n"
+"<smallcaps></smallcaps>\n"
+"\n"
+msgstr ""
+"ที่นี่​ร็อก​สุด ๆ ไป​เลย\n"
+"\n"
+"<smallcaps></smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.THE_ROCK.NAME
+msgctxt "STRINGS.WORLDS.THE_ROCK.NAME"
+msgid "The Rock"
+msgstr "เดอะ​ร็อก"
+
+#. STRINGS.WORLDS.TINYEMPTY.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TINYEMPTY.DESCRIPTION"
+msgid "A fun-sized 'fixer upper', perfect for game devs."
+msgstr "บ้านเล็ก \"ต้อง​รี​โน​เวต\" ขนาด​พอดี​คำ เหมาะกับ​นัก​พัฒนา​เกม"
+
+#. STRINGS.WORLDS.TINYEMPTY.NAME
+msgctxt "STRINGS.WORLDS.TINYEMPTY.NAME"
+msgid "Tiny Empty FOR DEVS"
+msgstr "ว่างเปล่า​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.TINYFOREST.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TINYFOREST.DESCRIPTION"
+msgid "A petite forest world for nature loving devs."
+msgstr "โลก​ป่าไม้​กะทัดรัด​สำหรับ​นัก​พัฒนา​สาย​รัก​ธรรมชาติ"
+
+#. STRINGS.WORLDS.TINYFOREST.NAME
+msgctxt "STRINGS.WORLDS.TINYFOREST.NAME"
+msgid "Tiny Forest FOR DEVS"
+msgstr "ป่า​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.TINYICE.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TINYICE.DESCRIPTION"
+msgid "A tiny ice cold world for dev snow forts."
+msgstr "โลก​จิ๋ว​เย็นเฉียบ​สำหรับ​นัก​พัฒนา​สร้าง​ป้อม​หิมะ"
+
+#. STRINGS.WORLDS.TINYICE.NAME
+msgctxt "STRINGS.WORLDS.TINYICE.NAME"
+msgid "Tiny Ice FOR DEVS"
+msgstr "น้ำแข็ง​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.TINYMAGMA.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TINYMAGMA.DESCRIPTION"
+msgid "A small hellscape just for devs."
+msgstr "นรก​จิ๋ว​สำหรับ​นัก​พัฒนา​โดยเฉพาะ"
+
+#. STRINGS.WORLDS.TINYMAGMA.NAME
+msgctxt "STRINGS.WORLDS.TINYMAGMA.NAME"
+msgid "Tiny Magma FOR DEVS"
+msgstr "แมก​มา​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.TINYSTART.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TINYSTART.DESCRIPTION"
+msgid "A cozy little starter location, just for devs."
+msgstr "จุดเริ่มต้น​เล็ก ๆ แสน​อบอุ่น สำหรับ​นัก​พัฒนา​เท่านั้น"
+
+#. STRINGS.WORLDS.TINYSTART.NAME
+msgctxt "STRINGS.WORLDS.TINYSTART.NAME"
+msgid "Tiny Start FOR DEVS"
+msgstr "จุดเริ่มต้น​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.TINYSURFACE.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TINYSURFACE.DESCRIPTION"
+msgid "A cute little Dev location, with scenic space views."
+msgstr "ที่​เล็ก ๆ น่ารัก​สำหรับ​นัก​พัฒนา วิว​อวกาศ​สวย​เชียว"
+
+#. STRINGS.WORLDS.TINYSURFACE.NAME
+msgctxt "STRINGS.WORLDS.TINYSURFACE.NAME"
+msgid "Tiny Surface FOR DEVS"
+msgstr "พื้นผิว​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.TUNDRAMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TUNDRAMOONLET.DESCRIPTION"
+msgid ""
+"A small frozen planetoid with sub-zero temperatures.\n"
+"\n"
+"<smallcaps>Duplicants that travel to Tundra Asteroids will need to wear protective gear due to its harsh environment.</smallcaps>"
+msgstr ""
+"ดาว​เยือกแข็ง​ขนาดเล็ก​ที่​อุณหภูมิ​ต่ำกว่า​ศูนย์\n"
+"\n"
+"<smallcaps>ดู​พลิ​แคนต์​ที่​เดินทาง​ไป​ดาวเคราะห์​น้อย​ทุน​ด​รา​ต้อง​สวม​อุปกรณ์​ป้องกัน เพราะ​สภาพแวดล้อม​โหดร้าย</smallcaps>"
+
+#. STRINGS.WORLDS.TUNDRAMOONLET.NAME
+msgctxt "STRINGS.WORLDS.TUNDRAMOONLET.NAME"
+msgid "Tundra Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ทุน​ด​รา"
+
+#. STRINGS.WORLDS.TWINMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.TWINMOONLET.DESCRIPTION"
+msgid "Two small dev worlds for the price of one."
+msgstr "โลก​นัก​พัฒนา​เล็ก ๆ สอง​ใบ​ใน​ราคา​เดียว"
+
+#. STRINGS.WORLDS.TWINMOONLET.NAME
+msgctxt "STRINGS.WORLDS.TWINMOONLET.NAME"
+msgid "Tiny Twin Asteroid FOR DEVS"
+msgstr "ดาวเคราะห์​น้อย​แฝด​จิ๋ว สำหรับ​นัก​พัฒนา"
+
+#. STRINGS.WORLDS.VANILLAARBORIA.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAARBORIA.DESCRIPTION"
+msgid ""
+"A location with a natural abundance of trees.\n"
+"\n"
+"<smallcaps>Colonizing Arboria will require careful planning right from the start. Because of its lack of metals, finding biological solutions to problems is a must.</smallcaps>"
+msgstr ""
+"ดินแดน​ที่​มี​ต้นไม้​ตาม​ธรรมชาติ​มากมาย\n"
+"\n"
+"<smallcaps>การ​ตั้ง​อาณานิคม​บน​อาร์​โบ​เรีย​ต้อง​วางแผน​รอบคอบ​ตั้งแต่​เริ่ม เพราะ​ที่นี่​ขาด​โลหะ จึง​ต้อง​หาทาง​แก้ปัญหา​ด้วย​วิธี​ทาง​ชีวภาพ</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAARBORIA.NAME
+msgctxt "STRINGS.WORLDS.VANILLAARBORIA.NAME"
+msgid "Arboria Asteroid"
+msgstr "ดาวเคราะห์​น้อย​อาร์​โบ​เรีย"
+
+#. STRINGS.WORLDS.VANILLAARIDIO.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAARIDIO.DESCRIPTION"
+msgid ""
+"A location with oppressively hot temperatures.\n"
+"\n"
+"<smallcaps>Temperatures on Aridio are much higher than expected. While resources are abundant, maintaining food and infrastructure could be difficult as our colony warms.</smallcaps>"
+msgstr ""
+"ดินแดน​ที่​ร้อน​จน​อึดอัด\n"
+"\n"
+"<smallcaps>อุณหภูมิ​บน​อา​ริ​ดิ​โอ​สู​งก​ว่าที่​คาด​ไว้​มาก ถึง​ทรัพยากร​จะ​มี​มากมาย แต่​การรักษา​อาหาร​และ​โครงสร้างพื้นฐาน​อาจ​ยาก​ขึ้น​เรื่อย ๆ เมื่อ​อาณานิคม​ร้อน​ขึ้น</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAARIDIO.NAME
+msgctxt "STRINGS.WORLDS.VANILLAARIDIO.NAME"
+msgid "Aridio Asteroid"
+msgstr "ดาวเคราะห์​น้อย​อา​ริ​ดิ​โอ"
+
+#. STRINGS.WORLDS.VANILLABADLANDS.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLABADLANDS.DESCRIPTION"
+msgid ""
+"A barren location with an overabundance of mineral resources.\n"
+"\n"
+"<smallcaps>The rocky terrain of The Badlands poses no immediate threats, but sparse resource availability will make expansion and technological progress challenging.</smallcaps>"
+msgstr ""
+"ดินแดน​แห้งแล้ง​ที่​มี​ทรัพยากร​แร่​ล้นเหลือ\n"
+"\n"
+"<smallcaps>ภูมิประเทศ​หิน​ผา​ของ​แบด​แลนด์​ไม่​มี​ภัย​คุกคาม​เฉพาะหน้า แต่​ทรัพยากร​ที่​หา​ยาก​จะ​ทำ​ให้การ​ขยายตัว​และ​ความก้าวหน้า​ทางเทคโนโลยี​เป็นเรื่อง​ท้าทาย</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLABADLANDS.NAME
+msgctxt "STRINGS.WORLDS.VANILLABADLANDS.NAME"
+msgid "The Badlands Asteroid"
+msgstr "ดาวเคราะห์​น้อย​แบด​แลนด์"
+
+#. STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION"
+msgid ""
+"A lush location rich in wildlife and life-sustaining resources.\n"
+"\n"
+"<smallcaps>Establishing a foothold on Verdante will be challenging due to reduced food and oxygen options. However, abundant biological and mineral resources should afford excellent long-term growth.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​เขียวชอุ่ม​ที่​อุดม​ด้วย​สัตว์ป่า​และ​ทรัพยากร​หล่อเลี้ยง​ชีวิต\n"
+"\n"
+"<smallcaps>การ​ตั้งหลัก​บน​เวอร์​ดาน​เต​จะ​ท้าทาย เพราะ​ตัวเลือก​อาหาร​และ​ออกซิเจน​มี​น้อย แต่​ทรัพยากร​ชีวภาพ​และ​แร่ธาตุ​ที่​มี​มากมาย​น่าจะ​ช่วย​ให้​เติบโต​ระยะยาว​ได้​ดีเยี่ยม</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME
+msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME"
+msgid "Verdante Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เวอร์​ดาน​เต"
+
+#. STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION"
+msgid ""
+"A desolate location with a cache of life-sustaining water trapped beneath the surface.\n"
+"\n"
+"<smallcaps>A wide underground desert will pose temperature threats and strain the resources of a colony on Oasisse. However, surviving the challenge should present great industrial opportunities.</smallcaps>"
+msgstr ""
+"ดินแดน​รกร้าง​ที่​มี​แหล่งน้ำ​หล่อเลี้ยง​ชีวิต​ซ่อน​อยู่​ใต้​พื้นผิว\n"
+"\n"
+"<smallcaps>ทะเลทราย​ใต้ดิน​กว้างใหญ่​จะ​คุกคาม​ด้วย​อุณหภูมิ​และ​บีบ​ทรัพยากร​ของ​อาณานิคม​บน​โอเอซิส แต่​ถ้า​รอด​ความ​ท้าทาย​นี้​ไป​ได้ ก็​จะ​มีโอกาส​ทางอุตสาหกรรม​มหาศาล</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAOASIS.NAME
+msgctxt "STRINGS.WORLDS.VANILLAOASIS.NAME"
+msgid "Oasisse Asteroid"
+msgstr "ดาวเคราะห์​น้อย​โอเอซิส"
+
+#. STRINGS.WORLDS.VANILLAOCEANIA.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAOCEANIA.DESCRIPTION"
+msgid ""
+"A location with vast quantities of unpotable salt water.\n"
+"\n"
+"<smallcaps>Oceania is quite stable and resource rich, but the majority of the area is covered in a saltwater ocean. Careful expansion and resource usage should lead to a successful colony.</smallcaps>"
+msgstr ""
+"ดินแดน​ที่​มี​น้ำเค็ม​ดื่ม​ไม่​ได้​ปริมาณ​มหาศาล\n"
+"\n"
+"<smallcaps>โอเชียเนีย​ค่อนข้าง​เสถียร​และ​อุดม​ทรัพยากร แต่​พื้นที่​ส่วนใหญ่​ถูก​มหาสมุทร​น้ำเค็ม​ปกคลุม การ​ขยายตัว​และ​ใช้​ทรัพยากร​อย่าง​รอบคอบ​น่าจะ​นำไปสู่​อาณานิคม​ที่​ประสบความสำเร็จ</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAOCEANIA.NAME
+msgctxt "STRINGS.WORLDS.VANILLAOCEANIA.NAME"
+msgid "Oceania Asteroid"
+msgstr "ดาวเคราะห์​น้อย​โอเชียเนีย"
+
+#. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION"
+msgid ""
+"A promising location with a balanced variety of resources.\n"
+"\n"
+"<smallcaps>Terra meets all the requirements for Duplicant life and holds no surprises. It's an ideal location for a first attempt at establishing a colony.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​น่า​มีหวัง ที่​มี​ทรัพยากร​หลาก​หลายอย่าง​สมดุล\n"
+"\n"
+"<smallcaps>เทอร์​รา​มี​ทุกอย่าง​ที่​ดู​พลิ​แคนต์​ต้องการ​เพื่อ​ดำรงชีวิต และ​ไม่​มี​เซอร์ไพรส์​ใด ๆ เป็นที่​เหมาะ​สุด ๆ สำหรับ​การ​ตั้ง​อาณานิคม​ครั้งแรก</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME
+msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME"
+msgid "Terra Asteroid"
+msgstr "ดาวเคราะห์​น้อย​เทอร์​รา"
+
+#. STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION"
+msgid ""
+"A frigid location marked by inhospitably low temperatures throughout.\n"
+"\n"
+"<smallcaps>Rime's low temperatures will make finding water and establishing farms or ranches problematic. However, the wide spectrum of minerals and cool environment could lead to thriving industry.</smallcaps>"
+msgstr ""
+"ดินแดน​หนาวเหน็บ​ที่​อุณหภูมิ​ต่ำ​จน​แทบ​อยู่​ไม่​ได้​ทั่ว​ทั้ง​ดาว\n"
+"\n"
+"<smallcaps>อุณหภูมิ​ต่ำ​ของ​ไร​ม์​จะ​ทำ​ให้การ​หา​น้ำ ตั้ง​ฟาร์ม หรือ​เลี้ยงสัตว์​เป็นเรื่อง​ปวดหัว แต่​แร่ธาตุ​หลากหลาย​และ​สภาพแวดล้อม​เย็นสบาย​ก็​อาจ​นำไปสู่​อุตสาหกรรม​ที่​รุ่งเรือง</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLASANDSTONEFROZEN.NAME
+msgctxt "STRINGS.WORLDS.VANILLASANDSTONEFROZEN.NAME"
+msgid "Rime Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ไร​ม์"
+
+#. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
+msgid ""
+"A large, polluted swamp world.\n"
+"\n"
+"<smallcaps>Squelchy Asteroids are a great mass of frozen slush and wasteland. With a short distance to the surface, inter-world travel can be achieved quickly.</smallcaps>"
+msgstr ""
+"โลก​บึง​ปนเปื้อน​ขนาดใหญ่\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​ส​เค​วล​ชี​เป็น​ก้อน​มหึมา​ของ​หิมะ​กึ่ง​ละลาย​เยือกแข็ง​และ​แดน​รกร้าง เพราะ​อยู่​ใกล้​พื้นผิว จึง​เดิน​ทางข้าม​โลก​ได้​อย่าง​รวดเร็ว</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME
+msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
+msgid "Squelchy Asteroid"
+msgstr "ดาวเคราะห์​น้อย​ส​เค​วล​ชี"
+
+#. STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION"
+msgid ""
+"A location rife with molten lava pockets and intense heat.\n"
+"\n"
+"<smallcaps>Volcanea would be perfect if it wasn't for the volcanoes. Digging carefully and managing the temperatures in our colony will be essential to success.</smallcaps>"
+msgstr ""
+"ดินแดน​ที่​เต็มไปด้วย​แอ่ง​ลาวา​หลอมเหลว​และ​ความ​ร้อนแรง​จัด\n"
+"\n"
+"<smallcaps>วอ​ล​คา​เนียคง​สมบูรณ์แบบ ถ้า​ไม่​มี​ภูเขาไฟ การ​ขุด​อย่าง​ระมัดระวัง​และ​จัดการ​อุณหภูมิ​ใน​อาณานิคม​คือ​กุญแจ​สู่​ความสำเร็จ</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAVOLCANIC.NAME
+msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.NAME"
+msgid "Volcanea Asteroid"
+msgstr "ดาวเคราะห์​น้อย​วอ​ล​คา​เนีย"
+
+#. STRINGS.WORLDS.VOLCANIC.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VOLCANIC.DESCRIPTION"
+msgid ""
+"A location rife with molten lava pockets and intense heat.\n"
+"\n"
+"<smallcaps>Volcanea would be perfect if it wasn't for the volcanoes. Digging carefully and managing the temperatures in our colony will be essential to success.</smallcaps>\n"
+"\n"
+msgstr ""
+"ดินแดน​ที่​เต็มไปด้วย​แอ่ง​ลาวา​หลอมเหลว​และ​ความ​ร้อนแรง​จัด\n"
+"\n"
+"<smallcaps>วอ​ล​คา​เนียคง​สมบูรณ์แบบ ถ้า​ไม่​มี​ภูเขาไฟ การ​ขุด​อย่าง​ระมัดระวัง​และ​จัดการ​อุณหภูมิ​ใน​อาณานิคม​คือ​กุญแจ​สู่​ความสำเร็จ</smallcaps>\n"
+"\n"
+
+#. STRINGS.WORLDS.VOLCANIC.NAME
+msgctxt "STRINGS.WORLDS.VOLCANIC.NAME"
+msgid "Volcanea"
+msgstr "วอ​ล​คา​เนีย"
+
+#. STRINGS.WORLDS.WARPOILYSANDYSWAMP.DESCRIPTION
+msgctxt "STRINGS.WORLDS.WARPOILYSANDYSWAMP.DESCRIPTION"
+msgid ""
+"A mildly frozen world with an oily core.\n"
+"\n"
+"<smallcaps>While Oily Sandy Swamp Asteroids are largely swampy, they also contain a great deal of wasteland.</smallcaps>"
+msgstr ""
+"โลก​เยือกแข็ง​เล็กน้อย​ที่​มี​แกน​เป็น​น้ำมัน\n"
+"\n"
+"<smallcaps>ถึง​ดาวเคราะห์​น้อย​บึง​ทราย​น้ำมัน​ส่วนใหญ่​จะ​เป็น​บึง แต่​ก็​มี​แดน​รกร้าง​อยู่​มาก​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.WARPOILYSANDYSWAMP.NAME
+msgctxt "STRINGS.WORLDS.WARPOILYSANDYSWAMP.NAME"
+msgid "Oily Sandy Swamp Asteroid"
+msgstr "ดาวเคราะห์​น้อย​บึง​ทราย​น้ำมัน"
+
+#. STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION
+msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION"
+msgid ""
+"A partially frozen world with an oily core.\n"
+"\n"
+"<smallcaps>While Oily Swamp Asteroids are largely swampy, they also contain a great deal of rust.</smallcaps>"
+msgstr ""
+"โลก​เยือกแข็ง​บางส่วน​ที่​มี​แกน​เป็น​น้ำมัน\n"
+"\n"
+"<smallcaps>ถึง​ดาวเคราะห์​น้อย​บึง​น้ำมัน​ส่วนใหญ่​จะ​เป็น​บึง แต่​ก็​มี​สนิม​อยู่​มาก​ด้วย</smallcaps>"
+
+#. STRINGS.WORLDS.WARPOILYSWAMP.NAME
+msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.NAME"
+msgid "Oily Swamp Asteroid"
+msgstr "ดาวเคราะห์​น้อย​บึง​น้ำมัน"
+
+#. STRINGS.WORLDS.WATERMOONLET.DESCRIPTION
+msgctxt "STRINGS.WORLDS.WATERMOONLET.DESCRIPTION"
+msgid ""
+"A small, water-submerged world.\n"
+"\n"
+"<smallcaps>Water Asteroids possess a variety of liquid resources and are a natural source of Graphite, but Duplicants should come prepared for a swim.</smallcaps>"
+msgstr ""
+"โลก​เล็ก ๆ ที่​จม​อยู่​ใต้​น้ำ\n"
+"\n"
+"<smallcaps>ดาวเคราะห์​น้อย​น้ำ​มี​ทรัพยากร​ของเหลว​หลากหลาย และ​เป็น​แหล่ง​แกรไฟต์​ตาม​ธรรมชาติ แต่​ดู​พลิ​แคนต์​ควร​เตรียมตัว​ว่ายน้ำ​มา​ให้​พร้อม</smallcaps>"
+
+#. STRINGS.WORLDS.WATERMOONLET.NAME
+msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
+msgid "Water Asteroid"
+msgstr "ดาวเคราะห์​น้อย​น้ำ"
