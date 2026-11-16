@@ -42331,6 +42331,538 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DEER"
 msgid "This critter seemed amused by the scanning process. Review data for more information."
 msgstr "สัตว์​ตัว​นี้​ดู​ขำ ๆ กับ​กระบวนการ​สแกน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
 
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DIVERGENT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DIVERGENT"
+msgid ""
+"Specimen responded gently to the probative apparatus, as though being careful not to cause any damage.\n"
+"\n"
+"Review data for more information."
+msgstr ""
+"ตัวอย่าง​ตอบสนอง​ต่อ​อุปกรณ์​ตรวจ​อย่าง​อ่อนโยน ราวกับ​ระวัง​ไม่​ให้​เกิด​ความเสียหาย\n"
+"\n"
+"ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DRECKO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DRECKO"
+msgid "This critter hardly seemed to notice it was being examined at all. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​แทบ​ไม่​รู้ตัว​เลย​ว่า​กำลัง​ถูก​ตรวจ ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.GLOM
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.GLOM"
+msgid "DNA results confirm: this species is the very definition of \"icky\"."
+msgstr "ผล DNA ยืนยัน​แล้ว: สายพันธุ์​นี้​คือ​นิยาม​ของ​คำ​ว่า \"แหวะ\" ตัวจริง​เสียง​จริง"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.HATCH
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.HATCH"
+msgid "Specimen attempted to snack on the buccal smear. Review data for more information."
+msgstr "ตัวอย่าง​พยายาม​แทะ​ไม้​เก็บ​ตัวอย่าง​กระพุ้งแก้ม​เป็น​ของว่าง ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.LIGHTBUG
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.LIGHTBUG"
+msgid "This critter kept trying to befriend the reflective surfaces of the scanner's interior. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​พยายาม​ผูกมิตร​กับ​พื้นผิว​สะท้อน​แสง​ภายใน​เครื่อง​สแกน​ไม่​หยุด ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOLE"
+msgid "This critter felt right at home in the cramped scanning bed. It can't wait to come back! "
+msgstr "สัตว์​ตัว​นี้​รู้สึก​เหมือน​อยู่​บ้าน​ใน​เตียง​สแกน​แคบ ๆ รอ​แทบ​ไม่​ไหว​ที่จะ​กลับมา​อีก! "
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOO"
+msgid "WARNING: METHANE OVERLOAD. Review data for more information."
+msgstr "คำเตือน: มีเทน​ล้น​เกิน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOSQUITO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOSQUITO"
+msgid "Sample collected. Review data for more information."
+msgstr "เก็บ​ตัวอย่าง​แล้ว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.OILFLOATER
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.OILFLOATER"
+msgid "Incessant wriggling made it difficult to scan this critter. Difficult, but not impossible."
+msgstr "ดิ้น​ยุกยิก​ไม่​หยุด​จน​สแกน​ยาก ยาก​นะ แต่​ไม่​ถึงกับ​เป็นไปไม่ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PACU
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PACU"
+msgid "Sample collected. Review data for more information."
+msgstr "เก็บ​ตัวอย่าง​แล้ว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PARROTFISH
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PARROTFISH"
+msgid "This critter's body is coated in millions of dinoflagellates. Review data for more information."
+msgstr "ตัว​ของ​สัตว์​ตัว​นี้​เคลือบ​ด้วย​ได​โน​แฟลก​เจล​เลต​นับ​ล้าน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PREHISTORICPACU
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PREHISTORICPACU"
+msgid "This critter attacked the transducer. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​โจมตี​หัว​ตรวจ ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PUFFERFISH
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PUFFERFISH"
+msgid "Trace amounts of neurotoxins found. Review data for more information."
+msgstr "พบ​สารพิษ​ต่อ​ระบบประสาท​ปริมาณ​เล็กน้อย ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PUFT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.PUFT"
+msgid "This critter bumped up against the building's interior repeatedly during scanning. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​ชน​ผนัง​ด้านใน​ของ​สิ่งก่อสร้าง​ซ้ำ ๆ ระหว่าง​สแกน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.RAPTOR
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.RAPTOR"
+msgid "Species scanned. Review data for more information."
+msgstr "สแกน​สายพันธุ์​แล้ว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAFAIRY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAFAIRY"
+msgid "This critter became stressed and shed its tail during the biopsy. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​เครียด​จน​สลัด​หาง​ทิ้ง​ระหว่าง​ตัด​ชิ้น​เนื้อ ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAHORSE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAHORSE"
+msgid "Sample collected. Review data for more information."
+msgstr "เก็บ​ตัวอย่าง​แล้ว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAL
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAL"
+msgid "Specimen scanned. Review data for more information."
+msgstr "สแกน​ตัวอย่าง​แล้ว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEATURTLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEATURTLE"
+msgid "Specimen appears to be...ticklish. Review data for more information."
+msgstr "ตัวอย่าง​ดูเหมือน​จะ...บ้าจี้ ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SNAIL
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SNAIL"
+msgid "Specimen has clogged the scanning equipment with sticky residue. Review data for more information."
+msgstr "ตัวอย่าง​ทำ​คราบ​เหนียวหนึบ​อุดตัน​อุปกรณ์​สแกน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SQUID
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SQUID"
+msgid "Camera view was obscured during scanning. Review data for more information."
+msgstr "ภาพ​จาก​กล้อง​ถูก​บัง​ระหว่าง​สแกน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SQUIRREL
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SQUIRREL"
+msgid "Sample collected. Review data for more information."
+msgstr "เก็บ​ตัวอย่าง​แล้ว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.STATERPILLAR
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.STATERPILLAR"
+msgid "Warning: The electrical charge emitted by this specimen nearly short-circuited this building."
+msgstr "คำเตือน: ประจุไฟฟ้า​ที่​ตัว​อย่างนี้​ปล่อย​ออกมา​เกือบ​ทำให้​สิ่งก่อสร้าง​นี้​ไฟฟ้าลัดวงจร"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.STEGO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.STEGO"
+msgid "This critter was temporarily stuck in the scanning area. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​ติด​อยู่​ใน​พื้นที่​สแกน​ชั่วคราว ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.UNKNOWN
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.UNKNOWN"
+msgid ""
+"Subject successfully scanned.\n"
+"\n"
+"Flux function unavailable due to genome-parsing malfunction.\n"
+"\n"
+"Please note that kicking the building's exterior is unlikely to correct this issue and may result in permanent damage to the system."
+msgstr ""
+"สแกน​ตัวอย่าง​สำเร็จ\n"
+"\n"
+"ฟังก์ชัน​ฟลักซ์​ใช้งาน​ไม่​ได้​เนื่องจาก​การ​แยก​วิเคราะห์​จีโนม​ทำงาน​ผิดพลาด\n"
+"\n"
+"โปรดทราบ​ว่าการ​เตะ​ตัว​เครื่อง​ด้านนอก​ไม่​น่าจะ​แก้ปัญหา​นี้​ได้ และ​อาจ​ทำให้​ระบบ​เสียหาย​ถาวร"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.UNKNOWN_TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.UNKNOWN_TITLE"
+msgid "MESSAGE FROM THE MANUFACTURER"
+msgstr "ข้อความ​จาก​ผู้ผลิต"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BEETA
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BEETA"
+msgid ""
+"This species may not be fully sentient, but it possesses a strong collective consciousness.\n"
+"\n"
+"It is unclear how information is communicated between members of the species. What is clear is that knowledge is being shared and passed down from one generation to another.\n"
+"\n"
+"Monitor closely."
+msgstr ""
+"สายพันธุ์​นี้​อาจ​ไม่​ได้​มี​สติสัมปชัญญะ​เต็มที่ แต่​มี​จิตสำนึก​ร่วม​ที่​แรงกล้า\n"
+"\n"
+"ยัง​ไม่​ชัดเจน​ว่า​สมาชิก​ใน​สายพันธุ์​สื่อสาร​ข้อมูล​กัน​อย่างไร ที่​ชัดเจน​คือ​ความรู้​ถูก​แบ่งปัน​และ​ถ่ายทอด​จา​กรุ่น​สู่​รุ่น\n"
+"\n"
+"เฝ้าดู​อย่าง​ใกล้ชิด"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BELLY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BELLY"
+msgid ""
+"Specimen produced substantial stool sample directly onto scanner bed.\n"
+"\n"
+"Remarkably, its white coat remained pristine. Analysis of coat fibers revealed that each follicle is sealed with polytetrafluoroethylene, providing strong stain resistance."
+msgstr ""
+"ตัวอย่าง​ผลิต​ตัวอย่าง​อุจจาระ​ปริมาณมาก​ลง​บน​เตียง​สแกน​โดยตรง\n"
+"\n"
+"น่าทึ่ง​ที่​ขน​สี​ขาว​ของ​มัน​ยัง​สะอาด​เอี่ยม การ​วิเคราะห์​เส้น​ขน​พบ​ว่า​แต่ละ​รูขุมขน​เคลือบ​ด้วย​โพ​ลี​เต​ตระ​ฟลูออ​โร​เอทิลีน ทำให้​กัน​คราบ​ได้​ดีเยี่ยม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BUTTERFLY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BUTTERFLY"
+msgid ""
+"This critter tucked its wings tightly around itself during scanning, and used its antennae to roll its body around the chamber.\n"
+"\n"
+"It seems that these sensory organs possess more musculature than those of similar species, despite their unassuming appearance. Of particular note: the critter's refusal to engage in this behavior outside of this contained environment."
+msgstr ""
+"สัตว์​ตัว​นี้​หุบ​ปีก​ห่อตัว​แน่น​ระหว่าง​สแกน และ​ใช้​หนวด​กลิ้ง​ตัว​ไปมา​ใน​ห้อง\n"
+"\n"
+"ดูเหมือน​อวัยวะ​รับสัมผัส​เหล่านี้​มี​กล้ามเนื้อ​มากกว่า​สายพันธุ์​ใกล้เคียง แม้​จะ​ดู​ไม่​มี​พิษภัย ข้อสังเกต​เป็นพิเศษ: สัตว์​ตัว​นี้​ไม่​ยอม​ทำ​พฤติกรรม​นี้​นอก​สภาพแวดล้อม​ปิด​นี้​เลย"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.CHAMELEON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.CHAMELEON"
+msgid ""
+"Scanning interrupted due to instrument displacement caused by specimen's lingual grasp.\n"
+"\n"
+"Residual markings left by specimen's tongue ridges and grooves are a 72% match to a set of unmarked fingerprints from the Gravitas personnel database."
+msgstr ""
+"การ​สแกน​ถูก​ขัดจังหวะ​เพราะ​เครื่องมือ​หลุด​ตำแหน่ง เนื่องจาก​ตัวอย่าง​ใช้​ลิ้น​คว้า​เอา​ไป\n"
+"\n"
+"รอย​ที่​ร่อง​และ​สัน​ลิ้น​ของ​ตัวอย่าง​ทิ้ง​ไว้ ตรงกัน 72% กับ​ลายนิ้วมือ​ชุด​หนึ่ง​ที่​ไม่​มีชื่อ​กำกับ​ใน​ฐานข้อมูล​บุ​คลา​กรก​รา​วิ​ทัส"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.CRAB
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.CRAB"
+msgid ""
+"This species responded to the hum of the scanner machinery by waving its pincers in gestures that seemed to mimic iconic moves of the disco dance era.\n"
+"\n"
+"Is it possible that it might have been exposed to music at some point in its evolution?"
+msgstr ""
+"สายพันธุ์​นี้​ตอบสนอง​ต่อ​เสียง​หึ่ง​ของ​เครื่อง​สแกน​ด้วย​การ​โบก​ก้าม​เป็น​ท่า​ที่​ดูเหมือน​เลียนแบบ​ท่า​เต้น​สุด​คลาสสิก​ยุค​ดิสโก้\n"
+"\n"
+"เป็นไปได้​ไหม​ว่า​มัน​เคย​สัมผัส​ดนตรี​ใน​ช่วงใดช่วงหนึ่ง​ของ​วิวัฒนาการ?"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.DEER
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.DEER"
+msgid ""
+"This critter's perpetual grin grew as it observed each step of the process extremely closely.\n"
+"\n"
+"Behavioral analysis indicates a tendency toward mischief. Close supervision - and minimal access to advanced machinery - is recommended."
+msgstr ""
+"รอยยิ้ม​ไม่​เคย​หุบ​ของ​สัตว์​ตัว​นี้​กว้าง​ขึ้น​เรื่อย ๆ ขณะ​เฝ้าดู​ทุก​ขั้นตอน​อย่าง​ใกล้ชิด​สุด ๆ\n"
+"\n"
+"การ​วิเคราะห์​พฤติกรรม​บ่งชี้​แนวโน้ม​ขี้​แกล้ง แนะนำ​ให้​ดูแล​ใกล้ชิด และ​ให้​เข้าถึง​เครื่องจักร​ขั้นสูง​น้อยที่สุด"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.DIVERGENT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.DIVERGENT"
+msgid ""
+"Specimen responded gently to the probative apparatus, as though being careful not to cause any damage.\n"
+"\n"
+"It also produced a series of deep, rhythmic vibrations during analysis. An attempt to communicate with the sensors, perhaps?"
+msgstr ""
+"ตัวอย่าง​ตอบสนอง​ต่อ​อุปกรณ์​ตรวจ​อย่าง​อ่อนโยน ราวกับ​ระวัง​ไม่​ให้​เกิด​ความเสียหาย\n"
+"\n"
+"มัน​ยัง​สั่น​เป็นจังหวะ​ทุ้ม​ลึก​ต่อเนื่อง​ระหว่าง​การ​วิเคราะห์​ด้วย หรือว่า​พยายาม​สื่อสาร​กับ​เซ็นเซอร์?"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.DRECKO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.DRECKO"
+msgid ""
+"This critter hardly seemed to notice it was being examined at all.\n"
+"\n"
+"The built-in scanning electron microscope has determined that the fibers on this critter's train grow in a sort of trinity stitch pattern, reminiscent of a well-crafted sweater.\n"
+"\n"
+"The critter's leathery skin remains cool and dry, however, likely due to an apparent lack of sweat glands."
+msgstr ""
+"สัตว์​ตัว​นี้​แทบ​ไม่​รู้ตัว​เลย​ว่า​กำลัง​ถูก​ตรวจ\n"
+"\n"
+"กล้องจุลทรรศน์​อิเล็กตรอน​แบบ​ส่อง​กราด​ใน​ตัว​เครื่อง​พบ​ว่า เส้นใย​บน​ชาย​หาง​ของ​สัตว์​ตัว​นี้​งอก​เป็น​ลาย​ถัก​แบ​บท​ริ​นิ​ตี้ ชวน​ให้​นึกถึง​เสื้อ​ไหมพรม​ฝีมือดี\n"
+"\n"
+"แต่​ผิว​หนังเหนียว​ของ​มัน​ยัง​เย็น​และ​แห้ง น่าจะ​เพราะ​ไม่​มี​ต่อม​เหงื่อ"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.GLOM
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.GLOM"
+msgid "DNA results confirm: this species is the scientific definition of \"icky\"."
+msgstr "ผล DNA ยืนยัน​แล้ว: สายพันธุ์​นี้​คือ​นิยาม​ทางวิทยาศาสตร์​ของ​คำ​ว่า \"แหวะ\""
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.HATCH
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.HATCH"
+msgid ""
+"Specimen attempted to snack on the buccal smear. Sample is viable, though the apparatus may be somewhat mangled.\n"
+"\n"
+"Atomic force microscopy of the bite pattern reveals traces of goethite, a mineral notable for its exceptional strength."
+msgstr ""
+"ตัวอย่าง​พยายาม​แทะ​ไม้​เก็บ​ตัวอย่าง​กระพุ้งแก้ม​เป็น​ของว่าง ตัวอย่าง​ยัง​ใช้ได้ แต่​อุปกรณ์​อาจ​บู้บี้​ไป​บ้าง\n"
+"\n"
+"กล้องจุลทรรศน์​แรง​อะตอม​ตรวจ​รอย​กัด​พบ​ร่องรอย​เก​อ​ไท​ต์ แร่​ที่​ขึ้น​ชื่อเรื่อง​ความแข็งแรง​เป็นพิเศษ"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.LIGHTBUG
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.LIGHTBUG"
+msgid ""
+"This critter kept trying to befriend the reflective surfaces of the scanner's interior.\n"
+"\n"
+"During examination, it cycled through a consistent pattern of four rapid flashes of light, a brief pause and two flashes, followed by a longer pause.\n"
+"\n"
+"Its cells appear to contain a mutated variation of oxyluciferin similar to those catalogued in bioluminescent animals."
+msgstr ""
+"สัตว์​ตัว​นี้​พยายาม​ผูกมิตร​กับ​พื้นผิว​สะท้อน​แสง​ภายใน​เครื่อง​สแกน​ไม่​หยุด\n"
+"\n"
+"ระหว่าง​การ​ตรวจ มัน​กะพริบ​แสง​เป็น​รูปแบบ​คงที่ คือ​กะพริบ​เร็ว​สี่​ครั้ง หยุด​สั้น ๆ แล้ว​กะพริบ​สอง​ครั้ง ตาม​ด้วย​หยุด​นาน​กว่า\n"
+"\n"
+"เซลล์​ของ​มัน​ดูเหมือน​มี​ออก​ซี​ลู​ซิ​เฟ​อริน​กลายพันธุ์ คล้าย​กับ​ที่​บันทึก​ไว้​ใน​สัตว์​เรืองแสง​ชีวภาพ"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOLE"
+msgid "This critter felt right at home in the cramped scanning bed. It can't wait to come back! "
+msgstr "สัตว์​ตัว​นี้​รู้สึก​เหมือน​อยู่​บ้าน​ใน​เตียง​สแกน​แคบ ๆ รอ​แทบ​ไม่​ไหว​ที่จะ​กลับมา​อีก! "
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOO"
+msgid ""
+"WARNING: METHANE OVERLOAD. This scanner was unable to analyze this subject due to overheating caused by excessive gas production.\n"
+"\n"
+"This organism's genetic makeup will remain shrouded in mystery."
+msgstr ""
+"คำเตือน: มีเทน​ล้น​เกิน เครื่อง​สแกน​นี้​วิเคราะห์​ตัวอย่าง​ไม่​ได้​เพราะ​ร้อน​เกิน​จาก​การผลิต​แก๊ส​มากเกินไป\n"
+"\n"
+"องค์ประกอบ​ทาง​พันธุกรรม​ของ​สิ่งมีชีวิต​นี้​จะ​ยังคง​เป็น​ปริศนา​ต่อไป"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOSQUITO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOSQUITO"
+msgid "On the surface of this critter's wings are thousands of microperforations. These appear to act as acoustic liners, allowing the Gnit to approach targets without the high-pitched whine of its wingbeats giving away its position."
+msgstr "บน​ผิว​ปีก​ของ​สัตว์​ตัว​นี้​มี​รู​จิ๋ว​นับ​พัน​รู ซึ่ง​ดูเหมือน​ทำหน้าที่​ซับ​เสียง ทำให้​ยุง​นิ​ต​เข้าใกล้​เป้าหมาย​ได้​โดยที่​เสียง​หวี่ ๆ จาก​การ​กระพือปีก​ไม่​เผย​ตำแหน่ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.OILFLOATER
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.OILFLOATER"
+msgid "Incessant wriggling made it difficult to scan this critter. Difficult, but not impossible."
+msgstr "ดิ้น​ยุกยิก​ไม่​หยุด​จน​สแกน​ยาก ยาก​นะ แต่​ไม่​ถึงกับ​เป็นไปไม่ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PACU
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PACU"
+msgid ""
+"This species flopped wildly during analysis. Surfaces that came into contact with its scales now display a thin layer of viscous scum. It does not appear to be corrosive.\n"
+"\n"
+"Initiating fumigation sequence to neutralize fishy odor."
+msgstr ""
+"สายพันธุ์​นี้​ดิ้น​พล่าน​ระหว่าง​การ​วิเคราะห์ พื้นผิว​ที่​โดน​เกล็ด​ของ​มัน​ตอนนี้​มี​คราบ​เมือก​ข้น​บาง ๆ เคลือบ​อยู่ ดูเหมือน​จะ​ไม่​กัดกร่อน\n"
+"\n"
+"เริ่ม​ลำดับ​การ​รมควัน​เพื่อ​กำจัด​กลิ่นคาว"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PARROTFISH
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PARROTFISH"
+msgid "This critter's body is coated in millions of dinoflagellates trapped within a microscopic layer of muscilaginous gel."
+msgstr "ตัว​ของ​สัตว์​ตัว​นี้​เคลือบ​ด้วย​ได​โน​แฟลก​เจล​เลต​นับ​ล้าน​ที่​ติด​อยู่​ใน​ชั้น​เจล​เมือก​บาง​ระดับ​จุลภาค"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PREHISTORICPACU
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PREHISTORICPACU"
+msgid ""
+"This critter attacked the transducer.\n"
+"\n"
+"When the swallowed component was regurgitated, it was coated in microorganisms that predate this colony by at least several millenia.\n"
+"\n"
+"Unfortunately, it was reingested before analysis was completed."
+msgstr ""
+"สัตว์​ตัว​นี้​โจมตี​หัว​ตรวจ\n"
+"\n"
+"เมื่อ​ขย้อน​ชิ้นส่วน​ที่​กลืน​เข้าไป​ออกมา มัน​เคลือบ​ด้วย​จุลินทรีย์​ที่​มีอายุ​เก่าแก่​กว่า​อาณานิคม​นี้​อย่าง​น้อย​หลาย​พันปี\n"
+"\n"
+"น่าเสียดาย​ที่​มัน​กลืน​กลับ​เข้าไป​อีก​ก่อน​วิเคราะห์​เสร็จ"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PUFFERFISH
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PUFFERFISH"
+msgid ""
+"Specimen's microbiome tested positive for tetrodotoxin-producing bacteria.\n"
+"\n"
+"The neurotoxin concentration is well within the safe range, but predators may experience a temporary numbness of the mouth, tongue, and throat."
+msgstr ""
+"ไมโคร​ไบโอ​ม​ของ​ตัวอย่าง​ตรวจ​พบ​แบคทีเรีย​ผลิต​เท​โทร​โด​ท็อก​ซิ​น\n"
+"\n"
+"ความ​เข้มข้น​ของ​สารพิษ​ต่อ​ระบบประสาท​อยู่ในเกณฑ์​ปลอดภัย​แน่นอน แต่​ผู้ล่า​อาจ​รู้สึก​ชา​ที่​ปาก ลิ้น และ​คอ​ชั่วคราว"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PUFT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.PUFT"
+msgid ""
+"This critter bumped up against the building's interior repeatedly during scanning. Despite this, its skin remains surprisingly free of contusions.\n"
+"\n"
+"Fluorescence imaging reveals extremely low neuronal activity. Was this critter asleep during analysis?"
+msgstr ""
+"สัตว์​ตัว​นี้​ชน​ผนัง​ด้านใน​ของ​สิ่งก่อสร้าง​ซ้ำ ๆ ระหว่าง​สแกน ถึง​อย่างนั้น​ผิวหนัง​ก็​ยัง​ไม่​มี​รอย​ฟกช้ำ​เลย​อย่าง​น่า​ประหลาดใจ\n"
+"\n"
+"ภาพ​เรืองแสง​เผย​การทำงาน​ของ​เซลล์​ประสาท​ต่ำ​มาก สัตว์​ตัว​นี้​หลับ​อยู่​ระหว่าง​การ​วิเคราะห์​หรือเปล่า​นะ?"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.RAPTOR
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.RAPTOR"
+msgid ""
+"This critter's x-ray imaging indicates that its cranial protrusion may not be a horn at all.\n"
+"\n"
+"It is not composed of live bone surrounded by a keratin-and-protein shell, but rather an ennervated, calcified structure. An illogically located tooth, or perhaps a rostrum?\n"
+"\n"
+"Fascinating."
+msgstr ""
+"ภาพ​เอกซเรย์​ของ​สัตว์​ตัว​นี้​บ่งชี้​ว่า​ส่วน​ที่​ยื่น​ออกจาก​กะโหลก​อาจ​ไม่​ใช่​เขา​เลย\n"
+"\n"
+"มัน​ไม่​ได้​ประกอบด้วย​กระดูก​มีชีวิต​ห่อ​ด้วย​เปลือก​เคราติน​และ​โปรตีน แต่​เป็น​โครงสร้าง​หินปูน​ที่​มี​เส้นประสาท ฟัน​ที่​งอก​ผิดที่​อย่าง​ไร้เหตุผล หรือ​อาจ​เป็น​จง​อย​ปาก?\n"
+"\n"
+"น่าทึ่ง​มาก"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAFAIRY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAFAIRY"
+msgid ""
+"This critter became stressed and shed its tail during biopsy.\n"
+"\n"
+"Results indicate an unusually high pluripotent stem cell count. Specimen's tail regeneration was immediate; the original tail will be stored in this unit for further study."
+msgstr ""
+"สัตว์​ตัว​นี้​เครียด​จน​สลัด​หาง​ทิ้ง​ระหว่าง​ตัด​ชิ้น​เนื้อ\n"
+"\n"
+"ผล​แสดง​จำนวน​เซลล์ต้นกำเนิด​พหุ​ศักยภาพ​สูง​ผิดปกติ หาง​ของ​ตัวอย่าง​งอก​ใหม่​ทันที หาง​เดิม​จะ​เก็บ​ไว้​ใน​เครื่อง​นี้​เพื่อ​ศึกษา​ต่อ"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAHORSE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAHORSE"
+msgid ""
+"Specimen exhibited signs of extreme stress at being contained.\n"
+"\n"
+"Rapid onset hyperventilation resulted in violent expulsion of fine granules from specimen's snout. Content analysis indicates the presence of glass and electrolytes."
+msgstr ""
+"ตัวอย่าง​แสดงอาการ​เครียด​สุดขีด​เมื่อ​ถูก​กักตัว\n"
+"\n"
+"การ​หายใจ​หอบ​ถี่​เฉียบพลัน​ทำให้​พ่น​เม็ด​ละเอียด​ออกจาก​จมูก​อย่าง​รุนแรง การ​วิเคราะห์​พบ​ว่า​มี​แก้ว​และ​อิเล็กโทรไลต์​ปน​อยู่"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAL
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAL"
+msgid ""
+"This critter's pupils appear to be permanently constricted, possibly as a result of long-term exposure to excess illumination.\n"
+"\n"
+"Its sense of smell is extremely well-developed, however: it immediately identified areas touched by previous species, and marked each one with a small puddle of liquid ethanol."
+msgstr ""
+"รูม่านตา​ของ​สัตว์​ตัว​นี้​ดูเหมือน​หด​เล็ก​ถาวร อาจ​เป็นผล​จาก​การ​เจอ​แสง​จ้า​เกินไป​เป็นเวลา​นาน\n"
+"\n"
+"แต่​ประสาท​การดมกลิ่น​ของ​มัน​พัฒนา​ดีเยี่ยม มัน​ระบุ​บริเวณ​ที่​สายพันธุ์​ก่อนหน้า​สัมผัส​ได้​ทันที และ​ฉี่​เอทานอล​เหลว​เป็น​แอ่ง​เล็ก ๆ มาร์ก​ไว้​ทุก​จุด"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEATURTLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEATURTLE"
+msgid ""
+"Specimen rocked back and forth against the overhead brush during scanning, emitting low gurgles that peaked when bristles came into contact with thinner areas of its carapace.\n"
+"\n"
+"These vocalizations may be categorized as \"laughter\". Further study needed."
+msgstr ""
+"ตัวอย่าง​โยก​ตัว​ไปมา​ถู​กับ​แปรง​ด้านบน​ระหว่าง​สแกน พร้อม​ส่งเสียง​กุกกัก​ต่ำ ๆ ที่​ดัง​สุด​ตอน​ขน​แปรง​โดน​ส่วน​ที่​บาง​กว่า​ของ​กระดอง\n"
+"\n"
+"เสียง​นี้​อาจ​จัด​เป็น \"เสียงหัวเราะ\" ได้ ต้อง​ศึกษา​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SNAIL
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SNAIL"
+msgid ""
+"This critter has vestigial eyes, barely able to distinguish light from dark.\n"
+"\n"
+"Instead, it possesses a dense mat of short cirri along its stomach that are used to navigate, as well as identify minerals fit for consumption.\n"
+"\n"
+"Specimen left enormous quantities of mucin in the chamber. Decontamination protocol engaged."
+msgstr ""
+"สัตว์​ตัว​นี้​มี​ตา​ที่​หลงเหลือ​ทาง​วิวัฒนาการ แทบ​แยก​แสง​กับ​ความมืด​ไม่​ออก\n"
+"\n"
+"แต่​มี​ขน​สั้น​หนาแน่น​เป็น​แผง​ตาม​ท้อง ใช้​นำทาง​และ​ระบุ​แร่​ที่​กิน​ได้\n"
+"\n"
+"ตัวอย่าง​ทิ้ง​เมือก​ปริมาณ​มหาศาล​ไว้​ใน​ห้อง เริ่ม​โปรโตคอล​กำจัด​สารปนเปื้อน​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SQUID
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SQUID"
+msgid ""
+"Camera view was obscured during scanning by one tentacle while others probed the environment.\n"
+"\n"
+"Mutated chemotactile receptors appeared to be both analyzing and mimicking the electrical signals emitted by equipment."
+msgstr ""
+"ภาพ​จาก​กล้อง​ถูก​หนวด​เส้น​หนึ่ง​บัง​ระหว่าง​สแกน ขณะที่​หนวด​เส้น​อื่น​สำรวจ​สภาพแวดล้อม\n"
+"\n"
+"ตัว​รับสัมผัส​เคมี​กลายพันธุ์​ดูเหมือน​ทั้ง​วิเคราะห์​และ​เลียนแบบ​สัญญาณ​ไฟฟ้า​ที่​อุปกรณ์​ปล่อย​ออกมา"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SQUIRREL
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SQUIRREL"
+msgid ""
+"This species has a secondary set of inner eyelids that act as a barrier against ocular splinters.\n"
+"\n"
+"The surfaces of these secondary eyelids are a translucent blue and display a light crosshatch texture.\n"
+"\n"
+"This has broad implications for the critter's vision, meriting further exploration."
+msgstr ""
+"สายพันธุ์​นี้​มี​เปลือกตา​ชั้นใน​ชุด​ที่สอง ทำหน้าที่​ป้องกัน​เศษ​เสี้ยน​เข้าตา\n"
+"\n"
+"ผิว​ของ​เปลือกตา​ชั้น​ที่สอง​นี้​เป็น​สี​ฟ้า​โปร่งแสง​และ​มี​ลาย​ตาราง​ไขว้​บาง ๆ\n"
+"\n"
+"เรื่อง​นี้​ส่งผล​กว้างขวาง​ต่อ​การ​มองเห็น​ของ​สัตว์ สมควร​สำรวจ​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.STATERPILLAR
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.STATERPILLAR"
+msgid "Warning: The electrical charge emitted by this specimen nearly short-circuited this building."
+msgstr "คำเตือน: ประจุไฟฟ้า​ที่​ตัว​อย่างนี้​ปล่อย​ออกมา​เกือบ​ทำให้​สิ่งก่อสร้าง​นี้​ไฟฟ้าลัดวงจร"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.STEGO
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.STEGO"
+msgid ""
+"This critter was temporarily stuck in the scanning area due to its size. It appeared to enjoy being shoved backward and forward on the conveyor belt during dislodgment.\n"
+"\n"
+"Upon finally reaching the exit, the critter seemed confused as to why the ride was over."
+msgstr ""
+"สัตว์​ตัว​นี้​ติด​อยู่​ใน​พื้นที่​สแกน​ชั่วคราว​เพราะ​ตัว​ใหญ่ ดูเหมือน​มัน​จะ​ชอบใจ​ที่​ถูก​ดัน​ไป​ข้างหน้า​ข้างหลัง​บน​สายพาน​ตอน​พยายาม​เอา​มัน​ออก\n"
+"\n"
+"พอ​ถึง​ทางออก​ในที่สุด สัตว์​ตัว​นี้​ดู​งง ๆ ว่า​ทำไม​เครื่องเล่น​จบ​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.UNKNOWN
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.UNKNOWN"
+msgid ""
+"MESSAGE FROM THE MANUFACTURER: Subject successfully scanned.\n"
+"\n"
+"Flux function unavailable due to genome-parsing malfunction.\n"
+"\n"
+"Please note that kicking the building's exterior is unlikely to correct this issue and may result in permanent damage to the system."
+msgstr ""
+"ข้อความ​จาก​ผู้ผลิต: สแกน​ตัวอย่าง​สำเร็จ\n"
+"\n"
+"ฟังก์ชัน​ฟลักซ์​ใช้งาน​ไม่​ได้​เนื่องจาก​การ​แยก​วิเคราะห์​จีโนม​ทำงาน​ผิดพลาด\n"
+"\n"
+"โปรดทราบ​ว่าการ​เตะ​ตัว​เครื่อง​ด้านนอก​ไม่​น่าจะ​แก้ปัญหา​นี้​ได้ และ​อาจ​ทำให้​ระบบ​เสียหาย​ถาวร"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.UNKNOWN_TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.UNKNOWN_TITLE"
+msgid "Non-Fluxable Species"
+msgstr "สายพันธุ์​ที่​ฟลักซ์​ไม่​ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_NOTIFICATION.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_NOTIFICATION.NAME"
+msgid "New Species Scanned"
+msgstr "สแกน​สายพันธุ์​ใหม่​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_NOTIFICATION.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_NOTIFICATION.TOOLTIP"
+msgid "The <link=\"GRAVITASCREATUREMANIPULATOR\">Critter Flux-O-Matic</link> has analyzed these critter species:\n"
+msgstr "<link=\"GRAVITASCREATUREMANIPULATOR\">ฟลักซ์-โอ-แม​ติก​สัตว์</link>วิเคราะห์​สัตว์​สายพันธุ์​เหล่านี้​แล้ว:\n"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_POPUP.NAME"
+msgid "New Species Scanned"
+msgstr "สแกน​สายพันธุ์​ใหม่​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_POPUP.VIEW_IN_CODEX
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_POPUP.VIEW_IN_CODEX"
+msgid "Review Data"
+msgstr "ดู​ข้อมูล"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.BODY.CONTAINER1"
+msgid ""
+"Happy 3rd work-iversary, Ada!\n"
+"\n"
+"I drew this to fill the space left by the cabinet that your chompy critters tore off the wall last week. Hope it's big enough!\n"
+"\n"
+"I still can't believe they can digest solid steel—you really know how to breed 'em!\n"
+"\n"
+"- Liam"
+msgstr ""
+"สุขสันต์​ครบรอบ​ทำงาน 3 ปี​นะ เอ​ด้า!\n"
+"\n"
+"ฉัน​วาดรูป​นี้​ไว้​ปิด​ช่องว่าง​ที่​ตู้​โดน​เจ้า​สัตว์​จอม​งับ​ของ​เธอ​ดึง​หลุด​จาก​ผนัง​เมื่อ​อาทิตย์​ก่อน หวัง​ว่า​จะ​ใหญ่​พอ​นะ!\n"
+"\n"
+"ยัง​ไม่​อยาก​เชื่อ​เลย​ว่า​พวก​มัน​ย่อย​เหล็ก​แท่ง​ได้ เธอ​นี่​เพาะพันธุ์​เก่ง​จริง ๆ!\n"
+"\n"
+"- เลียม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.TITLE"
+msgid "Anatomy of a Byron's Hatch"
+msgstr "กายวิภาค​ของ​แฮตช์ไบ​รอน"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON"
 msgid "Close"
@@ -42341,20 +42873,281 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.CODEX_NAME"
 msgid "First Encounter"
 msgstr "การพบกัน​ครั้งแรก"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.DESCRIPTION"
+msgid ""
+"I've discovered a fossilized critter buried in my colony—at least, part of one—but it does not resemble any of the species we have encountered on this asteroid.\n"
+"\n"
+"Where did it come from? How did it get here? And what other questions might these bones hold the answer to?\n"
+"\n"
+"There is only one way to find out."
+msgstr ""
+"ฉัน​พบ​ซากสัตว์​กลายเป็น​ฟอสซิล (ซากดึกดำบรรพ์) ฝัง​อยู่​ใน​อาณานิคม อย่าง​น้อย​ก็​บางส่วน แต่​มัน​ไม่​เหมือน​สายพันธุ์​ไหน​ที่​เรา​เจอ​บน​ดาวเคราะห์​น้อย​นี้​เลย\n"
+"\n"
+"มัน​มาจาก​ไหน? มา​อยู่​ที่นี่​ได้​ยังไง? แล้ว​กระดูก​พวก​นี้​อาจ​เก็บ​คำตอบ​ของ​คำถาม​อะไร​อีก​บ้าง?\n"
+"\n"
+"มี​ทางเดียว​ที่จะ​รู้​ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME"
+msgid "Story Trait: Ancient Specimen"
+msgstr "ลักษณะ​เรื่องราว: ตัวอย่าง​โบราณ"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION"
+msgid ""
+"This asteroid has a few skeletons in its geological closet.\n"
+"\n"
+"Track down the fossilized fragments of an ancient critter to assemble key pieces of Gravitas history and unlock a new resource."
+msgstr ""
+"ดาวเคราะห์​น้อย​นี้​มี​โครงกระดูก​ซ่อน​อยู่​ใน​ตู้​ทาง​ธรณีวิทยา​ไม่​กี่​ชิ้น\n"
+"\n"
+"ตามหา​ชิ้นส่วน​ฟอสซิล (ซากดึกดำบรรพ์) ของ​สัตว์​โบราณ เพื่อ​ประกอบ​ชิ้น​ส่วนสำคัญ​ของ​ประวัติศาสตร์​ก​รา​วิ​ทัส และ​ปลดล็อก​ทรัพยากร​ใหม่"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_BUILDINGMENU_COVERED
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_BUILDINGMENU_COVERED"
+msgid "Unlocking full access to the fossil cache buried beneath the ancient specimen requires excavation of all deposit sites."
+msgstr "การ​ปลดล็อก​การ​เข้าถึง​คลัง​ฟอสซิล (ซากดึกดำบรรพ์) ที่​ฝัง​ใต้​ตัวอย่าง​โบราณ​แบบ​เต็ม​รูปแบบ ต้อง​ขุด​แหล่ง​ฟอสซิล​ให้​ครบ​ทุกแห่ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_REVEALED
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_REVEALED"
+msgid "Unlocking full access to the fossil cache buried beneath the ancient specimen requires excavation of all deposit sites."
+msgstr "การ​ปลดล็อก​การ​เข้าถึง​คลัง​ฟอสซิล (ซากดึกดำบรรพ์) ที่​ฝัง​ใต้​ตัวอย่าง​โบราณ​แบบ​เต็ม​รูปแบบ ต้อง​ขุด​แหล่ง​ฟอสซิล​ให้​ครบ​ทุกแห่ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_SHORT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_SHORT"
+msgid "Track down the fossilized fragments of an ancient critter."
+msgstr "ตามหา​ชิ้นส่วน​ฟอสซิล (ซากดึกดำบรรพ์) ของ​สัตว์​โบราณ"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY.TELEPORTFAILURE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY.TELEPORTFAILURE"
+msgid "It appears that this creature's DNA was once used as a kind of genetic storage unit."
+msgstr "ดูเหมือน DNA ของ​สัตว์​ตัว​นี้​เคย​ถูก​ใช้​เป็น​หน่วย​เก็บ​ข้อมูล​ทาง​พันธุกรรม​แบบ​หนึ่ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.CONTAINER1"
+msgid ""
+"<indent=5%>Dear [REDACTED]\n"
+"\n"
+"We are pleased to announce that research objectives for Operation Piazzi's Planet are nearing completion. Thank you all for your patience as we navigated the unprecedented obstacles that such groundbreaking work entails.\n"
+"\n"
+"We are aware of rumors regarding documents leaked from Dr. [REDACTED]'s files.\n"
+"\n"
+"Rest assured that the contents of this supposed \"whistleblower\" effort are entirely fabricated—our technology is far too advanced to allow for the type of miscalculation that would result in OPP shipments arriving at their destination some 10,000 years prior to the targeted date.\n"
+"\n"
+"Our IT security team is currently investigating the document's digital footprint to determine its origin.\n"
+"\n"
+"To express our gratitude for your continued support, we would like to invite key stakeholders to a private launch party held at the Gravitas Facility. The evening will be emceed by Dr. Olivia Broussard, who will present our groundbreaking prototypes along with a five-course meal featuring lab-crafted ingredients.\n"
+"\n"
+"Due to the sensitive nature of our work, we regret that no additional guests or dietary restrictions can be accommodated at this time.\n"
+"\n"
+"Director Stern will be hosting a 30-minute Q&A session after dinner. Questions must be submitted at least 24 hours in advance.\n"
+"\n"
+"Queries about the [REDACTED] papers will be disregarded.\n"
+"\n"
+"Please be advised that the contents of this e-mail will expire three minutes from the time of opening.</indent>"
+msgstr ""
+"<indent=5%>เรียน [REDACTED]\n"
+"\n"
+"เรา​ยินดี​ขอ​ประกาศ​ว่า​เป้าหมาย​การวิจัย​ของ​ปฏิบัติการ​ดาว​ของ​ปิ​อา​ซ​ซี​ใกล้​สำเร็จ​แล้ว ขอบคุณ​ทุกท่าน​ที่​อดทน​ระหว่าง​ที่​เรา​ฝ่า​อุปสรรค​อัน​ไม่​เคย​มี​มา​ก่อน​ของ​งาน​บุกเบิก​เช่นนี้\n"
+"\n"
+"เรา​ทราบ​ถึง​ข่าวลือ​เรื่อง​เอกสาร​ที่​รั่วไหล​จาก​แฟ้ม​ของ ดร.[REDACTED]\n"
+"\n"
+"ขอให้​มั่นใจ​ได้​ว่า​เนื้อหา​ของ​ความพยายาม \"แฉ\" ที่ว่า​นี้​ถูก​ปั้น​แต่ง​ขึ้น​ทั้งหมด เทคโนโลยี​ของ​เรา​ล้ำหน้า​เกิน​กว่า​จะ​คำนวณ​ผิดพลาด​จน​ทำให้​การขนส่ง OPP ไป​ถึง​ปลายทาง​ก่อน​วันที่​กำหนด​ราว 10,000 ปี\n"
+"\n"
+"ทีม​รักษา​ความปลอดภัย​ไอที​ของ​เรา​กำลัง​ตรวจสอบ​ร่องรอย​ดิจิทัล​ของ​เอกสาร​เพื่อ​หา​ต้นตอ\n"
+"\n"
+"เพื่อ​แสดง​ความ​ขอบคุณ​ต่อ​การ​สนับสนุน​อย่าง​ต่อเนื่อง เรา​ขอ​เชิญ​ผู้มีส่วน​ได้ส่วน​เสียหลัก​ร่วม​งานเลี้ยง​เปิดตัว​ส่วนตัว​ที่​ศูนย์​วิจัย​ก​รา​วิ​ทัส ค่ำ​คืนนี้​จะ​ดำเนิน​รายการ​โดย ดร.โอ​ลิ​เวีย บ​รู​ซาร์​ด ซึ่ง​จะ​นำเสนอ​ต้นแบบ​สุด​ล้ำ​ของ​เรา พร้อม​อาหาร​ห้า​คอร์ส​จาก​วัตถุดิบ​ที่​สร้าง​ใน​แล็บ\n"
+"\n"
+"เนื่องจาก​งาน​ของ​เรา​มี​ความ​อ่อนไหว ขออภัย​ที่​ไม่​อาจ​รอง​รับแขก​เพิ่มเติม​หรือ​ข้อจำกัด​ด้าน​อาหาร​ได้​ใน​ครั้งนี้\n"
+"\n"
+"ผู้​อำนวย​กา​รส​เติร์น​จะ​จัด​ช่วง​ถาม-ตอบ 30 นา​ทีหลัง​มื้อ​ค่ำ ต้อง​ส่ง​คำถาม​ล่วงหน้า​อย่าง​น้อย 24 ชั่วโมง\n"
+"\n"
+"คำถาม​เกี่ยวกับ​เอกสาร [REDACTED] จะ​ไม่​ได้รับ​การพิจารณา\n"
+"\n"
+"โปรดทราบ​ว่า​เนื้อหา​ของ​อีเมล​ฉบับ​นี้​จะ​หมดอายุ​ภายใน​สาม​นา​ทีหลัง​เปิด​อ่าน</indent>"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.EMAILHEADER
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.EMAILHEADER"
+msgid ""
+"<smallcaps>To: <b>[REDACTED]</b><alpha=#AA><size=12></size></color>\n"
+"From: <b>[REDACTED]</b><alpha=#AA></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>[REDACTED]</b><alpha=#AA><size=12></size></color>\n"
+"จาก: <b>[REDACTED]</b><alpha=#AA></smallcaps>\n"
+"------------------\n"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.SIGNATURE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.SIGNATURE"
+msgid ""
+"\n"
+"Sincerely,\n"
+"[REDACTED]\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
+msgstr ""
+"\n"
+"ขอแสดงความนับถือ\n"
+"[REDACTED]\n"
+"<size=11>ศูนย์​วิจัย​ก​รา​วิ​ทัส</size>\n"
+"------------------\n"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.TITLE"
+msgid "SUBJECT: RESETTLEMENT LAUNCH PARTY"
+msgstr "เรื่อง: งานเลี้ยง​เปิดตัว​การย้ายถิ่น​ฐาน"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.BUTTON"
+msgid "Activate Fossil Quarry"
+msgstr "เปิด​ใช้​เหมือง​ฟอสซิล"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.CODEX_NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.CODEX_NAME"
 msgid "Challenge Completed"
 msgstr "ทำ​ภารกิจ​สำเร็จ"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.DESCRIPTION"
+msgid ""
+"My Duplicants have meticulously reassembled as much of the giant critter's scattered remains as they could find.\n"
+"\n"
+"Their efforts have unearthed a seemingly bottomless fossil quarry beneath the largest fragment's dig site.\n"
+"\n"
+"Nestled among the topmost bones was a handcrafted critter collar. It's too large to have belonged to any species traditionally categorized as companion animals."
+msgstr ""
+"ดู​พลิ​แคนต์​ของ​ฉัน​ประกอบ​ซาก​ที่​กระจัดกระจาย​ของ​สัตว์​ยักษ์​กลับ​เข้าด้วยกัน​อย่าง​พิถีพิถัน​เท่าที่​หา​เจอ\n"
+"\n"
+"ความพยายาม​ของ​พวกเขา​ขุด​พบ​เหมือง​ฟอสซิล (ซากดึกดำบรรพ์) ที่​ดูเหมือน​ไม่​มี​ก้น​ใต้​จุด​ขุด​ของ​ชิ้นส่วน​ที่​ใหญ่​ที่สุด\n"
+"\n"
+"ท่ามกลาง​กระดูก​ชั้น​บนสุด​มี​ปลอกคอ​สัตว์​ทำ​มือ​ซุก​อยู่ มัน​ใหญ่​เกิน​กว่า​จะ​เป็น​ของ​สายพันธุ์​ใด​ที่​ปกติ​จัด​เป็น​สัตว์เลี้ยง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.NAME"
+msgid "Story Trait Complete: Ancient Specimen"
+msgstr "ลักษณะ​เรื่องราว​สำเร็จ: ตัวอย่าง​โบราณ"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.DESC
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.DESC"
+msgid "Bony debris that can be excavated for <link=\"FOSSIL\">Fossil</link>."
+msgstr "เศษ​กระดูก​ที่​ขุด​เพื่อ​เอา<link=\"FOSSIL\">ฟอสซิล</link> (ซากดึกดำบรรพ์) ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.NAME"
+msgid "Fossil Fragments"
+msgstr "ชิ้นส่วน​ฟอสซิล"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.DESC
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.DESC"
+msgid ""
+"Here lies a significant portion of the remains of an enormous, long-dead critter.\n"
+"\n"
+"It's not from around here."
+msgstr ""
+"ที่นี่​คือ​ส่วนสำคัญ​ของ​ซากสัตว์​ยักษ์​ที่​ตาย​ไป​นานแสนนาน\n"
+"\n"
+"มัน​ไม่​ใช่​สัตว์​แถว​นี้"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME"
 msgid "Ancient Specimen"
 msgstr "ตัวอย่าง​โบราณ"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ICE.DESC
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ICE.DESC"
+msgid ""
+"The well-preserved partial remains of a critter of unknown origin.\n"
+"\n"
+"It appears to belong to the same ancient specimen found at another site.\n"
+"\n"
+"This fragment has been preserved in <link=\"ICE\">Ice</link>."
+msgstr ""
+"ซาก​บางส่วน​ที่​ยัง​สมบูรณ์​ดี​ของ​สัตว์​ที่​ไม่​ทราบ​ที่มา\n"
+"\n"
+"ดูเหมือน​จะ​เป็น​ของ​ตัวอย่าง​โบราณ​ตัว​เดียว​กับ​ที่​พบ​อีก​แหล่ง​หนึ่ง\n"
+"\n"
+"ชิ้นส่วน​นี้​ถูก​รักษา​ไว้​ใน<link=\"ICE\">น้ำแข็ง</link>"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ICE.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ICE.NAME"
+msgid "Frozen Fossil"
+msgstr "ฟอสซิล​แช่แข็ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_RESIN.DESC
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_RESIN.DESC"
+msgid ""
+"The well-preserved partial remains of a critter of unknown origin.\n"
+"\n"
+"It appears to belong to the same ancient specimen found at another site.\n"
+"\n"
+"This fragment has been preserved in a resin-like substance."
+msgstr ""
+"ซาก​บางส่วน​ที่​ยัง​สมบูรณ์​ดี​ของ​สัตว์​ที่​ไม่​ทราบ​ที่มา\n"
+"\n"
+"ดูเหมือน​จะ​เป็น​ของ​ตัวอย่าง​โบราณ​ตัว​เดียว​กับ​ที่​พบ​อีก​แหล่ง​หนึ่ง\n"
+"\n"
+"ชิ้นส่วน​นี้​ถูก​รักษา​ไว้​ใน​สาร​คล้าย​ยางไม้"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_RESIN.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_RESIN.NAME"
+msgid "Amber Fossil"
+msgstr "ฟอสซิล​อำพัน"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ROCK.DESC
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ROCK.DESC"
+msgid ""
+"The well-preserved partial remains of a critter of unknown origin.\n"
+"\n"
+"It appears to belong to the same ancient specimen found at another site.\n"
+"\n"
+"This fragment has been preserved in petrified <link=\"DIRT\">Dirt</link>."
+msgstr ""
+"ซาก​บางส่วน​ที่​ยัง​สมบูรณ์​ดี​ของ​สัตว์​ที่​ไม่​ทราบ​ที่มา\n"
+"\n"
+"ดูเหมือน​จะ​เป็น​ของ​ตัวอย่าง​โบราณ​ตัว​เดียว​กับ​ที่​พบ​อีก​แหล่ง​หนึ่ง\n"
+"\n"
+"ชิ้นส่วน​นี้​ถูก​รักษา​ไว้​ใน<link=\"DIRT\">ดิน</link>ที่​กลายเป็น​หิน"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ROCK.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ROCK.NAME"
+msgid "Petrified Fossil"
+msgstr "ฟอสซิล​กลายเป็น​หิน"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.BODY.CONTAINER1"
+msgid ""
+"<indent=5%>Employees are advised that removing organisms from the bioengineering labs without an approved requisition form is strictly prohibited.\n"
+"\n"
+"Gravitas projects are not designed to be ridden for sport. Injuries sustained during unsanctioned activities are not eligible for coverage under corporate health benefits.\n"
+"\n"
+"Please find a comprehensive summary of company regulations attached.\n"
+"\n"
+"<alpha=#AA>[MISSING ATTACHMENT]</indent>"
+msgstr ""
+"<indent=5%>ขอ​แจ้ง​พนักงาน​ว่า​การนำ​สิ่งมีชีวิต​ออกจาก​แล็บ​วิศวกรรม​ชีวภาพ​โดย​ไม่​มี​แบบฟอร์ม​ขอ​เบิก​ที่​ได้รับ​อนุมัติ​เป็น​สิ่งต้องห้าม​เด็ดขาด\n"
+"\n"
+"โครงการ​ขอ​งก​รา​วิ​ทัส​ไม่​ได้​ออกแบบ​มา​ให้​ขี่​เล่น​เป็น​กีฬา การ​บาดเจ็บ​จาก​กิจกรรม​ที่​ไม่​ได้รับอนุญาต​ไม่​อยู่​ใน​ความ​คุ้มครอง​ของ​สวัสดิการ​สุขภาพ​บริษัท\n"
+"\n"
+"โปรด​ดู​สรุป​ระเบียบ​บริษัท​ฉบับ​สมบูรณ์​ใน​ไฟล์​แนบ\n"
+"\n"
+"<alpha=#AA>[ไฟล์​แนบ​หาย​ไป]</indent>"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.BODY.EMAILHEADER
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.BODY.EMAILHEADER"
+msgid ""
+"<smallcaps>To: <b>ALL</b><alpha=#AA><size=12></size></color>\n"
+"From: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color></smallcaps>\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>ถึง: <b>ทุกคน</b><alpha=#AA><size=12></size></color>\n"
+"จาก: <b>ฝ่าย​ธุรการ</b> <alpha=#AA><admin@gravitas.nova></color></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.BODY.SIGNATURE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.BODY.SIGNATURE"
@@ -42376,20 +43169,183 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.HALLWAYRACES.TITLE"
+msgid "Unauthorized Activity"
+msgstr "กิจกรรม​ที่​ไม่​ได้รับอนุญาต"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subject Identified: B363]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"...Restricting our organism design to specifically target survival in an off-planet polar climate has narrowed our focus significantly, allowing development of this project to rapidly outpace the others.\n"
+"\n"
+"We have successfully optimized for adaptive features such as the formation of protective adipose tissue at >40% of the organism's total mass. Dr. Bubare was concerned about the consequences for muscle mass, but results confirm that reductions fall within an acceptable range.\n"
+"\n"
+"Our next step is to adapt the organism's diet. It would be inadvisable to populate a new colony with carnivorous creatures of this size.\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+"[LOG BEGINS]\n"
+"\n"
+"...When I am alone in the lab, I find myself gravitating toward the enclosure to listen to the creature's melodic vocalizations. Sometimes the pitch changes slightly as I approach.\n"
+"\n"
+"I am not certain what that means.\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​บุคคล: B363]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...การ​จำกัด​การ​ออกแบบ​สิ่งมีชีวิต​ให้​เจาะจง​เพื่อ​เอาชีวิต​รอด​ใน​ภูมิอากาศ​ขั้วโลก​นอก​ดาว ช่วย​ให้​เรา​โฟกัส​แคบ​ลง​ได้​มาก ทำให้​โครงการ​นี้​พัฒนา​ได้​เร็ว​แซง​หน้า​โครงการ​อื่น\n"
+"\n"
+"เรา​ปรับ​ลักษณะ​การปรับตัว​ได้​สำเร็จ เช่น การ​สร้าง​เนื้อเยื่อ​ไขมัน​ป้องกัน​ได้​มากกว่า 40% ของ​มวลรวม​ของ​สิ่งมีชีวิต ดร.บู​บา​เร กังวล​เรื่อง​ผลกระทบ​ต่อ​มวล​กล้ามเนื้อ แต่​ผล​ยืนยัน​ว่าการ​ลดลง​อยู่​ใน​ช่วง​ที่ยอมรับ​ได้\n"
+"\n"
+"ขั้น​ต่อไป​คือ​ปรับ​อาหาร​ของ​สิ่งมีชีวิต​นี้ การนำ​สัตว์กินเนื้อ​ขนาด​นี้​ไป​อยู่​ใน​อาณานิคม​ใหม่​คง​ไม่​ใช่​ความคิด​ที่​ดี\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...เวลา​อยู่​คนเดียว​ใน​แล็บ ฉัน​มัก​เผลอ​เดิน​ไป​ที่​คอก​เพื่อ​ฟัง​เสียงร้อง​ไพเราะ​ของ​สัตว์​ตัว​นั้น บางครั้ง​ระดับเสียง​ก็​เปลี่ยน​เล็กน้อย​เวลา​ฉัน​เดิน​เข้าใกล้\n"
+"\n"
+"ฉัน​ไม่​แน่ใจ​ว่า​มัน​หมายความว่า​อะไร\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.BODY.CONTAINER2"
+msgid ""
+"[LOG BEGINS]\n"
+"\n"
+"...Some of the other departments have taken to calling our work here \"Project Meat Popsicle\". It is a crass misnomer. This species is not designed to be a food source: it must survive the Ceres climate long enough to establish a stable population that will enable the subsequent settlement party to access the essential research data stored in its DNA via Dr. Winslow's revolutionary genome-encoding technique.\n"
+"\n"
+"Imagine, countless yottabytes' worth of scientific documentation wandering freely around a new colony...the ultimate self-sustaining archive, providing stable data storage that requires zero technological maintenance.\n"
+"\n"
+"It gives new meaning to the term, \"living document.\"\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+"[LOG BEGINS]\n"
+"\n"
+"...Today is the day. My sonorous critter and her handful of progeny are ready to be transported to their new home. They are scheduled to arrive three months in the past, to ensure that they are well established before the settlement party's arrival next week.\n"
+"\n"
+"Dr. Techna invited me to assist with the teleportation. I was relieved to be too busy to accept. I have heard rumors about previous shipments going awry. These stories are unsubstantiated, and yet...\n"
+"\n"
+"The urgency of our mission sometimes necessitates non-ideal compromises.\n"
+"\n"
+"The lab is so very quiet now.\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
+msgstr ""
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...แผนก​อื่น​บาง​แผนก​เริ่ม​เรียก​งาน​ของ​เรา​ที่นี่​ว่า \"โครงการ​ไอติม​เนื้อ\" เป็น​ชื่อ​ที่​ผิด​และ​หยาบคาย สายพันธุ์​นี้​ไม่​ได้​ออกแบบ​มา​เป็น​แหล่ง​อาหาร มัน​ต้อง​อยู่รอด​ใน​ภูมิอากาศ​ของ​ซี​รี​ส​ได้​นาน​พอ​จะ​สร้าง​ประชากร​ที่​มั่นคง เพื่อให้​คณะ​ผู้​ตั้งถิ่นฐาน​ชุด​ต่อไป​เข้าถึง​ข้อมูล​วิจัย​สำคัญ​ที่เก็บ​ไว้​ใน DNA ของ​มัน ผ่าน​เทคนิค​เข้ารหัส​จีโนม​พลิก​โลก​ของ ดร.วิน​สโลว์\n"
+"\n"
+"ลอง​นึกดู​สิ เอกสาร​ทางวิทยาศาสตร์​มากมาย​นับ​ยอ​ต​ตะ​ไบต์ เดิน​เพ่นพ่าน​อย่าง​อิสระ​รอบ​อาณานิคม​ใหม่...คลัง​เอกสาร​พึ่งพา​ตัวเอง​ขั้น​สุดยอด เก็บ​ข้อมูล​ได้​อย่าง​มั่นคง​โดย​ไม่ต้อง​บำรุงรักษา​ทางเทคโนโลยี​เลย\n"
+"\n"
+"มัน​ให้​ความหมาย​ใหม่​กับ​คำ​ว่า \"เอกสาร​มีชีวิต\" จริง ๆ\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"...วัน​นี้แหละ เจ้า​สัตว์​เสียง​ก้องกังวาน​ของ​ฉัน​กับ​ลูก ๆ อีก​ไม่​กี่​ตัว​พร้อม​ถูก​ส่ง​ไป​บ้าน​ใหม่​แล้ว กำหนดให้​ไป​ถึง​ใน​อดีต​สาม​เดือนก่อน เพื่อให้​แน่ใจ​ว่า​พวก​มัน​ตั้งตัว​ได้ดี​ก่อน​คณะ​ผู้​ตั้งถิ่นฐาน​จะ​ไป​ถึง​สัปดาห์​หน้า\n"
+"\n"
+"ดร.เทค​นา ชวน​ฉัน​ไป​ช่วย​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) ฉัน​โล่งใจ​ที่​ยุ่ง​เกิน​กว่า​จะ​รับปาก ฉัน​ได้ยิน​ข่าวลือ​เรื่อง​การขนส่ง​ครั้งก่อน ๆ ที่​ผิดพลาด เรื่อง​พวก​นี้​ยัง​ไม่​มี​หลักฐาน​ยืนยัน แต่​ถึง​อย่างนั้น...\n"
+"\n"
+"ความเร่งด่วน​ของ​ภารกิจ​บางครั้ง​ก็​บีบ​ให้​ต้อง​ยอม​ประนีประนอม​แบบ​ไม่​สมบูรณ์แบบ\n"
+"\n"
+"ตอนนี้​แล็บ​เงียบ​เหลือเกิน\n"
+"\n"
+"[จบ​บันทึก]\n"
+"------------------\n"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ICECRITTERDESIGN.TITLE"
+msgid "Organism Design Notes"
+msgstr "บันทึก​การ​ออกแบบ​สิ่งมีชีวิต"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.MISC.DECREASE_DECOR_ATTRIBUTE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.MISC.DECREASE_DECOR_ATTRIBUTE"
+msgid "Obscured"
+msgstr "ถูก​บดบัง"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.NAME"
 msgid "Ancient Specimen"
 msgstr "ตัวอย่าง​โบราณ"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST.LINKED_TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST.LINKED_TOOLTIP"
+msgid ""
+"\n"
+"\n"
+"Click to show this site"
+msgstr ""
+"\n"
+"\n"
+"คลิก​เพื่อ​แสดง​แหล่ง​นี้"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_NOTIFICATION.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_NOTIFICATION.NAME"
+msgid "Fossil Excavated"
+msgstr "ขุด​ฟอสซิล​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_NOTIFICATION.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_NOTIFICATION.TOOLTIP"
+msgid "Additional fossils located"
+msgstr "พบ​ฟอสซิล​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_POPUP.CHECK_BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_POPUP.CHECK_BUTTON"
+msgid "View Site"
+msgstr "ดู​แหล่ง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_POPUP.DESCRIPTION"
+msgid ""
+"Success! My Duplicants have safely excavated a set of strange, fossilized remains.\n"
+"\n"
+"It appears that there are more of this giant critter's bones strewn around the asteroid. It's vital that we reassemble this skeleton for deeper analysis."
+msgstr ""
+"สำเร็จ! ดู​พลิ​แคนต์​ของ​ฉัน​ขุด​ซาก​ฟอสซิล (ซากดึกดำบรรพ์) ประหลาด​ชุด​หนึ่ง​ออกมา​ได้​อย่าง​ปลอดภัย\n"
+"\n"
+"ดูเหมือน​จะ​มี​กระดูก​ของ​สัตว์​ยักษ์​ตัว​นี้​กระจาย​อยู่​ทั่ว​ดาวเคราะห์​น้อย​อีก จำเป็น​มาก​ที่​เรา​ต้อง​ประกอบ​โครงกระดูก​นี้​กลับ​ขึ้น​มา​เพื่อ​วิเคราะห์​ให้​ลึกซึ้ง​ขึ้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_POPUP.NAME"
+msgid "Fossil Excavated"
+msgstr "ขุด​ฟอสซิล​แล้ว"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.REWARDS.MINED_FOSSIL.DESC
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.REWARDS.MINED_FOSSIL.DESC"
+msgid "Mined <link=\"FOSSIL\">Fossil</link>"
+msgstr "<link=\"FOSSIL\">ฟอสซิล</link>ที่​ขุด​ได้"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILEMPTY.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILEMPTY.NAME"
 msgid "Waiting For Materials"
 msgstr "รอ​วัสดุ"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILEMPTY.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILEMPTY.TOOLTIP"
+msgid "Mining will begin once materials have been delivered"
+msgstr "จะ​เริ่ม​ขุด​เมื่อ​ส่ง​วัสดุ​มาถึง​แล้ว"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.LINE_ITEM
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.LINE_ITEM"
@@ -42401,10 +43357,60 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.NAME"
 msgid "Entombed"
 msgstr "ถูก​ฝัง"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.TOOLTIP"
+msgid "This fossil must be dug out before it can be excavated"
+msgstr "ต้อง​ขุด​ฟอสซิล (ซากดึกดำบรรพ์) นี้​ออกมา​ก่อน​ถึง​จะ​ขุดค้น​ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILIDLE.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILIDLE.NAME"
+msgid "No Mining Orders Queued"
+msgstr "ไม่​มี​คำสั่ง​ขุด​ใน​คิว"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILIDLE.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILIDLE.TOOLTIP"
+msgid "Select an excavation order to begin mining"
+msgstr "เลือก​คำสั่ง​ขุดค้น​เพื่อ​เริ่ม​ขุด"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.NAME"
 msgid "Work Errand"
 msgstr "งาน​ใช้​เครื่อง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.TOOLTIP"
+msgid "Fossil mine will be operated once a Duplicant is available"
+msgstr "เหมือง​ฟอสซิล (ซากดึกดำบรรพ์) จะ​เริ่ม​ทำงาน​เมื่อ​มี​ดู​พลิ​แคนต์​ว่าง"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_CANCEL_EXCAVATION_BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_CANCEL_EXCAVATION_BUTTON"
+msgid "Cancel Excavation"
+msgstr "ยกเลิก​การ​ขุดค้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_CANCEL_EXCAVATION_BUTTON_TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_CANCEL_EXCAVATION_BUTTON_TOOLTIP"
+msgid "Abandon excavation efforts"
+msgstr "ยกเลิก​ความพยายาม​ขุดค้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_EXCAVATE_BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_EXCAVATE_BUTTON"
+msgid "Excavate"
+msgstr "ขุดค้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.FOSSIL_BITS_CANCEL_EXCAVATION_BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.FOSSIL_BITS_CANCEL_EXCAVATION_BUTTON"
+msgid "Cancel Excavation"
+msgstr "ยกเลิก​การ​ขุดค้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.FOSSIL_BITS_CANCEL_EXCAVATION_BUTTON_TOOLTIP
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.FOSSIL_BITS_CANCEL_EXCAVATION_BUTTON_TOOLTIP"
+msgid "Abandon excavation efforts"
+msgstr "ยกเลิก​ความพยายาม​ขุดค้น"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.FOSSIL_BITS_EXCAVATE_BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.FOSSIL_BITS_EXCAVATE_BUTTON"
+msgid "Excavate"
+msgstr "ขุดค้น"
 
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.BEGIN_POPUP.CODEX_NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.BEGIN_POPUP.CODEX_NAME"
