@@ -9152,7 +9152,7 @@ msgstr "<style=\"KKeyword\">พลังงาน​ขาออก</style>ข�
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
 msgid "Max Gas Pressure"
-msgstr "แรงดัน​ก๊าซ​เต็ม​ขีด"
+msgstr "แรงดัน​แก๊ส​เต็ม​ขีด"
 
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.TOOLTIP"
@@ -9161,9 +9161,9 @@ msgid ""
 "\n"
 "Reduce pressure by pumping <style=\"KKeyword\">Gas</style> away or clearing more space"
 msgstr ""
-"<style=\"KKeyword\">แรงดัน​ก๊าซ</style>รอบ ๆ สูง​จน​สิ่งก่อสร้าง​นี้​ปล่อย​ก๊าซ​ไม่​ได้\n"
+"<style=\"KKeyword\">แรงดัน​แก๊ส</style>รอบ ๆ สูง​จน​สิ่งก่อสร้าง​นี้​ปล่อย​แก๊ส​ไม่​ได้\n"
 "\n"
-"ลด​แรงดัน​ด้วย​การสูบ<style=\"KKeyword\">ก๊าซ</style>ออก​ไป​หรือ​เคลียร์พื้นที่​เพิ่ม"
+"ลด​แรงดัน​ด้วย​การสูบ<style=\"KKeyword\">แก๊ส</style>ออก​ไป​หรือ​เคลียร์พื้นที่​เพิ่ม"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME"
@@ -10423,7 +10423,7 @@ msgstr "แรงดัน​ใน​บ่อ​จะ​เพิ่มขึ
 #. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.NAME"
 msgid "Intake Requires Gas"
-msgstr "ช่อง​ดูด​ต้อง​มี​ก๊าซ"
+msgstr "ช่อง​ดูด​ต้อง​มี​แก๊ส"
 
 #. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP"
@@ -10432,9 +10432,9 @@ msgid ""
 "\n"
 "The intakes for this wind tunnel don't have enough gas to operate"
 msgstr ""
-"อุโมงค์​ลม​ต้อง​มี<style=\"KKeyword\">ก๊าซ</style>ที่​ช่อง​ดูด​ด้านบน​และ​ด้านล่าง​จึง​จะ​ทำงาน​ได้\n"
+"อุโมงค์​ลม​ต้อง​มี<style=\"KKeyword\">แก๊ส</style>ที่​ช่อง​ดูด​ด้านบน​และ​ด้านล่าง​จึง​จะ​ทำงาน​ได้\n"
 "\n"
-"ช่อง​ดูด​ของ​อุโมงค์​ลม​นี้​มี​ก๊าซ​ไม่​พอให้​ทำงาน"
+"ช่อง​ดูด​ของ​อุโมงค์​ลม​นี้​มี​แก๊ส​ไม่​พอให้​ทำงาน"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
@@ -32796,7 +32796,7 @@ msgid ""
 msgstr ""
 "วันนี้​ฉัน​ตั้ง​ใจมา​ทำงาน​แต่เช้า แต่​พอ​มาถึง นิ​โค​ลา​ก็​อยู่​ก่อน​แล้ว ดูเหมือน​เขา​ไม่​ได้​กลับบ้าน​มา​ทั้ง​สุดสัปดาห์ เขา​เดินไปเดินมา​ใน​แล็บ พูด​คนเดียว​ไม่​หยุด แต่​ไม่​ใช่​แบบ​ตัว​ร้าย​วางแผน เหมือน​คน​ที่​ไม่​ได้​นอนมา​ทั้ง​อาทิตย์​มากกว่า\n"
 "\n"
-"\"รู​บี้\" เขา​พูด \"เธอ​ต้อง​สัญญา​กับ​ฉัน​นะ​ว่า​ถ้า​มี​อะไร​ผิดพลาด เธอ​จะ​เปิด​เครื่อง​นี้ พวก​นั้น​ดัน​มัน​เกิน​ขีด​ไป​แล้ว ฝัก​พิมพ์​กำลัง​ดัน... มัน​มากเกินไป - มากเกินไป​แล้ว! อะไร​สัก​อย่าง​ต้อง​ระเบิด​แน่ ฉัน​พยายาม... ฉัน​กำลัง​พยายาม​ช่วย​มัน​ไว้ ไม่​ใช่​โลก โลก​ไม่​มีหวัง​แล้ว มัน​จะ​ต้อง...\" แล้ว​เขา​ก็​ทำ​เสียง​ระเบิด​ตูม \"แต่​เป็น​จักรวาล ตัว​เวลา​เอง มัน​อาจ​หาย​ไป​ทั้งหมด​เลย เธอ​ไม่​เห็น​เหรอ? เครื่อง​นี้​กัก​มัน​ไว้​ได้ สร้าง​สนาม​กักเก็บ​กาลเวลา​ครอบ​โลก​ไว้ เพื่อ​ไม่​ให้​ตัว​เวลา​เอง​พังทลาย แล้ว... แล้ว...\"\n"
+"\"รู​บี้\" เขา​พูด \"เธอ​ต้อง​สัญญา​กับ​ฉัน​นะ​ว่า​ถ้า​มี​อะไร​ผิดพลาด เธอ​จะ​เปิด​เครื่อง​นี้ พวก​นั้น​ดัน​มัน​เกิน​ขีด​ไป​แล้ว พ็อด​พิมพ์​ร่าง​กำลัง​ดัน... มัน​มากเกินไป - มากเกินไป​แล้ว! อะไร​สัก​อย่าง​ต้อง​ระเบิด​แน่ ฉัน​พยายาม... ฉัน​กำลัง​พยายาม​ช่วย​มัน​ไว้ ไม่​ใช่​โลก โลก​ไม่​มีหวัง​แล้ว มัน​จะ​ต้อง...\" แล้ว​เขา​ก็​ทำ​เสียง​ระเบิด​ตูม \"แต่​เป็น​จักรวาล ตัว​เวลา​เอง มัน​อาจ​หาย​ไป​ทั้งหมด​เลย เธอ​ไม่​เห็น​เหรอ? เครื่อง​นี้​กัก​มัน​ไว้​ได้ สร้าง​สนาม​กักเก็บ​กาลเวลา​ครอบ​โลก​ไว้ เพื่อ​ไม่​ให้​ตัว​เวลา​เอง​พังทลาย แล้ว... แล้ว...\"\n"
 "\n"
 "ทันใดนั้น​ก็​มี​พวก​เจ้าหน้าที่​รักษา​ความปลอดภัย​เดิน​เข้ามา หน้าใหม่​ทั้งนั้น ไม่​เคย​เห็น​มา​ก่อน แล้ว​พวกเขา​ก็​พา​ตัว​เขา​ไป​เลย จากนั้น​ก็​พา​ฉัน​เข้า​ห้อง​ไป​ถาม​คำถาม​สารพัด ฉัน​ก็​คง​ตอบ​ไป​มั้ง จำ​ไม่ค่อย​ได้ เพราะ​ตลอดเวลา​ฉัน​คิด​อยู่​อย่าง​เดียว​ว่า - ถ้า​ฉัน​คิดผิด​ล่ะ? ถ้า​เขา​ไม่​ได้​ชั่ว แต่​ก​รา​วิ​ทัส​ต่างหาก​ที่​ชั่ว?\n"
 "\n"
@@ -33057,10 +33057,217 @@ msgctxt "STRINGS.CODEX.CHAMELEON.TITLE"
 msgid "Dartle"
 msgstr "ดาร์เทิล"
 
+#. STRINGS.CODEX.CLAM.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CLAM.BODY.CONTAINER1"
+msgid ""
+"Clampum, also known as <i>Arcticidae hafrunus</i>, are the largest species of bivalve mollusk in the known universe. Their powerful adductor muscles and serrated shell edges are well-documented; in early scientific literature, field notes often included the words \"accidental amputation.\"\n"
+"\n"
+"Although development of proper handling techniques has long since eliminated the danger, these anecdotes still serve as cautionary tales for newbie marine biologists."
+msgstr ""
+"แค​ลม​พัม หรือ <i>Arcticidae hafrunus</i> คือ​หอย​สอง​ฝา​สายพันธุ์​ที่​ใหญ่​ที่สุด​ใน​จักรวาล​เท่าที่​รู้จัก กล้ามเนื้อ​ปิด​เปลือก​อัน​ทรงพลัง​และ​ขอบ​เปลือก​หยัก​เป็น​ฟันเลื่อย​ของ​มัน​ได้รับ​การ​บันทึก​ไว้​อย่าง​ดี ใน​เอกสาร​วิทยาศาสตร์​ยุค​แรก ๆ บันทึก​ภาคสนาม​มัก​มี​คำ​ว่า \"นิ้ว​ขาด​โดยไม่ตั้งใจ\" ติด​อยู่​บ่อย ๆ\n"
+"\n"
+"แม้​ทุกวันนี้​จะ​มี​เทคนิค​การ​จับ​ที่​ถูกต้อง​จน​หมด​อันตราย​ไป​นาน​แล้ว แต่​เรื่องเล่า​พวก​นี้​ก็​ยัง​ใช้​เป็น​นิทาน​สอนใจ​นักชีววิทยา​ทางทะเล​มือใหม่​อยู่ดี"
+
+#. STRINGS.CODEX.CLAM.SUBTITLE
+msgctxt "STRINGS.CODEX.CLAM.SUBTITLE"
+msgid "Aquatic Organism"
+msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.CLAM.TITLE
+msgctxt "STRINGS.CODEX.CLAM.TITLE"
+msgid "Clampum"
+msgstr "แค​ลม​พัม"
+
+#. STRINGS.CODEX.CLEANER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Gulp Fish\" Pacu variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: ปา​คู​สายพันธุ์​ย่อย \"ปลา​กัลป์\"</smallcaps>"
+
+#. STRINGS.CODEX.CLEANER.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER2"
+msgid "Despite descending from the Pacu, the Gulp Fish is unique enough both in genetics and behavior to be considered its own subspecies."
+msgstr "แม้​จะ​สืบเชื้อสาย​มาจาก​ปา​คู แต่​ปลา​กัลป์​ก็​มี​พันธุกรรม​และ​พฤติกรรม​เฉพาะตัว​มาก​พอ​จะ​นับ​เป็น​สายพันธุ์​ย่อย​ของ​ตัวเอง​ได้"
+
+#. STRINGS.CODEX.CLEANER.SUBTITLE
+msgctxt "STRINGS.CODEX.CLEANER.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.CLEANER.TITLE
+msgctxt "STRINGS.CODEX.CLEANER.TITLE"
+msgid "Gulp Fish"
+msgstr "ปลา​กัลป์"
+
+#. STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.CONTAINER1
+msgctxt "STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.CONTAINER1"
+msgid "An adorable little exoskeleton discarded by a baby aquatic critter."
+msgstr "โครงร่าง​ภายนอก​จิ๋ว​น่ารัก​ที่​ลูก​สัตว์น้ำ​ลอก​ทิ้ง​ไว้"
+
+#. STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.TITLE
+msgctxt "STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.TITLE"
+msgid "Small Pokeshell Molt"
+msgstr "คราบ​ลอก​โพ​ค​เชลล์​จิ๋ว"
+
+#. STRINGS.CODEX.CRAB_SHELL.CONTAINER1
+msgctxt "STRINGS.CODEX.CRAB_SHELL.CONTAINER1"
+msgid ""
+"An exoskeleton discarded by an aquatic critter.\n"
+"\n"
+msgstr ""
+"โครงร่าง​ภายนอก​ที่​สัตว์น้ำ​ลอก​ทิ้ง​ไว้\n"
+"\n"
+
+#. STRINGS.CODEX.CRAB_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.CRAB_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.CRAB_SHELL.TITLE
+msgctxt "STRINGS.CODEX.CRAB_SHELL.TITLE"
+msgid "Pokeshell Molt"
+msgstr "คราบ​ลอก​โพ​ค​เชลล์"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED"
+msgid "<link=\"CREATURES::GUIDE::MOOD\">Confined</link> when a room is smaller than <b>{0} cells</b>."
+msgstr "<link=\"CREATURES::GUIDE::MOOD\">ถูก​ขัง​แคบ</link> เมื่อ​ห้อง​เล็ก​กว่า <b>{0} ช่อง</b>"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED_AQUATIC
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED_AQUATIC"
+msgid "<link=\"CREATURES::GUIDE::MOOD\">Confined</link> when a pool is smaller than <b>{0} cells</b>."
+msgstr "<link=\"CREATURES::GUIDE::MOOD\">ถูก​ขัง​แคบ</link> เมื่อ​บ่อน้ำ​เล็ก​กว่า <b>{0} ช่อง</b>"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE"
+msgid "This critter's typical <link=\"CREATURES::GUIDE::FERTILITY\">Life Span</link> is <b>{0} cycles</b>."
+msgstr "<link=\"CREATURES::GUIDE::FERTILITY\">อายุขัย</link>โดยทั่วไป​ของ​สัตว์​ชนิด​นี้​คือ <b>{0} รอบ</b>"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.NON_LETHAL_RANGE
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.NON_LETHAL_RANGE"
+msgid "Livable range: <b>{0}</b> to <b>{1}</b>"
+msgstr "ช่วง​ที่​อยู่รอด​ได้: <b>{0}</b> ถึง <b>{1}</b>"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING"
+msgid "<link=\"CREATURES::GUIDE::MOOD\">Crowded</link> when a room has less than <b>{0} cells</b> of space for each critter."
+msgstr "<link=\"CREATURES::GUIDE::MOOD\">แออัด</link> เมื่อ​ห้อง​มี​พื้นที่​น้อยกว่า <b>{0} ช่อง</b> ต่อ​สัตว์​หนึ่ง​ตัว"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING_AQUATIC
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING_AQUATIC"
+msgid "<link=\"CREATURES::GUIDE::MOOD\">Crowded</link> when a pool has less than <b>{0} cells</b> of space for each critter."
+msgstr "<link=\"CREATURES::GUIDE::MOOD\">แออัด</link> เมื่อ​บ่อน้ำ​มี​พื้นที่​น้อยกว่า <b>{0} ช่อง</b> ต่อ​สัตว์​หนึ่ง​ตัว"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE"
+msgid "Comfort range: <b>{0}</b> to <b>{1}</b>"
+msgstr "ช่วง​ที่​สบาย​ตัว: <b>{0}</b> ถึง <b>{1}</b>"
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.NON_LETHAL_RANGE
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.NON_LETHAL_RANGE"
+msgid "Livable range: <b>{0}</b> to <b>{1}</b>"
+msgstr "ช่วง​ที่​อยู่รอด​ได้: <b>{0}</b> ถึง <b>{1}</b>"
+
+#. STRINGS.CODEX.CRITTERDELIVERY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERDELIVERY.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subjects Identified: B482, B759, C094]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Security Guard 1: Hey hey! Welcome back.\n"
+"\n"
+"Security Guard 2: Hand on the scanner, please.\n"
+"\n"
+"Courier: Sure thing, lemme just...\n"
+"\n"
+"Courier: Whoops-- thanks, Steve. These little fellas are a two-hander for sure.\n"
+"\n"
+"(sound of furry noses snuffling on cardboard)\n"
+"\n"
+"Security Guard 2: Follow me, please.\n"
+"\n"
+"[LOG ENDS]"
+msgstr ""
+"<smallcaps>[เริ่ม​ระบบ​จดจำ​เสียง]\n"
+"[ระบุ​ตัว​บุคคล: B482, B759, C094]</smallcaps>\n"
+"\n"
+"[เริ่ม​บันทึก]\n"
+"\n"
+"เจ้าหน้าที่​รักษา​ความปลอดภัย 1: เฮ้ เฮ้! ยินดีต้อนรับ​กลับมา\n"
+"\n"
+"เจ้าหน้าที่​รักษา​ความปลอดภัย 2: วาง​มือบน​เครื่อง​สแกน​ด้วย​ครับ\n"
+"\n"
+"พนักงาน​ส่ง​ของ: ได้​เลย ขอ​แป๊บ​นึง...\n"
+"\n"
+"พนักงาน​ส่ง​ของ: อุ๊ย-- ขอบใจ​นะ​สตีฟ เจ้า​ตัวเล็ก​พวก​นี้​ต้อง​ใช้​สอง​มือ​อุ้ม​จริง ๆ\n"
+"\n"
+"(เสียง​จมูก​ขน​ปุย​ฟุดฟิด​ดม​กล่อง​กระดาษ)\n"
+"\n"
+"เจ้าหน้าที่​รักษา​ความปลอดภัย 2: เชิญ​ตาม​ผม​มา​ครับ\n"
+"\n"
+"[จบ​บันทึก]"
+
 #. STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
 msgstr "ระดับ​การเข้ารหัส: สอง"
+
+#. STRINGS.CODEX.CRITTERDELIVERY.TITLE
+msgctxt "STRINGS.CODEX.CRITTERDELIVERY.TITLE"
+msgid "Critter Delivery"
+msgstr "ส่ง​สัตว์​ถึงที่"
+
+#. STRINGS.CODEX.CRITTERSTATUS.CRITTERSTATUS_TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.CRITTERSTATUS_TITLE"
+msgid "Field Guide"
+msgstr "คู่มือ​ภาคสนาม"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.BODY.CONTAINER1"
+msgid ""
+"All critters are wild when first encountered, with the exception of babies hatched from eggs laid by domesticated adults—those will be born tame.\n"
+"\n"
+"During the domestication process, the critter becomes less self-reliant and develops a higher baseline of expectations regarding its environment and care. Its metabolism accelerates, resulting in an increased level of required calories.\n"
+"\n"
+"Critters can be domesticated by Duplicants with the Critter Ranching skill at the Grooming Station, and get excited when it's their turn to be fussed over."
+msgstr ""
+"สัตว์​ทุก​ตัว​จะ​เป็น​สัตว์ป่า​เมื่อ​พบ​ครั้งแรก ยกเว้น​ลูก​ที่​ฟัก​จาก​ไข่​ของ​พ่อแม่​ที่​ถูก​เลี้ยง​จน​เชื่อง ซึ่ง​จะ​เกิด​มา​เชื่อง​เลย\n"
+"\n"
+"ระหว่าง​การ​ทำให้​เชื่อง สัตว์​จะ​พึ่งพา​ตัวเอง​ได้​น้อยลง และ​มี​มาตรฐาน​ความคาดหวัง​เรื่อง​สภาพแวดล้อม​และ​การ​ดูแล​สูง​ขึ้น การเผาผลาญ​ของ​มัน​จะ​เร็ว​ขึ้น ทำให้​ต้องการ​แคลอรี​มากขึ้น​ตาม​ไป​ด้วย\n"
+"\n"
+"ดู​พลิ​แคนต์​ที่​มี​ทักษะ​เลี้ยงสัตว์​ทำให้​สัตว์​เชื่อง​ได้ที่​สถานี​แปรง​ขน และ​พวก​สัตว์​จะ​ตื่นเต้น​ดีใจ​มาก​เวลา​ถึง​คิว​โดน​เอาใจ"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.CONTAINER1"
+msgid ""
+"Domesticated critters produce far more resources and lay eggs at a higher frequency than wild ones. They require additional care in order to maintain the levels of happiness that maximize their utility in the colony. (Happy critters are also generally more pleasant to be around.)\n"
+"\n"
+"Grooming and feeding stations enable Duplicants to domesticate critters."
+msgstr ""
+"สัตว์​เชื่อง​ผลิต​ทรัพยากร​ได้​มากกว่า​และ​วางไข่​ถี่​กว่า​สัตว์ป่า​เยอะ แต่​ต้อง​ดูแล​เพิ่มขึ้น​เพื่อ​รักษาระดับ​ความสุข​ที่​ทำให้​มัน​เป็นประโยชน์​กับ​อาณานิคม​ได้​สูงสุด (แถม​สัตว์​อารมณ์ดี​ก็​น่าอยู่​ใกล้​กว่า​ด้วย)\n"
+"\n"
+"สถานี​แปรง​ขน​และ​สถานี​ให้อาหาร​ช่วย​ให้​ดู​พลิ​แคนต์​ทำให้​สัตว์​เชื่อง​ได้"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_HAPPINESS
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_HAPPINESS"
+msgid "    • Happiness\n"
+msgstr "    • ความสุข\n"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_METABOLISM
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_METABOLISM"
+msgid "    • Critter Metabolism"
+msgstr "    • การเผาผลาญ​ของ​สัตว์"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE"
@@ -33072,35 +33279,234 @@ msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TITLE"
 msgid "Domestication"
 msgstr "การ​เลี้ยง​ให้​เชื่อง"
 
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.CONTAINER1"
+msgid ""
+"Wild critters do not require feeding by the colony's Critter Ranchers, thanks to their slower metabolism. They do, however, produce fewer materials than domesticated critters.\n"
+"\n"
+"Approaching a wild critter to trap or wrangle it is quite safe, provided that it is a non-hostile species. Attacking a critter will typically provoke a combat response."
+msgstr ""
+"สัตว์ป่า​ไม่ต้อง​ให้​คน​เลี้ยงสัตว์​ของ​อาณานิคม​คอย​ป้อน​อาหาร เพราะ​การเผาผลาญ​ช้า​กว่า แต่​ก็​ผลิต​วัสดุ​ได้​น้อยกว่า​สัตว์​เชื่อง\n"
+"\n"
+"การ​เข้าใกล้​สัตว์ป่า​เพื่อ​ดัก​หรือ​จับ​ค่อนข้าง​ปลอดภัย ตราบใดที่​เป็น​สายพันธุ์​ที่​ไม่​ดุร้าย การ​โจมตี​สัตว์​มักจะ​ทำให้​มัน​สู้​กลับ"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
+
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.TITLE"
 msgid "Wild"
 msgstr "สัตว์ป่า"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_METABOLISM
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_METABOLISM"
+msgid "    • Critter Metabolism\n"
+msgstr "    • การเผาผลาญ​ของ​สัตว์\n"
+
+#. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_POOP
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_POOP"
+msgid "    • Resource Production\n"
+msgstr "    • การผลิต​ทรัพยากร\n"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.BODY.CONTAINER1"
+msgid ""
+"Reproductive rates and methods vary among species. The majority lay eggs that must be incubated in order to hatch the next generation of critters.\n"
+"\n"
+"Factors that influence the rate of reproduction include egg care, happiness, living conditions and domestication."
+msgstr ""
+"อัตรา​และ​วิธีการ​ขยายพันธุ์​แตก​ต่างกัน​ไป​ใน​แต่ละ​สายพันธุ์ ส่วนใหญ่​จะ​วางไข่​ที่​ต้อง​ฟัก​เพื่อ​ให้กำเนิด​สัตว์​รุ่น​ต่อไป\n"
+"\n"
+"ปัจจัย​ที่​ส่งผล​ต่อ​อัตรา​การ​ขยายพันธุ์ ได้แก่ การ​ดูแล​ไข่ ความสุข สภาพ​ความเป็นอยู่ และ​ความ​เชื่อง"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.CONTAINER1"
+msgid ""
+"In most cases, an egg will hatch into the same critter variant as its parent. Genetic volatility, however, means that there is a chance that it may hatch into another variant from that species.\n"
+"\n"
+"There are many things that can alter the likelihood of a critter laying a particular type of egg.\n"
+"\n"
+"Egg chances are impacted by:\n"
+"    • Diet\n"
+"    • Body temperature\n"
+"    • Ambient gasses and elements\n"
+"    • Plants in the critters' care\n"
+"    • Variants that share the enclosure\n"
+"\n"
+"When a tame critter lays an egg, the resulting offspring will be born tame."
+msgstr ""
+"โดยส่วนใหญ่ ไข่​จะ​ฟัก​ออกมา​เป็น​สัตว์​สายพันธุ์​ย่อย​เดียว​กับ​พ่อแม่ แต่​ความผันผวน​ทาง​พันธุกรรม​ทำให้​มีโอกาส​ที่​มัน​จะ​ฟัก​ออกมา​เป็น​สายพันธุ์​ย่อย​อื่น​ใน​สปีชีส์​เดียวกัน​ได้\n"
+"\n"
+"มี​หลาย​สิ่ง​ที่​เปลี่ยน​โอกาส​ที่​สัตว์​จะ​วางไข่​ชนิด​ใด​ชนิด​หนึ่ง​ได้\n"
+"\n"
+"โอกาส​ได้​ไข่​ขึ้นอยู่กับ:\n"
+"    • อาหาร​ที่​กิน\n"
+"    • อุณหภูมิ​ร่างกาย\n"
+"    • แก๊ส​และ​ธาตุ​รอบตัว\n"
+"    • พืช​ที่​สัตว์​ดูแล​อยู่\n"
+"    • สายพันธุ์​ย่อย​ที่อยู่​คอก​เดียวกัน\n"
+"\n"
+"เมื่อ​สัตว์​เชื่อง​วางไข่ ลูก​ที่เกิด​มา​ก็​จะ​เชื่อง​ด้วย"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.TITLE"
+msgid "Egg Chances"
+msgstr "โอกาส​ได้​ไข่"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.CONTAINER1"
+msgid ""
+"Each time a critter completes their reproduction cycle (i.e. at 100 percent), it lays an egg and restarts its cycle.\n"
+"\n"
+"A critter's environment greatly impacts its base reproduction rate. When a critter is feeling cramped, it will wait until all eggs in the room have hatched or been removed before laying any of its own.\n"
+"\n"
+"Critters will also stop reproducing when they feel confined, which happens when their space is too small or they are stuck in a door or tile.\n"
+"\n"
+"Mood and domestication also impact reproduction: happy critters reproduce more regularly, and happy tame critters reproduce the fastest."
+msgstr ""
+"ทุกครั้งที่​สัตว์​ครบรอบ​การ​ขยายพันธุ์ (คือ​ถึง 100 เปอร์เซ็นต์) มัน​จะ​วางไข่​หนึ่ง​ฟอง​แล้ว​เริ่ม​รอบ​ใหม่\n"
+"\n"
+"สภาพแวดล้อม​ส่งผล​อย่าง​มาก​ต่อ​อัตรา​การ​ขยายพันธุ์​พื้นฐาน​ของ​สัตว์ เมื่อ​สัตว์​รู้สึก​อึดอัด มัน​จะ​รอ​จน​ไข่​ทุก​ฟอง​ใน​ห้อง​ฟัก​หรือ​ถูก​ย้ายออก​ไป​ก่อน แล้ว​ค่อย​วางไข่​ของ​ตัวเอง\n"
+"\n"
+"สัตว์​จะ​หยุด​ขยายพันธุ์​เมื่อ​รู้สึก​ถูก​ขัง​แคบ​ด้วย ซึ่ง​เกิดขึ้น​เมื่อ​พื้นที่​เล็ก​เกินไป หรือ​มัน​ติด​อยู่​ใน​ประตู​หรือ​แผ่น​พื้น\n"
+"\n"
+"อารมณ์​และ​ความ​เชื่อง​ก็​มีผลต่อ​การ​ขยายพันธุ์: สัตว์​อารมณ์ดี​ขยายพันธุ์​สม่ำเสมอ​กว่า และ​สัตว์​เชื่อง​ที่​อารมณ์ดี​ขยายพันธุ์​เร็ว​ที่สุด"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.TITLE"
 msgid "Reproduction Rate"
 msgstr "อัตรา​การ​ขยายพันธุ์"
 
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.CONTAINER1"
+msgid "Crowded critters—or critters who know they'll start feeling crowded once all of the eggs in the room have hatched—will temporarily stop laying eggs. Their reproductive system will resume function once all eggs have hatched or been removed from the room."
+msgstr "สัตว์​ที่​แออัด หรือ​สัตว์​ที่​รู้​ว่า​ตัวเอง​จะ​เริ่ม​แออัด​เมื่อ​ไข่​ทุก​ฟอง​ใน​ห้อง​ฟัก​ออกมา จะ​หยุด​วางไข่​ชั่วคราว ระบบ​สืบพันธุ์​จะ​กลับมา​ทำงาน​อีกครั้ง​เมื่อ​ไข่​ทุก​ฟอง​ฟัก​แล้ว​หรือ​ถูก​ย้าย​ออกจาก​ห้อง"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.CRAMPED_FERTILITY
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.CRAMPED_FERTILITY"
+msgid "    • Reproduction"
+msgstr "    • การ​ขยายพันธุ์"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
+
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.TITLE"
 msgid "Cramped"
 msgstr "คับแคบ"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.CONTAINER1"
+msgid ""
+"A critter's incubation time is one-fifth of their total lifetime: for example, if a critter's maximum age is 100 cycles, its egg will take 20 cycles to hatch.\n"
+"\n"
+"Incubation rates can be accelerated through tender intervention by a Critter Rancher. Lullabied eggs—that is, those that have been sung to—will incubate faster and hatch sooner than eggs that have not received such tender care. Being cuddled by a Cuddle Pip also accelerates the rate of incubation.\n"
+"\n"
+"Eggs can be cuddled anywhere, but can only be lullabied when placed inside an Incubator. The effects of lullabies and cuddles are cumulative."
+msgstr ""
+"เวลา​ฟักไข่​ของ​สัตว์​คือ​หนึ่ง​ใน​ห้า​ของ​อายุขัย​ทั้งหมด เช่น ถ้า​สัตว์​มีอายุ​สูงสุด 100 รอบ ไข่​ของ​มัน​จะ​ใช้เวลา​ฟัก 20 รอบ\n"
+"\n"
+"เร่ง​การฟัก​ได้​ด้วย​การ​ดูแล​อย่าง​อ่อนโยน​ของ​คน​เลี้ยงสัตว์ ไข่​ที่​ได้​ฟังเพลง​กล่อม (คือ​ไข่​ที่​มี​คน​ร้องเพลง​ให้​ฟัง) จะ​ฟัก​เร็ว​กว่า​ไข่​ที่​ไม่​ได้รับ​ความรัก​แบบนี้ การ​ได้​พิป​ขี้อ้อน​กอด​ก็​ช่วย​เร่ง​การฟัก​เช่นกัน\n"
+"\n"
+"ไข่​ถูก​กอด​ได้​ทุกที่ แต่​จะ​ได้​ฟังเพลง​กล่อม​ก็ต่อเมื่อ​อยู่​ใน​ตู้​ฟักไข่​เท่านั้น ผล​ของ​เพลง​กล่อม​และ​การ​กอด​ซ้อน​ทบ​กัน​ได้"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.TITLE"
 msgid "Incubation"
 msgstr "การฟักไข่"
 
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_DLC1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_DLC1"
+msgid ""
+"With the exception of the Beeta Hive and the Morb—which can live indefinitely if left to their own devices—critters have a fixed life expectancy. The maximum age indicates the highest number of cycles that critters will live, barring starvation or other unnatural causes of death.\n"
+"\n"
+"If critters are injured or unhealthy, a Critter Rancher can restore their health at the Grooming Station.\n"
+"\n"
+"Babyhood, the period before a critter is mature enough to reproduce, is marked by a slower metabolism and the easy happiness of youth.\n"
+"\n"
+"Most species live for 75 to 100 cycles on average. The shortest-lived critter is the Beeta, whose lifespan is only five cycles long."
+msgstr ""
+"ยกเว้น​รัง​บี​ต้า​และ​มอร์บ ซึ่ง​อยู่​ได้​ไม่​มี​วัน​ตาย​ถ้า​ปล่อย​ไว้​ตาม​ธรรมชาติ สัตว์​ทุกชนิด​มี​อายุขัย​ที่​แน่นอน อายุ​สูงสุด​คือ​จำนวน​รอบ​มาก​ที่สุด​ที่​สัตว์​จะ​มีชีวิต​อยู่​ได้ หาก​ไม่​อดตาย​หรือ​ตาย​ด้วย​สาเหตุ​ผิดธรรมชาติ​อื่น ๆ\n"
+"\n"
+"ถ้า​สัตว์​บาดเจ็บ​หรือไม่​สบาย คน​เลี้ยงสัตว์​ช่วย​ฟื้นฟู​สุขภาพ​ให้​ได้ที่​สถานี​แปรง​ขน\n"
+"\n"
+"วัยเด็ก คือ​ช่วง​ก่อนที่​สัตว์​จะ​โต​พอ​ขยายพันธุ์​ได้ มี​ลักษณะเด่น​คือ​การเผาผลาญ​ที่​ช้า​กว่า​และ​ความสุข​ง่าย ๆ ของ​วัยเยาว์\n"
+"\n"
+"สัตว์​ส่วนใหญ่​มีอายุ​เฉลี่ย 75 ถึง 100 รอบ สัตว์​ที่​อายุสั้น​ที่สุด​คือ​บี​ต้า ซึ่ง​มีชีวิต​อยู่​แค่​ห้า​รอบ​เท่านั้น"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_VANILLA
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_VANILLA"
+msgid ""
+"With the exception of the Morb—which can live indefinitely if left to its own devices—critters have a fixed life expectancy. The maximum age indicates the highest number of cycles that critters will live, barring starvation or other unnatural causes of death.\n"
+"\n"
+"Babyhood, the period before a critter is mature enough to reproduce, is marked by a slower metabolism and the easy happiness of youth.\n"
+"\n"
+"Most species live for 75 to 100 cycles on average."
+msgstr ""
+"ยกเว้น​มอร์บ ซึ่ง​อยู่​ได้​ไม่​มี​วัน​ตาย​ถ้า​ปล่อย​ไว้​ตาม​ธรรมชาติ สัตว์​ทุกชนิด​มี​อายุขัย​ที่​แน่นอน อายุ​สูงสุด​คือ​จำนวน​รอบ​มาก​ที่สุด​ที่​สัตว์​จะ​มีชีวิต​อยู่​ได้ หาก​ไม่​อดตาย​หรือ​ตาย​ด้วย​สาเหตุ​ผิดธรรมชาติ​อื่น ๆ\n"
+"\n"
+"วัยเด็ก คือ​ช่วง​ก่อนที่​สัตว์​จะ​โต​พอ​ขยายพันธุ์​ได้ มี​ลักษณะเด่น​คือ​การเผาผลาญ​ที่​ช้า​กว่า​และ​ความสุข​ง่าย ๆ ของ​วัยเยาว์\n"
+"\n"
+"สัตว์​ส่วนใหญ่​มีอายุ​เฉลี่ย 75 ถึง 100 รอบ"
+
+#. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.TITLE"
+msgid "Max Age"
+msgstr "อายุ​สูงสุด"
+
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.TITLE"
 msgid "Reproduction"
 msgstr "การ​ขยายพันธุ์"
 
+#. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.BODY.CONTAINER1"
+msgid ""
+"A critter's metabolic rate is a measure of their appetite and the materials that they excrete as a result.\n"
+"\n"
+"Critters with higher metabolism get hungry more often. Those with lower metabolism will consume less food, but this reduced caloric intake results in fewer resources being produced.\n"
+"\n"
+"The digestive process is influenced by conditions such as domestication, mood, and whether the critter in question is a juvenile (baby) or an adult."
+msgstr ""
+"อัตรา​การเผาผลาญ​ของ​สัตว์​คือ​ตัว​วัด​ความอยาก​อาหาร​และ​ปริมาณ​วัสดุ​ที่​มัน​ขับถ่าย​ออกมา\n"
+"\n"
+"สัตว์​ที่​เผาผลาญ​สูง​จะ​หิว​บ่อย​กว่า ส่วนตัว​ที่​เผาผลาญ​ต่ำ​จะ​กิน​น้อยกว่า แต่​แคลอรี​ที่​น้อยลง​ก็​ทำให้​ผลิต​ทรัพยากร​ได้​น้อยลง​ด้วย\n"
+"\n"
+"กระบวน​การย่อยอาหาร​ขึ้นอยู่กับ​ปัจจัย​อย่าง​ความ​เชื่อง อารมณ์ และ​ว่า​สัตว์​ตัว​นั้น​ยัง​เป็น​ลูก (วัยเด็ก) หรือ​โต​เต็ม​วัย​แล้ว"
+
+#. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.CONTAINER1"
+msgid ""
+"Tame critters have significantly faster metabolism than wild ones, and get hungry sooner. This makes them more valuable in terms of resource production, as long as the colony is equipped to meet their dietary needs.\n"
+"\n"
+"Critters' stomachs vary in size, but they are capable of storing at least five cycles' worth of food. Their bellies begin to rumble when those internal caches drop below 90 percent. The critter will then seek out food, and will continue to eat until they feel completely full again.\n"
+"\n"
+"Juvenile critters have the slowest metabolism, although glum tame critters are not far behind."
+msgstr ""
+"สัตว์​เชื่อง​เผาผลาญ​เร็ว​กว่า​สัตว์ป่า​มาก และ​หิว​ไว​กว่า ทำให้​มัน​มีค่า​กว่า​ในแง่​การผลิต​ทรัพยากร ตราบใดที่​อาณานิคม​หาอาหาร​ให้​มัน​ได้​พอ\n"
+"\n"
+"กระเพาะ​ของ​สัตว์​มี​ขนาด​ต่างกัน แต่​อย่าง​น้อย​ก็​เก็บ​อาหาร​ได้​ห้า​รอบ ท้อง​จะ​เริ่ม​ร้อง​จ๊อก ๆ เมื่อ​เสบียง​ใน​ท้อง​ลดลง​ต่ำกว่า 90 เปอร์เซ็นต์ จากนั้น​มัน​จะ​ออก​หาอาหาร และ​กิน​ต่อไป​จน​อิ่ม​แปล้​อีกครั้ง\n"
+"\n"
+"ลูก​สัตว์​เผาผลาญ​ช้า​ที่สุด แต่​สัตว์​เชื่อง​ที่​ซึมกะทือ​ก็​ตามมา​ติด ๆ"
+
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.TITLE"
 msgid "Hungry"
 msgstr "หิว"
+
+#. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_DLC1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_DLC1"
+msgid "With the exception of Morbs and Beetas—which require zero calories to survive—tame critters will die after {0} cycles of consistent starvation. Wild critters do not starve to death."
+msgstr "ยกเว้น​มอร์บ​และ​บี​ต้า ซึ่ง​ไม่ต้อง​ใช้​แคลอรี​เลย​ใน​การ​มีชีวิต​อยู่ สัตว์​เชื่อง​จะ​ตาย​หลัง​อดอาหาร​ติดต่อกัน {0} รอบ ส่วน​สัตว์ป่า​ไม่​อดตาย"
+
+#. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_VANILLA
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_VANILLA"
+msgid "With the exception of Morbs—which require zero calories to survive—tame critters will die after {0} cycles of consistent starvation. Wild critters do not starve to death."
+msgstr "ยกเว้น​มอร์บ ซึ่ง​ไม่ต้อง​ใช้​แคลอรี​เลย​ใน​การ​มีชีวิต​อยู่ สัตว์​เชื่อง​จะ​ตาย​หลัง​อดอาหาร​ติดต่อกัน {0} รอบ ส่วน​สัตว์ป่า​ไม่​อดตาย"
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.TITLE"
@@ -33112,80 +33518,936 @@ msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.TITLE"
 msgid "Metabolism"
 msgstr "การเผาผลาญ"
 
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.BODY.CONTAINER1"
+msgid ""
+"As with many living things, critters are susceptible to fluctuations in mood. While they are incapable of articulating their feelings verbally, these variations have observable effects on productivity and reproduction.\n"
+"\n"
+"Factors that influence a critter's mood include: grooming, wildness/tameness, habitat, overcrowding, confinement, and Brackene consumption."
+msgstr ""
+"สัตว์​ก็​มี​อารมณ์​ขึ้น ๆ ลง ๆ เหมือน​สิ่งมีชีวิต​อื่น ๆ แม้​จะ​พูด​บอก​ความรู้สึก​ไม่​ได้ แต่​อารมณ์​ที่​เปลี่ยนไป​ก็​ส่งผล​ให้​เห็นชัด​ต่อ​ผลผลิต​และ​การ​ขยายพันธุ์\n"
+"\n"
+"ปัจจัย​ที่​มีผลต่อ​อารมณ์​ของ​สัตว์ ได้แก่ การแปรง​ขน ความ​เป็น​สัตว์ป่า/ความ​เชื่อง ถิ่น​ที่อยู่ ความแออัด การ​ถูก​ขัง​แคบ และ​การ​ได้​กิน​แบร็กคีน"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_FERTILITY
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_FERTILITY"
+msgid "    • Reproduction\n"
+msgstr "    • การ​ขยายพันธุ์\n"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_HAPPINESS
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_HAPPINESS"
+msgid "    • Happiness"
+msgstr "    • ความสุข"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1"
+msgid ""
+"Each species has its own space requirements. Critters who find themselves in a room or pool that they consider too small will feel confined. They will feel the same way if they become stuck in a door or tile. Critters will not reproduce while they are in this state.\n"
+"\n"
+"Shove Voles are the exception to this rule: their tunneling instincts make them quite comfortable in snug spaces, and they never feel confined."
+msgstr ""
+"แต่ละ​สายพันธุ์​ต้องการ​พื้นที่​ไม่​เท่ากัน สัตว์​ที่อยู่​ใน​ห้อง​หรือ​บ่อ​ที่​มัน​คิด​ว่า​เล็ก​เกินไป​จะ​รู้สึก​ถูก​ขัง​แคบ และ​จะ​รู้สึก​แบบ​เดียวกัน​ถ้า​ติด​อยู่​ใน​ประตู​หรือ​แผ่น​พื้น สัตว์​จะ​ไม่​ขยายพันธุ์​ขณะ​อยู่​ใน​สภาพ​นี้\n"
+"\n"
+"ชอฟ​โว​ล​เป็น​ข้อยกเว้น: สัญชาตญาณ​นัก​ขุด​อุโมงค์​ทำให้​มัน​สบายใจ​ใน​ที่​แคบ ๆ และ​ไม่​เคย​รู้สึก​ถูก​ขัง​แคบ​เลย"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
+
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.TITLE"
 msgid "Confined"
 msgstr "ถูก​ขัง​แคบ"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.CONTAINER1"
+msgid ""
+"Critters can survive in subpar environments, but it takes a toll on their mood and impacts metabolism and productivity. When their happiness levels dip below zero, they become glum.\n"
+"\n"
+"Wild critters are less sensitive to the effects of glumness than their tamed brethren, though they are still negatively affected by crowded or confined living conditions."
+msgstr ""
+"สัตว์​อยู่รอด​ใน​สภาพแวดล้อม​แย่ ๆ ได้ แต่​อารมณ์​จะ​เสีย และ​ส่งผล​ต่อ​การเผาผลาญ​และ​ผลผลิต เมื่อ​ระดับ​ความสุข​ต่ำกว่า​ศูนย์ มัน​จะ​ซึมกะทือ\n"
+"\n"
+"สัตว์ป่า​ไว​ต่อ​อาการ​ซึมกะทือ​น้อยกว่า​พี่น้อง​ที่​เชื่อง​แล้ว แต่​ก็​ยัง​ได้รับ​ผลเสีย​จาก​สภาพ​ที่อยู่​แออัด​หรือ​ถูก​ขัง​แคบ​อยู่ดี"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.GLUMWILD_METABOLISM
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.GLUMWILD_METABOLISM"
+msgid "    • Critter Metabolism\n"
+msgstr "    • การเผาผลาญ​ของ​สัตว์\n"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.TITLE"
 msgid "Glum"
 msgstr "ซึมกะทือ"
 
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.CONTAINER1"
+msgid ""
+"Happy, tame critters produce more usable materials and tend to lay eggs at a higher rate than glum or wild critters. Domesticated critters are less resilient than wild ones—they require more care from the colony in order to maintain a positive disposition.\n"
+"\n"
+"Babies have a higher baseline of natural joy, but produce neither resources nor eggs.\n"
+"\n"
+"Duplicants with the Critter Ranching skill have the expertise needed to domesticate and care for critters. They can boost a critter's mood and tend to their health at a Grooming Station.\n"
+"\n"
+"Critters who drink at the Critter Fountain also enjoy a mood boost, despite the lack of nutrients available in the Brackene dispensed.\n"
+"\n"
+"Being confined or feeling crowded undermines a critter's happiness."
+msgstr ""
+"สัตว์​เชื่อง​ที่​อารมณ์ดี​ผลิต​วัสดุ​ที่​ใช้ได้​มากกว่า และ​มัก​วางไข่​ถี่​กว่า​สัตว์​ซึมกะทือ​หรือ​สัตว์ป่า สัตว์​เชื่อง​ทนทาน​น้อยกว่า​สัตว์ป่า ต้อง​ให้​อาณานิคม​ดูแล​มากขึ้น​เพื่อ​รักษา​อารมณ์​ให้​ดี​อยู่​เสมอ\n"
+"\n"
+"ลูก​สัตว์​มีความสุข​พื้นฐาน​ตาม​ธรรมชาติ​สูง​กว่า แต่​ไม่​ผลิต​ทั้ง​ทรัพยากร​และ​ไข่\n"
+"\n"
+"ดู​พลิ​แคนต์​ที่​มี​ทักษะ​เลี้ยงสัตว์​มี​ความ​เชี่ยวชาญ​พอ​จะ​ทำให้​สัตว์​เชื่อง​และ​ดูแล​พวก​มัน​ได้ ช่วย​เพิ่ม​อารมณ์​และ​ดูแล​สุขภาพ​สัตว์​ได้ที่​สถานี​แปรง​ขน\n"
+"\n"
+"สัตว์​ที่​ได้​ดื่ม​จาก​น้ำพุ​สัตว์​ก็​อารมณ์​ดีขึ้น​ด้วย ถึง​แบร็กคีน​ที่​ปล่อย​ออกมา​จะ​ไม่​มี​สารอาหาร​อะไร​เลย​ก็ตาม\n"
+"\n"
+"การ​ถูก​ขัง​แคบ​หรือ​รู้สึก​แออัด​จะ​บั่นทอน​ความสุข​ของ​สัตว์"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.HAPPY_METABOLISM
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.HAPPY_METABOLISM"
+msgid "    • Indirectly improves egg-laying rates"
+msgstr "    • ช่วย​เพิ่ม​อัตรา​การ​วางไข่​ทางอ้อม"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
+
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.TITLE"
 msgid "Happy"
 msgstr "มีความสุข"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_DLC1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_DLC1"
+msgid ""
+"Most critters are non-hostile. They may attempt to defend themselves when attacked by Duplicants, though their natural passivity limits the damage caused in these instances.\n"
+"\n"
+"Some critters, however, have exceptionally strong self-preservation instincts and must be approached with extreme caution. Pokeshells, for example, are not naturally hostile but are fiercely protective of their young and will attack if a Duplicant or critter wanders too close to their eggs.\n"
+"\n"
+"The Beeta, on the other hand, is both hostile and radioactive. While it cannot be tamed, it can be subdued through the use of CO2."
+msgstr ""
+"สัตว์​ส่วนใหญ่​ไม่​ดุร้าย มัน​อาจ​พยายาม​ป้องกันตัว​เมื่อ​ถูก​ดู​พลิ​แคนต์​โจมตี แต่​ด้วย​นิสัย​เฉื่อยชา​ตาม​ธรรมชาติ ความเสียหาย​ที่เกิด​จึง​มีจำกัด\n"
+"\n"
+"แต่​สัตว์​บาง​ชนิด​มี​สัญชาตญาณ​เอาตัวรอด​แรงกล้า​เป็นพิเศษ ต้อง​เข้าใกล้​ด้วย​ความระมัดระวัง​สุด ๆ อย่าง​โพ​ค​เชลล์ ปกติ​ไม่​ดุร้าย แต่​หวง​ลูก​สุด​หัวใจ และ​จะ​โจมตี​ถ้า​ดู​พลิ​แคนต์​หรือ​สัตว์​อื่น​เดิน​เข้าใกล้​ไข่​ของ​มัน​เกินไป\n"
+"\n"
+"ส่วน​บี​ต้า​นั้น​ทั้ง​ดุร้าย​และ​มี​กัมมันตรังสี แม้​จะ​ทำให้​เชื่อง​ไม่​ได้ แต่​ก็​ปราบ​ให้​สงบ​ได้​ด้วย CO2"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_VANILLA
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_VANILLA"
+msgid ""
+"Most critters are non-hostile. They may attempt to defend themselves when attacked by Duplicants, though their natural passivity limits the damage caused in these instances.\n"
+"\n"
+"Some critters, however, have exceptionally strong self-preservation instincts and must be approached with extreme caution.\n"
+"\n"
+"Pokeshells, for example, are not naturally hostile but are fiercely protective of their young and will attack if a Duplicant or critter wanders too close to their eggs."
+msgstr ""
+"สัตว์​ส่วนใหญ่​ไม่​ดุร้าย มัน​อาจ​พยายาม​ป้องกันตัว​เมื่อ​ถูก​ดู​พลิ​แคนต์​โจมตี แต่​ด้วย​นิสัย​เฉื่อยชา​ตาม​ธรรมชาติ ความเสียหาย​ที่เกิด​จึง​มีจำกัด\n"
+"\n"
+"แต่​สัตว์​บาง​ชนิด​มี​สัญชาตญาณ​เอาตัวรอด​แรงกล้า​เป็นพิเศษ ต้อง​เข้าใกล้​ด้วย​ความระมัดระวัง​สุด ๆ\n"
+"\n"
+"อย่าง​โพ​ค​เชลล์ ปกติ​ไม่​ดุร้าย แต่​หวง​ลูก​สุด​หัวใจ และ​จะ​โจมตี​ถ้า​ดู​พลิ​แคนต์​หรือ​สัตว์​อื่น​เดิน​เข้าใกล้​ไข่​ของ​มัน​เกินไป"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.TITLE"
+msgid "Hostile"
+msgstr "ดุร้าย"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.CONTAINER1"
+msgid "When too many unpleasant conditions add up, critters become utterly miserable. This level of unhappiness seriously undermines their ability to contribute to the colony. Miserable critters have lower metabolism and will not lay eggs."
+msgstr "เมื่อ​เรื่อง​ไม่​น่าพอใจ​สะสม​มาก​เข้า สัตว์​จะ​ทุกข์ระทม​สุด ๆ ความ​ไม่​สุข​ระดับ​นี้​บั่นทอน​ความสามารถ​ใน​การ​ช่วย​อาณานิคม​อย่าง​หนัก สัตว์​ที่​ทุกข์ระทม​จะ​เผาผลาญ​ต่ำ​ลง​และ​ไม่​วางไข่"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.MISERABLEWILD_FERTILITY
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.MISERABLEWILD_FERTILITY"
+msgid "    • Reproduction"
+msgstr "    • การ​ขยายพันธุ์"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.MISERABLEWILD_METABOLISM
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.MISERABLEWILD_METABOLISM"
+msgid "    • Critter Metabolism"
+msgstr "    • การเผาผลาญ​ของ​สัตว์"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.MISERABLE.TITLE"
+msgid "Miserable"
+msgstr "ทุกข์ระทม"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.NEUTRAL.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.NEUTRAL.CONTAINER1"
+msgid "When a critter has no reason to object to anything in its environment or diet, it will feel quite content with its lot in life. Satisfied critters have the default metabolism, fertility and life span expected of their species."
+msgstr "เมื่อ​สัตว์​ไม่​มี​อะไร​ขัดใจ​เลย​ทั้ง​เรื่อง​สภาพแวดล้อม​และ​อาหาร มัน​จะ​พอใจ​กับ​ชีวิต​ตัวเอง​สุด ๆ สัตว์​ที่​พึงพอใจ​จะ​มี​การเผาผลาญ ความสมบูรณ์​พันธุ์ และ​อายุขัย​ตาม​ค่า​ปกติ​ของ​สายพันธุ์"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.NEUTRAL.TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.NEUTRAL.TITLE"
+msgid "Satisfied"
+msgstr "พึงพอใจ"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1"
+msgid ""
+"This occurs when a critter is in a room or pool that's appropriately sized for its needs but feels that there are too many other critters sharing the same space. Because each species has its own space requirements, this state can vary among occupants of the same room.\n"
+"\n"
+"This emotional state intensifies in response to the number of excess critters: adding new critters to an already crowded room will undermine a critter's happiness even further."
+msgstr ""
+"เกิดขึ้น​เมื่อ​สัตว์​อยู่​ใน​ห้อง​หรือ​บ่อ​ที่​ขนาด​พอดี​กับ​ความต้องการ แต่​รู้สึก​ว่า​มี​สัตว์​ตัว​อื่น​มา​อยู่​ด้วย​มากเกินไป เพราะ​แต่ละ​สายพันธุ์​ต้องการ​พื้นที่​ไม่​เท่ากัน สัตว์​ใน​ห้อง​เดียวกัน​จึง​อาจ​รู้สึก​ต่างกัน​ได้\n"
+"\n"
+"ความรู้สึก​นี้​จะ​รุนแรง​ขึ้น​ตาม​จำนวน​สัตว์​ที่​เกิน​มา การ​เพิ่ม​สัตว์​ใหม่​เข้าไป​ใน​ห้อง​ที่​แออัด​อยู่แล้ว​จะ​ยิ่ง​บั่นทอน​ความสุข​ของ​สัตว์​หนัก​ขึ้นไป​อีก"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.OVERCROWDED_HAPPY1
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.OVERCROWDED_HAPPY1"
+msgid "    • Happiness\n"
+msgstr "    • ความสุข\n"
+
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.SUBTITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.SUBTITLE"
+msgid "<b>Effects</b>"
+msgstr "<b>ผล</b>"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.TITLE"
 msgid "Crowded"
 msgstr "แออัด"
 
+#. STRINGS.CODEX.CRITTERSTATUS.MOOD.TITLE
+msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.TITLE"
+msgid "Mood"
+msgstr "อารมณ์"
+
+#. STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1"
+msgid ""
+"    • Do not leave the contents of the Cryotank 3000 unattended unless an apocalyptic disaster has left you no choice.\n"
+"\n"
+"    • Ensure that the Cryotank 3000 has enough battery power to remain active for at least 6000 years.\n"
+"\n"
+"    • Do not attempt to defrost the contents of the Cryotank 3000 while it is submerged in molten hot lava.\n"
+"\n"
+"    • Use only a qualified Gravitas Cryotank repair facility to repair your Cryotank 3000. Attempting to service the device yourself will void the warranty.\n"
+"\n"
+"    • Do not put food in the Cryotank 3000. The Cryotank 3000 is not a refrigerator.\n"
+"\n"
+"    • Do not allow children to play in the Cryotank 3000. The Cryotank 3000 is not a toy.\n"
+"\n"
+"    • While the Cryotank 3000 is able to withstand a nuclear blast, Gravitas and its subsidiaries are not responsible for what may happen in the resulting nuclear fallout.\n"
+"\n"
+"    • Wait at least 5 minutes after being unfrozen from the Cryotank 3000 before operating heavy machinery.\n"
+"\n"
+"    • Each Cryotank 3000 is good for only one use.\n"
+"\n"
+msgstr ""
+"    • ห้าม​ทิ้ง​สิ่ง​ที่อยู่​ใน​ถัง​แช่แข็ง 3000 ไว้​โดย​ไม่​มี​คน​ดูแล เว้นแต่​จะ​เกิด​หายนะ​วัน​สิ้น​โลก​จน​ไม่​มี​ทางเลือก\n"
+"\n"
+"    • ตรวจสอบ​ให้​แน่ใจ​ว่า​ถัง​แช่แข็ง 3000 มี​แบตเตอรี่​พอให้​ทำงาน​ได้​อย่าง​น้อย 6000 ปี\n"
+"\n"
+"    • ห้าม​พยายาม​ละลาย​สิ่ง​ที่อยู่​ใน​ถัง​แช่แข็ง 3000 ขณะที่​ถัง​จม​อยู่​ใน​ลาวา​ร้อนระอุ\n"
+"\n"
+"    • ซ่อม​ถัง​แช่แข็ง 3000 ที่​ศูนย์​ซ่อม​ถัง​แช่แข็ง​ก​รา​วิ​ทัส​ที่​ได้รับ​การ​รับรอง​เท่านั้น การ​พยายาม​ซ่อม​เอง​จะ​ทำให้​การรับประกัน​เป็น​โมฆะ\n"
+"\n"
+"    • ห้าม​ใส่​อาหาร​ใน​ถัง​แช่แข็ง 3000 ถัง​แช่แข็ง 3000 ไม่​ใช่​ตู้เย็น\n"
+"\n"
+"    • ห้าม​ให้​เด็ก​เล่น​ใน​ถัง​แช่แข็ง 3000 ถัง​แช่แข็ง 3000 ไม่​ใช่​ของเล่น\n"
+"\n"
+"    • แม้​ถัง​แช่แข็ง 3000 จะ​ทน​แรง​ระเบิดนิวเคลียร์​ได้ แต่​ก​รา​วิ​ทัส​และ​บริษัท​ในเครือ​จะ​ไม่​รับผิดชอบ​ต่อ​สิ่ง​ที่​อาจ​เกิดขึ้น​จาก​ฝุ่น​กัมมันตรังสี​หลัง​ระเบิด\n"
+"\n"
+"    • หลัง​ถูก​ละลาย​ออกจาก​ถัง​แช่แข็ง 3000 ให้​รอ​อย่าง​น้อย 5 นาที​ก่อน​ใช้งาน​เครื่องจักร​หนัก\n"
+"\n"
+"    • ถัง​แช่แข็ง 3000 แต่ละ​ถัง​ใช้ได้​เพียง​ครั้ง​เดียว\n"
+"\n"
+
+#. STRINGS.CODEX.CRYOTANKWARNINGS.SUBTITLE
+msgctxt "STRINGS.CODEX.CRYOTANKWARNINGS.SUBTITLE"
+msgid "IMPORTANT OPERATING INSTRUCTIONS FOR THE CRYOTANK 3000"
+msgstr "คำแนะนำ​การใช้งาน​สำคัญ​สำหรับ​ถัง​แช่แข็ง 3000"
+
+#. STRINGS.CODEX.CRYOTANKWARNINGS.TITLE
+msgctxt "STRINGS.CODEX.CRYOTANKWARNINGS.TITLE"
+msgid "CRYOTANK SAFETY"
+msgstr "ความปลอดภัย​ของ​ถัง​แช่แข็ง"
+
+#. STRINGS.CODEX.CRYSTAL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CRYSTAL.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Radiant\" Shine Bug variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แมลง​เรืองแสง​สายพันธุ์​ย่อย \"เจิด​จรัส\"</smallcaps>"
+
+#. STRINGS.CODEX.CRYSTAL.SUBTITLE
+msgctxt "STRINGS.CODEX.CRYSTAL.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.CRYSTAL.TITLE
+msgctxt "STRINGS.CODEX.CRYSTAL.TITLE"
+msgid "Radiant Bug"
+msgstr "แมลง​เจิด​จรัส"
+
+#. STRINGS.CODEX.DASHASALTVINE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DASHASALTVINE.BODY.CONTAINER1"
+msgid ""
+"The Dasha Saltvine is a unique plant that needs large amounts of salt to balance the levels of water in its body.\n"
+"\n"
+"In order to keep a supply of salt on hand, the end of the vine is coated in microscopic formations which bind with sodium atoms, forming large crystals over time."
+msgstr ""
+"เถา​เกลือ​ดา​ชา​เป็น​พืช​พิเศษ​ที่​ต้อง​ใช้​เกลือ​ปริมาณมาก​เพื่อ​รักษา​สมดุล​น้ำ​ใน​ตัว\n"
+"\n"
+"เพื่อให้​มี​เกลือ​ติดตัว​ไว้​ตลอด ปลาย​เถา​จึง​เคลือบ​ด้วย​โครงสร้าง​จิ๋ว​ระดับ​จุลภาค​ที่จับ​อะตอม​โซเดียม แล้ว​ค่อย ๆ ก่อตัว​เป็น​ผลึก​ก้อน​โต​ตามเวลา"
+
+#. STRINGS.CODEX.DASHASALTVINE.SUBTITLE
+msgctxt "STRINGS.CODEX.DASHASALTVINE.SUBTITLE"
+msgid "Edible Spice Plant"
+msgstr "พืช​เครื่องเทศ​กิน​ได้"
+
+#. STRINGS.CODEX.DASHASALTVINE.TITLE
+msgctxt "STRINGS.CODEX.DASHASALTVINE.TITLE"
+msgid "Dasha Saltvine"
+msgstr "เถา​เกลือ​ดา​ชา"
+
+#. STRINGS.CODEX.DATABANK.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DATABANK.BODY.CONTAINER1"
+msgid ""
+"Data Banks are a form of portable storage media. They are prized for their non-volatility, robustness, and practical research applications.\n"
+"\n"
+"They are not foldable."
+msgstr ""
+"แบงก์​ข้อมูล​คือ​สื่อ​บันทึก​ข้อมูล​แบบ​พกพา ได้รับการยกย่อง​เรื่อง​ความคงทน​ของ​ข้อมูล ความแข็งแรง และ​การ​นำไปใช้​วิจัย​ได้​จริง\n"
+"\n"
+"พับ​ไม่​ได้​นะ"
+
+#. STRINGS.CODEX.DATABANK.SUBTITLE
+msgctxt "STRINGS.CODEX.DATABANK.SUBTITLE"
+msgid "Information Technology"
+msgstr "เทคโนโลยีสารสนเทศ"
+
+#. STRINGS.CODEX.DATABANK.TITLE
+msgctxt "STRINGS.CODEX.DATABANK.TITLE"
+msgid "Data Banks"
+msgstr "แบงก์​ข้อมูล"
+
+#. STRINGS.CODEX.DECOR.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DECOR.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Longhair\" Slickster variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: ส​ลิ​กสเตอร์​สายพันธุ์​ย่อย \"ขน​ยาว\"</smallcaps>"
+
+#. STRINGS.CODEX.DECOR.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.DECOR.BODY.CONTAINER2"
+msgid "Positioned on either side of the Major Rhinophores are Minor Rhinophores, which specialize in mechanical reception and detect air pressure around the Slickster. These send signals to the brain to contract or expand its air sacks accordingly."
+msgstr "ไร​โน​ฟอร์​รอง ซึ่ง​อยู่​ทั้งสอง​ข้าง​ของ​ไร​โน​ฟอร์​หลัก มี​หน้าที่​รับสัมผัส​เชิงกล​และ​ตรวจจับ​ความกดอากาศ​รอบตัว​ส​ลิ​กสเตอร์ แล้ว​ส่งสัญญาณ​ไป​ที่​สมอง​ให้​หด​หรือ​ขยาย​ถุงลม​ตามนั้น"
+
+#. STRINGS.CODEX.DECOR.SUBTITLE
+msgctxt "STRINGS.CODEX.DECOR.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.DECOR.TITLE
+msgctxt "STRINGS.CODEX.DECOR.TITLE"
+msgid "Longhair Slickster"
+msgstr "ส​ลิ​กสเตอร์ขน​ยาว"
+
 #. STRINGS.CODEX.DECORSYSTEM.HEADER_1
 msgctxt "STRINGS.CODEX.DECORSYSTEM.HEADER_1"
 msgid "Decor"
 msgstr "ความสวยงาม"
+
+#. STRINGS.CODEX.DECORSYSTEM.HEADER_2
+msgctxt "STRINGS.CODEX.DECORSYSTEM.HEADER_2"
+msgid "Calculating Decor"
+msgstr "การคำนวณ​ความสวยงาม"
+
+#. STRINGS.CODEX.DECORSYSTEM.HEADER_3
+msgctxt "STRINGS.CODEX.DECORSYSTEM.HEADER_3"
+msgid "Tutorials"
+msgstr "บท​สอน"
+
+#. STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_1"
+msgid ""
+"Low Decor can increase Duplicant <link=\"STRESS\">Stress</link>. Thankfully, pretty things tend to increase the Decor value of an area. Each Duplicant has a different idea of what is a high enough Decor value. If the average Decor that a Duplicant experiences in a cycle is below their expectations, they will suffer a stress penalty.\n"
+"\n"
+msgstr ""
+"ความสวยงาม​ต่ำ​ทำให้<link=\"STRESS\">ความเครียด</link>ของ​ดู​พลิ​แคนต์​เพิ่มขึ้น​ได้ โชคดี​ที่​ของ​สวย ๆ มัก​ช่วย​เพิ่มค่า​ความสวยงาม​ของ​พื้นที่ ดู​พลิ​แคนต์​แต่ละคน​มี​มาตรฐาน​ว่า​ความสวยงาม​แค่​ไหน​ถึง​จะ​พอ​ไม่​เหมือนกัน ถ้า​ความสวยงาม​เฉลี่ย​ที่​ดู​พลิ​แคนต์​ได้​สัมผัสใน​หนึ่ง​รอบ​ต่ำกว่า​ที่​คาดหวัง ก็​จะ​โดน​บทลงโทษ​เป็น​ความเครียด\n"
+"\n"
+
+#. STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2"
+msgid ""
+"Many things have an effect on the Decor value of a tile. A building's effect is expressed as a strength value and a radius. Often that effect is positive, but many buildings also lower the decor value of an area too. <link=\"PLANTS\">Plants</link>, <link=\"CREATURES\">Critters</link>, and <link=\"BUILDCATEGORYFURNITURE\">Furniture</link> often increase decor while industrial buildings, debris, and rot often decrease it. Duplicants experience the combined decor of all objects affecting a tile.\n"
+"\n"
+"The <link=\"PRICKLEGRASS\">Bluff Briar</link> has a decor value of 25 and a radius of 4 tiles. \n"
+"The <link=\"MICROBEMUSHER\">Microbe Musher</link> has a decor value of -15 and a radius of 3 tiles. \n"
+"The result of placing a <link=\"MICROBEMUSHER\">Microbe Musher</link> next to a <link=\"PRICKLEGRASS\">Bluff Briar</link> would be a combined decor value of 10.\n"
+"\n"
+msgstr ""
+"หลาย​สิ่ง​ส่งผล​ต่อ​ค่า​ความสวยงาม​ของ​ช่อง ผล​ของ​สิ่งก่อสร้าง​แสดง​เป็น​ค่า​ความแรง​และ​รัศมี ส่วนใหญ่​ผล​จะ​เป็น​บวก แต่​สิ่งก่อสร้าง​หลายอย่าง​ก็​ทำให้​ความสวยงาม​ของ​พื้นที่​ลดลง​ด้วย <link=\"PLANTS\">พืช</link> <link=\"CREATURES\">สัตว์</link> และ<link=\"BUILDCATEGORYFURNITURE\">เฟอร์นิเจอร์</link>มัก​เพิ่ม​ความสวยงาม ส่วน​สิ่งก่อสร้าง​อุตสาหกรรม เศษ​ขยะ และ​ของ​เน่า​มัก​ลด​มัน​ลง ดู​พลิ​แคนต์​จะ​ได้รับ​ความสวยงาม​รวม​จาก​ทุก​วัตถุ​ที่​ส่งผล​ต่อ​ช่อง​นั้น\n"
+"\n"
+"<link=\"PRICKLEGRASS\">พุ่ม​หนาม​หลอกตา</link>มีค่า​ความสวยงาม 25 และ​รัศมี 4 ช่อง \n"
+"<link=\"MICROBEMUSHER\">เครื่อง​บด​จุลินทรีย์</link>มีค่า​ความสวยงาม -15 และ​รัศมี 3 ช่อง \n"
+"ถ้า​วาง<link=\"MICROBEMUSHER\">เครื่อง​บด​จุลินทรีย์</link>ไว้​ข้าง<link=\"PRICKLEGRASS\">พุ่ม​หนาม​หลอกตา</link> ค่า​ความสวยงาม​รวม​จะ​เป็น 10\n"
+"\n"
+
+#. STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_3"
+msgid ""
+"To learn more, watch <link=\"VIDEOS13\">Video: Duplicant Morale</link> and see <link=\"MISCELLANEOUSTIPS2\">Tutorial: Stress Management</link>.\n"
+"\n"
+msgstr ""
+"อยากรู้​เพิ่มเติม ดู<link=\"VIDEOS13\">วิดีโอ: ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์</link> และ<link=\"MISCELLANEOUSTIPS2\">บท​สอน: การ​จัดการ​ความเครียด</link>\n"
+"\n"
+
+#. STRINGS.CODEX.DECORSYSTEM.TITLE
+msgctxt "STRINGS.CODEX.DECORSYSTEM.TITLE"
+msgid "<link=\"DECOR\">Decor</link>"
+msgstr "<link=\"DECOR\">ความสวยงาม</link>"
+
+#. STRINGS.CODEX.DEERSPECIES.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DEERSPECIES.BODY.CONTAINER1"
+msgid ""
+"Evenly distributed throughout the Flox's dense overcoat are countless vibrissae-like hairs that transmit detailed sensory information about its environment, allowing it to detect changes as subtle as the shift in another creature's mood.\n"
+"\n"
+"Floxes avoid overstimulation by whipping their tails to release the pent-up energy. Because these tactile hairs are so sensitive, they cannot be safely shorn.\n"
+"\n"
+"Flox antlers, however, are nerveless and cumbersome. Handlers who unburden them of this cranial load are often rewarded with the critter's long, slow blinks of contentment."
+msgstr ""
+"ทั่ว​ขน​ชั้นนอก​หนาแน่น​ของ​ฟล็อกซ์​มี​ขน​คล้าย​หนวดแมว​นับไม่ถ้วน​กระจาย​อยู่​ทั่ว คอย​ส่ง​ข้อมูล​สัมผัส​โดยละเอียด​เกี่ยวกับ​สิ่งรอบตัว ทำให้​มัน​รับรู้​ความเปลี่ยนแปลง​เล็ก ๆ ได้​แม้แต่​อารมณ์​ที่​เปลี่ยนไป​ของ​สัตว์​ตัว​อื่น\n"
+"\n"
+"ฟล็อกซ์​ป้องกัน​ตัวเอง​จาก​การ​ถูก​กระตุ้น​มากเกินไป​ด้วย​การ​สะบัด​หาง​ระบาย​พลังงาน​ที่​อัดอั้น เพราะ​ขน​สัมผัส​พวก​นี้​ไว​มาก จึง​ตัด​ขน​อย่าง​ปลอดภัย​ไม่​ได้\n"
+"\n"
+"แต่​เขา​ของ​ฟล็อกซ์​ไม่​มี​เส้นประสาท​และ​เกะกะ​สุด ๆ คนเลี้ยง​ที่​ช่วย​ปลด​ภาระ​บน​หัว​นี้​ให้ มักได้​รางวัล​เป็นการ​กะพริบตา​ช้า ๆ อย่าง​พึงพอใจ​จาก​เจ้าตัว"
 
 #. STRINGS.CODEX.DEERSPECIES.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.DEERSPECIES.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
 
+#. STRINGS.CODEX.DEERSPECIES.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.DEERSPECIES.SPECIES_TITLE"
+msgid "Floxes"
+msgstr "ฟล็อกซ์"
+
 #. STRINGS.CODEX.DEERSPECIES.SUBTITLE
 msgctxt "STRINGS.CODEX.DEERSPECIES.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.DEERSPECIES.TITLE
+msgctxt "STRINGS.CODEX.DEERSPECIES.TITLE"
+msgid "Flox"
+msgstr "ฟล็อกซ์"
+
+#. STRINGS.CODEX.DENSE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DENSE.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Dense\" Puft variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: พัฟต์​สายพันธุ์​ย่อย \"หนาแน่น\"</smallcaps>"
+
+#. STRINGS.CODEX.DENSE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.DENSE.BODY.CONTAINER2"
+msgid ""
+"The Puft is an easy creature to raise for first time handlers given its wholly amiable disposition and suggestible nature.\n"
+"\n"
+"It is unusually tolerant of human handling and will allow itself to be patted or scratched nearly anywhere on its fuzzy body, including, unnervingly, directly on any of its three eyeballs."
+msgstr ""
+"พัฟต์​เป็น​สัตว์​ที่​เลี้ยง​ง่าย​สำหรับ​มือใหม่ ด้วย​นิสัย​เป็นมิตร​สุด ๆ และ​ว่าง่าย\n"
+"\n"
+"มัน​ยอมให้​คน​จับได้​อย่าง​ใจเย็น​ผิดปกติ และ​ยอมให้​ลูบ​หรือ​เกา​แทบ​ทุก​ส่วน​ของ​ตัว​ปุกปุย รวมถึง (น่าขนลุก​หน่อย) ตรง​ลูกตา​ทั้ง​สาม​ดวง​ของ​มัน​ด้วย"
+
+#. STRINGS.CODEX.DENSE.SUBTITLE
+msgctxt "STRINGS.CODEX.DENSE.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.DENSE.TITLE
+msgctxt "STRINGS.CODEX.DENSE.TITLE"
+msgid "Dense Puft"
+msgstr "พัฟต์​หนาแน่น"
+
+#. STRINGS.CODEX.DEWDRIP.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DEWDRIP.BODY.CONTAINER1"
+msgid ""
+"A crystallized blob of <link=\"MILK\">Brackene</link> from the <link=\"DEWDRIPPERPLANT\">Dew Dripper</link>.\n"
+"\n"
+"It must be processed at the <link=\"MILKPRESS\">Plant Pulverizer</link> to release its contents."
+msgstr ""
+"ก้อน<link=\"MILK\">แบร็กคีน</link>ตกผลึก​จาก<link=\"DEWDRIPPERPLANT\">ต้น​หยด​น้ำค้าง</link>\n"
+"\n"
+"ต้อง​นำ​ไป​แปรรูป​ที่<link=\"MILKPRESS\">เครื่อง​บด​พืช</link>เพื่อ​ปล่อยของ​ข้างใน​ออกมา"
+
+#. STRINGS.CODEX.DEWDRIP.SUBTITLE
+msgctxt "STRINGS.CODEX.DEWDRIP.SUBTITLE"
+msgid "Plant Byproduct"
+msgstr "ผลพลอยได้​จาก​พืช"
+
+#. STRINGS.CODEX.DEWDRIP.TITLE
+msgctxt "STRINGS.CODEX.DEWDRIP.TITLE"
+msgid "Dewdrip"
+msgstr "หยด​น้ำค้าง"
+
+#. STRINGS.CODEX.DEWDRIPPERPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DEWDRIPPERPLANT.BODY.CONTAINER1"
+msgid ""
+"The Dew Dripper is sometimes referred to as the \"purple starling\" of the plant world for the magnificent feather-like leaves that encircle its base.\n"
+"\n"
+"This sculptural plant slow-drips excess sap that coagulates upon contact with air. The resulting globule is so dense that its weight would snap the Dew Dripper's hollow stem if planted in the ground.\n"
+"\n"
+"No one has ever been seriously injured by a falling Dewdrip, but it's best not to linger beneath them."
+msgstr ""
+"บางครั้ง​ต้น​หยด​น้ำค้าง​ถูก​เรียก​ว่า \"นก​กิ้งโครง​สีม่วง\" แห่ง​โลก​พืช เพราะ​ใบ​งดงาม​คล้าย​ขนนก​ที่​ล้อมรอบ​โคน​ต้น\n"
+"\n"
+"พืช​รูปทรง​เหมือน​งานประติมากรรม​นี้​ค่อย ๆ หยด​ยาง​ส่วนเกิน​ที่​จับตัว​เป็น​ก้อน​เมื่อ​โดน​อากาศ ก้อน​ที่​ได้​หนาแน่น​มาก​จน​ถ้า​ปลูก​ลง​ดิน น้ำหนัก​ของ​มัน​จะ​หัก​ลำต้น​กลวง​ของ​ต้น​หยด​น้ำค้าง​ได้​เลย\n"
+"\n"
+"ยัง​ไม่​เคย​มี​ใคร​บาดเจ็บสาหัส​เพราะ​หยด​น้ำค้าง​ตก​ใส่ แต่​อย่า​ไป​ยืน​เอ้อระเหย​อยู่​ข้างใต้​จะ​ดีกว่า"
+
+#. STRINGS.CODEX.DEWDRIPPERPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.DEWDRIPPERPLANT.SUBTITLE"
+msgid "Cultivable Plant"
+msgstr "พืช​ที่​ปลูก​ได้"
+
+#. STRINGS.CODEX.DEWDRIPPERPLANT.TITLE
+msgctxt "STRINGS.CODEX.DEWDRIPPERPLANT.TITLE"
+msgid "Dew Dripper"
+msgstr "ต้น​หยด​น้ำค้าง"
+
+#. STRINGS.CODEX.DEWPALM.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DEWPALM.BODY.CONTAINER1"
+msgid ""
+"Gum Palms have developed an eye-catching defense mechanism similar to that of poisonous amphibians.\n"
+"\n"
+"Bright reddish coloring displayed in their leaves and sharp ornamental bark scales deter most predators, who recognize the warning signs of toxicity. <link=\"PACU\">Pacus</link>, however, consider the tree's highly toxic seed a spicy treat."
+msgstr ""
+"ปาล์ม​ยาง​พัฒนา​กลไก​ป้องกันตัว​ที่​สะดุดตา​คล้าย​สัตว์​ครึ่ง​บก​ครึ่ง​น้ำ​มีพิษ\n"
+"\n"
+"สี​แดงสด​บน​ใบ​และ​เกล็ด​เปลือกไม้​แหลมคม​เป็น​ลวดลาย ทำให้​ผู้ล่า​ส่วนใหญ่​ถอย เพราะ​รู้จัก​สัญญาณ​เตือน​ของ​พิษ แต่<link=\"PACU\">ปา​คู</link>กลับ​มองว่า​เมล็ด​พิษ​ร้ายแรง​ของ​ต้น​นี้​เป็น​ขนม​รส​เผ็ด​ซะงั้น"
+
+#. STRINGS.CODEX.DEWPALM.SUBTITLE
+msgctxt "STRINGS.CODEX.DEWPALM.SUBTITLE"
+msgid "Cultivable Plant"
+msgstr "พืช​ที่​ปลูก​ได้"
+
+#. STRINGS.CODEX.DEWPALM.TITLE
+msgctxt "STRINGS.CODEX.DEWPALM.TITLE"
+msgid "Gum Palm"
+msgstr "ปาล์ม​ยาง"
+
+#. STRINGS.CODEX.DIESELMOO.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DIESELMOO.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Husky\" Moo variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: มู​สายพันธุ์​ย่อย \"ขน​ฟู\"</smallcaps>"
+
+#. STRINGS.CODEX.DIESELMOO.SUBTITLE
+msgctxt "STRINGS.CODEX.DIESELMOO.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.DIESELMOO.TITLE
+msgctxt "STRINGS.CODEX.DIESELMOO.TITLE"
+msgid "Husky Moo"
+msgstr "มูขน​ฟู"
+
+#. STRINGS.CODEX.DINOFERN.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DINOFERN.BODY.CONTAINER1"
+msgid ""
+"<i>Megafrondia Byronalis</i>, commonly known as \"Megafrond,\" is a gigantic plant that dwarfs its surroundings.\n"
+"\n"
+"Its size is not the only daunting factor in its cultivation: the Megafrond's gigantism is possible thanks to its singular adaptation to cold temperatures and a caustic gas environment that few other living things (including farmers) enjoy.\n"
+"\n"
+"These challenges are considered a fair price for bragging rights and a useful grain harvest."
+msgstr ""
+"<i>Megafrondia Byronalis</i> หรือ​ที่​รู้จัก​กัน​ใน​ชื่อ \"เฟิร์น​ยักษ์\" คือ​พืช​ขนาด​มหึมา​ที่​ทำให้​ทุกอย่าง​รอบตัว​ดู​จิ๋ว​ไป​เลย\n"
+"\n"
+"ขนาด​ไม่​ใช่​เรื่อง​น่า​หวั่นใจ​เพียง​อย่าง​เดียว​ใน​การ​ปลูก ความ​ใหญ่โต​ของ​เฟิร์น​ยักษ์​เป็นไปได้​เพราะ​มัน​ปรับตัว​เข้ากับ​อุณหภูมิ​เย็น​และ​แก๊ส​กัดกร่อน​ได้​อย่าง​เป็น​เอกลักษณ์ ซึ่ง​สิ่งมีชีวิต​อื่น​แทบ​ไม่​มี​ใคร​ชอบ (รวมถึง​ชาวไร่​ด้วย)\n"
+"\n"
+"ความ​ท้าทาย​เหล่านี้​ถือว่า​คุ้มค่า​กับ​การ​ได้​อวด​ชาวบ้าน​และ​ผลผลิต​ธัญพืช​ที่​มีประโยชน์"
+
+#. STRINGS.CODEX.DINOFERN.SUBTITLE
+msgctxt "STRINGS.CODEX.DINOFERN.SUBTITLE"
+msgid "Cultivable Plant"
+msgstr "พืช​ที่​ปลูก​ได้"
+
+#. STRINGS.CODEX.DINOFERN.TITLE
+msgctxt "STRINGS.CODEX.DINOFERN.TITLE"
+msgid "Megafrond"
+msgstr "เฟิร์น​ยักษ์"
+
+#. STRINGS.CODEX.DIVERGENT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DIVERGENT.BODY.CONTAINER1"
+msgid ""
+"'Divergent' is the name given to the two different genders of one species, the Sweetle and the Grubgrub, both of which are able to reproduce asexually and tend to Grubfruit Plants.\n"
+"\n"
+"When tending to the Grubfruit Plant, both gender variants of the Divergent display the exact same behaviors, however the Grubgrub possesses slightly more tiny facial hair which helps in pollinating the plants and stimulates faster growth."
+msgstr ""
+"\"ได​เวอร์​เจนต์\" คือ​ชื่อ​เรียก​สอง​เพศ​ของ​สปีชีส์​เดียวกัน ได้แก่ สวีท​เทิล​และ​กรับ​กรับ ซึ่ง​ทั้งคู่​สืบพันธุ์แบบไม่อาศัยเพศ​ได้​และ​คอย​ดูแล​ต้น​ผล​หนอน\n"
+"\n"
+"เวลา​ดูแล​ต้น​ผล​หนอน ได​เวอร์​เจนต์​ทั้งสอง​เพศ​มี​พฤติกรรม​เหมือนกัน​เป๊ะ แต่​กรับ​กรับ​มี​ขน​จิ๋ว​บน​หน้า​มากกว่า​นิดหน่อย ซึ่ง​ช่วย​ผสม​เกสร​และ​กระตุ้น​ให้​ต้นไม้​โต​เร็ว​ขึ้น"
 
 #. STRINGS.CODEX.DIVERGENT.SUBTITLE
 msgctxt "STRINGS.CODEX.DIVERGENT.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.DIVERGENT.TITLE
+msgctxt "STRINGS.CODEX.DIVERGENT.TITLE"
+msgid "Divergent"
+msgstr "ได​เวอร์​เจนต์"
+
+#. STRINGS.CODEX.DRECKO.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DRECKO.BODY.CONTAINER1"
+msgid "Dreckos are a reptilian species boasting billions of microscopic hairs on their feet, allowing them to stick to and climb most surfaces."
+msgstr "เด​รก​โก​เป็น​สัตว์เลื้อยคลาน​ที่​มี​ขน​จิ๋ว​ระดับ​จุลภาค​นับ​พัน​ล้าน​เส้น​ที่​เท้า ทำให้​มัน​เกาะ​และ​ปีน​พื้นผิว​ได้​แทบ​ทุก​แบบ"
+
+#. STRINGS.CODEX.DRECKO.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.DRECKO.BODY.CONTAINER2"
+msgid ""
+"The tail of the Drecko, called the \"train\", is purely for decoration and can be lost or shorn without harm to the animal.\n"
+"\n"
+"As a result, Drecko fibers are often farmed for use in textile production.\n"
+"\n"
+"Caring for Dreckos is a fulfilling endeavor thanks to their companionable personalities.\n"
+"\n"
+"Some domestic Dreckos have even been known to respond to their own names."
+msgstr ""
+"หาง​ของ​เด​รก​โก​ที่​เรียก​ว่า \"ชาย​หาง\" มี​ไว้​ประดับ​ล้วน ๆ หลุด​หรือ​ถูก​ตัด​ได้​โดย​ไม่​ทำให้​สัตว์​บาดเจ็บ\n"
+"\n"
+"ด้วยเหตุนี้ จึง​มี​การ​เลี้ยง​เด​รก​โก​เพื่อ​เก็บ​เส้นใย​ไป​ใช้​ทอผ้า​กัน​บ่อย ๆ\n"
+"\n"
+"การ​ดูแล​เด​รก​โก​เป็นงาน​ที่​เติมเต็ม​หัวใจ เพราะ​นิสัย​ขี้เล่น​เป็นเพื่อน​ที่​ดี\n"
+"\n"
+"ว่า​กัน​ว่า​เด​รก​โก​เชื่อง​บาง​ตัว​ถึงขั้น​ขานรับ​เวลา​เรียกชื่อ​ตัวเอง​เลย​ด้วย"
+
 #. STRINGS.CODEX.DRECKO.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.DRECKO.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.DRECKO.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.DRECKO.SPECIES_TITLE"
+msgid "Dreckos"
+msgstr "เด​รก​โก"
 
 #. STRINGS.CODEX.DRECKO.SUBTITLE
 msgctxt "STRINGS.CODEX.DRECKO.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.DRECKO.TITLE
+msgctxt "STRINGS.CODEX.DRECKO.TITLE"
+msgid "Drecko"
+msgstr "เด​รก​โก"
+
+#. STRINGS.CODEX.DUPLICANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DUPLICANT.BODY.CONTAINER1"
+msgid "Duplicants are printed at the <link=\"HEADQUARTERS\">Printing Pod</link>, emerging fully formed and clothed in standard-issue uniforms. Unique outfits can be found in the Supply Closet.\n"
+msgstr "ดู​พลิ​แคนต์​ถูก​พิมพ์​ออก​มาจาก<link=\"HEADQUARTERS\">พ็อด​พิมพ์​ร่าง</link> ใน​สภาพร่างกาย​สมบูรณ์​พร้อม​สวม​ชุด​ยูนิฟอร์ม (เครื่องแบบ) มาตรฐาน ชุด​แบบ​พิเศษ​หา​ได้​ใน​ตู้เสื้อผ้า\n"
+
 #. STRINGS.CODEX.DUPLICANT.CODEXCATEGORYNAME
 msgctxt "STRINGS.CODEX.DUPLICANT.CODEXCATEGORYNAME"
 msgid "Duplicants"
 msgstr "ดู​พลิ​แคนต์"
+
+#. STRINGS.CODEX.DUPLICANT.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.DUPLICANT.SPECIES_SUBTITLE"
+msgid "Colony Workers"
+msgstr "คนงาน​อาณานิคม"
+
+#. STRINGS.CODEX.DUPLICANT.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.DUPLICANT.SPECIES_TITLE"
+msgid "Duplicant Types"
+msgstr "ประเภท​ดู​พลิ​แคนต์"
+
+#. STRINGS.CODEX.DUSKCAP.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.DUSKCAP.BODY.CONTAINER1"
+msgid ""
+"Like many species of mushroom, Dusk Caps thrive in dark areas otherwise ill-suited to the cultivation of plants.\n"
+"\n"
+"In place of typical chlorophyll, the underside of a Dusk Cap is fitted with thousands of specialized gills, which it uses to draw in carbon dioxide and aid in its growth."
+msgstr ""
+"เห็ด​สนธยา​เติบโต​ได้ดี​ใน​ที่​มืด​ซึ่ง​ไม่​เหมาะกับ​การ​ปลูก​พืช​อื่น เหมือน​เห็ด​อีก​หลาย​สายพันธุ์\n"
+"\n"
+"แทนที่จะ​มี​คลอโรฟิลล์​แบบ​ทั่วไป ใต้​หมวกเห็ด​สนธยา​มี​ครีบ​พิเศษ​นับ​พัน​ซี่ ซึ่ง​ใช้​ดูด​คาร์บอนไดออกไซด์​เข้าไป​ช่วย​ใน​การ​เติบโต"
 
 #. STRINGS.CODEX.DUSKCAP.SUBTITLE
 msgctxt "STRINGS.CODEX.DUSKCAP.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.DUSKCAP.TITLE
+msgctxt "STRINGS.CODEX.DUSKCAP.TITLE"
+msgid "Dusk Cap"
+msgstr "เห็ด​สนธยา"
+
+#. STRINGS.CODEX.EGG_SHELL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.EGG_SHELL.BODY.CONTAINER1"
+msgid "The shards left over from the protective walls of a baby critter's first home."
+msgstr "เศษ​เปลือก​ที่​เหลือ​จาก​กำแพง​ปกป้อง​บ้าน​หลัง​แรก​ของ​ลูก​สัตว์"
+
+#. STRINGS.CODEX.EGG_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.EGG_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
 #. STRINGS.CODEX.EGG_SHELL.TITLE
 msgctxt "STRINGS.CODEX.EGG_SHELL.TITLE"
 msgid "Egg Shell"
 msgstr "เปลือกไข่"
+
+#. STRINGS.CODEX.ELECTROBANK.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.ELECTROBANK.BODY.CONTAINER1"
+msgid ""
+"Power Banks are portable <link=\"POWER\">Power</link> storage containers that can be used to supply electricity to mobile entities and isolated areas.\n"
+"\n"
+"Single-use power banks are easier to produce, but rechargeable and self-charging models are more efficient in the long run.\n"
+"\n"
+"Cautious handling is required, as liquid exposure (or expiration, for self-charging power banks) can lead to explosions."
+msgstr ""
+"พาวเวอร์​แบงก์​คือ​ภาชนะ​เก็บ<link=\"POWER\">พลังงาน</link>แบบ​พกพา ใช้​จ่ายไฟ​ให้​สิ่ง​ที่​เคลื่อนที่​ได้​และ​พื้นที่​ห่างไกล​ได้\n"
+"\n"
+"พาวเวอร์​แบงก์​แบบ​ใช้​ครั้ง​เดียว​ผลิต​ง่าย​กว่า แต่​รุ่น​ชาร์จ​ได้​และ​รุ่น​ชาร์จ​ตัวเอง​คุ้ม​กว่า​ใน​ระยะยาว\n"
+"\n"
+"ต้อง​จับ​อย่าง​ระมัดระวัง เพราะ​การ​โดน​ของเหลว (หรือ​หมดอายุ สำหรับ​รุ่น​ชาร์จ​ตัวเอง) อาจ​ทำให้​ระเบิด​ได้"
+
+#. STRINGS.CODEX.ELECTROBANK.SUBTITLE
+msgctxt "STRINGS.CODEX.ELECTROBANK.SUBTITLE"
+msgid "Portable Storage"
+msgstr "ที่เก็บ​แบบ​พกพา"
 
 #. STRINGS.CODEX.ELECTROBANK.TITLE
 msgctxt "STRINGS.CODEX.ELECTROBANK.TITLE"
 msgid "Power Banks"
 msgstr "พาวเวอร์​แบงก์"
 
+#. STRINGS.CODEX.EVACUATION.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.EVACUATION.BODY.CONTAINER1"
+msgid ""
+"<smallcaps>Attention all Gravitas personnel\n"
+"\n"
+"Evacuation protocol in effect\n"
+"\n"
+"Reactor meltdown in bioengineering imminent\n"
+"\n"
+"Remain calm and proceed to emergency exits\n"
+"\n"
+"Do not attempt to use elevators</smallcaps>"
+msgstr ""
+"<smallcaps>ประกาศ​ถึง​บุ​คลา​กรก​รา​วิ​ทัส​ทุกท่าน\n"
+"\n"
+"ขณะนี้​เข้าสู่​ขั้นตอน​การอพยพ\n"
+"\n"
+"เครื่อง​ปฏิกรณ์​ใน​ฝ่าย​วิศวกรรม​ชีวภาพ​กำลังจะ​หลอมละลาย\n"
+"\n"
+"โปรด​สงบสติอารมณ์​และ​ไป​ยัง​ทางออก​ฉุกเฉิน\n"
+"\n"
+"ห้าม​ใช้​ลิฟต์</smallcaps>"
+
 #. STRINGS.CODEX.EVACUATION.SUBTITLE
 msgctxt "STRINGS.CODEX.EVACUATION.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
+
+#. STRINGS.CODEX.EVACUATION.TITLE
+msgctxt "STRINGS.CODEX.EVACUATION.TITLE"
+msgid "! EVACUATION NOTICE !"
+msgstr "! ประกาศ​อพยพ !"
+
+#. STRINGS.CODEX.EXOBASES.HEADER_1
+msgctxt "STRINGS.CODEX.EXOBASES.HEADER_1"
+msgid "Building Rockets"
+msgstr "การ​สร้าง​จรวด"
+
+#. STRINGS.CODEX.EXOBASES.HEADER_2
+msgctxt "STRINGS.CODEX.EXOBASES.HEADER_2"
+msgid "Space Travel"
+msgstr "การ​เดิน​ทางใน​อวกาศ"
+
+#. STRINGS.CODEX.EXOBASES.HEADER_3
+msgctxt "STRINGS.CODEX.EXOBASES.HEADER_3"
+msgid "Space Transport"
+msgstr "การขนส่ง​ใน​อวกาศ"
+
+#. STRINGS.CODEX.EXOBASES.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_1"
+msgid ""
+"Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket Platform</link> and adding modules from the menu. All rockets will require an engine, a nosecone and a Command Module piloted by a Duplicant possessing the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill or higher. Note that the <link=\"HABITATMODULESMALL\">Solo Spacefarer Nosecone</link> functions as both a Command Module and a nosecone.\n"
+"\n"
+msgstr ""
+"การ​สร้าง​จรวด​ต้อง​เริ่ม​จาก​สร้าง<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> แล้ว​เพิ่ม​โมดูล​จาก​เมนู จรวด​ทุก​ลำ​ต้อง​มี​เครื่องยนต์ หัว​จรวด และ​โมดูล​บังคับการ​ที่​มี​ดู​พลิ​แคนต์​ผู้​มี​ทักษะ<link=\"ROCKETPILOTING1\">บังคับ​จรวด</link>ขึ้นไป​เป็น​นักบิน ทั้งนี้<link=\"HABITATMODULESMALL\">หัว​จรวด​นักเดินทาง​เดี่ยว</link>ทำหน้าที่​เป็น​ทั้ง​โมดูล​บังคับการ​และ​หัว​จรวด​ใน​ตัว\n"
+"\n"
+
+#. STRINGS.CODEX.EXOBASES.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_2"
+msgid ""
+"To scan space and see nearby intersteller destinations a <link=\"CLUSTERTELESCOPE\">Telescope</link> must first be built on the surface of a Planetoid. <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link> in orbit around a Planetoid, and <link=\"SCANNERMODULE\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\n"
+"\n"
+"Always check engine fuel to determine if your rocket can reach its destination, keeping in mind rockets can only land on Planetoids with a <link=\"LAUNCHPAD\">Rocket Platform</link> on it although some modules like <link=\"SCOUTMODULE\">Rover's Modules</link> and <link=\"PIONEERMODULE\">Trailblazer Modules</link> can be sent to the surface of a Planetoid from a rocket in orbit.\n"
+"\n"
+msgstr ""
+"การ​จะ​สแกน​อวกาศ​เพื่อ​ดู​จุดหมาย​ระหว่าง​ดวงดาว​ใกล้เคียง ต้อง​สร้าง<link=\"CLUSTERTELESCOPE\">กล้องโทรทรรศน์</link>บน​พื้นผิว​ดาว​ก่อน <link=\"ORBITALRESEARCHCENTER\">แล็บ​เก็บ​ข้อมูล​วงโคจร</link>ที่​โคจร​รอบ​ดาว และ<link=\"SCANNERMODULE\">โมดูล​ทำ​แผนที่</link>ที่​ติดกับ​จรวด​ก็​เปิดเผย​สถานที่​บน​แผนที่​ดวงดาว​ได้​เช่นกัน\n"
+"\n"
+"เช็ก​เชื้อเพลิง​เครื่องยนต์​ทุกครั้ง​ว่า​จรวด​ไป​ถึง​จุดหมาย​ได้​ไหม และ​อย่า​ลืม​ว่า​จรวด​ลง​จอด​ได้​เฉพาะ​ดาว​ที่​มี<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link>เท่านั้น แต่​บาง​โมดูล​อย่าง<link=\"SCOUTMODULE\">โมดูล​โร​เวอร์</link> (ยาน​สำรวจ) และ<link=\"PIONEERMODULE\">โมดูล​บุกเบิก</link>ส่ง​ลง​พื้นผิว​ดาว​จาก​จรวด​ที่อยู่​ใน​วงโคจร​ได้\n"
+"\n"
+
+#. STRINGS.CODEX.EXOBASES.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_3"
+msgid ""
+"Goods can be teleported between worlds with connected Supply Teleporters through <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Liquid</link>, and <link=\"ELEMENTSSOLID\">Solid</link> conduits.\n"
+"\n"
+"Planetoids not connected through Supply Teleporters can use rockets to transport goods, either by landing on a <link=\"LAUNCHPAD\">Rocket Platform</link> or a <link=\"ORBITALCARGOMODULE\">Orbital Cargo Module</link> deployed from a rocket in orbit.\n"
+"\n"
+"Additionally, the <link=\"RAILGUN\">Interplanetary Launcher</link> can send <link=\"RAILGUNPAYLOAD\">Interplanetary Payloads</link> full of goods through space but must be opened by a <link=\"RAILGUNPAYLOADOPENER\">Payload Opener</link>. A <link=\"LANDINGBEACON\">Targeting Beacon</link> can guide payloads and orbital modules to land at a specific location on a Planetoid surface."
+msgstr ""
+"ส่ง​ของ​ข้าม​โลก​ได้​ด้วย​เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) เสบียง​ที่​เชื่อม​กัน​ผ่าน​ท่อ<link=\"ELEMENTSGAS\">แก๊ส</link> <link=\"ELEMENTSLIQUID\">ของเหลว</link> และ<link=\"ELEMENTSSOLID\">ของแข็ง</link>\n"
+"\n"
+"ดาว​ที่​ไม่​ได้​เชื่อม​กัน​ด้วย​เครื่อง​เท​เล​พอร์ต​เสบียง​ใช้​จรวด​ขน​ของ​ได้ ทั้ง​ด้วย​การ​ลง​จอด​บน<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> หรือ​ปล่อย<link=\"ORBITALCARGOMODULE\">โมดูล​สินค้า​วงโคจร</link>ลง​มาจาก​จรวด​ใน​วงโคจร\n"
+"\n"
+"นอกจากนี้<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>ยัง​ยิง<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>ที่​บรรจุ​ของ​เต็ม​ไป​ข้าม​อวกาศ​ได้ แต่​ต้อง​เปิด​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link> ส่วน<link=\"LANDINGBEACON\">บี​คอน​นำทาง</link>ช่วย​นำ​สัมภาระ​และ​โมดูล​วงโคจร​ให้​ลง​จอด​ตรงจุด​ที่​ต้องการ​บน​พื้นผิว​ดาว​ได้"
+
+#. STRINGS.CODEX.EXOBASES.TITLE
+msgctxt "STRINGS.CODEX.EXOBASES.TITLE"
+msgid "<link=\"EXOBASES\">Space Travel</link>"
+msgstr "<link=\"EXOBASES\">การ​เดิน​ทางใน​อวกาศ</link>"
+
+#. STRINGS.CODEX.EXOBASESDLC1.HEADER_1
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.HEADER_1"
+msgid "Building Rockets"
+msgstr "การ​สร้าง​จรวด"
+
+#. STRINGS.CODEX.EXOBASESDLC1.HEADER_2
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.HEADER_2"
+msgid "Space Exploration"
+msgstr "การสำรวจ​อวกาศ"
+
+#. STRINGS.CODEX.EXOBASESDLC1.HEADER_3
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.HEADER_3"
+msgid "Crew Survival"
+msgstr "การ​เอาชีวิต​รอด​ของ​ลูกเรือ"
+
+#. STRINGS.CODEX.EXOBASESDLC1.HEADER_4
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.HEADER_4"
+msgid "Space Transport"
+msgstr "การขนส่ง​ใน​อวกาศ"
+
+#. STRINGS.CODEX.EXOBASESDLC1.HEADER_5
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.HEADER_5"
+msgid "Space Mining"
+msgstr "การ​ขุด​ใน​อวกาศ"
+
+#. STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_1"
+msgid ""
+"Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket Platform</link> and adding modules from the menu. All rockets will require an engine, a nosecone and a Command Module piloted by a Duplicant possessing the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill or higher. Note that the <link=\"HABITATMODULESMALL\">Solo Spacefarer Nosecone</link> functions as both a Command Module and a nosecone.\n"
+"\n"
+msgstr ""
+"การ​สร้าง​จรวด​ต้อง​เริ่ม​จาก​สร้าง<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> แล้ว​เพิ่ม​โมดูล​จาก​เมนู จรวด​ทุก​ลำ​ต้อง​มี​เครื่องยนต์ หัว​จรวด และ​โมดูล​บังคับการ​ที่​มี​ดู​พลิ​แคนต์​ผู้​มี​ทักษะ<link=\"ROCKETPILOTING1\">บังคับ​จรวด</link>ขึ้นไป​เป็น​นักบิน ทั้งนี้<link=\"HABITATMODULESMALL\">หัว​จรวด​นักเดินทาง​เดี่ยว</link>ทำหน้าที่​เป็น​ทั้ง​โมดูล​บังคับการ​และ​หัว​จรวด​ใน​ตัว\n"
+"\n"
+
+#. STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_2"
+msgid ""
+"To scan space and see nearby interstellar destinations a <link=\"CLUSTERTELESCOPE\">Telescope</link> must first be built on the surface of a Planetoid. Sending an <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link> into orbit around a Planetoid, and having a <link=\"SCANNERMODULE\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\n"
+"\n"
+"Always check engine fuel to determine if your rocket can reach its destination, keeping in mind that rockets can only land on Planetoids with a <link=\"LAUNCHPAD\">Rocket Platform</link> on it. Notably, some modules, like <link=\"SCOUTMODULE\">Rover's Modules</link> and <link=\"PIONEERMODULE\">Trailblazer Modules</link>, can be sent to the surface of a Planetoid from a rocket in orbit.\n"
+"\n"
+"If a rocket runs out of fuel before it reaches a viable landing site, it will become stranded."
+msgstr ""
+"การ​จะ​สแกน​อวกาศ​เพื่อ​ดู​จุดหมาย​ระหว่าง​ดวงดาว​ใกล้เคียง ต้อง​สร้าง<link=\"CLUSTERTELESCOPE\">กล้องโทรทรรศน์</link>บน​พื้นผิว​ดาว​ก่อน การ​ส่ง<link=\"ORBITALRESEARCHCENTER\">แล็บ​เก็บ​ข้อมูล​วงโคจร</link>ขึ้นไป​โคจร​รอบ​ดาว และ​การ​ติด<link=\"SCANNERMODULE\">โมดูล​ทำ​แผนที่</link>กับ​จรวด​ก็​เปิดเผย​สถานที่​บน​แผนที่​ดวงดาว​ได้​เช่นกัน\n"
+"\n"
+"เช็ก​เชื้อเพลิง​เครื่องยนต์​ทุกครั้ง​ว่า​จรวด​ไป​ถึง​จุดหมาย​ได้​ไหม และ​อย่า​ลืม​ว่า​จรวด​ลง​จอด​ได้​เฉพาะ​ดาว​ที่​มี<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link>เท่านั้น ที่​น่าสังเกต​คือ​บาง​โมดูล​อย่าง<link=\"SCOUTMODULE\">โมดูล​โร​เวอร์</link> (ยาน​สำรวจ) และ<link=\"PIONEERMODULE\">โมดูล​บุกเบิก</link>ส่ง​ลง​พื้นผิว​ดาว​จาก​จรวด​ที่อยู่​ใน​วงโคจร​ได้\n"
+"\n"
+"ถ้า​จรวด​เชื้อเพลิง​หมด​ก่อน​ถึง​จุด​ลง​จอด​ที่​ใช้ได้ มัน​จะ​ติดค้าง​อยู่​กลางทาง"
+
+#. STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_3
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_3"
+msgid ""
+"Rockets must be stocked with adequate <link=\"BUILDCATEGORYOXYGEN\">Oxygen</link> and <link=\"FOOD\">Food</link> to sustain crew members for the entirety of the journey. Shelf-stable rations that do not require refrigeration should be prioritized as onboard space is limited.\n"
+"\n"
+"Spending extended periods confined to a rocket interior also takes a toll on <link=\"MORALE\">Morale</link>, which can be mitigated by providing a <link=\"REQUIREMENTCLASSTOILETTYPE\">Toilet</link> to prevent messes, choosing higher-<link=\"DECOR\">Decor</link> furnishings, or dividing up the rocket's interior to benefit from <link=\"ROOMS\">Rooms</link> bonuses."
+msgstr ""
+"จรวด​ต้อง​มี<link=\"BUILDCATEGORYOXYGEN\">ออกซิเจน</link>และ<link=\"FOOD\">อาหาร</link>เพียงพอ​เลี้ยง​ลูกเรือ​ตลอด​การ​เดินทาง ควร​เลือก​เสบียง​เก็บ​ได้​นาน​ที่​ไม่ต้อง​แช่เย็น​ก่อน เพราะ​พื้นที่​บน​จรวด​มีจำกัด\n"
+"\n"
+"การ​ติด​อยู่​ใน​จรวด​นาน ๆ ยัง​บั่นทอน<link=\"MORALE\">ขวัญ​กำลังใจ</link>ด้วย ซึ่ง​บรรเทา​ได้​ด้วย​การ​ติดตั้ง<link=\"REQUIREMENTCLASSTOILETTYPE\">ห้องน้ำ</link>กัน​เลอะเทอะ เลือก​เฟอร์นิเจอร์​ที่<link=\"DECOR\">ความสวยงาม</link>สูง หรือ​แบ่ง​พื้นที่​ภายใน​จรวด​เพื่อ​รับ​โบนัส<link=\"ROOMS\">ห้อง</link>"
+
+#. STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_4
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_4"
+msgid ""
+"Goods can be teleported between worlds with connected Supply Teleporters through <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Liquid</link>, and <link=\"ELEMENTSSOLID\">Solid</link> conduits.\n"
+"\n"
+"Planetoids not connected through Supply Teleporters can use rockets to transport goods, either by landing on a <link=\"LAUNCHPAD\">Rocket Platform</link> or a <link=\"ORBITALCARGOMODULE\">Orbital Cargo Module</link> deployed from a rocket in orbit. Additionally, the <link=\"RAILGUN\">Interplanetary Launcher</link> can send <link=\"RAILGUNPAYLOAD\">Interplanetary Payloads</link> full of goods through space but must be opened by a <link=\"RAILGUNPAYLOADOPENER\">Payload Opener</link>. A <link=\"LANDINGBEACON\">Targeting Beacon</link> can guide payloads and orbital modules to land at a specific location on a Planetoid surface."
+msgstr ""
+"ส่ง​ของ​ข้าม​โลก​ได้​ด้วย​เครื่อง​เท​เล​พอร์ต (ย้าย​ร่าง​ข้าม​ที่) เสบียง​ที่​เชื่อม​กัน​ผ่าน​ท่อ<link=\"ELEMENTSGAS\">แก๊ส</link> <link=\"ELEMENTSLIQUID\">ของเหลว</link> และ<link=\"ELEMENTSSOLID\">ของแข็ง</link>\n"
+"\n"
+"ดาว​ที่​ไม่​ได้​เชื่อม​กัน​ด้วย​เครื่อง​เท​เล​พอร์ต​เสบียง​ใช้​จรวด​ขน​ของ​ได้ ทั้ง​ด้วย​การ​ลง​จอด​บน<link=\"LAUNCHPAD\">ฐาน​ปล่อย​จรวด</link> หรือ​ปล่อย<link=\"ORBITALCARGOMODULE\">โมดูล​สินค้า​วงโคจร</link>ลง​มาจาก​จรวด​ใน​วงโคจร นอกจากนี้<link=\"RAILGUN\">เครื่อง​ยิง​ข้าม​ดาว</link>ยัง​ยิง<link=\"RAILGUNPAYLOAD\">สัมภาระ​ข้าม​ดาว</link>ที่​บรรจุ​ของ​เต็ม​ไป​ข้าม​อวกาศ​ได้ แต่​ต้อง​เปิด​ด้วย<link=\"RAILGUNPAYLOADOPENER\">เครื่อง​เปิด​พัสดุ</link> ส่วน<link=\"LANDINGBEACON\">บี​คอน​นำทาง</link>ช่วย​นำ​สัมภาระ​และ​โมดูล​วงโคจร​ให้​ลง​จอด​ตรงจุด​ที่​ต้องการ​บน​พื้นผิว​ดาว​ได้"
+
+#. STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_5
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_5"
+msgid ""
+"Retrieving resources from space requires mining a target mass using a rocket equipped with a <link=\"NOSECONEHARVEST\">Drillcone</link>, then gathering the harvestable fragments with a cargo module designed for those materials. Cargo modules include <link=\"SOLIDCARGOBAYSMALL\">Cargo Bay</link>, <link=\"LIQUIDCARGOBAYCLUSTER\">Large Liquid Cargo Tank</link>, <link=\"GASCARGOBAYSMALL\">Gas Cargo Canister</link>, and more.\n"
+"\n"
+"Free-floating <link=\"SPACEARTIFACT\">Space Artifacts</link> and <link=\"DATABANK\">Data Bank</link>s can be gathered with an <link=\"ARTIFACTCARGOBAY\">Artifact Transport Module</link> or a <link=\"RESEARCHCLUSTERMODULE\">Research Module</link> respectively, no mining required."
+msgstr ""
+"การ​เก็บ​ทรัพยากร​จาก​อวกาศ​ต้อง​ขุด​เป้าหมาย​ด้วย​จรวด​ที่​ติด<link=\"NOSECONEHARVEST\">หัว​สว่าน</link> แล้ว​เก็บ​เศษ​ที่​เก็บเกี่ยว​ได้​ด้วย​โมดูล​สินค้า​ที่​ออกแบบ​มา​สำหรับ​วัสดุ​นั้น ๆ โมดูล​สินค้า​มี​ทั้ง<link=\"SOLIDCARGOBAYSMALL\">ช่อง​เก็บ​สินค้า</link> <link=\"LIQUIDCARGOBAYCLUSTER\">ถัง​เก็บ​ของเหลว​ขนส่ง​ใหญ่</link> <link=\"GASCARGOBAYSMALL\">ถัง​เก็บ​แก๊ส​ขนส่ง</link> และ​อื่น ๆ\n"
+"\n"
+"<link=\"SPACEARTIFACT\">โบราณวัตถุ​อวกาศ</link>และ<link=\"DATABANK\">แบงก์​ข้อมูล</link>ที่​ลอย​อยู่​อิสระ​เก็บ​ได้​ด้วย<link=\"ARTIFACTCARGOBAY\">โมดูล​ขนส่ง​โบราณวัตถุ</link>และ<link=\"RESEARCHCLUSTERMODULE\">โมดูล​วิจัย</link>ตามลำดับ ไม่ต้อง​ขุด​เลย"
+
+#. STRINGS.CODEX.EXOBASESDLC1.TITLE
+msgctxt "STRINGS.CODEX.EXOBASESDLC1.TITLE"
+msgid "<link=\"EXOBASES\">Space Travel</link>"
+msgstr "<link=\"EXOBASES\">การ​เดิน​ทางใน​อวกาศ</link>"
+
+#. STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1"
+msgid ""
+"Experiment 52B is an aggressive, yet sessile creature that produces 5 kilograms of sap per 1000 kcal it consumes.\n"
+"\n"
+"Duplicants would do well to maintain a safe distance when delivering food to Experiment 52B.\n"
+"\n"
+"While this creature may look like a tree, its taxonomy more closely resembles a giant land-based coral with cybernetic implants.\n"
+"\n"
+"Although normally lab-grown creatures would be given a better name than Experiment 52B, in this particular case the experimenting scientists weren't sure that they were done."
+msgstr ""
+"การทดลอง 52B เป็น​สิ่งมีชีวิต​ที่​ก้าวร้าว​แต่​เคลื่อนที่​ไม่​ได้ ผลิต​ยางไม้ 5 กิโลกรัม​ต่อ​ทุก 1000 kcal ที่​กิน​เข้าไป\n"
+"\n"
+"ดู​พลิ​แคนต์​ควร​เว้นระยะ​ปลอดภัย​ไว้​ตอน​เอา​อาหาร​ไป​ส่ง​ให้​การทดลอง 52B\n"
+"\n"
+"แม้​สิ่งมีชีวิต​นี้​จะ​ดูเหมือน​ต้นไม้ แต่​ทาง​อนุกรม​วิธาน​แล้ว​มัน​ใกล้เคียง​ปะการัง​บก​ยักษ์​ที่​ฝัง​อุปกรณ์​ไซเบอร์​เนติกส์​มากกว่า\n"
+"\n"
+"ปกติ​สิ่งมีชีวิต​ที่​เพาะ​ใน​แล็บ​จะ​ได้ชื่อ​ที่​ดีกว่า \"การทดลอง 52B\" แต่​กรณี​นี้​นักวิทยาศาสตร์​ผู้ทดลอง​ยัง​ไม่​แน่ใจ​ว่า​ทดลอง​เสร็จ​แล้ว​หรือยัง"
+
+#. STRINGS.CODEX.EXPERIMENT52B.SUBTITLE
+msgctxt "STRINGS.CODEX.EXPERIMENT52B.SUBTITLE"
+msgid "Plant?"
+msgstr "พืช...มั้ง?"
+
+#. STRINGS.CODEX.EXPERIMENT52B.TITLE
+msgctxt "STRINGS.CODEX.EXPERIMENT52B.TITLE"
+msgid "Experiment 52B"
+msgstr "การทดลอง 52B"
+
+#. STRINGS.CODEX.FARM_STATION_TOOLS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.FARM_STATION_TOOLS.BODY.CONTAINER1"
+msgid ""
+"Micronutrient fertilizer is a specialized <link=\"FERTILIZER\">Fertilizer</link> produced at the <link=\"FARMSTATION\">Farm Station</link>.\n"
+"\n"
+"It must be crafted by Duplicants with the <link=\"FARMING2\">Crop Tending</link> Skill, and helps <link=\"PLANTS\">Plants</link> grow faster."
+msgstr ""
+"ปุ๋ย​ธาตุอาหาร​รอง​คือ<link=\"FERTILIZER\">ปุ๋ย</link>ชนิด​พิเศษ​ที่​ผลิต​ที่<link=\"FARMSTATION\">สถานี​ฟาร์ม</link>\n"
+"\n"
+"ต้อง​ให้​ดู​พลิ​แคนต์​ที่​มี​ทักษะ<link=\"FARMING2\">ดูแล​พืชผล</link>เป็น​คน​ทำ และ​ช่วย​ให้<link=\"PLANTS\">พืช</link>โต​เร็ว​ขึ้น"
+
+#. STRINGS.CODEX.FARM_STATION_TOOLS.SUBTITLE
+msgctxt "STRINGS.CODEX.FARM_STATION_TOOLS.SUBTITLE"
+msgid "Specialized Farming Equipment"
+msgstr "อุปกรณ์การเกษตร​เฉพาะทาง"
+
+#. STRINGS.CODEX.FARM_STATION_TOOLS.TITLE
+msgctxt "STRINGS.CODEX.FARM_STATION_TOOLS.TITLE"
+msgid "Micronutrient Fertilizer"
+msgstr "ปุ๋ย​ธาตุอาหาร​รอง"
 
 #. STRINGS.CODEX.FEATHER_FABRIC.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.FEATHER_FABRIC.BODY.CONTAINER1"
@@ -33196,6 +34458,11 @@ msgstr "แท่ง​เคราติน​ดิบ ใช้​ผลิ�
 msgctxt "STRINGS.CODEX.FEATHER_FABRIC.SUBTITLE"
 msgid "Textile Ingredient"
 msgstr "วัตถุดิบ​สิ่งทอ"
+
+#. STRINGS.CODEX.FEATHER_FABRIC.TITLE
+msgctxt "STRINGS.CODEX.FEATHER_FABRIC.TITLE"
+msgid "Feather Fiber"
+msgstr "เส้นใย​ขนนก"
 
 #. STRINGS.CODEX.FISHFOOD.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.FISHFOOD.BODY.CONTAINER2"
@@ -33242,6 +34509,11 @@ msgctxt "STRINGS.CODEX.GINGER.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.GLOSSY.SUBTITLE
+msgctxt "STRINGS.CODEX.GLOSSY.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE"
 msgid "Edible Plant"
@@ -33272,6 +34544,11 @@ msgctxt "STRINGS.CODEX.HEADERS.BUILDINGREQUIREMENTS"
 msgid "Requirements"
 msgstr "ข้อกำหนด"
 
+#. STRINGS.CODEX.HEADERS.CRITTER_EXTRA_DIET_PRODUCTION
+msgctxt "STRINGS.CODEX.HEADERS.CRITTER_EXTRA_DIET_PRODUCTION"
+msgid "Dewdrip"
+msgstr "หยด​น้ำค้าง"
+
 #. STRINGS.CODEX.HEADERS.DIET
 msgctxt "STRINGS.CODEX.HEADERS.DIET"
 msgid "Diet"
@@ -33297,6 +34574,16 @@ msgctxt "STRINGS.CODEX.HEALTH.HEADER_1"
 msgid "Health"
 msgstr "พลัง​ชีวิต"
 
+#. STRINGS.CODEX.HEALTH.HEADER_4
+msgctxt "STRINGS.CODEX.HEALTH.HEADER_4"
+msgid "Tutorials"
+msgstr "บท​สอน"
+
+#. STRINGS.CODEX.HEALTH.HEADER_5
+msgctxt "STRINGS.CODEX.HEALTH.HEADER_5"
+msgid "Tutorials"
+msgstr "บท​สอน"
+
 #. STRINGS.CODEX.HEALTH.TITLE
 msgctxt "STRINGS.CODEX.HEALTH.TITLE"
 msgid "<link=\"HEALTH\">Health</link>"
@@ -33306,6 +34593,11 @@ msgstr "<link=\"HEALTH\">พลัง​ชีวิต</link>"
 msgctxt "STRINGS.CODEX.HEAT.HEADER_1"
 msgid "Temperature"
 msgstr "อุณหภูมิ"
+
+#. STRINGS.CODEX.HEAT.HEADER_6
+msgctxt "STRINGS.CODEX.HEAT.HEADER_6"
+msgid "Tutorials"
+msgstr "บท​สอน"
 
 #. STRINGS.CODEX.HEXALENT.SUBTITLE
 msgctxt "STRINGS.CODEX.HEXALENT.SUBTITLE"
@@ -33565,6 +34857,11 @@ msgctxt "STRINGS.CODEX.JUMPINGJOYA.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "ไม้ประดับ"
 
+#. STRINGS.CODEX.KELP.SUBTITLE
+msgctxt "STRINGS.CODEX.KELP.SUBTITLE"
+msgid "Plant Byproduct"
+msgstr "ผลพลอยได้​จาก​พืช"
+
 #. STRINGS.CODEX.LIGHT.HEADER_1
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
 msgid "Light"
@@ -33627,6 +34924,11 @@ msgctxt "STRINGS.CODEX.MOLE.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.MOLTEN.SUBTITLE
+msgctxt "STRINGS.CODEX.MOLTEN.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.MORALE.HEADER_1
 msgctxt "STRINGS.CODEX.MORALE.HEADER_1"
 msgid "Morale"
@@ -33641,6 +34943,20 @@ msgstr "นันทนาการ"
 msgctxt "STRINGS.CODEX.MORALE.HEADER_3"
 msgid "Overjoyed Responses"
 msgstr "อา​การตอน​ดีใจ​สุดขีด"
+
+#. STRINGS.CODEX.MORALE.HEADER_4
+msgctxt "STRINGS.CODEX.MORALE.HEADER_4"
+msgid "Tutorials"
+msgstr "บท​สอน"
+
+#. STRINGS.CODEX.MORALE.PARAGRAPH_4
+msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_4"
+msgid ""
+"To learn more, watch <link=\"VIDEOS13\">Video: Duplicant Morale</link> and see <link=\"MISCELLANEOUSTIPS2\">Tutorial: Stress Management</link>.\n"
+"\n"
+msgstr ""
+"อยากรู้​เพิ่มเติม ดู<link=\"VIDEOS13\">วิดีโอ: ขวัญ​กำลังใจ​ของ​ดู​พลิ​แคนต์</link> และ<link=\"MISCELLANEOUSTIPS2\">บท​สอน: การ​จัดการ​ความเครียด</link>\n"
+"\n"
 
 #. STRINGS.CODEX.MOSQUITO.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.MOSQUITO.SPECIES_SUBTITLE"
@@ -33667,10 +34983,20 @@ msgctxt "STRINGS.CODEX.MYSTERYAWARD.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
 
+#. STRINGS.CODEX.NEGA.SUBTITLE
+msgctxt "STRINGS.CODEX.NEGA.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.NOSHBEAN.SUBTITLE
 msgctxt "STRINGS.CODEX.NOSHBEAN.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.OXYCORAL.SUBTITLE
+msgctxt "STRINGS.CODEX.OXYCORAL.SUBTITLE"
+msgid "Aquatic Organism"
+msgstr "สิ่งมีชีวิต​ใน​น้ำ"
 
 #. STRINGS.CODEX.OXYFERN.SUBTITLE
 msgctxt "STRINGS.CODEX.OXYFERN.SUBTITLE"
@@ -33697,6 +35023,11 @@ msgctxt "STRINGS.CODEX.PARROTFISH.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE
+msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE"
+msgid "Edible Spice Plant"
+msgstr "พืช​เครื่องเทศ​กิน​ได้"
+
 #. STRINGS.CODEX.PIP.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PIP.SPECIES_SUBTITLE"
 msgid "Critter Species"
@@ -33707,10 +35038,20 @@ msgctxt "STRINGS.CODEX.PIP.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.PLACID.SUBTITLE
+msgctxt "STRINGS.CODEX.PLACID.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.PLANETARYECHOES.SUBTITLE
 msgctxt "STRINGS.CODEX.PLANETARYECHOES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.PLANKTONCORAL.SUBTITLE
+msgctxt "STRINGS.CODEX.PLANKTONCORAL.SUBTITLE"
+msgid "Aquatic Organism"
+msgstr "สิ่งมีชีวิต​ใน​น้ำ"
 
 #. STRINGS.CODEX.PLUGSLUG.SUBTITLE
 msgctxt "STRINGS.CODEX.PLUGSLUG.SUBTITLE"
@@ -33741,6 +35082,11 @@ msgstr "วิดีโอ: วงจรไฟฟ้า"
 msgctxt "STRINGS.CODEX.PREHISTORICPACU.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.PRINCE.SUBTITLE
+msgctxt "STRINGS.CODEX.PRINCE.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
 
 #. STRINGS.CODEX.PRIORITY.HEADER_4
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_4"
@@ -33827,6 +35173,16 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE"
 msgid "Toilets"
 msgstr "ห้องน้ำ"
 
+#. STRINGS.CODEX.ROYAL.SUBTITLE
+msgctxt "STRINGS.CODEX.ROYAL.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.SAGE.SUBTITLE
+msgctxt "STRINGS.CODEX.SAGE.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.SALTYSTICKSPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.SALTYSTICKSPLANT.SUBTITLE"
 msgid "Edible Plant"
@@ -33836,6 +35192,11 @@ msgstr "พืช​กิน​ได้"
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.SEAFAIRY.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SEAFAIRY.SPECIES_SUBTITLE"
+msgid "Aquatic Organism"
+msgstr "สิ่งมีชีวิต​ใน​น้ำ"
 
 #. STRINGS.CODEX.SEAFAIRY.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAFAIRY.SUBTITLE"
@@ -33857,6 +35218,11 @@ msgctxt "STRINGS.CODEX.SEAL.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.SEATREE.SUBTITLE
+msgctxt "STRINGS.CODEX.SEATREE.SUBTITLE"
+msgid "Cultivable Plant"
+msgstr "พืช​ที่​ปลูก​ได้"
+
 #. STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE"
 msgid "Critter Species"
@@ -33866,6 +35232,11 @@ msgstr "สายพันธุ์​สัตว์"
 msgctxt "STRINGS.CODEX.SEATURTLE.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.SEAURCHIN.SUBTITLE
+msgctxt "STRINGS.CODEX.SEAURCHIN.SUBTITLE"
+msgid "Aquatic Organism"
+msgstr "สิ่งมีชีวิต​ใน​น้ำ"
 
 #. STRINGS.CODEX.SHERBERRY.SUBTITLE
 msgctxt "STRINGS.CODEX.SHERBERRY.SUBTITLE"
@@ -33897,6 +35268,11 @@ msgctxt "STRINGS.CODEX.SLICKSTER.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.SMOOTH.SUBTITLE
+msgctxt "STRINGS.CODEX.SMOOTH.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE"
 msgid "Critter Species"
@@ -33907,6 +35283,21 @@ msgctxt "STRINGS.CODEX.SNAIL.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.SNAIL_IRON_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.SNAIL_IRON_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.SNAIL_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.SNAIL_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.SNAILIRON.SUBTITLE
+msgctxt "STRINGS.CODEX.SNAILIRON.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.SPACETREE.SUBTITLE
 msgctxt "STRINGS.CODEX.SPACETREE.SUBTITLE"
 msgid "Edible Plant"
@@ -33916,6 +35307,11 @@ msgstr "พืช​กิน​ได้"
 msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SQUEAKY.SUBTITLE
+msgctxt "STRINGS.CODEX.SQUEAKY.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
 
 #. STRINGS.CODEX.SQUID.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SQUID.SPECIES_SUBTITLE"
@@ -33946,6 +35342,11 @@ msgstr "สายพันธุ์​สัตว์"
 msgctxt "STRINGS.CODEX.STEGO.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.STONE.SUBTITLE
+msgctxt "STRINGS.CODEX.STONE.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
 
 #. STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON"
@@ -34097,6 +35498,16 @@ msgctxt "STRINGS.CODEX.STRESS.HEADER_1"
 msgid "Stress"
 msgstr "ความเครียด"
 
+#. STRINGS.CODEX.STRESS.HEADER_3
+msgctxt "STRINGS.CODEX.STRESS.HEADER_3"
+msgid "Tutorials"
+msgstr "บท​สอน"
+
+#. STRINGS.CODEX.SUNNY.SUBTITLE
+msgctxt "STRINGS.CODEX.SUNNY.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.SWAMPCHARD.SUBTITLE
 msgctxt "STRINGS.CODEX.SWAMPCHARD.SUBTITLE"
 msgid "Edible Plant"
@@ -34130,6 +35541,71 @@ msgctxt "STRINGS.CODEX.TRANQUILTOES.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "ไม้ประดับ"
 
+#. STRINGS.CODEX.TROPICAL.SUBTITLE
+msgctxt "STRINGS.CODEX.TROPICAL.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.TUBEWORM.SUBTITLE
+msgctxt "STRINGS.CODEX.TUBEWORM.SUBTITLE"
+msgid "Cultivable Plant"
+msgstr "พืช​ที่​ปลูก​ได้"
+
+#. STRINGS.CODEX.URCHIN.SUBTITLE
+msgctxt "STRINGS.CODEX.URCHIN.SUBTITLE"
+msgid "Aquatic Organism"
+msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_GAS.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_GAS.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_GOLD.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_GOLD.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_HUG.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_HUG.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_LIQUID.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_LIQUID.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_WOOD.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_WOOD.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.VARIANT_WOOD_SHELL.SUBTITLE
+msgctxt "STRINGS.CODEX.VARIANT_WOOD_SHELL.SUBTITLE"
+msgid "Critter Byproduct"
+msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.VITAL.SUBTITLE
+msgctxt "STRINGS.CODEX.VITAL.SUBTITLE"
+msgid "Critter Morph"
+msgstr "ร่าง​แปร​ของ​สัตว์"
+
 #. STRINGS.CODEX.WATERCUPS.SUBTITLE
 msgctxt "STRINGS.CODEX.WATERCUPS.SUBTITLE"
 msgid "Decorative Plant"
@@ -34139,6 +35615,11 @@ msgstr "ไม้ประดับ"
 msgctxt "STRINGS.CODEX.WATERWEED.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.WHEEZEWORT.SUBTITLE
+msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
+msgid "Plant?"
+msgstr "พืช...มั้ง?"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE"
@@ -69428,12 +70909,12 @@ msgstr "<link=\"FOOD\">อาหาร</link>เหล่านี้​เร�
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
 msgid "The colony is entering a cloud of gas"
-msgstr "อาณานิคม​กำลัง​เข้าสู่​กลุ่ม​เมฆ​ก๊าซ"
+msgstr "อาณานิคม​กำลัง​เข้าสู่​กลุ่ม​เมฆ​แก๊ส"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME"
 msgid "The gas cloud is receding"
-msgstr "กลุ่ม​เมฆ​ก๊าซ​กำลัง​ถอยห่าง"
+msgstr "กลุ่ม​เมฆ​แก๊ส​กำลัง​ถอยห่าง"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
@@ -69443,17 +70924,17 @@ msgstr "อาณานิคม​กลับ​สู่​อวกาศ​
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
 msgid "The gas cloud is at its densest point"
-msgstr "กลุ่ม​เมฆ​ก๊าซ​หนาแน่น​ที่สุด​แล้ว"
+msgstr "กลุ่ม​เมฆ​แก๊ส​หนาแน่น​ที่สุด​แล้ว"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME"
 msgid "A gas cloud approaches"
-msgstr "กลุ่ม​เมฆ​ก๊าซ​กำลัง​เข้ามา"
+msgstr "กลุ่ม​เมฆ​แก๊ส​กำลัง​เข้ามา"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP"
 msgid "A toxic <style=\"KKeyword\">Gas</style> cloud will soon envelop the colony"
-msgstr "กลุ่ม​เมฆ<style=\"KKeyword\">ก๊าซ</style>พิษ​กำลังจะ​ปกคลุม​อาณานิคม"
+msgstr "กลุ่ม​เมฆ<style=\"KKeyword\">แก๊ส</style>พิษ​กำลังจะ​ปกคลุม​อาณานิคม"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME"
@@ -69999,7 +71480,7 @@ msgstr ""
 "\n"
 "สิ่งก่อสร้าง​มัก​ปล่อย​น้ำ​ปนเปื้อน​ออกมา ซึ่ง​ต้อง​ไหล​ออก​ทาง​ท่อ​จาก​ท่อ​ขาออก จากนั้น​จะ​ปล่อยทิ้ง​ทาง​ช่อง​ระบาย​ของเหลว หรือ​กรอง​ผ่าน​ตะแกรง​กรอง​น้ำ​เพื่อ​เอา​กลับมา​ใช้​ก็ได้\n"
 "\n"
-"ระบบ​ระบายอากาศ​ใช้​หลัก​เดียวกัน​กับ​ก๊าซ เลือก​โอเวอร์​เลย์​ระบายอากาศ {Hotkey/Overlay7} เพื่อ​ดู​ว่า​ก๊าซ​ถูก​เคลื่อนย้าย​ไป​ทั่ว​อาณานิคม​อย่างไร"
+"ระบบ​ระบายอากาศ​ใช้​หลัก​เดียวกัน​กับ​แก๊ส เลือก​โอเวอร์​เลย์​ระบายอากาศ {Hotkey/Overlay7} เพื่อ​ดู​ว่า​แก๊ส​ถูก​เคลื่อนย้าย​ไป​ทั่ว​อาณานิคม​อย่างไร"
 
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME"
@@ -70351,7 +71832,7 @@ msgid ""
 "\n"
 "Duplicants will equip a suit when they walk past the checkpoint in the chosen direction, and will unequip their suit when walking back the opposite way."
 msgstr ""
-"ใส่<link=\"ATMOSUIT\">ชุด​อัต​โม</link> (ชุด​กัน​แก๊ส) เพื่อ​ปกป้อง​ดู​พลิ​แคนต์​จาก​อันตราย​ใน​สภาพแวดล้อม เช่น<link=\"HEAT\">ความร้อน</link>สุดขีด <link=\"DISEASE\">เชื้อโรค</link>ใน​อากาศ หรือ<link=\"ELEMENTSGAS\">ก๊าซ</link>ที่​หายใจ​ไม่​ได้ การ​จะ​ใช้​ชุด​เหล่านี้ ฉัน​ต้อง​ต่อ<link=\"SUITLOCKER\">แท่น​ชุด​อัต​โม</link>เข้ากับ<link=\"SUITMARKER\">ด่าน​ชุด​อัต​โม</link> แล้ว​เก็บ​ชุด​ไว้​ข้างใน​หนึ่ง​ชุด\n"
+"ใส่<link=\"ATMOSUIT\">ชุด​อัต​โม</link> (ชุด​กัน​แก๊ส) เพื่อ​ปกป้อง​ดู​พลิ​แคนต์​จาก​อันตราย​ใน​สภาพแวดล้อม เช่น<link=\"HEAT\">ความร้อน</link>สุดขีด <link=\"DISEASE\">เชื้อโรค</link>ใน​อากาศ หรือ<link=\"ELEMENTSGAS\">แก๊ส</link>ที่​หายใจ​ไม่​ได้ การ​จะ​ใช้​ชุด​เหล่านี้ ฉัน​ต้อง​ต่อ<link=\"SUITLOCKER\">แท่น​ชุด​อัต​โม</link>เข้ากับ<link=\"SUITMARKER\">ด่าน​ชุด​อัต​โม</link> แล้ว​เก็บ​ชุด​ไว้​ข้างใน​หนึ่ง​ชุด\n"
 "\n"
 "ดู​พลิ​แคนต์​จะ​ใส่​ชุด​เมื่อ​เดินผ่าน​ด่าน​ไป​ใน​ทิศ​ที่​เลือก และ​จะ​ถอด​ชุด​เมื่อ​เดิน​กลับ​ทาง​ตรงข้าม"
 
@@ -71158,7 +72639,7 @@ msgstr "สัมผัส​อวกาศ"
 #. STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP"
 msgid "This region is exposed to the vacuum of space and will result in the loss of <style=\"KKeyword\">Gas</style> and <style=\"KKeyword\">Liquid</style> resources"
-msgstr "บริเวณ​นี้​เปิด​สู่​สุญญากาศ​ของ​อวกาศ และ​จะ​ทำให้​สูญเสีย​ทรัพยากร<style=\"KKeyword\">ก๊าซ</style>และ<style=\"KKeyword\">ของเหลว</style>"
+msgstr "บริเวณ​นี้​เปิด​สู่​สุญญากาศ​ของ​อวกาศ และ​จะ​ทำให้​สูญเสีย​ทรัพยากร<style=\"KKeyword\">แก๊ส</style>และ<style=\"KKeyword\">ของเหลว</style>"
 
 #. STRINGS.MISC.STATUSITEMS.SPICEDFOOD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPICEDFOOD.NAME"
@@ -71300,7 +72781,7 @@ msgstr "เฉื่อย"
 #. STRINGS.MISC.STATUSITEMS.SUBLIMATIONOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SUBLIMATIONOVERPRESSURE.TOOLTIP"
 msgid "Environmental <style=\"KKeyword\">Gas Pressure</style> is too high for this {Element} deposit to emit {SubElement}"
-msgstr "<style=\"KKeyword\">แรงดัน​ก๊าซ</style>รอบ ๆ สูง​เกินไป​จน​แหล่ง {Element} นี้​ปล่อย {SubElement} ไม่​ได้"
+msgstr "<style=\"KKeyword\">แรงดัน​แก๊ส</style>รอบ ๆ สูง​เกินไป​จน​แหล่ง {Element} นี้​ปล่อย {SubElement} ไม่​ได้"
 
 #. STRINGS.MISC.STATUSITEMS.TEARCLOSED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.TEARCLOSED.NAME"
@@ -71382,7 +72863,7 @@ msgstr "กำลัง​ปล่อย {ELEMENT_NAME}: {RATE} ที่ {TEMP
 #. STRINGS.MISC.STATUSITEMS.UNDERWATERVENTEMITING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.UNDERWATERVENTEMITING.TOOLTIP"
 msgid "This geyser is releasing stored <style=\"KKeyword\">Gas</style>"
-msgstr "น้ำพุ​นี้​กำลัง​ปล่อย<style=\"KKeyword\">ก๊าซ</style>ที่​สะสม​ไว้"
+msgstr "น้ำพุ​นี้​กำลัง​ปล่อย<style=\"KKeyword\">แก๊ส</style>ที่​สะสม​ไว้"
 
 #. STRINGS.MISC.STATUSITEMS.USING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
@@ -71583,12 +73064,12 @@ msgstr "ถ่านหิน"
 #. STRINGS.MISC.TAGS.COMBUSTIBLEGAS
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLEGAS"
 msgid "<link=\"COMBUSTIBLEGAS\">Combustible Gas</link>"
-msgstr "<link=\"COMBUSTIBLEGAS\">ก๊าซ​ติดไฟ</link>"
+msgstr "<link=\"COMBUSTIBLEGAS\">แก๊ส​ติดไฟ</link>"
 
 #. STRINGS.MISC.TAGS.COMBUSTIBLEGAS_DESC
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLEGAS_DESC"
 msgid "Combustible Gases can be burned as fuel to be used in the production of <link=\"POWER\">Power</link> and <link=\"FOOD\">Food</link>."
-msgstr "ก๊าซ​ติดไฟ​เผา​เป็น​เชื้อเพลิง​เพื่อ​ผลิต<link=\"POWER\">พลังงาน</link>และ<link=\"FOOD\">อาหาร</link>ได้"
+msgstr "แก๊ส​ติดไฟ​เผา​เป็น​เชื้อเพลิง​เพื่อ​ผลิต<link=\"POWER\">พลังงาน</link>และ<link=\"FOOD\">อาหาร</link>ได้"
 
 #. STRINGS.MISC.TAGS.COMBUSTIBLELIQUID
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID"
@@ -71803,7 +73284,7 @@ msgid ""
 "\n"
 "They are consumables that will be transformed by the filtering process. For example, <link=\"SAND\">Sand</link> that has been used to filter <link=\"DIRTYWATER\">Polluted Water</link> will become <link=\"TOXICSAND\">Polluted Dirt</link>."
 msgstr ""
-"วัสดุ​กรอง​คือ​วัสดุ​ที่​ใช้​แยก<link=\"ELEMENTSGAS\">ก๊าซ</link>หรือ<link=\"ELEMENTSLIQUID\">ของเหลว</link>บริสุทธิ์​ออกจาก​แบบ​ปนเปื้อน\n"
+"วัสดุ​กรอง​คือ​วัสดุ​ที่​ใช้​แยก<link=\"ELEMENTSGAS\">แก๊ส</link>หรือ<link=\"ELEMENTSLIQUID\">ของเหลว</link>บริสุทธิ์​ออกจาก​แบบ​ปนเปื้อน\n"
 "\n"
 "เป็น​ของ​สิ้นเปลือง​ที่จะ​เปลี่ยนสภาพ​ระหว่าง​กรอง เช่น <link=\"SAND\">ทราย</link>ที่​ใช้​กรอง<link=\"DIRTYWATER\">น้ำ​ปนเปื้อน</link>จะ​กลายเป็น<link=\"TOXICSAND\">ดิน​ปนเปื้อน</link>"
 
@@ -72290,14 +73771,14 @@ msgid ""
 "\n"
 "This passive conversion persists when the element is left in storage."
 msgstr ""
-"ธาตุ​ระเหิด​คือ​กลุ่ม​ธาตุ<link=\"ELEMENTSSOLID\">ของแข็ง</link>ที่​เปลี่ยนเป็น​สถานะ<link=\"ELEMENTSGAS\">ก๊าซ</link>เอง​โดย​ไม่ต้อง​ทำ​อะไร เมื่อ​ปล่อย​ก๊าซ​หมด​แล้ว จะ​ไม่​เหลือ​ร่องรอย​ของแข็ง​เดิม​เลย\n"
+"ธาตุ​ระเหิด​คือ​กลุ่ม​ธาตุ<link=\"ELEMENTSSOLID\">ของแข็ง</link>ที่​เปลี่ยนเป็น​สถานะ<link=\"ELEMENTSGAS\">แก๊ส</link>เอง​โดย​ไม่ต้อง​ทำ​อะไร เมื่อ​ปล่อย​แก๊ส​หมด​แล้ว จะ​ไม่​เหลือ​ร่องรอย​ของแข็ง​เดิม​เลย\n"
 "\n"
 "การ​เปลี่ยน​สถานะ​นี้​ยัง​เกิด​ต่อ​แม้​ธาตุ​ถูก​เก็บ​ไว้​ใน​ที่เก็บ"
 
 #. STRINGS.MISC.TAGS.SUBLIMATING_SUBHEADER
 msgctxt "STRINGS.MISC.TAGS.SUBLIMATING_SUBHEADER"
 msgid "Off-Gassing Elements"
-msgstr "ธาตุ​ปล่อย​ก๊าซ"
+msgstr "ธาตุ​ปล่อย​แก๊ส"
 
 #. STRINGS.MISC.TAGS.SUIT
 msgctxt "STRINGS.MISC.TAGS.SUIT"
