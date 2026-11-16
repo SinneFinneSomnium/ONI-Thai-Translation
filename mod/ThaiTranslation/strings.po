@@ -38335,7 +38335,7 @@ msgid ""
 "In the aftermath of a successful mission--be it the completion of a story trait or the survival of some epic event--my Duplicants sometimes form sentimental attachments to an item associated with that chapter of their lives.\n"
 "\n"
 msgstr ""
-"หลัง​ภารกิจ​สำเร็จ ไม่​ว่า​จะ​เป็นการ​ทำ​เนื้อเรื่อง​พิเศษ​จน​จบ หรือ​การ​รอดชีวิต​จาก​เหตุการณ์​มหากาพย์ ดู​พลิ​แคนต์​ของ​ฉัน​บางครั้ง​ก็​ผูกพัน​กับ​สิ่งของ​ที่​เกี่ยวข้อง​กับ​บท​นั้น​ใน​ชีวิต​พวกเขา\n"
+"หลัง​ภารกิจ​สำเร็จ ไม่​ว่า​จะ​เป็นการ​ทำ​ลักษณะ​เรื่องราว​จน​จบ หรือ​การ​รอดชีวิต​จาก​เหตุการณ์​มหากาพย์ ดู​พลิ​แคนต์​ของ​ฉัน​บางครั้ง​ก็​ผูกพัน​กับ​สิ่งของ​ที่​เกี่ยวข้อง​กับ​บท​นั้น​ใน​ชีวิต​พวกเขา\n"
 "\n"
 
 #. STRINGS.CODEX.KEEPSAKE.TITLE
@@ -41383,155 +41383,658 @@ msgctxt "STRINGS.CODEX.SAGE.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Sage\" Hatch variant</smallcaps>"
 msgstr "<smallcaps>ใน​ภาพ: แฮตช์​สายพันธุ์​ย่อย \"เส​จ\"</smallcaps>"
 
+#. STRINGS.CODEX.SAGE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.SAGE.BODY.CONTAINER2"
+msgid ""
+"It is difficult to classify the Hatch's diet as the term \"omnivore\" does not extend to the non-organic materials it is capable of ingesting.\n"
+"\n"
+"A more appropriate term is \"totumvore\", given that it can consume and find nutritional value in nearly every known substance."
+msgstr ""
+"การจัดประเภท​อาหาร​ของ​แฮตช์​เป็นเรื่อง​ยาก เพราะ​คำ​ว่า \"สัตว์​กิน​ทั้ง​พืช​และ​สัตว์\" ไม่​ครอบคลุม​วัสดุ​อนินทรีย์​ที่​มัน​กิน​ได้\n"
+"\n"
+"คำ​ที่​เหมาะ​กว่า​คือ \"สัตว์​กิน​ทุกสิ่ง\" เพราะ​มัน​กิน​และ​ได้​คุณค่า​ทาง​อาหาร​จาก​สาร​แทบ​ทุกชนิด​ที่​รู้จัก"
+
 #. STRINGS.CODEX.SAGE.SUBTITLE
 msgctxt "STRINGS.CODEX.SAGE.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.SAGE.TITLE
+msgctxt "STRINGS.CODEX.SAGE.TITLE"
+msgid "Sage Hatch"
+msgstr "แฮตช์​เส​จ"
+
+#. STRINGS.CODEX.SALTYSTICKSPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SALTYSTICKSPLANT.BODY.CONTAINER1"
+msgid ""
+"The Sodicane plant is a hardy member of the Poaceae family of grasses, well-suited to amateur farmers in warm climates.\n"
+"\n"
+"While the crystallized mineral deposits on its stalks are quite palatable, they can only be eaten by gnawing on the unfortunately fibrous stalk."
+msgstr ""
+"อ้อย​โซดา​เป็น​พืช​ทนทาน​ใน​วงศ์​หญ้า Poaceae เหมาะกับ​ชาวไร่​มือสมัครเล่น​ใน​เขต​อากาศ​อบอุ่น\n"
+"\n"
+"แม้​แร่​ตกผลึก​บน​ลำต้น​จะ​รสชาติ​ดี​ทีเดียว แต่​จะ​กิน​ได้​ก็​ต้อง​แทะ​ลำต้น​ที่​น่าเสียดาย​ว่า​เหนียว​เป็น​เส้นใย​สุด ๆ"
 
 #. STRINGS.CODEX.SALTYSTICKSPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.SALTYSTICKSPLANT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.SALTYSTICKSPLANT.TITLE
+msgctxt "STRINGS.CODEX.SALTYSTICKSPLANT.TITLE"
+msgid "Sodicane"
+msgstr "อ้อย​โซดา"
+
+#. STRINGS.CODEX.SATURNCRITTERTRAP.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SATURNCRITTERTRAP.BODY.CONTAINER1"
+msgid ""
+"The Saturn Critter Trap plant is a carnivorous plant that lays in wait for unsuspecting critters to happen by, then traps them in its mouth for consumption.\n"
+"\n"
+"The Saturn Trap Plant's predatory mechanism is reflective of the harsh radioactive habitat it resides in.\n"
+"\n"
+"Once trapped in the deadly maw of the plant, creatures are gently asphyxiated then digested through powerful acidic enzymes which coat the inner sides of the Saturn Trap Plant's leaves."
+msgstr ""
+"ต้น​กับดัก​สัตว์​แซ​ตเทิร์น​เป็น​พืชกินสัตว์​ที่​ซุ่ม​รอ​สัตว์​ไม่​ทัน​ระวัง​เดินผ่าน​มา แล้ว​งับ​มัน​ไว้​ใน​ปาก​เพื่อ​กิน\n"
+"\n"
+"กลไก​ล่า​เหยื่อ​ของ​ต้น​กับดัก​แซ​ตเทิร์น​สะท้อน​ถึง​ถิ่น​อาศัย​กัมมันตรังสี​อัน​โหดร้าย​ที่​มัน​อยู่\n"
+"\n"
+"เมื่อ​ติด​อยู่​ใน​ปาก​มรณะ​ของ​พืช​นี้​แล้ว สัตว์​จะ​ค่อย ๆ ขาด​อากาศ​หายใจ​อย่าง​นุ่มนวล แล้ว​ถูก​ย่อย​ด้วย​เอนไซม์​กรด​รุนแรง​ที่​เคลือบ​ด้านใน​ใบ​ของ​ต้น​กับดัก​แซ​ตเทิร์น"
+
 #. STRINGS.CODEX.SATURNCRITTERTRAP.SUBTITLE
 msgctxt "STRINGS.CODEX.SATURNCRITTERTRAP.SUBTITLE"
 msgid "Carnivorous Plant"
 msgstr "พืชกินสัตว์"
+
+#. STRINGS.CODEX.SATURNCRITTERTRAP.TITLE
+msgctxt "STRINGS.CODEX.SATURNCRITTERTRAP.TITLE"
+msgid "Saturn Critter Trap"
+msgstr "ต้น​กับดัก​สัตว์​แซ​ตเทิร์น"
+
+#. STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER1"
+msgid "<b>Party Time for Local Students</b>"
+msgstr "<b>ปาร์ตี้​ของ​นักศึกษา​ท้องถิ่น</b>"
+
+#. STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER2"
+msgid ""
+"Students at the Elion University of Science and Technology have held an unconventional party this weekend.\n"
+"\n"
+"While their peers may have been out until the wee hours wearing lampshades on their heads and drawing eyebrows on sleeping colleagues, students Jackie Stern and Olivia Broussard spent the weekend in their dorm, refreshments and decorations ready, waiting for the arrival of the guests of honor: themselves.\n"
+"\n"
+"The two prospective STEM students, who study theoretical physics with a focus on the workings of space time, conducted the experiment under the assumption that, were their theories about the malleability of space time to ever come to fruition, their future selves could travel back in time to greet them at the party, proving the existence of time travel.\n"
+"\n"
+"They weren't inconsiderate of their future selves' busy schedules though; should the guests of honor be unable to attend, they were encouraged to send back a message using the codeword \"Hourglass\" to communicate that, while they certainly wanted to come, they were simply unable.\n"
+"\n"
+"Sadly no one RSVP'd or arrived to the party, but that did not dishearten Olivia or Jackie.\n"
+"\n"
+"As Olivia put it, \"It just meant more snacks for us!\""
+msgstr ""
+"นักศึกษา​มหาวิทยาลัย​วิทยาศาสตร์​และ​เทคโนโลยี​เอ​ลิ​ออน​จัด​ปาร์ตี้​แหวกแนว​เมื่อ​สุดสัปดาห์​ที่ผ่านมา\n"
+"\n"
+"ขณะที่​เพื่อน ๆ อาจ​ออก​ไปเที่ยว​จน​ดึกดื่น เอา​โป๊ะ​ไฟ​ครอบ​หัว​และ​วาด​คิ้ว​บน​หน้า​เพื่อน​ที่​หลับ​อยู่ แจ็ก​กี้ สเติร์น และ​โอ​ลิ​เวีย บ​รู​ซาร์​ด กลับ​ใช้​สุดสัปดาห์​อยู่​ใน​หอพัก เตรียม​ของว่าง​และ​ของ​ตกแต่ง​ไว้​พร้อม รอ​การ​มาถึง​ของ​แขก​ผู้มีเกียรติ: ตัว​พวก​เธอ​เอง\n"
+"\n"
+"ว่าที่​นักศึกษา​สาย STEM ทั้งสอง ซึ่ง​เรียน​ฟิสิกส์​ทฤษฎี​โดย​เน้น​การทำงาน​ของ​กาลอวกาศ ทำ​การทดลอง​นี้​บน​สมมติฐาน​ที่ว่า ถ้า​ทฤษฎี​เรื่อง​กาลอวกาศ​ที่​ยืดหยุ่น​ได้​ของ​พวก​เธอ​เป็นจริง​ขึ้น​มา​สักวัน ตัว​พวก​เธอ​ในอนาคต​ก็​จะ​ย้อน​เวลา​กลับมา​ทักทาย​ใน​ปาร์ตี้​ได้ ซึ่ง​เป็น​การพิสูจน์​ว่าการ​เดิน​ทางข้าม​เวลา​มี​อยู่​จริง\n"
+"\n"
+"แต่​ทั้งคู่​ก็​ไม่​ได้​ลืม​นึกถึง​ตาราง​งาน​แน่น​เอี้ยด​ของ​ตัวเอง​ในอนาคต​นะ ถ้า​แขก​ผู้มีเกียรติ​มา​ไม่​ได้ ก็​ขอให้​ส่ง​ข้อความ​กลับมา​ด้วย​รหัสลับ \"นาฬิกาทราย\" เพื่อ​บอ​กว่า​ถึง​อยาก​มา​ใจจะขาด แต่​ก็​มา​ไม่​ได้​จริง ๆ\n"
+"\n"
+"น่าเศร้า​ที่​ไม่​มี​ใคร​ตอบรับ​หรือ​มา​ร่วมงาน​เลย แต่​นั่น​ก็​ไม่​ทำให้​โอ​ลิ​เวีย​หรือ​แจ็ก​กี้​ท้อใจ\n"
+"\n"
+"อย่าง​ที่​โอ​ลิ​เวีย​บอก \"ก็​แค่​ได้​ขนม​เยอะ​ขึ้น​สำหรับ​เรา​ไง!\""
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
 
+#. STRINGS.CODEX.SCHOOLNEWSPAPER.TITLE
+msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.TITLE"
+msgid "Campus Newspaper Article"
+msgstr "บทความ​หนังสือพิมพ์​มหาวิทยาลัย"
+
+#. STRINGS.CODEX.SEAFAIRY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SEAFAIRY.BODY.CONTAINER1"
+msgid ""
+"\"Kelpole\" is the colloquial name given to <i>Osculateus venerandum</i>, a small free-moving organism spawned from microscopic eggs that attach themselves to <link=\"SEATREE\">Tower Kelp</link>.\n"
+"\n"
+"These unusual critters possess only a few hundred neurons and rely primarily on leaf mimicry to camouflage them from predators during their brief lives.\n"
+"\n"
+"Formerly considered flora, Kelpoles were eventually reclassified as fauna due to their frequent inclusion on marine biologists' lists of top ten most adorable creatures. The term \"flona\" was rejected out of hand."
+msgstr ""
+"\"เค​ล​โพล\" คือ​ชื่อ​เรียก​ทั่วไป​ของ <i>Osculateus venerandum</i> สิ่งมีชีวิต​ตัวเล็ก​ที่​เคลื่อนที่​อิสระ​ได้ ฟัก​จาก​ไข่​จิ๋ว​ระดับ​จุลภาค​ที่​เกาะ​อยู่​บน<link=\"SEATREE\">สาหร่าย​หอคอย</link>\n"
+"\n"
+"สัตว์​แปลกประหลาด​พวก​นี้​มี​เซลล์​ประสาท​แค่​ไม่​กี่​ร้อย​เซลล์ และ​พึ่ง​การ​เลียนแบบ​ใบไม้​เป็นหลัก​ใน​การ​พราง​ตัว​จาก​ผู้ล่า​ตลอดชีวิต​อัน​สั้น​ของ​มัน\n"
+"\n"
+"เดิม​เค​ล​โพล​ถูก​จัด​เป็น​พืช แต่​ในที่สุด​ก็​ถูก​จัด​ประเภท​ใหม่​เป็น​สัตว์ เพราะ​ติดอันดับ​สิบ​สิ่งมีชีวิต​น่ารัก​ที่สุด​ของ​นักชีววิทยา​ทางทะเล​บ่อย​มาก คำ​ว่า \"พืช​สัตว์\" ถูก​ปัด​ตกไป​ตั้งแต่แรก"
+
 #. STRINGS.CODEX.SEAFAIRY.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SEAFAIRY.SPECIES_SUBTITLE"
 msgid "Aquatic Organism"
 msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.SEAFAIRY.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SEAFAIRY.SPECIES_TITLE"
+msgid "Kelpole"
+msgstr "เค​ล​โพล"
 
 #. STRINGS.CODEX.SEAFAIRY.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAFAIRY.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.SEAFAIRY.TITLE
+msgctxt "STRINGS.CODEX.SEAFAIRY.TITLE"
+msgid "Kelpole"
+msgstr "เค​ล​โพล"
+
+#. STRINGS.CODEX.SEAHORSE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SEAHORSE.BODY.CONTAINER1"
+msgid ""
+"Adult Seaquines flood their brood pouches with <link=\"FISHMILK\">Ovolene</link> to nourish their eggs and support osmoregulation.\n"
+"\n"
+"As this is an energy-intensive process, it is abandoned in later life stages so that geriatric Seaquine can focus their efforts on laying one final egg before they perish."
+msgstr ""
+"ม้าน้ำ​ซี​ควีน​ตัว​เต็ม​วัย​จะ​เติม<link=\"FISHMILK\">โอ​โว​ลี​น</link>ลง​ใน​ถุง​ฟักไข่​เพื่อ​บำรุง​ไข่​และ​ช่วย​ควบคุม​สมดุล​แรงดัน​ออ​ส​โม​ติก\n"
+"\n"
+"เพราะ​เป็น​กระบวนการ​ที่​ใช้​พลังงาน​สูง มัน​จึง​เลิก​ทำ​ใน​ช่วง​ท้าย​ของ​ชีวิต เพื่อให้​ซี​ควีน​สูงวัย​ทุ่มเท​กำลัง​วางไข่​ฟอง​สุดท้าย​ก่อน​จากไป"
+
 #. STRINGS.CODEX.SEAHORSE.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SEAHORSE.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SEAHORSE.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SEAHORSE.SPECIES_TITLE"
+msgid "Seaquine"
+msgstr "ม้าน้ำ​ซี​ควีน"
 
 #. STRINGS.CODEX.SEAHORSE.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAHORSE.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.SEAHORSE.TITLE
+msgctxt "STRINGS.CODEX.SEAHORSE.TITLE"
+msgid "Seaquine"
+msgstr "ม้าน้ำ​ซี​ควีน"
+
+#. STRINGS.CODEX.SEAL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SEAL.BODY.CONTAINER1"
+msgid ""
+"Spigot Seals are named for the hollow, cone-shaped glabellar protrusion that allows them to siphon nourishment directly from plants into the digestive sac located at the cone's base.\n"
+"\n"
+"In order to draw nutritious fluids through this \"straw,\" the Spigot Seal compresses its nasal cavity and pumps its tongue up into its soft palate repeatedly, creating a vacuum.\n"
+"\n"
+"Mealtimes are concluded by lapping at the air to reopen the airways and prevent accidental asphyxiation.\n"
+"\n"
+"Many handlers enjoy teaching this critter to clap its flippers, only to discover that there is no reliable method of limiting how often or how loudly the behavior is repeated."
+msgstr ""
+"แมวน้ำ​ก๊อกน้ำ​ได้ชื่อ​จาก​ปุ่ม​กลวง​รูปกรวย​ระหว่าง​คิ้ว ที่​ใช้​ดูด​อาหาร​จาก​พืช​เข้าสู่​ถุง​ย่อย​อาหาร​ที่​โคน​กรวย​โดยตรง\n"
+"\n"
+"เพื่อ​ดูด​น้ำ​อาหาร​ผ่าน \"หลอด\" นี้ แมวน้ำ​ก๊อกน้ำ​จะ​บีบ​โพรงจมูก​และ​ดัน​ลิ้น​ขึ้นไป​ที่​เพดาน​อ่อน​ซ้ำ ๆ จน​เกิด​สุญญากาศ\n"
+"\n"
+"ปิดท้าย​มื้อ​อาหาร​ด้วย​การ​เลีย​อากาศ​เพื่อ​เปิด​ทางเดิน​หายใจ​อีกครั้ง และ​กัน​ไม่​ให้​ขาด​อากาศ​หายใจ​โดยไม่ตั้งใจ\n"
+"\n"
+"คนเลี้ยง​หลาย​คน​ชอบ​สอน​ให้​มัน​ปรบ​ครีบ แต่​ก็​มา​รู้​ทีหลัง​ว่า​ไม่​มี​วิธี​ไหน​จำกัด​ได้​เลย​ว่า​มัน​จะ​ปรบ​บ่อย​หรือ​ดัง​แค่​ไหน"
+
+#. STRINGS.CODEX.SEAL.SPECIES_SUBTITLE
+msgctxt "STRINGS.CODEX.SEAL.SPECIES_SUBTITLE"
+msgid "Domesticable Species"
+msgstr "สายพันธุ์​ที่​เลี้ยง​ให้​เชื่อง​ได้"
+
+#. STRINGS.CODEX.SEAL.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SEAL.SPECIES_TITLE"
+msgid "Spigot Seals"
+msgstr "แมวน้ำ​ก๊อกน้ำ"
+
 #. STRINGS.CODEX.SEAL.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAL.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.SEAL.TITLE
+msgctxt "STRINGS.CODEX.SEAL.TITLE"
+msgid "Spigot Seal"
+msgstr "แมวน้ำ​ก๊อกน้ำ"
+
+#. STRINGS.CODEX.SEATREE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SEATREE.BODY.CONTAINER1"
+msgid ""
+"This species of the Laminariales order is composed of vertical stems supported by structural vines. What appear to be leaves are actually <link=\"SEAFAIRYSPECIES\">Kelpoles</link>, aquatic critters that consume aeronutrients present in the Tower Kelp's hollow stalk.\n"
+"\n"
+"Tower Kelp stalks that fail to attract these natural pressure regulators will collapse before reaching maturation."
+msgstr ""
+"สายพันธุ์​ใน​อันดับ Laminariales นี้​ประกอบด้วย​ลำต้น​ตั้งตรง​ที่​มี​เถา​โครงสร้าง​ค้ำ​ไว้ สิ่ง​ที่​ดูเหมือน​ใบ​จริง ๆ แล้ว​คือ<link=\"SEAFAIRYSPECIES\">เค​ล​โพล</link> สัตว์น้ำ​ที่​กิน​สารอาหาร​ใน​อากาศ​ภายใน​ลำต้น​กลวง​ของ​สาหร่าย​หอคอย\n"
+"\n"
+"ลำต้น​สาหร่าย​หอคอย​ที่​ดึงดูด​ตัวควบคุม​แรงดัน​ตาม​ธรรมชาติ​พวก​นี้​ไม่​ได้​จะ​ล้มพับ​ก่อน​โต​เต็มที่"
 
 #. STRINGS.CODEX.SEATREE.SUBTITLE
 msgctxt "STRINGS.CODEX.SEATREE.SUBTITLE"
 msgid "Cultivable Plant"
 msgstr "พืช​ที่​ปลูก​ได้"
 
+#. STRINGS.CODEX.SEATREE.TITLE
+msgctxt "STRINGS.CODEX.SEATREE.TITLE"
+msgid "Tower Kelp"
+msgstr "สาหร่าย​หอคอย"
+
+#. STRINGS.CODEX.SEATURTLE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SEATURTLE.BODY.CONTAINER1"
+msgid ""
+"Orehulls are oversized anamniotes prized for the iron ore deposits that adorn their carapace.\n"
+"\n"
+"Specialized glands between the carapace scutes continuously release microscopic amounts of the heavy metals present in the critter's environment, an immune system reaction that causes no discomfort to the Orehull.\n"
+"\n"
+msgstr ""
+"ออร์ฮัลล์​เป็น​สัตว์​ไม่​มี​ถุง​น้ำคร่ำ​ตัว​โต​เบ้อเริ่ม ได้รับ​ความนิยม​เพราะ​มี​แร่​เหล็ก​ประดับ​อยู่​บน​กระดอง\n"
+"\n"
+"ต่อม​พิเศษ​ระหว่าง​แผ่น​กระดอง​จะ​ปล่อย​โลหะหนัก​ที่​มี​ใน​สภาพแวดล้อม​ออกมา​ใน​ปริมาณ​จิ๋ว ๆ อย่าง​ต่อเนื่อง เป็น​ปฏิกิริยา​ของ​ระบบ​ภูมิคุ้มกัน​ที่​ไม่​ทำให้​ออร์ฮัลล์​รู้สึก​อึดอัด​เลย\n"
+"\n"
+
 #. STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SEATURTLE.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SEATURTLE.SPECIES_TITLE"
+msgid "Orehull"
+msgstr "ออร์ฮัลล์"
 
 #. STRINGS.CODEX.SEATURTLE.SUBTITLE
 msgctxt "STRINGS.CODEX.SEATURTLE.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
 
+#. STRINGS.CODEX.SEATURTLE.TITLE
+msgctxt "STRINGS.CODEX.SEATURTLE.TITLE"
+msgid "Orehull"
+msgstr "ออร์ฮัลล์"
+
+#. STRINGS.CODEX.SEAURCHIN.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SEAURCHIN.BODY.CONTAINER1"
+msgid ""
+"Pinpoki are prized by marine cuisine gourmands for their delicate buttery flesh, with an aftertaste that some describe as \"transcendant.\"\n"
+"\n"
+"The flavor is so legendary that even just gazing upon a displayed Pinpoki is enough to inspire a high level of emotional satisfaction."
+msgstr ""
+"พิน​โป​กิ​เป็นที่ต้องการ​ของ​นัก​ชิม​อาหารทะเล​เพราะ​เนื้อ​เนียน​นุ่ม​รส​เนย และ​รสชาติ​ที่​ค้าง​อยู่​ใน​ปาก​ที่​บางคน​บรรยาย​ว่า \"หลุดพ้น​ทางโลก\"\n"
+"\n"
+"รสชาติ​เลื่องลือ​จน​แค่​มอง​พิน​โป​กิ​ที่ตั้ง​โชว์​ก็​ทำให้​รู้สึก​อิ่มเอม​ใจ​อย่าง​สุดซึ้ง​แล้ว"
+
 #. STRINGS.CODEX.SEAURCHIN.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAURCHIN.SUBTITLE"
 msgid "Aquatic Organism"
 msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.SEAURCHIN.TITLE
+msgctxt "STRINGS.CODEX.SEAURCHIN.TITLE"
+msgid "Pinpoki"
+msgstr "พิน​โป​กิ"
+
+#. STRINGS.CODEX.SHERBERRY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SHERBERRY.BODY.CONTAINER1"
+msgid ""
+"The semi-parasitic Sherberry plant leeches moisture and trace minerals from the primordial ice formations in which it grows.\n"
+"\n"
+"The fruit of this varietal contains low levels of stomach-upsetting phoratoxins which, while not fatal, do serve as strong motivation for foragers to seek out additional sources of nutrition."
+msgstr ""
+"ต้น​เชอร์​เบอร์รี​เป็น​พืช​กึ่ง​ปรสิต​ที่​ดูด​ความชื้น​และ​แร่ธาตุ​ปริมาณ​น้อย​จาก​ก้อน​น้ำแข็ง​ดึกดำบรรพ์​ที่​มัน​เติบโต​อยู่\n"
+"\n"
+"ผล​ของ​พันธุ์​นี้​มี​สาร​โฟ​รา​ทอก​ซิ​น​ระดับ​ต่ำ​ที่​ทำให้​ท้อง​ไส้​ปั่นป่วน แม้​ไม่​ถึงตาย แต่​ก็​เป็น​แรงจูงใจ​ชั้นดี​ให้​นัก​หา​ของป่า​ออก​ตามหา​แหล่ง​อาหาร​อื่น​เพิ่ม"
 
 #. STRINGS.CODEX.SHERBERRY.SUBTITLE
 msgctxt "STRINGS.CODEX.SHERBERRY.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.SHERBERRY.TITLE
+msgctxt "STRINGS.CODEX.SHERBERRY.TITLE"
+msgid "Sherberry Plant"
+msgstr "ต้น​เชอร์​เบอร์รี"
+
+#. STRINGS.CODEX.SHINEBUG.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SHINEBUG.BODY.CONTAINER1"
+msgid "The bioluminescence of the Shine Bug's body serves the social purpose of finding and communicating with others of its kind."
+msgstr "แสง​เรือง​ชีวภาพ​จาก​ตัว​แมลง​เรืองแสง​มี​ไว้​เพื่อ​การ​เข้าสังคม คือ​ใช้​หา​และ​สื่อสาร​กับ​พวกพ้อง​เดียวกัน"
+
 #. STRINGS.CODEX.SHINEBUG.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SHINEBUG.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SHINEBUG.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SHINEBUG.SPECIES_TITLE"
+msgid "Shine Bugs"
+msgstr "แมลง​เรืองแสง"
 
 #. STRINGS.CODEX.SHINEBUG.SUBTITLE
 msgctxt "STRINGS.CODEX.SHINEBUG.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.SHINEBUG.TITLE
+msgctxt "STRINGS.CODEX.SHINEBUG.TITLE"
+msgid "Shine Bug"
+msgstr "แมลง​เรืองแสง"
+
+#. STRINGS.CODEX.SLEETWHEAT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SLEETWHEAT.BODY.CONTAINER1"
+msgid "The Sleet Wheat plant has become so well-adapted to cold environments, it is no longer able to survive at room temperatures."
+msgstr "ข้าวสาลี​ลูกเห็บ​ปรับตัว​เข้ากับ​สภาพแวดล้อม​หนาวเย็น​จน​อยู่รอด​ที่​อุณหภูมิ​ห้อง​ไม่​ได้​อีกต่อไป​แล้ว"
+
+#. STRINGS.CODEX.SLEETWHEAT.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.SLEETWHEAT.BODY.CONTAINER2"
+msgid "The grain of the Sleet Wheat can be ground down into high quality foodstuffs, or planted to cultivate further Sleet Wheat plants."
+msgstr "เมล็ด​ข้าวสาลี​ลูกเห็บ​นำ​ไป​บด​เป็น​วัตถุดิบ​อาหาร​คุณภาพ​สูง หรือ​นำ​ไป​ปลูก​เป็น​ข้าวสาลี​ลูกเห็บ​ต้น​ใหม่​ได้"
+
 #. STRINGS.CODEX.SLEETWHEAT.SUBTITLE
 msgctxt "STRINGS.CODEX.SLEETWHEAT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SLEETWHEAT.TITLE
+msgctxt "STRINGS.CODEX.SLEETWHEAT.TITLE"
+msgid "Sleet Wheat"
+msgstr "ข้าวสาลี​ลูกเห็บ"
+
+#. STRINGS.CODEX.SLICKSTER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SLICKSTER.BODY.CONTAINER1"
+msgid ""
+"Slicksters are a unique creature most renowned for their ability to exude hydrocarbon waste that is nearly identical in makeup to crude oil.\n"
+"\n"
+"The two tufts atop a Slickster's head are called rhinophores, and help guide the Slickster toward breathable carbon dioxide."
+msgstr ""
+"ส​ลิ​กสเตอร์​เป็น​สัตว์​พิเศษ​ที่​ขึ้นชื่อ​ที่สุด​เรื่อง​การขับ​ของเสีย​ไฮโดรคาร์บอน​ที่​มี​องค์ประกอบ​แทบ​เหมือน​น้ำมันดิบ\n"
+"\n"
+"ขน​สอง​กระจุก​บน​หัว​ของ​ส​ลิ​กสเตอร์​เรียก​ว่า​ไร​โน​ฟอร์ ช่วย​นำทาง​ส​ลิ​กสเตอร์​ไปหา​คาร์บอนไดออกไซด์​ที่​หายใจ​ได้"
 
 #. STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
 
+#. STRINGS.CODEX.SLICKSTER.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_TITLE"
+msgid "Slicksters"
+msgstr "ส​ลิ​กสเตอร์"
+
 #. STRINGS.CODEX.SLICKSTER.SUBTITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
+
+#. STRINGS.CODEX.SLICKSTER.TITLE
+msgctxt "STRINGS.CODEX.SLICKSTER.TITLE"
+msgid "Slickster"
+msgstr "ส​ลิ​กสเตอร์"
+
+#. STRINGS.CODEX.SMOOTH.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SMOOTH.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Smooth\" Hatch variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แฮตช์​สายพันธุ์​ย่อย \"ผิว​เรียบ\"</smallcaps>"
+
+#. STRINGS.CODEX.SMOOTH.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.SMOOTH.BODY.CONTAINER2"
+msgid "The proper way to pet a Hatch is to touch any of its four feet to first make it aware of your presence, then either scratch the soft segmented underbelly or firmly pat the creature's thick chitinous back."
+msgstr "วิธี​ลูบ​แฮตช์​ที่​ถูกต้อง​คือ​แตะ​เท้า​ข้างใดข้างหนึ่ง​ใน​สี่​ข้าง​ก่อน​เพื่อให้​มัน​รู้​ว่า​คุณ​อยู่​ตรงนั้น แล้ว​ค่อย​เกา​ท้อง​นุ่ม ๆ ที่​เป็น​ปล้อง หรือ​ตบหลัง​ไค​ติ​น​หนา ๆ ของ​มัน​เบา ๆ แต่​หนักแน่น"
 
 #. STRINGS.CODEX.SMOOTH.SUBTITLE
 msgctxt "STRINGS.CODEX.SMOOTH.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
 
+#. STRINGS.CODEX.SMOOTH.TITLE
+msgctxt "STRINGS.CODEX.SMOOTH.TITLE"
+msgid "Smooth Hatch"
+msgstr "แฮตช์​ผิว​เรียบ"
+
+#. STRINGS.CODEX.SNAIL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SNAIL.BODY.CONTAINER1"
+msgid ""
+"Slogos' unusually thick skin prevents them from succumbing to the fatal osmosis that other members of the Gastropoda class experience after exposure to <link=\"SALT\">Salt</link>.\n"
+"\n"
+msgstr ""
+"ผิวหนัง​หนา​ผิดปกติ​ของ​ส​โล​โก​ช่วย​ไม่​ให้​มัน​ตาย​จาก​ออสโมซิส​แบบ​ที่​หอย​ทาก​ชนิด​อื่น​ใน​ชั้น Gastropoda เป็น​เมื่อ​โดน<link=\"SALT\">เกลือ</link>\n"
+"\n"
+
+#. STRINGS.CODEX.SNAIL.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.SNAIL.BODY.CONTAINER2"
+msgid "This enables them to safely enjoy the fluid retention properties of their preferred food."
+msgstr "ทำให้​มัน​เพลิดเพลิน​กับ​คุณสมบัติ​กักเก็บ​น้ำ​ของ​อาหาร​โปรด​ได้​อย่าง​ปลอดภัย"
+
 #. STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.SNAIL.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SNAIL.SPECIES_TITLE"
+msgid "Slogos"
+msgstr "ส​โล​โก"
 
 #. STRINGS.CODEX.SNAIL.SUBTITLE
 msgctxt "STRINGS.CODEX.SNAIL.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.SNAIL.TITLE
+msgctxt "STRINGS.CODEX.SNAIL.TITLE"
+msgid "Slogo"
+msgstr "ส​โล​โก"
+
+#. STRINGS.CODEX.SNAIL_IRON_SHELL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SNAIL_IRON_SHELL.BODY.CONTAINER1"
+msgid ""
+"A metallic exoskeleton discarded by an aquatic critter.\n"
+"\n"
+msgstr ""
+"โครงร่าง​ภายนอก​แบบ​โลหะ​ที่​สัตว์น้ำ​ลอก​ทิ้ง​ไว้\n"
+"\n"
+
 #. STRINGS.CODEX.SNAIL_IRON_SHELL.SUBTITLE
 msgctxt "STRINGS.CODEX.SNAIL_IRON_SHELL.SUBTITLE"
 msgid "Critter Byproduct"
 msgstr "ผลพลอยได้​จาก​สัตว์"
+
+#. STRINGS.CODEX.SNAIL_IRON_SHELL.TITLE
+msgctxt "STRINGS.CODEX.SNAIL_IRON_SHELL.TITLE"
+msgid "Gildgo Molt"
+msgstr "คราบ​ลอก​กิลด์​โก"
+
+#. STRINGS.CODEX.SNAIL_SHELL.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SNAIL_SHELL.BODY.CONTAINER1"
+msgid ""
+"A small exoskeleton discarded by an aquatic critter.\n"
+"\n"
+msgstr ""
+"โครงร่าง​ภายนอก​เล็ก ๆ ที่​สัตว์น้ำ​ลอก​ทิ้ง​ไว้\n"
+"\n"
 
 #. STRINGS.CODEX.SNAIL_SHELL.SUBTITLE
 msgctxt "STRINGS.CODEX.SNAIL_SHELL.SUBTITLE"
 msgid "Critter Byproduct"
 msgstr "ผลพลอยได้​จาก​สัตว์"
 
+#. STRINGS.CODEX.SNAIL_SHELL.TITLE
+msgctxt "STRINGS.CODEX.SNAIL_SHELL.TITLE"
+msgid "Slogo Molt"
+msgstr "คราบ​ลอก​ส​โล​โก"
+
+#. STRINGS.CODEX.SNAILIRON.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SNAILIRON.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Gildgo\" variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: สายพันธุ์​ย่อย \"กิลด์​โก\"</smallcaps>"
+
 #. STRINGS.CODEX.SNAILIRON.SUBTITLE
 msgctxt "STRINGS.CODEX.SNAILIRON.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
+
+#. STRINGS.CODEX.SNAILIRON.TITLE
+msgctxt "STRINGS.CODEX.SNAILIRON.TITLE"
+msgid "Gildgo"
+msgstr "กิลด์​โก"
+
+#. STRINGS.CODEX.SO_LAUNCH_TRAILER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.BODY.CONTAINER1"
+msgid "Spaced Out Trailer"
+msgstr "ตัวอย่าง​ภาพยนตร์ Spaced Out"
+
+#. STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE
+msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE"
+msgid "Spaced Out Trailer"
+msgstr "ตัวอย่าง​ภาพยนตร์ Spaced Out"
+
+#. STRINGS.CODEX.SPACEARTIFACT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SPACEARTIFACT.BODY.CONTAINER1"
+msgid ""
+"While out harvesting resources from space POIs, miners may discover rare artifacts that pique their interest.\n"
+"\n"
+"These can be gathered and transported back to the colony using a rocket equipped with an <link=\"ARTIFACTCARGOBAY\">Artifact Transport Module</link>."
+msgstr ""
+"ระหว่าง​ออก​ไป​เก็บ​ทรัพยากร​จาก​จุด​น่าสนใจ​ใน​อวกาศ นัก​ขุด​อาจ​พบ​โบราณวัตถุ​หา​ยาก​ที่​ดึงดูด​ความสนใจ\n"
+"\n"
+"เก็บ​และ​ขน​กลับ​อาณานิคม​ได้​ด้วย​จรวด​ที่​ติด<link=\"ARTIFACTCARGOBAY\">โมดูล​ขนส่ง​โบราณวัตถุ</link>"
+
+#. STRINGS.CODEX.SPACEARTIFACT.TITLE
+msgctxt "STRINGS.CODEX.SPACEARTIFACT.TITLE"
+msgid "Space Artifacts"
+msgstr "โบราณวัตถุ​อวกาศ"
+
+#. STRINGS.CODEX.SPACETREE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SPACETREE.BODY.CONTAINER1"
+msgid ""
+"The Bonbon Tree is a towering plant developed to thrive in below-freezing temperatures. It features multiple independently functioning branches that synthesize bright light to funnel nutrients into a hollow central core.\n"
+"\n"
+"Once the tree is fully grown, the core secretes digestive enzymes that break down surplus nutrients and store them as thick, sweet fluid. This can be refined into <link=\"SUCROSE\">Sucrose</link> for the production of higher-tier foods, or used as-is to sustain Spigot Seal ranches.\n"
+"\n"
+"Bonbon Trees are generally considered an eyesore, and would likely be eradicated if not for their delicious output."
+msgstr ""
+"ต้น​บอน​บอน​เป็น​พืช​สูงตระหง่าน​ที่​พัฒนา​ขึ้น​มา​ให้​เติบโต​ได้​ใน​อุณหภูมิ​ต่ำกว่า​จุดเยือกแข็ง มี​กิ่ง​หลาย​กิ่ง​ที่ทำงาน​แยกกัน​อิสระ คอย​สังเคราะห์แสง​สว่างจ้า​เพื่อ​ส่ง​สารอาหาร​เข้า​แกนกลาง​ที่​กลวง\n"
+"\n"
+"เมื่อ​ต้นไม้​โต​เต็มที่ แกนกลาง​จะ​หลั่ง​เอนไซม์​ย่อย​ที่​สลาย​สารอาหาร​ส่วนเกิน​แล้ว​เก็บ​ไว้​เป็น​ของเหลว​หวาน​ข้น ซึ่ง​นำ​ไป​กลั่น​เป็น<link=\"SUCROSE\">ซูโครส</link>เพื่อ​ทำอาหาร​ระดับสูง​ขึ้น หรือ​ใช้​เลี้ยง​ฟาร์ม​แมวน้ำ​ก๊อกน้ำ​ได้​เลย\n"
+"\n"
+"โดยทั่วไป​ต้น​บอน​บอน​ถูก​มองว่า​เป็น​ของ​อุจาด​ตา และ​คง​ถูก​กำจัด​ทิ้ง​ไป​แล้ว​ถ้า​ไม่​ใช่​เพราะ​ผลผลิต​แสน​อร่อย​ของ​มัน"
 
 #. STRINGS.CODEX.SPACETREE.SUBTITLE
 msgctxt "STRINGS.CODEX.SPACETREE.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
 
+#. STRINGS.CODEX.SPACETREE.TITLE
+msgctxt "STRINGS.CODEX.SPACETREE.TITLE"
+msgid "Bonbon Tree"
+msgstr "ต้น​บอน​บอน"
+
+#. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1"
+msgid ""
+"Spindly Grubfruit Plants have leggy stems that limit the distribution of nutrients and enzymes to the fruit-bearing branch. This results in a reliable but relatively tasteless harvest.\n"
+"\n"
+"Introducing the <link=\"DIVERGENTSPECIES\">Divergent</link> critter species to these plants enable them to develop into <link=\"SUPERWORMPLANT\">Grubfruit Plants</link> with stronger vascular systems and improved fruit."
+msgstr ""
+"ต้น​ผล​หนอน​ผอมแห้ง​มี​ลำต้น​ยาว​เก้งก้าง ทำให้​สารอาหาร​และ​เอนไซม์​ไป​ถึง​กิ่ง​ที่​ออก​ผลได้​จำกัด ผล​คือ​เก็บเกี่ยว​ได้​สม่ำเสมอ​แต่​ค่อนข้าง​จืดชืด\n"
+"\n"
+"การพา​สัตว์​สปีชีส์<link=\"DIVERGENTSPECIES\">ได​เวอร์​เจนต์</link>มา​อยู่​กับ​พืช​นี้​ช่วย​ให้​มัน​พัฒนา​เป็น<link=\"SUPERWORMPLANT\">ต้น​ผล​หนอน</link>ที่​มีระบบ​ท่อ​ลำเลียง​แข็งแรง​กว่า​และ​ผล​ดีกว่า"
+
 #. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "พืช​กิน​ได้"
+
+#. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.TITLE
+msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.TITLE"
+msgid "Spindly Grubfruit Plant"
+msgstr "ต้น​ผล​หนอน​ผอมแห้ง"
+
+#. STRINGS.CODEX.SPORECHID.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SPORECHID.BODY.CONTAINER1"
+msgid ""
+"Sporechids take advantage of their flower's attractiveness to lure unsuspecting victims into clouds of parasitic Zombie Spores.\n"
+"\n"
+"They are a rare form of holoparasitic plant which finds mammalian hosts to infect rather than the usual plant species.\n"
+"\n"
+"The Zombie Spore was originally designed for medicinal purposes but its sedative properties were never refined to the point of usefulness."
+msgstr ""
+"กล้วยไม้​สปอร์​ใช้​ความ​สวย​ของ​ดอก​ล่อ​เหยื่อ​ไม่​ทัน​ระวัง​เข้าสู่​กลุ่ม​ควัน​สปอร์​ซอมบี้​ปรสิต\n"
+"\n"
+"มัน​เป็น​พืช​ปรสิต​เต็มตัว​ชนิด​หา​ยาก ที่​หา​โฮสต์​สัตว์เลี้ยงลูกด้วยนม​มา​ติดเชื้อ​แทนที่จะ​เป็น​พืช​ตามปกติ\n"
+"\n"
+"เดิมที​สปอร์​ซอมบี้​ถูก​ออกแบบ​มา​เพื่อ​ใช้​ทางการแพทย์ แต่​คุณสมบัติ​กล่อม​ประสาท​ของ​มัน​ไม่​เคย​ถูก​พัฒนา​จน​ใช้ประโยชน์​ได้​จริง​เลย"
+
+#. STRINGS.CODEX.SPORECHID.SUBTITLE
+msgctxt "STRINGS.CODEX.SPORECHID.SUBTITLE"
+msgid "Poisonous Plant"
+msgstr "พืช​มีพิษ"
+
+#. STRINGS.CODEX.SPORECHID.TITLE
+msgctxt "STRINGS.CODEX.SPORECHID.TITLE"
+msgid "Sporechid"
+msgstr "กล้วยไม้​สปอร์"
+
+#. STRINGS.CODEX.SQUEAKY.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SQUEAKY.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Squeaky\" Puft variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: พัฟต์​สายพันธุ์​ย่อย \"เอี๊ยด​อ๊าด\"</smallcaps>"
+
+#. STRINGS.CODEX.SQUEAKY.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.SQUEAKY.BODY.CONTAINER2"
+msgid ""
+"Pufts often have a collection of asymmetric teeth lining the ridge of their mouths, although this feature is entirely vestigial as Pufts do not consume solid food.\n"
+"\n"
+"Instead, a baleen-like mesh of keratin at the back of the Puft's throat works to filter out tiny organisms and food particles from the air.\n"
+"\n"
+"Unusable air is expelled back out the Puft's posterior trunk, along with waste material and any indigestible particles or pathogens which it then evacuates as solid biomass."
+msgstr ""
+"พัฟต์​มัก​มี​ฟัน​เรียง​ไม่​สมมาตร​เรียงราย​ตาม​สัน​ปาก แต่​ลักษณะ​นี้​เป็น​อวัยวะ​หลงเหลือ​ล้วน ๆ เพราะ​พัฟต์​ไม่​กิน​อาหาร​แข็ง\n"
+"\n"
+"แต่​จะ​มี​ตาข่าย​เคราติน​คล้าย​ซี่​กรอง​ของ​วาฬ​ที่​ด้านหลัง​คอ​ของ​พัฟต์ ทำหน้าที่​กรอง​สิ่งมีชีวิต​จิ๋ว​และ​เศษอาหาร​ออกจาก​อากาศ\n"
+"\n"
+"อากาศ​ที่​ใช้ไม่ได้​จะ​ถูก​พ่น​ออก​ทาง​งวง​ด้านหลัง​ของ​พัฟต์ พร้อม​ของเสีย​และ​อนุภาค​หรือ​เชื้อโรค​ที่​ย่อย​ไม่​ได้ ซึ่ง​มัน​ขับ​ออกมา​เป็น​ชีวมวล​แข็ง"
 
 #. STRINGS.CODEX.SQUEAKY.SUBTITLE
 msgctxt "STRINGS.CODEX.SQUEAKY.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
 
+#. STRINGS.CODEX.SQUEAKY.TITLE
+msgctxt "STRINGS.CODEX.SQUEAKY.TITLE"
+msgid "Squeaky Puft"
+msgstr "พัฟต์​เอี๊ยด​อ๊าด"
+
+#. STRINGS.CODEX.SQUID.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SQUID.BODY.CONTAINER1"
+msgid ""
+"Glo Squids are immediately recognizable by the bioluminescent photophores that strobe vertically along their soft bodies.\n"
+"\n"
+"These tropical critters are distant relatives of the <i>Euprymna scolopes</i>, though rather than navigating via jet propulsion, Glo Squids have evolved a pair of elongated tentacles that enable them to swim upright.\n"
+"\n"
+msgstr ""
+"ปลาหมึก​เรืองแสง​จำได้​ทันที​จาก​อวัยวะ​เรืองแสง​ชีวภาพ​ที่​กะพริบ​เป็น​แนวตั้ง​ตามตัว​นิ่ม ๆ\n"
+"\n"
+"สัตว์​เขตร้อน​พวก​นี้​เป็น​ญาติ​ห่าง ๆ ของ <i>Euprymna scolopes</i> แต่​แทนที่จะ​เคลื่อนที่​ด้วย​การพ่น​น้ำ ปลาหมึก​เรืองแสง​วิวัฒนาการ​หนวด​ยาว​คู่​หนึ่ง​ที่​ช่วย​ให้​มัน​ว่ายน้ำ​ตัว​ตั้งตรง​ได้\n"
+"\n"
+
 #. STRINGS.CODEX.SQUID.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SQUID.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
 
+#. STRINGS.CODEX.SQUID.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.SQUID.SPECIES_TITLE"
+msgid "Glo Squid"
+msgstr "ปลาหมึก​เรืองแสง"
+
 #. STRINGS.CODEX.SQUID.SUBTITLE
 msgctxt "STRINGS.CODEX.SQUID.SUBTITLE"
 msgid "Aquatic Critter"
 msgstr "สัตว์น้ำ"
+
+#. STRINGS.CODEX.SQUID.TITLE
+msgctxt "STRINGS.CODEX.SQUID.TITLE"
+msgid "Glo Squid"
+msgstr "ปลาหมึก​เรืองแสง"
 
 #. STRINGS.CODEX.STANDARD.HEADER_1
 msgctxt "STRINGS.CODEX.STANDARD.HEADER_1"
@@ -41543,25 +42046,218 @@ msgctxt "STRINGS.CODEX.STANDARD.HEADER_2"
 msgid "Worker Optimization"
 msgstr "การ​เพิ่มประสิทธิภาพ​คนงาน"
 
+#. STRINGS.CODEX.STANDARD.PARAGRAPH_1
+msgctxt "STRINGS.CODEX.STANDARD.PARAGRAPH_1"
+msgid ""
+"<link=\"REQUIREMENTCLASSTOILETTYPE\">Toilets</link>: Duplicants will empty their bladders every {time}. A lack of accessible facilities will result in <link=\"STRESS\">Stress</link> and wet colony floors.\n"
+"\n"
+"<link=\"BUILDCATEGORYOXYGEN\">Oxygen</link>: Duplicants inhale <link=\"OXYGEN\">Oxygen</link> at a rate of {O2gperSec} and exhale <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> at a rate of {CO2gperSec}. They can hold their breath for short periods. Long-term lack of breathable gases will result in suffocation.\n"
+"\n"
+"<link=\"FOOD\">Food</link>: Daily caloric intake is {caloriesrequired}. <link=\"BUILDCATEGORYFOOD\">Food</link> can be produced via <link=\"GROUPFARMBUILDING\">Farming</link> and <link=\"REQUIREMENTCLASSRANCHSTATIONTYPE\">Ranching</link> buildings, and further enhanced at <link=\"REQUIREMENTCLASSCOOKTOP\">Cooking Stations</link>.\n"
+"\n"
+"<link=\"HEALTH\">Sleep</link>: Duplicants require a <link=\"REQUIREMENTCLASSBEDTYPE\">Bed</link> and a <link=\"MISCELLANEOUSTIPS14\">Schedule</link> that includes adequate Bedtime in order to avoid the <link=\"STRESS\">Stress</link> and Stamina-depleting effects of overwork.\n"
+"\n"
+msgstr ""
+"<link=\"REQUIREMENTCLASSTOILETTYPE\">ห้องน้ำ</link>: ดู​พลิ​แคนต์​จะ​ปลดทุกข์​ทุก {time} ถ้า​ไม่​มี​ห้องน้ำ​ให้​ใช้ จะ​เกิด<link=\"STRESS\">ความเครียด</link>และ​พื้น​อาณานิคม​เปียกแฉะ\n"
+"\n"
+"<link=\"BUILDCATEGORYOXYGEN\">ออกซิเจน</link>: ดู​พลิ​แคนต์​หายใจ​เอา<link=\"OXYGEN\">ออกซิเจน</link>เข้า​ใน​อัตรา {O2gperSec} และ​หายใจ<link=\"CARBONDIOXIDE\">คาร์บอนไดออกไซด์</link>ออก​ใน​อัตรา {CO2gperSec} กลั้นหายใจ​ได้​ช่วง​สั้น ๆ ถ้า​ขาด​แก๊ส​ที่​หายใจ​ได้​นาน ๆ จะ​ขาด​อากาศ​ตาย\n"
+"\n"
+"<link=\"FOOD\">อาหาร</link>: แคลอรี​ที่​ต้องการ​ต่อ​วัน​คือ {caloriesrequired} ผลิต<link=\"BUILDCATEGORYFOOD\">อาหาร</link>ได้​ด้วย​สิ่งก่อสร้าง<link=\"GROUPFARMBUILDING\">เกษตร</link>และ<link=\"REQUIREMENTCLASSRANCHSTATIONTYPE\">เลี้ยงสัตว์</link> และ​ปรับปรุง​เพิ่ม​ได้ที่<link=\"REQUIREMENTCLASSCOOKTOP\">สถานี​ทำอาหาร</link>\n"
+"\n"
+"<link=\"HEALTH\">การ​นอน</link>: ดู​พลิ​แคนต์​ต้อง​มี<link=\"REQUIREMENTCLASSBEDTYPE\">เตียง</link>และ<link=\"MISCELLANEOUSTIPS14\">ตารางเวลา</link>ที่​มี​เวลานอน​เพียงพอ เพื่อ​เลี่ยง<link=\"STRESS\">ความเครียด</link>และ​ผล​ลด​ความ​อึด​จาก​การ​ทำงานหนัก​เกินไป\n"
+"\n"
+
+#. STRINGS.CODEX.STANDARD.PARAGRAPH_2
+msgctxt "STRINGS.CODEX.STANDARD.PARAGRAPH_2"
+msgid ""
+"<link=\"ROLES\">Skills</link>: Performing colony duties helps Duplicants earn Skill Points that can be exchanged for useful Skills. Duplicants' individual traits may predispose them to prefer some careers over others, or bar them from a particular career path entirely.\n"
+"\n"
+"<link=\"MORALE\">Morale</link>: Morale in excess of a Duplicant's expectations will trigger Overjoyed responses that positively affect a variety of colony functions. <link=\"REQUIREMENTCLASSRECBUILDING\">Recreational</link> building usage, <link=\"REQUIREMENTCLASSDECORATION\">attractive buildings </link> that increase <link=\"DECOR\">Decor</link>, and improved <link=\"FOOD\">Foods</link> contribute to higher morale.\n"
+"\n"
+"<link=\"STRESS\">Stress</link>: When Stress levels reach 100%, Duplicants will exhibit negative Stress responses that can disrupt work and damage buildings.\n"
+"\n"
+"<link=\"TECH\">Research</link>: Using <link=\"REQUIREMENTCLASSSCIENCEBUILDING\">science buildings</link> unlocks advanced technologies that increase work efficiency and improve the colony's standard of living.\n"
+"\n"
+"<link=\"HEALTH\">Health</link>: Workplace hazards, including exposure to extreme <link=\"HEAT\">Heat</link> or <link=\"DISEASE\">Germs</link>, can severely impact Duplicants' health. Specialized <link=\"REQUIREMENTCLASSCLINIC\">Medical</link> buildings accelerate recovery.\n"
+"\n"
+"<i>More information about sustaining Duplicants' well-being is covered in <link=\"MISCELLANEOUSTIPS\">Tips</link> and <link=\"LESSONS\">Tutorials</link>.</i>\n"
+"\n"
+msgstr ""
+"<link=\"ROLES\">ทักษะ</link>: การ​ทำหน้าที่​ใน​อาณานิคม​ช่วย​ให้​ดู​พลิ​แคนต์​ได้แต้ม​ทักษะ​ไป​แลก​ทักษะ​ที่​มีประโยชน์ ลักษณะนิสัย​เฉพาะตัว​ของ​ดู​พลิ​แคนต์​อาจ​ทำให้​ชอบ​อาชีพ​บางอย่าง​มากกว่า หรือ​กัน​ไม่​ให้​เดินสาย​อาชีพ​บาง​สาย​เลย\n"
+"\n"
+"<link=\"MORALE\">ขวัญ​กำลังใจ</link>: ขวัญ​กำลังใจ​ที่​เกิน​ความคาดหวัง​ของ​ดู​พลิ​แคนต์​จะ​กระตุ้น​อาการ​ดีใจ​สุดขีด​ที่​ส่ง​ผลดี​ต่อ​งาน​หลาย​ด้านใน​อาณานิคม การ​ใช้​สิ่งก่อสร้าง<link=\"REQUIREMENTCLASSRECBUILDING\">สันทนาการ</link> <link=\"REQUIREMENTCLASSDECORATION\">สิ่งก่อสร้าง​สวย ๆ </link>ที่​เพิ่ม<link=\"DECOR\">ความสวยงาม</link> และ<link=\"FOOD\">อาหาร</link>ที่​ดีขึ้น​ล้วน​ช่วย​เพิ่ม​ขวัญ​กำลังใจ\n"
+"\n"
+"<link=\"STRESS\">ความเครียด</link>: เมื่อ​ความเครียด​ถึง 100% ดู​พลิ​แคนต์​จะ​แสดงอาการ​เครียด​เชิงลบ​ที่​อาจ​รบกวน​งาน​และ​ทำลาย​สิ่งก่อสร้าง\n"
+"\n"
+"<link=\"TECH\">การวิจัย</link>: การ​ใช้<link=\"REQUIREMENTCLASSSCIENCEBUILDING\">สิ่งก่อสร้าง​วิทยาศาสตร์</link>จะ​ปลดล็อก​เทคโนโลยี​ขั้นสูง​ที่​เพิ่มประสิทธิภาพ​การทำงาน​และ​ยกระดับ​คุณภาพชีวิต​ของ​อาณานิคม\n"
+"\n"
+"<link=\"HEALTH\">พลัง​ชีวิต</link>: อันตราย​ใน​ที่ทำงาน รวมถึง​การ​เจอ<link=\"HEAT\">ความร้อน</link>สุดขั้ว​หรือ<link=\"DISEASE\">เชื้อโรค</link> ส่งผล​ต่อ​สุขภาพ​ดู​พลิ​แคนต์​อย่าง​หนัก​ได้ สิ่งก่อสร้าง<link=\"REQUIREMENTCLASSCLINIC\">การแพทย์</link>เฉพาะทาง​ช่วย​เร่ง​การฟื้นตัว\n"
+"\n"
+"<i>ข้อมูล​เพิ่มเติม​เรื่อง​การ​ดูแล​ความเป็นอยู่​ของ​ดู​พลิ​แคนต์​อยู่​ใน<link=\"MISCELLANEOUSTIPS\">เคล็ดลับ</link>และ<link=\"LESSONS\">บท​สอน</link></i>\n"
+"\n"
+
+#. STRINGS.CODEX.STANDARD.SUBTITLE
+msgctxt "STRINGS.CODEX.STANDARD.SUBTITLE"
+msgid "Colony Worker"
+msgstr "คนงาน​อาณานิคม"
+
+#. STRINGS.CODEX.STANDARD.TITLE
+msgctxt "STRINGS.CODEX.STANDARD.TITLE"
+msgid "Standard Duplicant"
+msgstr "ดู​พลิ​แคนต์​มาตรฐาน"
+
+#. STRINGS.CODEX.STEGO.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STEGO.BODY.CONTAINER1"
+msgid ""
+"While other creatures with the Lumb's low forebrain neuron count rapidly become extinct, these docile creatures are uniquely positioned for survival.\n"
+"\n"
+"Their large size and spiny protrusions make them unappealing to most predators. Anecdotal evidence also suggests that smaller species will sometimes adopt orphaned Lumbs.\n"
+"\n"
+"Some experts theorize that this may be motivated by a desire to benefit from the Lumb's genetic muscular condition (akin to restless leg syndrome), which causes them to regularly pound the earth in such a way as to cause nearby plants to drop desirable foods."
+msgstr ""
+"ขณะที่​สัตว์​อื่น​ที่​มี​เซลล์​ประสาทสมอง​ส่วนหน้า​น้อย​เท่า​ลัมบ์​สูญพันธุ์​ไป​อย่าง​รวดเร็ว สัตว์​นิสัย​เชื่อง​พวก​นี้​กลับ​อยู่​ใน​ตำแหน่ง​ที่​เอื้อ​ต่อ​การอยู่รอด​เป็นพิเศษ\n"
+"\n"
+"ตัว​ใหญ่​และ​หนาม​แหลม​ทำให้​ผู้ล่า​ส่วนใหญ่​ไม่​อยาก​กิน หลักฐาน​เล่า​ต่อกัน​มายัง​บอ​กว่า​สัตว์​สายพันธุ์​ที่​เล็ก​กว่า​บางครั้ง​ก็​รับ​ลัมบ์​กำพร้า​ไป​เลี้ยง​ด้วย\n"
+"\n"
+"ผู้เชี่ยวชาญ​บางคน​ตั้ง​ทฤษฎี​ว่า นี่​อาจ​เป็น​เพราะ​อยาก​ได้ประโยชน์​จาก​ภาวะ​กล้ามเนื้อ​ทาง​พันธุกรรม​ของ​ลัมบ์ (คล้าย​โรค​ขา​อยู่ไม่สุข) ซึ่ง​ทำให้​มัน​กระทืบ​พื้น​เป็นประจำ​จน​พืช​ใกล้ ๆ ทิ้ง​อาหาร​น่ากิน​ร่วง​ลงมา"
+
 #. STRINGS.CODEX.STEGO.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.STEGO.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "สายพันธุ์​สัตว์"
+
+#. STRINGS.CODEX.STEGO.SPECIES_TITLE
+msgctxt "STRINGS.CODEX.STEGO.SPECIES_TITLE"
+msgid "Lumbs"
+msgstr "ลัมบ์"
 
 #. STRINGS.CODEX.STEGO.SUBTITLE
 msgctxt "STRINGS.CODEX.STEGO.SUBTITLE"
 msgid "Domesticable Critter"
 msgstr "สัตว์เลี้ยง​ได้"
 
+#. STRINGS.CODEX.STEGO.TITLE
+msgctxt "STRINGS.CODEX.STEGO.TITLE"
+msgid "Lumb"
+msgstr "ลัมบ์"
+
+#. STRINGS.CODEX.STONE.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STONE.BODY.CONTAINER1"
+msgid "<smallcaps>Pictured: \"Stone\" Hatch variant</smallcaps>"
+msgstr "<smallcaps>ใน​ภาพ: แฮตช์​สายพันธุ์​ย่อย \"หิน\"</smallcaps>"
+
+#. STRINGS.CODEX.STONE.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.STONE.BODY.CONTAINER2"
+msgid ""
+"When attempting to pet a Hatch, inexperienced handlers make the mistake of reaching out too quickly for the creature's head.\n"
+"\n"
+"This triggers a fear response in the Hatch, as its photosensitive patch of skin called the \"parietal eye\" interprets this sudden light change as an incoming aerial predator."
+msgstr ""
+"เวลา​พยายาม​ลูบ​แฮตช์ คนเลี้ยง​มือใหม่​มัก​พลาด​ตรง​ยื่นมือ​ไป​ที่​หัวมัน​เร็ว​เกินไป\n"
+"\n"
+"นั่น​จะ​กระตุ้น​ความกลัว​ของ​แฮตช์ เพราะ​ผิวหนัง​รับ​แสง​ที่​เรียก​ว่า \"ตา​ที่สาม\" ตีความ​การเปลี่ยนแปลง​ของ​แสง​กะทันหัน​ว่า​เป็น​ผู้ล่า​จาก​ฟ้า​กำลัง​โฉบ​ลงมา"
+
 #. STRINGS.CODEX.STONE.SUBTITLE
 msgctxt "STRINGS.CODEX.STONE.SUBTITLE"
 msgid "Critter Morph"
 msgstr "ร่าง​แปร​ของ​สัตว์"
 
+#. STRINGS.CODEX.STONE.TITLE
+msgctxt "STRINGS.CODEX.STONE.TITLE"
+msgid "Stone Hatch"
+msgstr "แฮตช์​หิน"
+
 #. STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CLOSE_BUTTON"
 msgid "Close"
 msgstr "ปิด"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.CODEX_NAME"
+msgid "First Encounter"
+msgstr "การพบกัน​ครั้งแรก"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.DESCRIPTION"
+msgid ""
+"I've discovered an experiment designed to analyze the evolutionary dynamics of critter mutation.\n"
+"\n"
+"Once it has gathered enough data, it could prove extremely useful for genetic manipulation."
+msgstr ""
+"ฉัน​ค้นพบ​การทดลอง​ที่​ออกแบบ​มา​เพื่อ​วิเคราะห์​พลวัต​เชิง​วิวัฒนาการ​ของ​การกลายพันธุ์​ใน​สัตว์\n"
+"\n"
+"เมื่อ​เก็บ​ข้อมูล​ได้​มาก​พอ มัน​อาจ​มีประโยชน์​มาก​สำหรับ​การ​ดัดแปลง​พันธุกรรม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME"
+msgid "Story Trait: Critter Flux-O-Matic"
+msgstr "ลักษณะ​เรื่องราว: ฟลักซ์-โอ-แม​ติก​สัตว์"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION"
+msgid ""
+"Explore a revolutionary genetic manipulation device designed for critters.\n"
+"\n"
+"Whether or not it was ever used on non-critter subjects is unclear. Its DNA database has been wiped clean."
+msgstr ""
+"สำรวจ​อุปกรณ์​ดัดแปลง​พันธุกรรม​พลิก​โลก​ที่​ออกแบบ​มา​สำหรับ​สัตว์\n"
+"\n"
+"ไม่​แน่ชัด​ว่า​เคย​ถูก​ใช้กับ​สิ่ง​อื่น​ที่​ไม่​ใช่​สัตว์​หรือเปล่า เพราะ​ฐานข้อมูล DNA ของ​มัน​ถูก​ล้าง​จน​เกลี้ยง"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION_SHORT
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION_SHORT"
+msgid "Explore a revolutionary genetic manipulation device designed for critters."
+msgstr "สำรวจ​อุปกรณ์​ดัดแปลง​พันธุกรรม​พลิก​โลก​ที่​ออกแบบ​มา​สำหรับ​สัตว์"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.BUTTON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.BUTTON"
+msgid "Unlock Gene Manipulation Mode"
+msgstr "ปลดล็อก​โหมด​ดัดแปลง​ยีน"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.CODEX_NAME"
+msgid "Challenge Completed"
+msgstr "ทำ​ภารกิจ​สำเร็จ"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.DESCRIPTION
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.DESCRIPTION"
+msgid ""
+"Success! Sufficient samples collected.\n"
+"\n"
+"I can now trigger genetic deviations in base morphs by sending them through the scanner.\n"
+"\n"
+"Existing variants can also be scanned, but their genetic makeup is too unstable to tolerate further manipulation."
+msgstr ""
+"สำเร็จ! เก็บ​ตัวอย่าง​ได้​เพียง​พอแล้ว\n"
+"\n"
+"ตอนนี้​ฉัน​กระตุ้น​การเบี่ยงเบน​ทาง​พันธุกรรม​ใน​ร่าง​พื้นฐาน​ได้​ด้วย​การ​ส่งผ่าน​เครื่อง​สแกน\n"
+"\n"
+"สายพันธุ์​ย่อย​ที่​มี​อยู่​แล้วก็​สแกน​ได้ แต่​องค์ประกอบ​ทาง​พันธุกรรม​ไม่​เสถียร​เกิน​กว่า​จะ​ทน​การ​ดัดแปลง​เพิ่ม​ได้"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME"
+msgid "Story Trait Complete: Critter Flux-O-Matic"
+msgstr "ลักษณะ​เรื่องราว​สำเร็จ: ฟลักซ์-โอ-แม​ติก​สัตว์"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME"
+msgid "Critter Flux-O-Matic"
+msgstr "ฟลักซ์-โอ-แม​ติก​สัตว์"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.CONTAINER1"
+msgid ""
+"<indent=5%>Another set of masticated windshield wipers has been discovered in Parking Lot D following the Bioengineering Department's critter enclosure breach last week.\n"
+"\n"
+"Employees are strongly encouraged to plug their vehicles in at lots A-C until further notice.\n"
+"\n"
+"Please refrain from calling municipal animal control - all critter sightings should be reported directly to Dr. Byron.</indent>"
+msgstr ""
+"<indent=5%>พบ​ที่ปัดน้ำฝน​ถูก​เคี้ยว​อีก​ชุด​ที่​ลานจอดรถ D หลัง​เหตุ​คอก​สัตว์​ของ​ฝ่าย​วิศวกรรม​ชีวภาพ​ถูก​เจาะ​เมื่อ​สัปดาห์​ก่อน\n"
+"\n"
+"ขอ​แนะนำ​อย่างยิ่ง​ให้​พนักงาน​จอด​รถ​ที่​ลาน A-C ไป​ก่อน​จนกว่า​จะ​มี​ประกาศ​เพิ่มเติม\n"
+"\n"
+"โปรด​อย่า​โทร​เรียก​หน่วยควบคุม​สัตว์​ของ​เทศบาล หาก​พบเห็น​สัตว์​ให้​รายงาน ดร.ไบ​รอน โดยตรง</indent>"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.EMAILHEADER1"
@@ -41594,15 +42290,66 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
 msgstr "ระดับ​การเข้ารหัส: สอง"
 
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.TITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.TITLE"
+msgid "Parking in Lot D"
+msgstr "การ​จอด​รถ​ที่​ลาน D"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BEETA
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BEETA"
+msgid "Strong collective consciousness detected. Review data for more information."
+msgstr "ตรวจ​พบ​จิตสำนึก​ร่วม​อัน​แรงกล้า ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BELLY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BELLY"
+msgid "Specimen produced substantial stool sample. Review data for more information."
+msgstr "ตัวอย่าง​ผลิต​ตัวอย่าง​อุจจาระ​ปริมาณมาก ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BUTTERFLY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BUTTERFLY"
+msgid "This critter tucked its wings tightly around itself during scanning. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​หุบ​ปีก​ห่อตัว​แน่น​ระหว่าง​สแกน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.CHAMELEON
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.CHAMELEON"
+msgid ""
+"Scanning interrupted due to instrument displacement caused by specimen's lingual grasp.\n"
+"\n"
+"Review data for more information."
+msgstr ""
+"การ​สแกน​ถูก​ขัดจังหวะ​เพราะ​เครื่องมือ​หลุด​ตำแหน่ง เนื่องจาก​ตัวอย่าง​ใช้​ลิ้น​คว้า​เอา​ไป\n"
+"\n"
+"ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.CRAB
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.CRAB"
+msgid "Mind the claws! Review data for more information."
+msgstr "ระวัง​ก้าม​ด้วย! ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DEER
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.DEER"
+msgid "This critter seemed amused by the scanning process. Review data for more information."
+msgstr "สัตว์​ตัว​นี้​ดู​ขำ ๆ กับ​กระบวนการ​สแกน ดู​ข้อมูล​เพื่อ​รายละเอียด​เพิ่มเติม"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON"
 msgid "Close"
 msgstr "ปิด"
 
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.CODEX_NAME"
+msgid "First Encounter"
+msgstr "การพบกัน​ครั้งแรก"
+
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.END_POPUP.CODEX_NAME"
+msgid "Challenge Completed"
+msgstr "ทำ​ภารกิจ​สำเร็จ"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME"
@@ -41659,6 +42406,16 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK
 msgid "Work Errand"
 msgstr "งาน​ใช้​เครื่อง"
 
+#. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.BEGIN_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.BEGIN_POPUP.CODEX_NAME"
+msgid "First Encounter"
+msgstr "การพบกัน​ครั้งแรก"
+
+#. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.END_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.END_POPUP.CODEX_NAME"
+msgid "Challenge Completed"
+msgstr "ทำ​ภารกิจ​สำเร็จ"
+
 #. STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.HANDOFF.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.HANDOFF.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
@@ -41674,10 +42431,30 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.HIJACK_HEADQUARTERS.WHENIMGONE.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "ระดับ​การเข้ารหัส: ไม่​มี"
 
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.CODEX_NAME"
+msgid "First Encounter"
+msgstr "การพบกัน​ครั้งแรก"
+
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "ระดับ​การเข้ารหัส: สาม"
+
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.END_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.END_POPUP.CODEX_NAME"
+msgid "Challenge Completed"
+msgstr "ทำ​ภารกิจ​สำเร็จ"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.CODEX_NAME"
+msgid "First Encounter"
+msgstr "การพบกัน​ครั้งแรก"
+
+#. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.CODEX_NAME"
+msgid "Challenge Completed"
+msgstr "ทำ​ภารกิจ​สำเร็จ"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.SUBTITLE"
@@ -41689,10 +42466,20 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON"
 msgid "Close"
 msgstr "ปิด"
 
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.CODEX_NAME"
+msgid "First Encounter"
+msgstr "การพบกัน​ครั้งแรก"
+
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON"
 msgid "Close"
 msgstr "ปิด"
+
+#. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.CODEX_NAME
+msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.CODEX_NAME"
+msgid "Challenge Completed"
+msgstr "ทำ​ภารกิจ​สำเร็จ"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_CLOSE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_CLOSE"
@@ -41776,6 +42563,11 @@ msgstr "พืช​ที่​ปลูก​ได้"
 msgctxt "STRINGS.CODEX.URCHIN.SUBTITLE"
 msgid "Aquatic Organism"
 msgstr "สิ่งมีชีวิต​ใน​น้ำ"
+
+#. STRINGS.CODEX.URCHIN.TITLE
+msgctxt "STRINGS.CODEX.URCHIN.TITLE"
+msgid "Pinpoki"
+msgstr "พิน​โป​กิ"
 
 #. STRINGS.CODEX.URCHINPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.URCHINPLANT.SUBTITLE"
@@ -82137,6 +82929,11 @@ msgstr "แผ่น​พื้น"
 msgctxt "STRINGS.SEARCH_TERMS.TRANSPORT"
 msgid "Transport"
 msgstr "การขนส่ง"
+
+#. STRINGS.STICKERNAMES.STICKER_SPACEPET5
+msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET5"
+msgid "Slicksters"
+msgstr "ส​ลิ​กสเตอร์"
 
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
