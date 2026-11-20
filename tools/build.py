@@ -48,10 +48,16 @@ pot=polib.pofile('src/strings_template.pot')
 po=polib.POFile(wrapwidth=0)
 po.metadata={'Project-Id-Version':'ONI Thai Translation','Language':'th','Font':'NotoSansThai-Regular','MIME-Version':'1.0','Content-Type':'text/plain; charset=UTF-8','Content-Transfer-Encoding':'8bit'}
 n=0
+NAMES={}
+for ln in open('tools/dupe_names.tsv',encoding='utf-8'):
+    a,b=ln.rstrip('\n').split('\t'); NAMES[a]=b
+def is_name(ctx):
+    return ctx.startswith('STRINGS.NAMEGEN.DUPLICANT.') or (ctx.startswith('STRINGS.DUPLICANTS.PERSONALITIES.') and ctx.endswith('.NAME'))
 for e in pot:
-    t=tr.get(e.msgid)
+    t=NAMES.get(e.msgid) if is_name(e.msgctxt) else None
+    if t is None: t=tr.get(e.msgid)
     if t is None: continue
-    po.append(polib.POEntry(msgctxt=e.msgctxt,msgid=e.msgid,msgstr=zw(t),comment=e.comment)); n+=1
+    po.append(polib.POEntry(msgctxt=e.msgctxt,msgid=e.msgid,msgstr=(t if is_name(e.msgctxt) else zw(t)),comment=e.comment)); n+=1
 os.makedirs('mod/ThaiTranslation',exist_ok=True)
 po.save('mod/ThaiTranslation/strings.po')
 print('entries',n,'of',len(pot))

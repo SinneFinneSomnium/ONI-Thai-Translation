@@ -152,7 +152,7 @@
 | Improved Carrying I/II / Improved Strength / Plumbing | แบกของขั้นสูง I/II / พละกำลังอัปเกรด / งานประปา |
 | Exosuit Training / Suit Sustainability Training | ฝึกใส่ชุดเอ็กโซสูท / ฝึกถนอมชุด |
 | Basic Swimming / Divemaster | ว่ายน้ำพื้นฐาน / ครูสอนดำน้ำ |
-| Duplicant personality names | คงชื่ออังกฤษ (Abe, Ada, ...) |
+| Duplicant personality names + ชื่อสุ่ม/คำนำหน้า/คำต่อท้าย | ทับศัพท์เป็นไทย (สติงกี้, เอดา, ...) ตาม tools/dupe_names.tsv; build.py ใช้เฉพาะ msgctxt ชื่อดูพลิแคนต์ ไม่กระทบคำเดียวกันที่อื่น |
 
 ## เพิ่มช่วงท้าย (ความสำเร็จ ไบโอม ห้อง ชื่อโลก)
 | Imperative (เงื่อนไขชนะ) | พันธกิจ |
@@ -170,3 +170,14 @@
 | World names (Terra, Rime, Ceres, ...) | ตามชื่อคลัสเตอร์: เทอร์รา, ไรม์, ซีรีส, โอเอซิส, วอลคาเนีย ... |
 | Random colony names | รูปแบบ "{noun}{adjective}" เช่น โรงงานแสนสวย |
 | Random rocket/world syllable names | คงภาษาอังกฤษ |
+
+## อัปเดตเกม 2026-11 (แพตช์ใหม่)
+| English | ไทย |
+|---|---|
+| Lumber | ไม้แปรรูป |
+| Atmo Belt / Helmet | เข็มขัดอัตโม / หมวกอัตโม |
+| Support Building | สิ่งก่อสร้างสนับสนุน |
+| Farming (แท็บก่อสร้าง) | เกษตร |
+| ป้ายแท็บก่อสร้างย่อให้สั้น | ประปา, แพทย์, อัตโนมัติ, เกษตร |
+| Jet (ชุด/ถุงมือ) | เจ็ต (ไม่ใช้ เจ็ท) |
+| Hatch/Pip/Puft skin | ...ลายแฮตช์ / ลายพิป / ลายพัฟต์ |

@@ -108,7 +108,7 @@
 4107	พื้นฐาน {0}
 4108	ทักษะ: {Skill}
 4109	ต้องมีดูพลิแคนต์อย่างน้อยหนึ่งคนที่มีทักษะ {Skill} จึงจะสร้างสิ่งก่อสร้างนี้ได้
-4110	<link="BUILDCATEGORYAUTOMATION">ระบบอัตโนมัติ</link>
+4110	<link="BUILDCATEGORYAUTOMATION">อัตโนมัติ</link>
 4111	ทำฐานให้อัตโนมัติด้วยเซนเซอร์หลากหลายชนิด {Hotkey}
 4112	<link="BUILDCATEGORYBASE">ฐาน</link>
 4113	ดูแลโครงสร้างพื้นฐานของอาณานิคมด้วยของพื้นฐานประจำบ้านเหล่านี้ {Hotkey}
@@ -124,13 +124,13 @@
 4123	ตรงนี้แหละที่เริ่มเรดิโอแอคทีฟ {Hotkey}
 4124	<link="BUILDCATEGORYHVAC">ระบายอากาศ</link>
 4125	ควบคุมการไหลของแก๊สในฐาน {Hotkey}
-4126	<link="BUILDCATEGORYMEDICAL">การแพทย์</link>
+4126	<link="BUILDCATEGORYMEDICAL">แพทย์</link>
 4127	รักษาได้ทุกโรค ยกเว้นหวัดธรรมดา {Hotkey}
 4128	<link="BUILDCATEGORYMISC">ตกแต่ง</link>
 4129	แต่งอาณานิคมให้สวยงามน่าอยู่ด้วยของตกแต่งภายในน่ารักๆ {Hotkey}
 4130	<link="BUILDCATEGORYOXYGEN">ออกซิเจน</link>
 4131	ทุกอย่างที่ต้องใช้ให้อาณานิคมได้หายใจ {Hotkey}
-4132	<link="BUILDCATEGORYPLUMBING">ระบบท่อน้ำ</link>
+4132	<link="BUILDCATEGORYPLUMBING">ประปา</link>
 4133	ให้น้ำในอาณานิคมไหล และน้ำเสียไหลออก {Hotkey}
 4134	<link="BUILDCATEGORYPOWER">พลังงาน</link>
 4135	อยากได้ไฟให้อาณานิคมเหรอ? มาทางนี้เลย! {Hotkey}
