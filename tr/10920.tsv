@@ -1,0 +1,170 @@
+10920	พืชนี้ใช้<link="SAND">ทราย</link>เปลี่ยน<link="DIRTYWATER">น้ำปนเปื้อน</link>ให้เป็น<link="WATER">น้ำ</link>
+10921	<link="FILTERPLANT">กระบองเพชรน้ำ</link>
+10922	ต้นลูราเป็นพืชกินเนื้อที่ดักจับสัตว์บิน เช่น<link="MOSQUITO">ยุงนิต</link>\n\nกระบวนการย่อยอาหารของมันให้<link="AMBER">อำพัน</link>ที่เก็บเกี่ยวได้
+10923	พืชนี้ให้<link="NATURALRESIN">เรซิน</link>
+10924	<link="FLYTRAPPLANT">ต้นลูรา</link>
+10925	สัตว์บิน
+10926	เฮกซาเลนต์ขยายพันธุ์ไม่ได้ แต่เก็บเกี่ยวเป็น<link="FOOD">อาหาร</link>แคลอรีแน่นได้หนึ่งที่
+10927	<link="FORESTFORAGEPLANTPLANTED">เฮกซาเลนต์</link>
+10928	พุ่มกุหลาบวงแหวนเป็น<link="PLANTS">พืช</link><link="DECOR">ประดับ</link> ที่เติมความมหัศจรรย์เล็ก ๆ ให้ทุกที่ที่ปลูก
+10929	<link="GARDENDECORPLANT">พุ่มกุหลาบวงแหวน</link>
+10930	ต้นข้าวโพดเหงื่อให้<link="GARDENFOODPLANTFOOD">ข้าวโพดเหงื่อ</link> ผักกรอบ ๆ ที่เก็บเกี่ยวเป็น<link="FOOD">อาหาร</link>ได้
+10931	พืชนี้ให้<link="GARDENFOODPLANTFOOD">ข้าวโพดเหงื่อ</link>ที่กินได้
+10932	<link="GARDENFOODPLANT">ต้นข้าวโพดเหงื่อ</link>
+10933	สแนกตัสขยายพันธุ์ไม่ได้ แต่เก็บเกี่ยวเป็น<link="FOOD">อาหาร</link>ได้หนึ่งที่
+10934	<link="GARDENFORAGEPLANTPLANTED">สแนกตัส</link>
+10935	หญ้าแก๊สเป็นสิ่งมีชีวิตต่างดาวที่จัดเป็น "พืช" แบบไม่ค่อยแน่ใจนัก\n\nเก็บเกี่ยวเป็น<link="PLANTFIBER">เปลือกพืช</link>ได้ หรือให้<link="MOOSPECIES">มู</link>กินสด ๆ ก็ได้
+10936	หญ้าต่างดาวที่<link="MOO">กัสซี่มู</link>ชอบกิน
+10937	<link="GASGRASS">หญ้าแก๊ส</link>
+10938	ภูเขาไฟยักษ์ที่พ่น<link="MAGMA">แมกมา</link>หลอมเหลวออกมาเป็นระยะ
+10939	<link="GEYSERGENERICBIGVOLCANO">ภูเขาไฟ</link>
+10940	ช่องพ่นแรงดันสูงที่พ่น<link="CHLORINEGAS">แก๊สคลอรีน</link>อุ่น ๆ ออกมาเป็นระยะ
+10941	<link="GEYSERGENERICCHLORINEGAS">ช่องพ่นแก๊สคลอรีน</link>
+10942	ช่องพ่นแรงดันสูงที่พ่น<link="CHLORINEGAS">แก๊สคลอรีน</link>เย็น ๆ ออกมาเป็นระยะ
+10943	<link="GEYSERGENERICCHLORINEGASCOOL">ช่องพ่นแก๊สคลอรีนเย็น</link>
+10944	น้ำพุร้อนแรงดันสูงที่ปะทุออกมาเป็นระยะ พ่น<link="STEAM">ไอน้ำ</link>และ<link="WATER">น้ำ</link>เดือดจัด
+10945	ช่องพ่นแรงดันสูงที่พ่น<link="DIRTYWATER">น้ำปนเปื้อน</link>เดือด ๆ ออกมาเป็นระยะ
+10946	<link="GEYSERGENERICFILTHYWATER">ช่องพ่นน้ำปนเปื้อน</link>
+10947	ช่องพ่นแรงดันสูงที่พ่น<link="CARBONDIOXIDE">คาร์บอนไดออกไซด์</link>ร้อน ๆ ออกมาเป็นระยะ
+10948	<link="GEYSERGENERICHOTCO2">ช่องพ่นคาร์บอนไดออกไซด์</link>
+10949	ช่องพ่นแรงดันสูงที่พ่น<link="HYDROGEN">ไฮโดรเจน</link>สถานะแก๊สร้อน ๆ ออกมาเป็นระยะ
+10950	<link="GEYSERGENERICHOTHYDROGEN">ช่องพ่นไฮโดรเจน</link>
+10951	ช่องพ่นแรงดันสูงที่พ่น<link="CONTAMINATEDOXYGEN">ออกซิเจนปนเปื้อน</link>ร้อน ๆ ออกมาเป็นระยะ
+10952	<link="GEYSERGENERICHOTPO2">ช่องพ่นออกซิเจนปนเปื้อนร้อน</link>
+10953	ช่องพ่นแรงดันสูงที่พ่น<link="STEAM">ไอน้ำ</link>ลวกมือออกมาเป็นระยะ
+10954	<link="GEYSERGENERICHOTSTEAM">ช่องพ่นไอน้ำ</link>
+10955	น้ำพุร้อนแรงดันสูงที่พ่น<link="WATER">น้ำ</link>ร้อนออกมาเป็นระยะ
+10956	<link="GEYSERGENERICHOTWATER">น้ำพุร้อน</link>
+10957	น้ำพุร้อนแรงดันสูงที่พ่น<link="LIQUIDCARBONDIOXIDE">คาร์บอนไดออกไซด์เหลว</link>เดือด ๆ ออกมาเป็นระยะ
+10958	<link="GEYSERGENERICLIQUIDCO2">น้ำพุคาร์บอนไดออกไซด์</link>
+10959	น้ำพุร้อนแรงดันสูงที่พ่น<link="LIQUIDSULFUR">กำมะถันเหลว</link>เดือด ๆ ออกมาเป็นระยะ
+10960	<link="GEYSERGENERICLIQUIDSULFUR">น้ำพุกำมะถันเหลว</link>
+10961	น้ำพุร้อนแรงดันสูงที่พ่น<link="METHANE">แก๊สธรรมชาติ</link>ร้อน ๆ ออกมาเป็นระยะ
+10962	<link="GEYSERGENERICMETHANE">น้ำพุแก๊สธรรมชาติ</link>
+10963	ภูเขาไฟขนาดใหญ่ที่พ่น<link="MOLTENALUMINUM">อะลูมิเนียมหลอมเหลว</link>ออกมาเป็นระยะ
+10964	<link="GEYSERGENERICMOLTENALUMINUM">ภูเขาไฟอะลูมิเนียม</link>
+10965	ภูเขาไฟขนาดใหญ่ที่พ่น<link="MOLTENCOBALT">โคบอลต์หลอมเหลว</link>ออกมาเป็นระยะ
+10966	<link="GEYSERGENERICMOLTENCOBALT">ภูเขาไฟโคบอลต์</link>
+10967	ภูเขาไฟขนาดใหญ่ที่พ่น<link="MOLTENCOPPER">ทองแดงหลอมเหลว</link>ออกมาเป็นระยะ
+10968	<link="GEYSERGENERICMOLTENCOPPER">ภูเขาไฟทองแดง</link>
+10969	ภูเขาไฟขนาดใหญ่ที่พ่น<link="MOLTENGOLD">ทองคำหลอมเหลว</link>ออกมาเป็นระยะ
+10970	<link="GEYSERGENERICMOLTENGOLD">ภูเขาไฟทองคำ</link>
+10971	ภูเขาไฟขนาดใหญ่ที่พ่น<link="MOLTENIRON">เหล็กหลอมเหลว</link>ออกมาเป็นระยะ
+10972	<link="GEYSERGENERICMOLTENIRON">ภูเขาไฟเหล็ก</link>
+10973	ภูเขาไฟขนาดใหญ่ที่พ่น<link="NIOBIUM">ไนโอเบียม</link>ออกมาเป็นระยะ
+10974	<link="GEYSERGENERICMOLTENNIOBIUM">ภูเขาไฟไนโอเบียม</link>
+10975	ภูเขาไฟขนาดใหญ่ที่พ่น<link="MOLTENTUNGSTEN">ทังสเตนหลอมเหลว</link>ออกมาเป็นระยะ
+10976	<link="GEYSERGENERICMOLTENTUNGSTEN">ภูเขาไฟทังสเตน</link>
+10977	ช่องพ่นแรงดันสูงที่พ่น<link="MURKYBRINE">น้ำเกลือเข้มข้นปนเปื้อน</link>เดือด ๆ ออกมาเป็นระยะ
+10978	<link="GEYSERGENERICMURKYBRINE">ช่องพ่นน้ำเกลือเข้มข้นปนเปื้อน</link>
+10979	<link="GEYSER">น้ำพุไอน้ำ</link>
+10980	รอยแยกที่พ่น<link="CRUDEOIL">น้ำมันดิบ</link>เดือด ๆ ออกมาเป็นระยะ
+10981	<link="GEYSERGENERICOILDRIP">รอยแยกน้ำมันรั่ว</link>
+10982	น้ำพุร้อนแรงดันสูงที่พ่น<link="SALTWATER">น้ำเค็ม</link>ออกมาเป็นระยะ
+10983	<link="GEYSERGENERICSALTWATER">น้ำพุน้ำเค็ม</link>
+10984	ช่องพ่นแรงดันสูงที่พ่น<link="CONTAMINATEDOXYGEN">ออกซิเจนปนเปื้อน</link>อุ่น ๆ ออกมาเป็นระยะ
+10985	<link="GEYSERGENERICSLIMYPO2">ช่องพ่นออกซิเจนปนเปื้อนติดเชื้อ</link>
+10986	น้ำพุแรงดันสูงที่พ่น<link="BRINE">น้ำเกลือเข้มข้น</link>เย็นจัดออกมาเป็นระยะ
+10987	<link="GEYSERGENERICSLUSHSALTWATER">น้ำพุเกลือเกล็ดน้ำแข็งเย็น</link>
+10988	น้ำพุแรงดันสูงที่พ่น<link="DIRTYWATER">น้ำปนเปื้อน</link>เย็นจัดออกมาเป็นระยะ
+10989	<link="GEYSERGENERICSLUSHWATER">น้ำพุเกล็ดน้ำแข็งเย็น</link>
+10990	ภูเขาไฟจิ๋วที่พ่น<link="MAGMA">แมกมา</link>หลอมเหลวออกมาเป็นระยะ
+10991	<link="GEYSERGENERICSMALLVOLCANO">ภูเขาไฟย่อม</link>
+10992	ตาน้ำใต้ทะเลที่พ่น<link="ELEMENTSLIQUID">ของเหลว</link>แรงดันสูงซึ่งดูดมาจากรอบ ๆ ออกมาเป็นระยะ
+10993	กำลังใช้ {ElementTypes}: {FlowRate}
+10994	<link="SMALLREEFGEYSER">ตาน้ำขึ้นน้ำลง</link>
+10995	ช่องพ่นแรงดันสูงที่พ่น<link="STEAM">ไอน้ำ</link>ออกมาเป็นระยะ
+10996	<link="GEYSERGENERICSTEAM">ช่องพ่นไอน้ำเย็น</link>
+10997	รอยแยกใต้น้ำที่ปล่อยให้<link="METHANE">แก๊สธรรมชาติ</link>แรงดันสูงเล็ดลอดออกจากเปลือกโลก\n\nถ้ามี<link="SULFUR">กำมะถัน</link>สะสมจนอุดตัน ใช้<link="UNDERWATERVENTDRILL">สว่านทะเล</link>เคลียร์ออกได้
+10998	<link="UNDERWATERVENT">รอยแยกแก๊สร้อนใต้พิภพ</link>
+10999	ลูกกวางฟล็อกซ์แก้วตัวน้อยร้องเอ๋ง ๆ\n\nวันหนึ่งจะโตเป็น<link="GLASSDEER">ฟล็อกซ์แก้ว</link>เต็มตัว
+11000	<link="GLASSDEER">ลูกฟล็อกซ์แก้ว</link>
+11001	ฟล็อกซ์แก้วเป็นสัตว์ไม่ดุร้ายที่ประทังชีวิตด้วย<link="PRICKLEFLOWER">ดอกไม้หนาม</link>และ<link="HARDSKINBERRYPLANT">พุ่มสับปะรดหนาม</link>\n\nเขา<link="GLASS">แก้ว</link>ที่ตัดได้จะงอกก็ต่อเมื่อได้กิน<link="KATAIRITE">อะบิสซาไลต์</link>เท่านั้น
+11002	<link="GLASSDEER">ไข่ฟล็อกซ์แก้ว</link>
+11003	<link="GLASSDEER">ฟล็อกซ์แก้ว</link>
+11004	มอร์บชอบสภาพสกปรกไร้สุขอนามัย และพ่น<link="CONTAMINATEDOXYGEN">ออกซิเจนปนเปื้อน</link>ออกมาบ่อย ๆ
+11005	<link="MORB">ฝักมอร์บ</link>
+11006	<link="GLOM">มอร์บ</link>
+11007	<link="PLANTS">พืช</link>ใต้ดินที่โตเร็วมาก
+11008	<link="GREEDYGREEN">เถาอวารี</link>
+11009	พุ่มสับปะรดหนามให้<link="HARDSKINBERRY">สับปะรดหนาม</link> <link="FOOD">อาหาร</link>ที่มีประโยชน์แต่กลิ่นแรงจนแทบทนไม่ไหว
+11010	พืชนี้ให้<link="HARDSKINBERRY">สับปะรดหนาม</link>ที่กินได้
+11011	<link="HARDSKINBERRYPLANT">พุ่มสับปะรดหนาม</link>
+11012	ลูกแฮตช์ตัวน้อยไร้เดียงสา\n\nวันหนึ่งจะโตเป็น<link="HATCH">แฮตช์</link>ตัวเต็มวัย
+11013	<link="HATCH">ลูกแฮตช์</link>
+11014	แฮตช์ขับถ่ายเป็น<link="CARBON">ถ่านหิน</link>ก้อน ๆ และอาจเจอได้จากการขุดของที่ฝังอยู่
+11015	<link="HATCH">แฮตช์</link>
+11016	ลูกแฮตช์หินตัวน้อยท่าทางบื้อ ๆ\n\nจะโตเป็นแฮตช์สายพันธุ์แปร <link="HATCHHARD">แฮตช์หิน</link> ที่ชอบแทะหินและโลหะหลายชนิด
+11017	<link="HATCHHARD">ลูกแฮตช์หิน</link>
+11018	แฮตช์หินขับถ่ายเป็น<link="CARBON">ถ่านหิน</link>ก้อน ๆ และชอบขุดรูลงดิน
+11019	<link="HATCHHARD">ไข่แฮตช์หิน</link>
+11020	<link="HATCHHARD">แฮตช์หิน</link>
+11021	ลูกแฮตช์ผิวเรียบตัวน้อยท่าทางบื้อ ๆ\n\nจะโตเป็นแฮตช์สายพันธุ์แปร <link="HATCHMETAL">แฮตช์ผิวเรียบ</link> ที่ชอบแทะโลหะหลายชนิด
+11022	<link="HATCHMETAL">ลูกแฮตช์ผิวเรียบ</link>
+11023	แฮตช์ผิวเรียบชอบขุดรูลงดิน และขับถ่ายเป็น<link="REFINEDMETAL">โลหะถลุง</link>เมื่อได้กิน<link="METAL">แร่โลหะ</link>
+11024	<link="HATCHMETAL">ไข่แฮตช์ผิวเรียบ</link>
+11025	<link="HATCHMETAL">แฮตช์ผิวเรียบ</link>
+11026	ลูกแฮตช์เสจตัวน้อยท่าทางบื้อ ๆ\n\nจะโตเป็นแฮตช์สายพันธุ์แปร <link="HATCHVEGGIE">แฮตช์เสจ</link> ที่ชอบแทะวัสดุอินทรีย์
+11027	<link="HATCHVEGGIE">ลูกแฮตช์เสจ</link>
+11028	แฮตช์เสจขับถ่ายเป็น<link="CARBON">ถ่านหิน</link>ก้อน ๆ และชอบขุดรูลงดิน
+11029	<link="HATCHVEGGIE">ไข่แฮตช์เสจ</link>
+11030	<link="HATCHVEGGIE">แฮตช์เสจ</link>
+11031	<link="PLANTS">พืช</link>ใต้ดินที่ไวต่ออุณหภูมิ
+11032	<link="HEATBULB">เฟอร์ไวน์</link>
+11033	<link="HEATBULBSEED">หัวเฟอร์ไวน์</link>
+11034	ลูกแบมมอธขนฟูฟ่องตัวน้อย\n\nวันหนึ่งจะโตเป็น<link="ICEBELLY">แบมมอธ</link>เต็มตัว
+11035	<link="ICEBELLY">ลูกแบมมอธ</link>
+11036	แบมมอธเป็นสัตว์ตัวโตเดินอุ้ยอ้ายไม่ดุร้าย ประทังชีวิตด้วย<link="CARROT">ฟักขนนก</link> <link="BEANPLANTSEED">ถั่วกินเล่น</link> และ<link="FRIESCARROT">ฟักทอด</link>\n\nขนหนาของมันตัดเป็น<link="BASICFABRIC">เส้นใยกก</link>ได้
+11037	<link="ICEBELLY">ไข่แบมมอธ</link>
+11038	<link="ICEBELLY">แบมมอธ</link>
+11039	ลูกแบมมอธราชันย์ตัวน้อยท่าทางหยิ่งผยอง\n\nวันหนึ่งจะโตเป็น<link="GOLDBELLY">แบมมอธราชันย์</link>เต็มตัว
+11040	<link="GOLDBELLY">ลูกแบมมอธราชันย์</link>
+11041	แบมมอธราชันย์เป็นสัตว์ไม่ดุร้าย ประทังชีวิตด้วย<link="CARROT">ฟักขนนก</link>และ<link="BEANPLANTSEED">ถั่วกินเล่น</link>\n\nหงอนหรูหราของมันจะงอกก็ต่อเมื่อได้กิน<link="FRIESCARROT">ฟักทอด</link>เท่านั้น
+11042	<link="GOLDBELLY">ไข่แบมมอธราชันย์</link>
+11043	<link="GOLDBELLY">แบมมอธราชันย์</link>
+11044	เชอร์เบอร์รีขยายพันธุ์ไม่ได้ แต่เก็บเกี่ยวเป็น<link="FOOD">อาหาร</link>ได้หนึ่งที่
+11045	<link="ICECAVESFORAGEPLANTPLANTED">ต้นเชอร์เบอร์รี</link>
+11046	ไอดิลลาเป็น<link="PLANTS">พืช</link><link="DECOR">ประดับ</link>ที่มีดอกนุ่ม ๆ ทรงปอมปอม\n\nนั่งมองเพลิน ๆ แล้วช่วยเพิ่ม<link="MORALE">ขวัญกำลังใจ</link>
+11047	<link="ICEFLOWER">ดอกไอดิลลา</link>
+11048	<link="PLANTS">พืช</link>ขนาดใหญ่ที่อาศัยในคลอรีน ปลูกในสิ่งก่อสร้างฟาร์มได้\n\nต้นพาลเมราออกดอกตูมที่กินไม่ได้ และปล่อยแก๊สไฮโดรเจนที่หายใจไม่ได้
+11049	<link="PLANTS">พืช</link>ขนาดใหญ่ที่อาศัยในคลอรีน ออกดอกตูมที่กินไม่ได้และปล่อยแก๊สไฮโดรเจนที่หายใจไม่ได้
+11050	<link="JUNGLEGASPLANT">ต้นพาลเมรา</link>
+11051	ซีคอมบ์กิน<link="TOXICSAND">ดินปนเปื้อน</link>\n\nใบของมันนำไปแปรรูปสกัด<link="PHYTOOIL">ไฟโตออยล์</link>ได้
+11052	พืชนี้ให้<link="KELP">ใบซีคอมบ์</link>
+11053	<link="KELPPLANT">ซีคอมบ์</link>
+11054	ใบเบิกบานมีสีเขียวสงบที่ขึ้นชื่อเรื่องคลาย<link="STRESS">ความเครียด</link>และเพิ่ม<link="MORALE">ขวัญกำลังใจ</link>
+11055	<link="LEAFYPLANT">ใบเบิกบาน</link>
+11056	ลูก<link="LIGHTBUG">แมลงเรืองแสง</link>ตัวอ้วนกลม
+11057	<link="LIGHTBUG">ตัวอ่อนแมลงเรืองแสง</link>
+11058	แมลงเรืองแสงเปล่ง<link="LIGHT">แสง</link>นวล ๆ เมื่อ<link="CREATURES::GUIDE::MOOD">มีความสุข</link> หวังจะดึงดูดพวกเดียวกันมาอยู่เป็นเพื่อน\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11059	<link="LIGHTBUG">แมลงเรืองแสง</link>
+11060	ลูก<link="LIGHTBUGBLACK">แมลงเรืองแสง</link>ตัวอ้วนกลม\n\nตัวนี้เป็นสายพันธุ์แปรแอบิส
+11061	<link="LIGHTBUGBLACK">ตัวอ่อนแมลงแอบิส</link>
+11062	แมลงเรืองแสงตัวนี้ไม่เปล่ง<link="LIGHT">แสง</link>เลย แต่ชดเชยด้วยนิสัยดีสุด ๆ\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11063	<link="LIGHTBUGBLACK">ไข่แมลงแอบิส</link>
+11064	<link="LIGHTBUGBLACK">แมลงแอบิส</link>
+11065	ลูก<link="LIGHTBUGBLUE">แมลงเรืองแสง</link>ตัวอ้วนกลม\n\nตัวนี้เป็นสายพันธุ์แปรฟ้าคราม
+11066	<link="LIGHTBUGBLUE">ตัวอ่อนแมลงฟ้าคราม</link>
+11067	แมลงฟ้าครามเปล่ง<link="LIGHT">แสง</link>สีฟ้านวล ๆ เมื่อ<link="CREATURES::GUIDE::MOOD">มีความสุข</link> หวังจะดึงดูดพวกเดียวกันมาอยู่เป็นเพื่อน\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11068	<link="LIGHTBUGBLUE">ไข่แมลงฟ้าคราม</link>
+11069	<link="LIGHTBUGBLUE">แมลงฟ้าคราม</link>
+11070	ลูก<link="LIGHTBUGCRYSTAL">แมลงเรืองแสง</link>ตัวอ้วนกลม\n\nตัวนี้เป็นสายพันธุ์แปรเจิดจรัส
+11071	<link="LIGHTBUGCRYSTAL">ตัวอ่อนแมลงเจิดจรัส</link>
+11072	แมลงเจิดจรัสเปล่ง<link="LIGHT">แสง</link>สว่างจ้าเป็นพิเศษเมื่อ<link="CREATURES::GUIDE::MOOD">มีความสุข</link> หวังจะดึงดูดพวกเดียวกันมาอยู่เป็นเพื่อน\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11073	<link="LIGHTBUGCRYSTAL">ไข่แมลงเจิดจรัส</link>
+11074	<link="LIGHTBUGCRYSTAL">แมลงเจิดจรัส</link>
+11075	ลูก<link="LIGHTBUGORANGE">แมลงเรืองแสง</link>ตัวอ้วนกลม\n\nตัวนี้เป็นสายพันธุ์แปรสุริยะ
+11076	<link="LIGHTBUGORANGE">ตัวอ่อนแมลงสุริยะ</link>
+11077	แมลงสุริยะเปล่ง<link="LIGHT">แสง</link>สีส้มนวล ๆ เมื่อ<link="CREATURES::GUIDE::MOOD">มีความสุข</link> หวังจะดึงดูดพวกเดียวกันมาอยู่เป็นเพื่อน\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11078	<link="LIGHTBUGORANGE">ไข่แมลงสุริยะ</link>
+11079	<link="LIGHTBUGORANGE">แมลงสุริยะ</link>
+11080	ลูก<link="LIGHTBUGPINK">แมลงเรืองแสง</link>ตัวอ้วนกลม\n\nตัวนี้เป็นสายพันธุ์แปรปะการัง
+11081	<link="LIGHTBUGPINK">ตัวอ่อนแมลงปะการัง</link>
+11082	แมลงปะการังเปล่ง<link="LIGHT">แสง</link>สีชมพูนวล ๆ เมื่อ<link="CREATURES::GUIDE::MOOD">มีความสุข</link> หวังจะดึงดูดพวกเดียวกันมาอยู่เป็นเพื่อน\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11083	<link="LIGHTBUGPINK">ไข่แมลงปะการัง</link>
+11084	<link="LIGHTBUGPINK">แมลงปะการัง</link>
+11085	ลูก<link="LIGHTBUGPURPLE">แมลงเรืองแสง</link>ตัวอ้วนกลม\n\nตัวนี้เป็นสายพันธุ์แปรราชวงศ์
+11086	<link="LIGHTBUGPURPLE">ตัวอ่อนแมลงราชวงศ์</link>
+11087	แมลงราชวงศ์เปล่ง<link="LIGHT">แสง</link>สีม่วงนวล ๆ เมื่อ<link="CREATURES::GUIDE::MOOD">มีความสุข</link> หวังจะดึงดูดพวกเดียวกันมาอยู่เป็นเพื่อน\n\nไข่ของมันมี<link="NATURALRESIN">เรซิน</link>เล็กน้อย เก็บได้เมื่อตอกที่<link="EGGCRACKER">เครื่องตอกไข่</link>
+11088	<link="LIGHTBUGPURPLE">ไข่แมลงราชวงศ์</link>
+11089	<link="LIGHTBUGPURPLE">แมลงราชวงศ์</link>
