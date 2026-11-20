@@ -51,10 +51,14 @@ n=0
 NAMES={}
 for ln in open('tools/dupe_names.tsv',encoding='utf-8'):
     a,b=ln.rstrip('\n').split('\t'); NAMES[a]=b
+CTX={}
+for ln in open('tools/ctx_overrides.tsv',encoding='utf-8'):
+    if '\t' in ln:
+        a,b=ln.rstrip('\n').split('\t',1); CTX[a]=b.replace('\\n','\n')
 def is_name(ctx):
     return ctx.startswith('STRINGS.NAMEGEN.DUPLICANT.') or (ctx.startswith('STRINGS.DUPLICANTS.PERSONALITIES.') and ctx.endswith('.NAME'))
 for e in pot:
-    t=NAMES.get(e.msgid) if is_name(e.msgctxt) else None
+    t=CTX.get(e.msgctxt) or (NAMES.get(e.msgid) if is_name(e.msgctxt) else None)
     if t is None: t=tr.get(e.msgid)
     if t is None: continue
     po.append(polib.POEntry(msgctxt=e.msgctxt,msgid=e.msgid,msgstr=(t if is_name(e.msgctxt) else zw(t)),comment=e.comment)); n+=1
